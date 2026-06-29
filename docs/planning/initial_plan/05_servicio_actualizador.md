@@ -67,17 +67,20 @@ Dependencias: 01, 03. Habilita: 06, Hito C.
 
 ## Checklist
 
-- [ ] Fase 1: orquestador `pipeline.py` con etapas definidas.
-- [ ] Fase 1: interfaz común `Source` y registro de fuentes por env.
-- [ ] Fase 2: normalización al formato de fragmento.
-- [ ] Fase 2: política de `nivel_confianza` aplicada.
-- [ ] Fase 2: `hash_contenido` para idempotencia.
-- [ ] Fase 3: staging de contenido sensible en `data/staging`.
-- [ ] Fase 3: herramienta de revisión (aprobar/editar/rechazar).
-- [ ] Fase 3: registro de `validado_por`/`validado_fecha`.
-- [ ] Fase 4: embedding e indexado de fragmentos aprobados.
-- [ ] Fase 4: upsert idempotente y registro en `ingestas`.
-- [ ] Fase 5: CLI con `--source/--all/--dry-run/--reindex`.
+> Leyenda de estado (autogenerada en la fase de implementación): [x] = terminado en código y verificado en sandbox · [ ] = pendiente de ejecutar en la Raspberry Pi o con BD/red en vivo (compilar llama.cpp en ARM, descargar modelo, levantar PostgreSQL, pruebas de integración).
+
+
+- [x] Fase 1: orquestador `pipeline.py` con etapas definidas.
+- [x] Fase 1: interfaz común `Source` y registro de fuentes por env.
+- [x] Fase 2: normalización al formato de fragmento.
+- [x] Fase 2: política de `nivel_confianza` aplicada.
+- [x] Fase 2: `hash_contenido` para idempotencia.
+- [x] Fase 3: staging de contenido sensible en `data/staging`.
+- [x] Fase 3: herramienta de revisión (aprobar/editar/rechazar).
+- [x] Fase 3: registro de `validado_por`/`validado_fecha`.
+- [x] Fase 4: embedding e indexado de fragmentos aprobados.
+- [x] Fase 4: upsert idempotente y registro en `ingestas`.
+- [x] Fase 5: CLI con `--source/--all/--dry-run/--reindex`.
 - [ ] Fase 5: unidad + timer systemd, sin coincidir con picos.
-- [ ] Fase 6: rate limiting, reintentos y tolerancia a fallos por fuente.
+- [x] Fase 6: rate limiting, reintentos y tolerancia a fallos por fuente.
 - [ ] Verificación: checkpoint impide indexar sin aprobación; idempotencia OK.

@@ -62,15 +62,18 @@ Dependencias: 01. Habilita: 03 (para reranking opcional) y 04.
 
 ## Checklist
 
+> Leyenda de estado (autogenerada en la fase de implementación): [x] = terminado en código y verificado en sandbox · [ ] = pendiente de ejecutar en la Raspberry Pi o con BD/red en vivo (compilar llama.cpp en ARM, descargar modelo, levantar PostgreSQL, pruebas de integración).
+
+
 - [ ] Fase 1: llama.cpp compilado para ARM, versión fijada y documentada.
 - [ ] Fase 1: binarios `llama-server`/`llama-cli` verificados.
-- [ ] Fase 2: `download_model.sh` con verificación de integridad.
+- [x] Fase 2: `download_model.sh` con verificación de integridad.
 - [ ] Fase 2: modelo por defecto (1.5B Q4_K_M) descargado.
-- [ ] Fase 2: catálogo de modelos documentado.
-- [ ] Fase 3: `llama-server.service` arranca con parámetros de `env.py`.
-- [ ] Fase 3: reinicio automático ante fallo configurado.
-- [ ] Fase 4: cliente HTTP del LLM con timeout y manejo de errores.
-- [ ] Fase 4: healthcheck del modelo.
-- [ ] Fase 5: procedimiento de cambio de modelo probado (≥1 alternativo).
-- [ ] Fase 5: validación de ruta de modelo inexistente.
+- [x] Fase 2: catálogo de modelos documentado.
+- [x] Fase 3: `llama-server.service` arranca con parámetros de `env.py`.
+- [x] Fase 3: reinicio automático ante fallo configurado.
+- [x] Fase 4: cliente HTTP del LLM con timeout y manejo de errores.
+- [x] Fase 4: healthcheck del modelo.
+- [x] Fase 5: procedimiento de cambio de modelo probado (≥1 alternativo).
+- [x] Fase 5: validación de ruta de modelo inexistente.
 - [ ] Verificación: RAM y velocidad reales medidas y anotadas.

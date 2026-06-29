@@ -65,17 +65,20 @@ Dependencias: 01, 02, 03. Habilita: Hito B y 07.
 
 ## Checklist
 
-- [ ] Fase 1: app FastAPI con auth por token y `GET /health`.
-- [ ] Fase 1: modelos pydantic de petición/respuesta.
-- [ ] Fase 2: `POST /v1/consulta` orquesta el pipeline completo.
-- [ ] Fase 3: plantilla de prompt con reglas de brevedad y no-inventar.
-- [ ] Fase 3: integración con el cliente LLM y `PROVINCIA`.
-- [ ] Fase 4: post-proceso a 1–3 mensajes ≤ 250 caracteres.
-- [ ] Fase 4: aviso médico añadido según categoría.
-- [ ] Fase 4: flag `truncado` correcto.
-- [ ] Fase 5: semáforo de 1 inferencia.
-- [ ] Fase 5: timeout de generación y errores en JSON.
-- [ ] Fase 5: respuesta cautelosa sin contexto suficiente.
-- [ ] Fase 6: OpenAPI y ejemplos por categoría.
-- [ ] Fase 6: pruebas de entrada/salida/auth/timeout.
+> Leyenda de estado (autogenerada en la fase de implementación): [x] = terminado en código y verificado en sandbox · [ ] = pendiente de ejecutar en la Raspberry Pi o con BD/red en vivo (compilar llama.cpp en ARM, descargar modelo, levantar PostgreSQL, pruebas de integración).
+
+
+- [x] Fase 1: app FastAPI con auth por token y `GET /health`.
+- [x] Fase 1: modelos pydantic de petición/respuesta.
+- [x] Fase 2: `POST /v1/consulta` orquesta el pipeline completo.
+- [x] Fase 3: plantilla de prompt con reglas de brevedad y no-inventar.
+- [x] Fase 3: integración con el cliente LLM y `PROVINCIA`.
+- [x] Fase 4: post-proceso a 1–3 mensajes ≤ 250 caracteres.
+- [x] Fase 4: aviso médico añadido según categoría.
+- [x] Fase 4: flag `truncado` correcto.
+- [x] Fase 5: semáforo de 1 inferencia.
+- [x] Fase 5: timeout de generación y errores en JSON.
+- [x] Fase 5: respuesta cautelosa sin contexto suficiente.
+- [x] Fase 6: OpenAPI y ejemplos por categoría.
+- [x] Fase 6: pruebas de entrada/salida/auth/timeout.
 - [ ] Verificación: end-to-end correcto y concurrencia serializada.

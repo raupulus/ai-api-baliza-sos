@@ -1,0 +1,14 @@
+[Unit]
+Description=Actualizador de contexto bot-ia-auxiliar (ejecución puntual)
+After=network-online.target postgresql-local.service
+Wants=network-online.target
+Requires=postgresql-local.service
+
+[Service]
+Type=oneshot
+User=pi
+EnvironmentFile=/etc/default/bot-ia-auxiliar
+WorkingDirectory=/home/pi/bot-ia-auxiliar
+Environment=PYTHONPATH=/home/pi/bot-ia-auxiliar/src
+# Ejecuta las fuentes por API. La revisión humana y el reindexado son manuales.
+ExecStart=/home/pi/bot-ia-auxiliar/.venv/bin/python -m updater.cli --all

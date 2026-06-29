@@ -67,15 +67,18 @@ Dependencias: 01, 02. Habilita: 04, 05.
 
 ## Checklist
 
-- [ ] Fase 1: wrapper de embeddings (fastembed) singleton.
-- [ ] Fase 1: prefijos e5 aplicados; validación de dimensión.
-- [ ] Fase 2: reglas de chunking por tipo de fuente documentadas.
-- [ ] Fase 3: upsert idempotente con `hash_contenido`.
-- [ ] Fase 3: índice vectorial y parámetros de búsqueda definidos.
-- [ ] Fase 3: operación de reindexado completo.
-- [ ] Fase 4: recuperación top-k con umbral.
-- [ ] Fase 4: filtros por categoría/zona/confianza.
-- [ ] Fase 5: construcción de contexto acotada por caracteres.
-- [ ] Fase 5: manejo de "sin contexto suficiente".
-- [ ] Fase 6: set de evaluación y script de métricas.
+> Leyenda de estado (autogenerada en la fase de implementación): [x] = terminado en código y verificado en sandbox · [ ] = pendiente de ejecutar en la Raspberry Pi o con BD/red en vivo (compilar llama.cpp en ARM, descargar modelo, levantar PostgreSQL, pruebas de integración).
+
+
+- [x] Fase 1: wrapper de embeddings (fastembed) singleton.
+- [x] Fase 1: prefijos e5 aplicados; validación de dimensión.
+- [x] Fase 2: reglas de chunking por tipo de fuente documentadas.
+- [x] Fase 3: upsert idempotente con `hash_contenido`.
+- [x] Fase 3: índice vectorial y parámetros de búsqueda definidos.
+- [x] Fase 3: operación de reindexado completo.
+- [x] Fase 4: recuperación top-k con umbral.
+- [x] Fase 4: filtros por categoría/zona/confianza.
+- [x] Fase 5: construcción de contexto acotada por caracteres.
+- [x] Fase 5: manejo de "sin contexto suficiente".
+- [x] Fase 6: set de evaluación y script de métricas.
 - [ ] Verificación: corpus semilla indexado y recuperaciones coherentes.

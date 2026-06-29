@@ -1,0 +1,5 @@
+# Servicio API del bot.
+-r base.txt
+fastapi>=0.110
+uvicorn[standard]>=0.29
+fastembed>=0.3              # embeddings e5-small vía ONNX (ligero en ARM)

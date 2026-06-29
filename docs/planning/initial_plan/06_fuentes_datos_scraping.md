@@ -80,18 +80,21 @@ Dependencias: 05. Habilita: Hito C.
 
 ## Checklist
 
-- [ ] Fase 1: conector Overpass/OSM (geografía/accesos).
+> Leyenda de estado (autogenerada en la fase de implementación): [x] = terminado en código y verificado en sandbox · [ ] = pendiente de ejecutar en la Raspberry Pi o con BD/red en vivo (compilar llama.cpp en ARM, descargar modelo, levantar PostgreSQL, pruebas de integración).
+
+
+- [x] Fase 1: conector Overpass/OSM (geografía/accesos).
 - [ ] Fase 1: conector IGN (topónimos/cartografía).
 - [ ] Fase 1: conector AEMET (clima estacional).
-- [ ] Fase 2: conector GBIF (biodiversidad por provincia).
+- [x] Fase 2: conector GBIF (biodiversidad por provincia).
 - [ ] Fase 2: conector MITECO (peligrosidad de especies).
-- [ ] Fase 2: conector Wikidata/Wikipedia (descripciones).
+- [x] Fase 2: conector Wikidata/Wikipedia (descripciones).
 - [ ] Fase 2: fauna marina local evaluada/integrada.
-- [ ] Fase 2: especies peligrosas enrutadas a checkpoint.
+- [x] Fase 2: especies peligrosas enrutadas a checkpoint.
 - [ ] Fase 3: manuales de supervivencia con licencia abierta (PDF→fragmentos).
 - [ ] Fase 4: fuentes de primeros auxilios con checkpoint obligatorio.
 - [ ] Fase 4: aviso médico asociado.
-- [ ] Fase 5: cliente HTTP común (UA, rate limit, reintentos).
+- [x] Fase 5: cliente HTTP común (UA, rate limit, reintentos).
 - [ ] Fase 5: extractor de PDF reutilizable y caché de descargas.
-- [ ] Fase 6: catálogo de fuentes con licencia y frecuencia.
+- [x] Fase 6: catálogo de fuentes con licencia y frecuencia.
 - [ ] Verificación: acotamiento por provincia y bloqueo sin validación.

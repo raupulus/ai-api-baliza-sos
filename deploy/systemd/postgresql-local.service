@@ -1,0 +1,17 @@
+[Unit]
+Description=PostgreSQL local (bot-ia-auxiliar) en el directorio de trabajo
+After=network.target
+
+[Service]
+Type=forking
+User=pi
+EnvironmentFile=/etc/default/bot-ia-auxiliar
+# Ajusta la versión de PostgreSQL (ruta de pg_ctl) y WorkingDirectory.
+WorkingDirectory=/home/pi/bot-ia-auxiliar
+ExecStart=/usr/lib/postgresql/15/bin/pg_ctl -D ${DB_DATA_DIR} -o "-p ${DB_PORT}" -w start
+ExecStop=/usr/lib/postgresql/15/bin/pg_ctl -D ${DB_DATA_DIR} -m fast stop
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

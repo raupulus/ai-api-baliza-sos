@@ -1,0 +1,6 @@
+# Servicio actualizador de contexto (ingesta + scraping).
+-r base.txt
+fastembed>=0.3             # embeddings al indexar
+beautifulsoup4>=4.12       # parseo HTML
+lxml>=5.2                  # backend de parseo
+pypdf>=4.2                 # extracción de texto de PDF (primeros auxilios, manuales)

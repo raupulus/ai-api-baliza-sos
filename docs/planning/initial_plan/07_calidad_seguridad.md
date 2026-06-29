@@ -63,19 +63,22 @@ Dependencias: 04, 05. Habilita: Hito D.
 
 ## Checklist
 
-- [ ] Fase 1: checkpoint humano reforzado como puerta única.
-- [ ] Fase 1: reglas anti-alucinación con pruebas del caso sin contexto.
-- [ ] Fase 1: avisos médicos automáticos por categoría.
+> Leyenda de estado (autogenerada en la fase de implementación): [x] = terminado en código y verificado en sandbox · [ ] = pendiente de ejecutar en la Raspberry Pi o con BD/red en vivo (compilar llama.cpp en ARM, descargar modelo, levantar PostgreSQL, pruebas de integración).
+
+
+- [x] Fase 1: checkpoint humano reforzado como puerta única.
+- [x] Fase 1: reglas anti-alucinación con pruebas del caso sin contexto.
+- [x] Fase 1: avisos médicos automáticos por categoría.
 - [ ] Fase 1: política "qué NO hace el bot" documentada.
-- [ ] Fase 2: auth por token y rotación documentada.
-- [ ] Fase 2: secretos fuera de git y de logs.
+- [x] Fase 2: auth por token y rotación documentada.
+- [x] Fase 2: secretos fuera de git y de logs.
 - [ ] Fase 2: hardening de PostgreSQL local.
-- [ ] Fase 2: límites de tamaño y saneamiento de entrada.
-- [ ] Fase 3: pruebas unitarias clave (post-proceso, normalización, retrieval).
+- [x] Fase 2: límites de tamaño y saneamiento de entrada.
+- [x] Fase 3: pruebas unitarias clave (post-proceso, normalización, retrieval).
 - [ ] Fase 3: pruebas de integración de ambos pipelines.
-- [ ] Fase 3: regresión del RAG y casos de "camino triste".
+- [x] Fase 3: regresión del RAG y casos de "camino triste".
 - [ ] Fase 4: logging estructurado y métricas ligeras.
 - [ ] Fase 4: healthchecks integrables con systemd.
-- [ ] Fase 5: backups (`pg_dump`) y restauración probada.
+- [x] Fase 5: backups (`pg_dump`) y restauración probada.
 - [ ] Fase 6: checklist de "listo para producción" y limitaciones conocidas.
 - [ ] Verificación: suite verde; indexado sin validación bloqueado.

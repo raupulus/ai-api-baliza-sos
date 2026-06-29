@@ -1,0 +1,39 @@
+[project]
+name = "bot-ia-auxiliar"
+version = "0.1.0"
+description = "Backend de asistente de emergencia/supervivencia offline (RAG + LLM local) para Raspberry Pi"
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Raul", email = "raupulus@gmail.com" }]
+
+# Las dependencias reales se gestionan con pip + requirements/ (ver requirements/).
+# pyproject.toml se usa aquí solo para configurar las herramientas de desarrollo.
+
+[tool.pytest.ini_options]
+# Permite importar los paquetes de src/ (common, api, updater) sin instalar nada.
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+markers = [
+    "integration: pruebas que requieren servicios externos (PostgreSQL, llama-server, red)",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "C4", "SIM"]
+ignore = ["E501"]  # la longitud la gestiona black
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+warn_unused_ignores = true
+mypy_path = "src"

@@ -1,0 +1,17 @@
+[Unit]
+Description=API del bot (FastAPI/Uvicorn) bot-ia-auxiliar
+After=network.target postgresql-local.service llama-server.service
+Requires=postgresql-local.service llama-server.service
+
+[Service]
+Type=simple
+User=pi
+EnvironmentFile=/etc/default/bot-ia-auxiliar
+WorkingDirectory=/home/pi/bot-ia-auxiliar
+Environment=PYTHONPATH=/home/pi/bot-ia-auxiliar/src
+ExecStart=/home/pi/bot-ia-auxiliar/.venv/bin/python -m api.app
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

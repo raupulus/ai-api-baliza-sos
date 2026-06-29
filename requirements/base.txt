@@ -1,0 +1,7 @@
+# Dependencias comunes a ambos servicios (API y actualizador).
+# Python >= 3.11 (Raspberry Pi OS Bookworm). Fijar versiones al congelar el entorno.
+psycopg[binary]>=3.1        # PostgreSQL (incluye libpq, sin compilar)
+pgvector>=0.3               # adaptador de tipos vector para psycopg
+numpy>=1.26
+httpx>=0.27                 # cliente HTTP (LLM y fuentes de datos)
+pydantic>=2.6               # validación y modelos de datos

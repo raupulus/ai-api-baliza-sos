@@ -1,0 +1,23 @@
+[Unit]
+Description=llama-server (LLM local) para bot-ia-auxiliar
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+EnvironmentFile=/etc/default/bot-ia-auxiliar
+WorkingDirectory=/home/pi/bot-ia-auxiliar
+# Ajusta la ruta al binario compilado (scripts/build_llama.sh).
+ExecStart=/home/pi/bot-ia-auxiliar/vendor/llama.cpp/build/bin/llama-server \
+    --model ${LLM_MODEL_PATH} \
+    --host ${LLM_SERVER_HOST} \
+    --port ${LLM_SERVER_PORT} \
+    --threads ${LLM_THREADS} \
+    --ctx-size ${LLM_CONTEXT_SIZE}
+Restart=on-failure
+RestartSec=5
+# Protege la RAM: evita que el OOM mate antes a otros servicios críticos.
+OOMScoreAdjust=-200
+
+[Install]
+WantedBy=multi-user.target

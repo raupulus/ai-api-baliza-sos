@@ -1,0 +1,9 @@
+# Herramientas de desarrollo y pruebas.
+-r api.txt
+-r updater.txt
+pytest>=8.1
+pytest-asyncio>=0.23
+ruff>=0.4
+black>=24.3
+mypy>=1.9
+respx>=0.21                # mock de httpx en tests

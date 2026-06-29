@@ -70,21 +70,24 @@ Dependencias: ninguna. Habilita: 02, 03, 04, 05.
 
 ## Checklist
 
-- [ ] Fase 1: `pyproject.toml`/requirements y entorno virtual operativos.
-- [ ] Fase 1: ruff/black/mypy/pytest configurados.
-- [ ] Fase 2: `config.py` carga `env.py` y expone config tipada.
-- [ ] Fase 2: validación de variables críticas al arranque.
-- [ ] Fase 2: test de sincronía `env.example.py` ↔ `env.py`.
-- [ ] Fase 3: script `initdb` del clúster local en `data/postgres`.
+> Leyenda de estado (autogenerada en la fase de implementación): [x] = terminado en código y verificado en sandbox · [ ] = pendiente de ejecutar en la Raspberry Pi o con BD/red en vivo (compilar llama.cpp en ARM, descargar modelo, levantar PostgreSQL, pruebas de integración).
+
+
+- [x] Fase 1: `pyproject.toml`/requirements y entorno virtual operativos.
+- [x] Fase 1: ruff/black/mypy/pytest configurados.
+- [x] Fase 2: `config.py` carga `env.py` y expone config tipada.
+- [x] Fase 2: validación de variables críticas al arranque.
+- [x] Fase 2: test de sincronía `env.example.py` ↔ `env.py`.
+- [x] Fase 3: script `initdb` del clúster local en `data/postgres`.
 - [ ] Fase 3: pgvector instalado y `CREATE EXTENSION vector` correcto.
 - [ ] Fase 3: rol y base `bot_emergencias` creados.
-- [ ] Fase 4: `schema.sql` con tabla `fragmentos` y `embedding vector(N)`.
-- [ ] Fase 4: tablas `fuentes`, `ingestas` (y `consultas`).
-- [ ] Fase 4: índice vectorial inicial (exacto/IVFFlat) creado.
-- [ ] Fase 4: mecanismo de migraciones definido.
-- [ ] Fase 5: `db.py` con pool y helpers.
-- [ ] Fase 5: `logging.py` operativo.
-- [ ] Fase 5: `models.py` con modelos compartidos.
-- [ ] Fase 6: plantillas de unidades systemd creadas.
-- [ ] Fase 6: `bootstrap.sh` y `healthcheck.sh`.
+- [x] Fase 4: `schema.sql` con tabla `fragmentos` y `embedding vector(N)`.
+- [x] Fase 4: tablas `fuentes`, `ingestas` (y `consultas`).
+- [x] Fase 4: índice vectorial inicial (exacto/IVFFlat) creado.
+- [x] Fase 4: mecanismo de migraciones definido.
+- [x] Fase 5: `db.py` con pool y helpers.
+- [x] Fase 5: `logging.py` operativo.
+- [x] Fase 5: `models.py` con modelos compartidos.
+- [x] Fase 6: plantillas de unidades systemd creadas.
+- [x] Fase 6: `bootstrap.sh` y `healthcheck.sh`.
 - [ ] Verificación: sanity check de inserción/recuperación de vector.
