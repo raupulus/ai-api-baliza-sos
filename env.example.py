@@ -94,6 +94,11 @@ API_PORT = int(os.environ.get("API_PORT", "8080"))
 API_AUTH_TOKEN = os.environ.get("API_AUTH_TOKEN", "CAMBIA_ESTE_TOKEN")
 # Sólo una inferencia LLM simultánea (protege la RAM de la RPi).
 API_MAX_CONCURRENT_INFERENCES = int(os.environ.get("API_MAX_CONCURRENT_INFERENCES", "1"))
+# Seguridad: si el token sigue siendo el de por defecto, la API se NIEGA a
+# atender peticiones. Pon esto a "true" solo en desarrollo local consciente.
+API_ALLOW_INSECURE_TOKEN = os.environ.get("API_ALLOW_INSECURE_TOKEN", "false").lower() in (
+    "1", "true", "yes",
+)
 
 # ---------------------------------------------------------------------------
 # 7. FORMATO DE RESPUESTA (límites para Meshtastic/LoRa)

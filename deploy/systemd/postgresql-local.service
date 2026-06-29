@@ -8,6 +8,9 @@ User=pi
 EnvironmentFile=/etc/default/bot-ia-auxiliar
 # Ajusta la versión de PostgreSQL (ruta de pg_ctl) y WorkingDirectory.
 WorkingDirectory=/home/pi/bot-ia-auxiliar
+# Inicializa el clúster la primera vez (evita el bucle de fallo si DB_DATA_DIR
+# está vacío). init_cluster.sh es idempotente y deja el clúster parado.
+ExecStartPre=/bin/bash -c 'test -f "$DB_DATA_DIR/PG_VERSION" || deploy/postgres/init_cluster.sh'
 ExecStart=/usr/lib/postgresql/15/bin/pg_ctl -D ${DB_DATA_DIR} -o "-p ${DB_PORT}" -w start
 ExecStop=/usr/lib/postgresql/15/bin/pg_ctl -D ${DB_DATA_DIR} -m fast stop
 Restart=on-failure

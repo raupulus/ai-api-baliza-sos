@@ -1,11 +1,22 @@
 """Orquestación del pipeline de consulta: embed → recuperar → contexto →
 generar → post-procesar. Es el corazón del servicio API.
+
+Concurrencia (importante en RPi4 4GB):
+  - Todo el trabajo local pesado (embedding ONNX, consulta a BD síncrona,
+    generación) se ejecuta en un hilo del threadpool con `run_in_threadpool`,
+    de modo que el event loop de FastAPI NO se bloquea (sigue atendiendo
+    /health y encolando peticiones).
+  - Ese bloque va dentro del semáforo de inferencia, así que el embedding y la
+    generación quedan SERIALIZADOS: nunca corren dos a la vez y no se dispara la
+    RAM. (Corrige los hallazgos 1 y 2 de la auditoría docs/planning/checks.)
 """
 
 from __future__ import annotations
 
 import logging
 import time
+
+from fastapi.concurrency import run_in_threadpool
 
 from api.concurrency import inference_semaphore
 from api.llm_client import LLMClient
@@ -24,30 +35,26 @@ def _nombre_modelo() -> str:
     return settings.llm_model_path.rsplit("/", 1)[-1].removesuffix(".gguf")
 
 
-async def responder(req: ConsultaRequest, *, llm: LLMClient | None = None) -> ConsultaResponse:
-    """Procesa una consulta completa y devuelve la respuesta formateada."""
+def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
+    """Pipeline completo y SÍNCRONO. Se ejecuta en un hilo del threadpool,
+    bajo el semáforo de inferencia (una sola ejecución pesada a la vez)."""
     inicio = time.monotonic()
-    llm = llm or LLMClient()
 
-    # 1-2. Recuperación (incluye el embedding de la consulta).
-    provincia = settings.provincia
+    # 1-2. Recuperación (incluye el embedding de la consulta, CPU-bound).
     recuperados = retrieval.buscar(
         req.consulta,
         categoria=req.categoria_sugerida,
-        provincia=provincia if req.ubicacion else None,
+        provincia=settings.provincia if req.ubicacion else None,
     )
 
     # 3. Construcción del contexto.
     contexto = ctx_mod.construir_contexto(recuperados)
 
     # 4. Prompt.
-    prompt = construir_prompt(
-        req.consulta, contexto.texto, suficiente=contexto.suficiente
-    )
+    prompt = construir_prompt(req.consulta, contexto.texto, suficiente=contexto.suficiente)
 
-    # 5. Generación, serializada por el semáforo (una inferencia a la vez).
-    async with inference_semaphore:
-        texto_crudo = await llm.generate_async(prompt)
+    # 5. Generación (llamada bloqueante a llama-server; este hilo espera).
+    texto_crudo = llm.generate(prompt)
 
     # 6. Post-proceso a 1–3 mensajes de <=250 caracteres + aviso si procede.
     formateada = formatear(texto_crudo, categoria=contexto.categoria)
@@ -63,3 +70,11 @@ async def responder(req: ConsultaRequest, *, llm: LLMClient | None = None) -> Co
         tiempo_ms=tiempo_ms,
         truncado=formateada.truncado,
     )
+
+
+async def responder(req: ConsultaRequest, *, llm: LLMClient | None = None) -> ConsultaResponse:
+    """Procesa una consulta. Serializa el trabajo pesado y libera el event loop."""
+    llm = llm or LLMClient()
+    # El semáforo cubre TODO el trabajo local pesado (embedding + BD + LLM).
+    async with inference_semaphore:
+        return await run_in_threadpool(_procesar_sync, req, llm)

@@ -95,6 +95,7 @@ class Settings:
     api_port: int
     api_auth_token: str
     api_max_concurrent_inferences: int
+    api_allow_insecure_token: bool
 
     # --- Formato de respuesta ---
     resp_max_chars_per_msg: int
@@ -121,6 +122,11 @@ class Settings:
     @property
     def llm_base_url(self) -> str:
         return f"http://{self.llm_server_host}:{self.llm_server_port}"
+
+    @property
+    def auth_token_es_inseguro(self) -> bool:
+        """True si el token de API está vacío o sigue siendo el de por defecto."""
+        return (not self.api_auth_token) or self.api_auth_token.startswith("CAMBIA")
 
     @property
     def db_dsn(self) -> str:
@@ -174,6 +180,7 @@ def _build_settings() -> Settings:
         api_port=get("API_PORT"),
         api_auth_token=get("API_AUTH_TOKEN"),
         api_max_concurrent_inferences=get("API_MAX_CONCURRENT_INFERENCES"),
+        api_allow_insecure_token=get("API_ALLOW_INSECURE_TOKEN"),
         resp_max_chars_per_msg=get("RESP_MAX_CHARS_PER_MSG"),
         resp_max_messages=get("RESP_MAX_MESSAGES"),
         resp_disclaimer_medico=get("RESP_DISCLAIMER_MEDICO"),

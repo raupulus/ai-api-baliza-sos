@@ -5,3 +5,4 @@
 3. `03-decisiones-stack.md` — Decisiones de stack con justificación.
 4. `04-presupuesto-recursos.md` — Presupuesto de RAM en RPi4 4GB.
 5. `05-contratos-datos.md` — Contrato de la API y formato de fragmento RAG.
+6. `06-estado-implementacion.md` — Qué está hecho y qué falta (por módulo).

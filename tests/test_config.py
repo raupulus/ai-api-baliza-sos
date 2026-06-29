@@ -42,3 +42,8 @@ def test_env_example_y_env_sincronizados():
 
 def test_llm_base_url():
     assert settings.llm_base_url.startswith("http")
+
+
+def test_deteccion_token_inseguro():
+    # El valor por defecto de la plantilla debe considerarse inseguro.
+    assert settings.auth_token_es_inseguro == settings.api_auth_token.startswith("CAMBIA")
