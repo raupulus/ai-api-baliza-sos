@@ -35,15 +35,20 @@ class Embedder:
         return cls._instance
 
     def _ensure_model(self):
+        # Doble verificación con candado: evita que dos hilos del threadpool
+        # (si se sube API_MAX_CONCURRENT_INFERENCES > 1) carguen el modelo a la
+        # vez y dupliquen la RAM. (Hallazgo B de docs/planning/checks/check2.)
         if self._model is None:
-            try:
-                from fastembed import TextEmbedding
-            except ImportError as exc:  # pragma: no cover
-                raise EmbeddingError(
-                    "fastembed no está instalado. Instala requirements/api.txt."
-                ) from exc
-            _log.info("Cargando modelo de embeddings: %s", settings.embedding_model)
-            self._model = TextEmbedding(model_name=settings.embedding_model)
+            with self._lock:
+                if self._model is None:
+                    try:
+                        from fastembed import TextEmbedding
+                    except ImportError as exc:  # pragma: no cover
+                        raise EmbeddingError(
+                            "fastembed no está instalado. Instala requirements/api.txt."
+                        ) from exc
+                    _log.info("Cargando modelo de embeddings: %s", settings.embedding_model)
+                    self._model = TextEmbedding(model_name=settings.embedding_model)
         return self._model
 
     def _embed(self, textos: list[str]) -> list[list[float]]:

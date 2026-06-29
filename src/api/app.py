@@ -63,6 +63,14 @@ async def bot_error_handler(_request, exc: BotError) -> JSONResponse:
     )
 
 
+@app.on_event("shutdown")
+def _cerrar_recursos() -> None:
+    """Cierre elegante del pool de PostgreSQL al parar/reiniciar el servicio."""
+    from common.db import close_pool
+
+    close_pool()
+
+
 @app.on_event("startup")
 def _avisar_token_inseguro() -> None:
     if settings.auth_token_es_inseguro:

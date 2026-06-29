@@ -40,6 +40,14 @@ class _Resp:
         return {"content": "hola "}
 
 
+class _RespChat:
+    def raise_for_status(self):
+        pass
+
+    def json(self):
+        return {"choices": [{"message": {"content": "respuesta chat "}}]}
+
+
 @pytest.fixture()
 def fake_httpx(monkeypatch):
     _FakeClient.contador = {"n": 0}
@@ -71,3 +79,19 @@ def test_respuesta_ok(fake_httpx):
     fake_httpx.comportamiento = staticmethod(_Resp)
     c = LLMClient(connect_retries=2, connect_backoff=0)
     assert c.generate("x") == "hola"
+
+
+def test_chat_extrae_message_content(fake_httpx):
+    fake_httpx.comportamiento = staticmethod(_RespChat)
+    c = LLMClient(connect_retries=2, connect_backoff=0)
+    assert c.chat([{"role": "user", "content": "hola"}]) == "respuesta chat"
+
+
+def test_chat_connect_error_se_reintenta(fake_httpx):
+    fake_httpx.comportamiento = staticmethod(
+        lambda: (_ for _ in ()).throw(httpx.ConnectError("c"))
+    )
+    c = LLMClient(connect_retries=2, connect_backoff=0)
+    with pytest.raises(LLMUnavailableError):
+        c.chat([{"role": "user", "content": "x"}])
+    assert fake_httpx.contador["n"] == 3

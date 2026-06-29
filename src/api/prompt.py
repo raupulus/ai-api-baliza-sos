@@ -20,8 +20,35 @@ _SIN_CONTEXTO = (
 )
 
 
+def construir_mensajes(consulta: str, contexto: str, *, suficiente: bool) -> list[dict]:
+    """Construye los mensajes (rol system/user) para `/v1/chat/completions`.
+
+    Es la forma recomendada con modelos instruct (Qwen2.5, etc.): llama-server
+    aplica la plantilla de chat nativa del GGUF (ChatML) y sus tokens de parada.
+    Así no mandamos texto plano con marcadores artificiales.
+    """
+    sistema = _SISTEMA.format(provincia=settings.provincia, pais=settings.pais)
+
+    if suficiente and contexto.strip():
+        usuario = f"CONTEXTO:\n{contexto}\n\nPREGUNTA: {consulta}"
+    else:
+        usuario = (
+            "CONTEXTO: (no hay información local fiable para esta consulta)\n\n"
+            f"PREGUNTA: {consulta}\n\n{_SIN_CONTEXTO}"
+        )
+
+    return [
+        {"role": "system", "content": sistema},
+        {"role": "user", "content": usuario},
+    ]
+
+
 def construir_prompt(consulta: str, contexto: str, *, suficiente: bool) -> str:
-    """Ensambla el prompt completo en el formato que espera llama-server."""
+    """Variante de texto plano (endpoint legacy `/completion`).
+
+    Se conserva como alternativa; el pipeline usa `construir_mensajes` con el
+    endpoint de chat. Útil si algún GGUF no trae plantilla de chat embebida.
+    """
     sistema = _SISTEMA.format(provincia=settings.provincia, pais=settings.pais)
 
     if suficiente and contexto.strip():

@@ -28,3 +28,47 @@ Aunque el pipeline general y el soporte asíncrono son excelentes, he detectado 
 - **El Problema**: `psycopg_pool` se inicializa dinámicamente y se usa durante la vida útil del worker. Sin embargo, no hay un hook de apagado (`shutdown`) en la aplicación.
 - **Impacto**: Cuando `bot-api.service` se reinicia, se cortan las conexiones de forma abrupta, lo cual en un entorno PostgreSQL de largo uso ensucia el log y puede bloquear recursos transitoriamente.
 - **Solución**: En `src/api/app.py`, añadir un `@app.on_event("shutdown")` que invoque a `close_pool()` de `src/common/db.py`.
+
+---
+
+## Evaluación de la revisión 2 (análisis crítico)
+
+Revisado contra el código real. Los hallazgos son válidos, con matices:
+
+- **Sección 1 (verificación):** correcta, con una imprecisión menor: dice que los
+  reintentos usan *backoff exponencial*, pero la implementación es **lineal**
+  (`connect_backoff * intento`). Irrelevante para reintentos de conexión, pero la
+  descripción no cuadraba con el código.
+- **A · ChatML / endpoint `/completion`:** **real y el más importante.** Mandar
+  texto plano a `/completion` ignora la plantilla nativa del modelo y su token de
+  parada → peor calidad y obediencia del `stop`. **Matiz:** el "genera sin parar"
+  estaba acotado por `n_predict`/`LLM_MAX_TOKENS`, así que no era infinito, pero
+  sí desperdicio de CPU y peor respuesta. Corregido usando chat completions.
+- **B · Race en `_ensure_model`:** **real pero latente, no un bug activo.** Con el
+  semáforo a 1 no puede ocurrir hoy (el propio informe lo admite). Es blindaje
+  para cuando se suba la concurrencia. Coste nulo → aplicado.
+- **C · Cierre del pool:** real y menor. Aplicado.
+
+Veredicto: ningún hallazgo erróneo; A estaba algo dramatizado y B es preventivo.
+
+## Checklist de correcciones aplicadas
+
+- [x] **A · Chat template**: la API usa `/v1/chat/completions` con `messages`
+  (`api/prompt.py::construir_mensajes`, `api/llm_client.py::chat`,
+  `api/pipeline.py`). llama-server aplica la plantilla del GGUF (ChatML).
+- [x] **A · Nota de despliegue**: `llama-server.service` documenta
+  `--chat-template chatml` por si un GGUF no trae plantilla embebida.
+- [x] **B · Race condition**: doble verificación con candado dentro de
+  `Embedder._ensure_model()` (`src/api/rag/embeddings.py`).
+- [x] **C · Shutdown elegante**: `@app.on_event("shutdown")` → `close_pool()`
+  (`src/api/app.py`).
+- [x] **Pruebas**: `construir_mensajes` (`tests/test_prompt.py`) y `chat()`
+  (parseo + endpoint + reintentos, `tests/test_llm_client.py`). Verificado en
+  sandbox (sintaxis + lógica con stub de httpx).
+
+### Nota
+
+- Se conserva `construir_prompt` (texto plano) y el cliente `generate()` como
+  alternativa para GGUF sin plantilla de chat embebida.
+- Backoff de reintentos: es **lineal** a propósito (suficiente para una pausa
+  puntual del servidor); no exponencial.

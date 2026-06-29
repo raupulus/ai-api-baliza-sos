@@ -8,6 +8,9 @@ User=pi
 EnvironmentFile=/etc/default/bot-ia-auxiliar
 WorkingDirectory=/home/pi/bot-ia-auxiliar
 # Ajusta la ruta al binario compilado (scripts/build_llama.sh).
+# La API usa /v1/chat/completions: llama-server aplica la plantilla de chat
+# embebida en el GGUF (ChatML en Qwen2.5). Si un GGUF no la trae, añade
+# --chat-template chatml. Para concurrencia en RPi5 añade --parallel N.
 ExecStart=/home/pi/bot-ia-auxiliar/vendor/llama.cpp/build/bin/llama-server \
     --model ${LLM_MODEL_PATH} \
     --host ${LLM_SERVER_HOST} \

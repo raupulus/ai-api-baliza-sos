@@ -21,7 +21,7 @@ from fastapi.concurrency import run_in_threadpool
 from api.concurrency import inference_semaphore
 from api.llm_client import LLMClient
 from api.postprocess import formatear
-from api.prompt import construir_prompt
+from api.prompt import construir_mensajes
 from api.rag import context as ctx_mod
 from api.rag import retrieval
 from api.schemas import ConsultaRequest, ConsultaResponse, FuenteOut
@@ -50,11 +50,12 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
     # 3. Construcción del contexto.
     contexto = ctx_mod.construir_contexto(recuperados)
 
-    # 4. Prompt.
-    prompt = construir_prompt(req.consulta, contexto.texto, suficiente=contexto.suficiente)
+    # 4. Mensajes (system/user) para el endpoint de chat: deja que llama-server
+    #    aplique la plantilla nativa del modelo (ChatML en Qwen2.5).
+    mensajes = construir_mensajes(req.consulta, contexto.texto, suficiente=contexto.suficiente)
 
     # 5. Generación (llamada bloqueante a llama-server; este hilo espera).
-    texto_crudo = llm.generate(prompt)
+    texto_crudo = llm.chat(mensajes)
 
     # 6. Post-proceso a 1–3 mensajes de <=250 caracteres + aviso si procede.
     formateada = formatear(texto_crudo, categoria=contexto.categoria)
