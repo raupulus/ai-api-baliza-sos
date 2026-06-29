@@ -119,7 +119,7 @@ RESP_DISCLAIMER_MEDICO = os.environ.get(
 UPDATER_STAGING_DIR = os.environ.get("UPDATER_STAGING_DIR", "./data/staging")
 UPDATER_USER_AGENT = os.environ.get(
     "UPDATER_USER_AGENT",
-    "bot-ia-auxiliar/0.1 (+contacto: raupulus@gmail.com)",
+    "bot-ia-auxiliar/0.1 (+contacto: raul@fryntiz.dev)",
 )
 # Claves de APIs externas (las que las requieran). Vacío = fuente desactivada.
 AEMET_API_KEY = os.environ.get("AEMET_API_KEY", "")
