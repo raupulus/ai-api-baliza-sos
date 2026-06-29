@@ -6,3 +6,6 @@
 4. `04-presupuesto-recursos.md` — Presupuesto de RAM en RPi4 4GB.
 5. `05-contratos-datos.md` — Contrato de la API y formato de fragmento RAG.
 6. `06-estado-implementacion.md` — Qué está hecho y qué falta (por módulo).
+7. `07-hardware-objetivo.md` — Placas (RPi4/RPi5), modelos recomendados y paralelismo.
+
+Guías operativas (SSD, etc.) en [`../guias/`](../guias/README.md).

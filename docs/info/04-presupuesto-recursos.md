@@ -59,3 +59,6 @@ Sin cambios de código:
 - Subir `LLM_THREADS` y, si interesa, `LLM_CONTEXT_SIZE`.
 - Opcional: embeddings de 768 dim (jina-es) reindexando el corpus.
 - Opcional: índice HNSW en pgvector si el corpus ha crecido mucho.
+
+Detalle de placas, modelo recomendado por RAM y cuántas inferencias en paralelo
+admite cada configuración: `07-hardware-objetivo.md`.

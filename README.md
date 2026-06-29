@@ -62,4 +62,6 @@ código.
 - Decisiones de stack: [`docs/info/03-decisiones-stack.md`](docs/info/03-decisiones-stack.md)
 - Presupuesto de recursos (RAM): [`docs/info/04-presupuesto-recursos.md`](docs/info/04-presupuesto-recursos.md)
 - Contrato de la API y formato RAG: [`docs/info/05-contratos-datos.md`](docs/info/05-contratos-datos.md)
+- Hardware objetivo, modelos y paralelismo: [`docs/info/07-hardware-objetivo.md`](docs/info/07-hardware-objetivo.md)
+- Guías de SSD (RPi4 / RPi5): [`docs/guias/`](docs/guias/README.md)
 - Guía para agentes de IA: [`AGENTS.md`](AGENTS.md)
