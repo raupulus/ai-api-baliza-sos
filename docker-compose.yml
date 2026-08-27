@@ -113,6 +113,8 @@ services:
       - ${HOST_STORAGE_PATH:-./data}/logs:/app/logs
       - ${HOST_STORAGE_PATH:-./data}/data/staging:/app/data/staging
       - ${HOST_STORAGE_PATH:-./data}/cache:/tmp/fastembed_cache
+      - ./src:/app/src:ro
+      - ./scripts:/app/scripts:ro
       - ./tests:/app/tests:ro
     healthcheck:
       test: ["CMD-SHELL", "curl -f http://localhost:8870/health || exit 1"]

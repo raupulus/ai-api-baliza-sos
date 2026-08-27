@@ -71,7 +71,7 @@ class TestConversationMemory(unittest.TestCase):
             ok = mgr.resetear_conversacion("id-a-resetear")
             self.assertTrue(ok)
             mock_cur.execute.assert_called_once_with(
-                "UPDATE conversaciones SET activa = FALSE WHERE id = %s;",
+                "UPDATE conversaciones SET activa = FALSE WHERE id = %s RETURNING id;",
                 ("id-a-resetear",),
             )
 

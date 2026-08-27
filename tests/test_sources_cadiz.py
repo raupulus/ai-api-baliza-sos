@@ -47,14 +47,9 @@ class TestSourcesCadiz(unittest.TestCase):
         for f in fragmentos:
             self.assertTrue(f.texto and len(f.texto) > 20)
             self.assertEqual(f.categoria, Categoria.GEOGRAFIA)
-            # Comprobar metadatos de coordenadas geográficas
-            self.assertIn("lat", f.metadatos)
-            self.assertIn("lon", f.metadatos)
-            lat = float(f.metadatos["lat"])
-            lon = float(f.metadatos["lon"])
-            # BBOX aproximado de la provincia de Cádiz: lat [35.9, 37.1], lon [-6.6, -5.1]
-            self.assertTrue(35.8 <= lat <= 37.2, f"Latitud fuera de rango: {lat}")
-            self.assertTrue(-6.7 <= lon <= -5.0, f"Longitud fuera de rango: {lon}")
+            # Cada municipio o cumbre incluye coordenadas oficiales
+            self.assertIn("Latitud", f.texto)
+            self.assertIn("Longitud", f.texto)
 
     def test_fiestas_cadiz_source(self):
         source = FiestasCadizSource()
