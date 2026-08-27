@@ -46,5 +46,20 @@ def test_texto_vacio():
 def test_frase_unica_muy_larga_se_trocea():
     palabra = "palabra "
     r = formatear(palabra * 100, categoria=Categoria.SUPERVIVENCIA)
-    assert all(len(m) <= MAX for m in r.mensajes)
+    assert all(len(m.encode("utf-8")) <= MAX for m in r.mensajes)
     assert len(r.mensajes) <= MAXM
+
+
+def test_limite_de_bytes_con_caracteres_espanoles():
+    # Texto con multitud de caracteres de 2 bytes (tildes, ñ, ¿, ¡)
+    frase = "¿Atención en Cádiz! Inmovilización rápida del tobillo dañado con pañuelo. "
+    texto = frase * 20
+    r = formatear(texto, categoria=Categoria.PRIMEROS_AUXILIOS)
+    assert len(r.mensajes) <= MAXM
+    # Cada mensaje debe respetar estrictamente <= MAX bytes UTF-8 (230 bytes)
+    for m in r.mensajes:
+        tam_bytes = len(m.encode("utf-8"))
+        assert tam_bytes <= MAX, f"Mensaje excede {MAX} bytes UTF-8 ({tam_bytes} bytes): {m!r}"
+        # Asegurar que el string es UTF-8 válido y no termina con caracteres rotos
+        m.encode("utf-8").decode("utf-8")
+

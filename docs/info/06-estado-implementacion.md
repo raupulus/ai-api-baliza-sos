@@ -26,7 +26,7 @@ checklists marcados con la misma información.
   sensibles sin validar). `eval_rag.py` y casos en `tests/data/`.
 - **Módulo 04 · API**: `app.py` (FastAPI, auth Bearer, `/health`,
   `/v1/consulta`), `schemas.py`, `pipeline.py`, `prompt.py`, `postprocess.py`
-  (250×3 + aviso médico), `concurrency.py` (semáforo de 1 inferencia).
+  (230 bytes UTF-8 × 3 + aviso médico), `concurrency.py` (semáforo de 1 inferencia).
 - **Módulo 05 · Actualizador**: `pipeline.py`, `normalize.py` (política de
   confianza + separación), `staging.py` (checkpoint humano), `cli.py`,
   `scripts/review.py`.

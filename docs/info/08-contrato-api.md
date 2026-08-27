@@ -129,13 +129,13 @@ Procesa una pregunta o situación de emergencia en lenguaje natural, recupera el
 | Campo | Tipo | Descripción |
 | :--- | :--- | :--- |
 | `ok` | `boolean` | Indica si la consulta se procesó correctamente. |
-| `mensajes` | `list[string]` | **Lista de 1 a 3 mensajes**. Cada mensaje mide estrictamente **$\le 250$ caracteres** para ajustarse a los paquetes LoRa / Meshtastic. |
+| `mensajes` | `list[string]` | **Lista de 1 a 3 mensajes**. Cada mensaje mide estrictamente **$\le 230$ bytes UTF-8** para ajustarse limpiamente al payload LoRa de Meshtastic (MTU ~237 bytes útiles), teniendo en cuenta tildes, ñ y signos en español. |
 | `categoria` | `string \| null` | Categoría temática dominante identificada por el RAG (`"fauna"`, `"primeros_auxilios"`, `"supervivencia"`, `"orientacion"`, etc.). `null` si no hubo match. |
 | `confianza` | `float` | Puntuación de similitud coseno máxima obtenida en la base vectorial (rango `0.0` a `1.0`). Si no supera el umbral, vale `0.0`. |
 | `fuentes` | `list[object]` | Lista de fuentes curadas utilizadas como contexto (`titulo`, `fecha`, `url`). |
 | `modelo` | `string` | Nombre del modelo LLM que generó la respuesta (ej. `"qwen2.5-3b-instruct-q4_k_m"`). |
 | `tiempo_ms` | `integer` | Latencia total de inferencia en el servidor en milisegundos. |
-| `truncado` | `boolean` | `true` si la respuesta del LLM tuvo que ser recortada para respetar el límite de 3 mensajes de 250 caracteres. |
+| `truncado` | `boolean` | `true` si la respuesta del LLM tuvo que ser recortada para respetar el límite de 3 mensajes de 230 bytes UTF-8. |
 
 ---
 
@@ -176,7 +176,7 @@ Limpia la memoria y el contexto de un identificador de conversación o cliente p
    * **Persistencia en Base de Datos:** Todas las conversaciones y mensajes quedan archivados en las tablas `conversaciones` y `mensajes_conversacion` de PostgreSQL para auditoría y trazabilidad.
 
 1. **Restricción de Tamaño para Radiofrecuencia (LoRa / Meshtastic):**
-   * Longitud máxima por elemento de `mensajes`: **250 caracteres**.
+   * Longitud máxima por elemento de `mensajes`: **230 bytes UTF-8**. Se adapta de forma nativa al buffer útil de Meshtastic (`Constants.DATA_PAYLOAD_LEN = 237 bytes`), evitando desbordamientos de buffer por tildes, signos o la letra `ñ`.
    * Cantidad máxima de elementos: **3 mensajes**.
    * Los clientes de radio pueden transmitir cada elemento como un paquete individual secuencial (`[1/2]`, `[2/2]`).
 2. **Garantía Anti-Alucinación:**
@@ -308,7 +308,7 @@ def on_meshtastic_packet(packet, interface):
         timeout=180.0
     ).json()
 
-    # Cada elemento de mensajes mide obligatoriamente <= 250 caracteres
+    # Cada elemento de mensajes mide obligatoriamente <= 230 bytes UTF-8 (entra en LoRa MTU)
     for msg in res.get("mensajes", []):
         interface.sendText(text=msg, destinationId=sender_id)
 ```

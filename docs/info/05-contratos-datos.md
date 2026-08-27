@@ -60,7 +60,7 @@ Cabecera: `Authorization: Bearer <API_AUTH_TOKEN>`
 ```
 
 Reglas:
-- `mensajes`: lista de **1 a 3** cadenas, cada una **≤ 250 caracteres**.
+- `mensajes`: lista de **1 a 3** cadenas, cada una **≤ 230 bytes UTF-8** (para acoplarse al buffer de radio LoRa de Meshtastic).
   Objetivo 1; usar más solo si es estrictamente necesario.
 - En categorías médicas/riesgo vital, el último mensaje incluye el aviso
   (`RESP_DISCLAIMER_MEDICO`).
@@ -129,7 +129,7 @@ Límite: 3 frases muy cortas.
 {consulta del usuario}
 ```
 
-El post-proceso (no el modelo) garantiza el límite duro de 250×3 caracteres.
+El post-proceso (no el modelo) garantiza el límite duro de 230×3 bytes UTF-8.
 
 ---
 

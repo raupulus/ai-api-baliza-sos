@@ -101,9 +101,14 @@ class Settings:
     web_port: int
 
     # --- Formato de respuesta ---
-    resp_max_chars_per_msg: int
+    resp_max_bytes_per_msg: int
     resp_max_messages: int
     resp_disclaimer_medico: str
+
+    @property
+    def resp_max_chars_per_msg(self) -> int:
+        """Alias de compatibilidad con resp_max_bytes_per_msg."""
+        return self.resp_max_bytes_per_msg
 
     # --- Actualizador ---
     updater_staging_dir: str
@@ -207,7 +212,12 @@ def _build_settings() -> Settings:
         api_allow_insecure_token=get("API_ALLOW_INSECURE_TOKEN"),
         web_host=get("WEB_HOST"),
         web_port=get("WEB_PORT"),
-        resp_max_chars_per_msg=get("RESP_MAX_CHARS_PER_MSG"),
+        resp_max_bytes_per_msg=int(
+            os.environ.get("RESP_MAX_BYTES_PER_MSG")
+            or getattr(env, "RESP_MAX_BYTES_PER_MSG", None)
+            or os.environ.get("RESP_MAX_CHARS_PER_MSG")
+            or getattr(env, "RESP_MAX_CHARS_PER_MSG", 230)
+        ),
         resp_max_messages=get("RESP_MAX_MESSAGES"),
         resp_disclaimer_medico=get("RESP_DISCLAIMER_MEDICO"),
         updater_staging_dir=get("UPDATER_STAGING_DIR"),
@@ -231,8 +241,8 @@ def _validate(s: Settings) -> None:
         raise ValueError("RAG_TOP_K debe ser > 0.")
     if not 0 <= s.rag_min_score <= 1:
         raise ValueError("RAG_MIN_SCORE debe estar en [0, 1].")
-    if s.resp_max_messages <= 0 or s.resp_max_chars_per_msg <= 0:
-        raise ValueError("RESP_MAX_MESSAGES y RESP_MAX_CHARS_PER_MSG deben ser > 0.")
+    if s.resp_max_messages <= 0 or s.resp_max_bytes_per_msg <= 0:
+        raise ValueError("RESP_MAX_MESSAGES y RESP_MAX_BYTES_PER_MSG deben ser > 0.")
     if s.conv_max_turnos <= 0:
         raise ValueError("CONV_MAX_TURNOS debe ser > 0.")
     if s.conv_ttl_segundos <= 0:

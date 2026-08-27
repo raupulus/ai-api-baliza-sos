@@ -126,16 +126,16 @@ def main() -> int:
 
     if status == 200 and isinstance(body_t1, dict) and body_t1.get("ok") is True:
         mensajes = body_t1.get("mensajes", [])
-        largos = [len(m) for m in mensajes]
-        todos_validos = all(l <= 250 for l in largos) and 1 <= len(mensajes) <= 3
+        largos_bytes = [len(m.encode("utf-8")) for m in mensajes]
+        todos_validos = all(l <= 230 for l in largos_bytes) and 1 <= len(mensajes) <= 3
         if todos_validos:
             print(
                 f"  ✅ 4. Consulta Turno 1 -> OK ({duracion_t1:.1f}s) | "
-                f"{len(mensajes)} msgs, max_len={max(largos)} chars (límite 250)"
+                f"{len(mensajes)} msgs, max_bytes={max(largos_bytes)} UTF-8 (límite 230)"
             )
             exitos += 1
         else:
-            print(f"  ❌ 4. Consulta Turno 1 superó límites RF: {largos} chars")
+            print(f"  ❌ 4. Consulta Turno 1 superó límites RF: {largos_bytes} bytes UTF-8 (límite 230)")
     else:
         print(f"  ❌ 4. Consulta Turno 1 falló con HTTP {status}: {body_t1}")
 
@@ -151,16 +151,16 @@ def main() -> int:
 
     if status == 200 and isinstance(body_t2, dict) and body_t2.get("ok") is True:
         mensajes_t2 = body_t2.get("mensajes", [])
-        largos_t2 = [len(m) for m in mensajes_t2]
-        todos_validos_t2 = all(l <= 250 for l in largos_t2) and 1 <= len(mensajes_t2) <= 3
+        largos_bytes_t2 = [len(m.encode("utf-8")) for m in mensajes_t2]
+        todos_validos_t2 = all(l <= 230 for l in largos_bytes_t2) and 1 <= len(mensajes_t2) <= 3
         if todos_validos_t2:
             print(
                 f"  ✅ 5. Consulta Turno 2 (Memoria Multi-Turno) -> OK ({duracion_t2:.1f}s) | "
-                f"{len(mensajes_t2)} msgs, max_len={max(largos_t2)} chars"
+                f"{len(mensajes_t2)} msgs, max_bytes={max(largos_bytes_t2)} UTF-8 (límite 230)"
             )
             exitos += 1
         else:
-            print(f"  ❌ 5. Turno 2 superó límites RF: {largos_t2}")
+            print(f"  ❌ 5. Turno 2 superó límites RF: {largos_bytes_t2} bytes UTF-8 (límite 230)")
     else:
         print(f"  ❌ 5. Consulta Turno 2 falló con HTTP {status}: {body_t2}")
 

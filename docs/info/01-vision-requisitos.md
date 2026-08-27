@@ -43,7 +43,8 @@ conocimiento y los datos viven en el dispositivo.
 
 - **RF1.** Exponer una API HTTP que reciba una consulta en lenguaje natural y
   devuelva **siempre un JSON** con la respuesta.
-- **RF2.** La respuesta se divide en **1–3 mensajes de ≤ 250 caracteres**.
+- **RF2.** La respuesta se divide en **1–3 mensajes de ≤ 230 bytes UTF-8**
+  (calibrado para entrar holgadamente en el buffer de radio de Meshtastic / LoRa).
   Objetivo: 1 mensaje; usar 3 solo si es estrictamente necesario.
 - **RF3.** Recuperar contexto relevante (RAG) de una base de conocimiento local
   antes de generar la respuesta.

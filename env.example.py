@@ -109,7 +109,10 @@ API_ALLOW_INSECURE_TOKEN = os.environ.get("API_ALLOW_INSECURE_TOKEN", "false").l
 # ---------------------------------------------------------------------------
 # 7. FORMATO DE RESPUESTA (límites para Meshtastic/LoRa)
 # ---------------------------------------------------------------------------
-RESP_MAX_CHARS_PER_MSG = int(os.environ.get("RESP_MAX_CHARS_PER_MSG", "250"))
+# Máximo de bytes UTF-8 por mensaje. Meshtastic tiene un límite LoRa útil de
+# ~237 bytes de texto. 230 bytes garantiza que entren de sobra tildes, ñ y signos.
+RESP_MAX_BYTES_PER_MSG = int(os.environ.get("RESP_MAX_BYTES_PER_MSG", "230"))
+RESP_MAX_CHARS_PER_MSG = RESP_MAX_BYTES_PER_MSG  # compatibilidad
 RESP_MAX_MESSAGES = int(os.environ.get("RESP_MAX_MESSAGES", "3"))
 # Aviso legal breve que se añade en respuestas médicas/de riesgo vital.
 RESP_DISCLAIMER_MEDICO = os.environ.get(

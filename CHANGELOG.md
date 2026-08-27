@@ -19,8 +19,9 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/
 - **Tests unitarios:** `tests/test_memory.py` y `tests/test_sources_cadiz.py`.
 
 ### Modificado
+- **Control Estricto de 230 Bytes UTF-8 para Meshtastic:** Adaptado el empaquetador de respuestas (`src/api/postprocess.py`) para medir longitudes en bytes UTF-8 en lugar de caracteres simples. Se fija el límite en $\le 230$ bytes UTF-8 para encajar sin riesgo en el buffer LoRa de Meshtastic (`Constants.DATA_PAYLOAD_LEN = 237 bytes`) con soporte para tildes y signos en español sin cortes de caracteres multibyte.
 - **Triaje de Emergencias Activo:** Reformulado el prompt para evaluar de inmediato el estado físico de la víctima, aportar pautas de inmovilización/abrigo y referenciar puntos de auxilio para el 112, eliminando el rechazo prematuro.
-- **Contrato de API (`docs/info/08-contrato-api.md`):** Actualizado como documento 100% autónomo y exportable con soporte para `id_conversacion` y `reset_conversacion`.
+- **Contrato de API (`docs/info/08-contrato-api.md`):** Actualizado como documento 100% autónomo y exportable con soporte para `id_conversacion`, `reset_conversacion` y límites en bytes UTF-8.
 
 ---
 
