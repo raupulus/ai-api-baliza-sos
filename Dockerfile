@@ -26,6 +26,7 @@ RUN pip install --no-cache-dir --upgrade pip && \
 COPY src/ /app/src/
 COPY deploy/ /app/deploy/
 COPY scripts/ /app/scripts/
+COPY tests/ /app/tests/
 COPY env.example.py /app/env.example.py
 
 # Directorios de datos y logs

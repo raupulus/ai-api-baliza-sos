@@ -37,7 +37,7 @@ restart: ## Reinicia los contenedores bot-api y bot-web
 	ssh $(PI_HOST) "cd $(PI_DIR) && docker compose restart api web"
 
 test: ## Ejecuta la suite de pruebas unitarias en el contenedor API
-	ssh $(PI_HOST) "cd $(PI_DIR) && docker compose exec api pytest -v"
+	ssh $(PI_HOST) "cd $(PI_DIR) && docker compose exec -e PYTHONPATH=/app/src:/app api python3 -m unittest discover -s tests -p 'test_*.py' -v"
 
 check: ## Ejecuta validaciones locales de sintaxis y linters
 	./scripts/check.sh
