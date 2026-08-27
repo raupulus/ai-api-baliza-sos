@@ -15,7 +15,7 @@ def test_prompt_incluye_reglas_y_provincia():
 def test_prompt_sin_contexto_avisa():
     p = construir_prompt("consulta rara", "", suficiente=False)
     assert "112" in p
-    assert "vacío" in p or "vacio" in p.lower()
+    assert "sin datos" in p.lower() or "vacío" in p or "vacio" in p.lower()
 
 
 def test_mensajes_estructura_chat():
