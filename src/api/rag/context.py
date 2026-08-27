@@ -50,7 +50,7 @@ def construir_contexto(
 
     for r in ordenados:
         frag = r.fragmento
-        entrada = f"- ({frag.fuente}) {frag.texto}"
+        entrada = f"- {frag.texto}"
         if total + len(entrada) > max_chars and usados > 0:
             break
         lineas.append(entrada)

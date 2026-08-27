@@ -29,6 +29,7 @@ _FRASE = re.compile(r"[^.!?\n]+[.!?]?", re.UNICODE)
 class RespuestaFormateada:
     mensajes: list[str]
     truncado: bool
+    aviso: str | None = None
 
 
 def _len_bytes(texto: str) -> int:
@@ -146,34 +147,39 @@ def formatear(
     max_chars: int | None = None,
     max_msgs: int | None = None,
     aviso_medico: str | None = None,
+    incluir_aviso_en_mensajes: bool = False,
 ) -> RespuestaFormateada:
     """Devuelve los mensajes listos para el cliente (1–N, cada uno <= max_bytes UTF-8).
 
     max_chars se mantiene por compatibilidad hacia atrás; si se especifica, actúa
     como límite en bytes.
+    Por defecto, los metadatos y avisos médicos van fuera de `mensajes` (en `r.aviso`).
     """
     limite_bytes = (
         max_bytes
         or max_chars
-        or getattr(settings, "resp_max_bytes_per_msg", 230)
+        or getattr(settings, "resp_max_bytes_per_msg", 200)
     )
     max_msgs = max_msgs or settings.resp_max_messages
     aviso = aviso_medico if aviso_medico is not None else settings.resp_disclaimer_medico
 
     texto = _limpiar(texto_crudo)
     if not texto:
-        return RespuestaFormateada(mensajes=[], truncado=False)
+        return RespuestaFormateada(mensajes=[], truncado=False, aviso=None)
 
     frases = _trocear_frases(texto)
     mensajes, truncado = _empaquetar(frases, limite_bytes, max_msgs)
 
-    if categoria in CATEGORIAS_CON_AVISO and aviso:
+    aviso_aplicable = aviso if (categoria in CATEGORIAS_CON_AVISO and aviso) else None
+
+    # Solo si explícitamente se solicita meter el aviso dentro de los paquetes de radio
+    if incluir_aviso_en_mensajes and aviso_aplicable:
         antes = list(mensajes)
-        mensajes = _añadir_aviso(mensajes, limite_bytes, max_msgs, aviso)
+        mensajes = _añadir_aviso(mensajes, limite_bytes, max_msgs, aviso_aplicable)
         # Si para meter el aviso hubo que recortar, marcamos truncado.
         if mensajes != antes and any(_len_bytes(a) >= limite_bytes for a in antes):
             truncado = True
 
     # Garantía dura de los límites en bytes UTF-8.
     mensajes = [_slice_utf8_bytes(m, limite_bytes) for m in mensajes][:max_msgs]
-    return RespuestaFormateada(mensajes=mensajes, truncado=truncado)
+    return RespuestaFormateada(mensajes=mensajes, truncado=truncado, aviso=aviso_aplicable)

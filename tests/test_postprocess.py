@@ -29,13 +29,16 @@ def test_maximo_tres_mensajes():
 
 def test_aviso_medico_presente_en_fauna():
     r = formatear("Retira el tentaculo con cuidado.", categoria=Categoria.FAUNA)
-    unido = " ".join(r.mensajes).lower()
-    assert "112" in unido
+    assert r.aviso is not None
+    assert "112" in r.aviso
+    # Garantizar que los mensajes de radio vayan limpios sin avisos incrustados
+    assert all("112" not in m for m in r.mensajes)
 
 
 def test_aviso_no_en_geografia():
     r = formatear("El faro esta al norte.", categoria=Categoria.GEOGRAFIA)
-    assert "112" not in " ".join(r.mensajes)
+    assert r.aviso is None
+    assert all("112" not in m for m in r.mensajes)
 
 
 def test_texto_vacio():

@@ -91,6 +91,7 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
             "categoria": contexto.categoria.value if contexto.categoria else None,
             "confianza": contexto.confianza,
             "fuentes": [f.get("titulo") for f in contexto.fuentes],
+            "aviso": formateada.aviso,
         }
         conversation_memory.guardar_turno(
             id_conversacion=conv_id,
@@ -107,6 +108,7 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
         categoria=contexto.categoria.value if contexto.categoria else None,
         confianza=contexto.confianza,
         fuentes=[FuenteOut(**f) for f in contexto.fuentes],
+        aviso=formateada.aviso,
         modelo=_nombre_modelo(),
         tiempo_ms=tiempo_ms,
         truncado=formateada.truncado,

@@ -45,6 +45,7 @@ class ConsultaResponse(BaseModel):
     categoria: str | None = None
     confianza: float = 0.0
     fuentes: list[FuenteOut] = Field(default_factory=list)
+    aviso: str | None = None
     modelo: str | None = None
     tiempo_ms: int = 0
     truncado: bool = False

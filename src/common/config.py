@@ -216,7 +216,7 @@ def _build_settings() -> Settings:
             os.environ.get("RESP_MAX_BYTES_PER_MSG")
             or getattr(env, "RESP_MAX_BYTES_PER_MSG", None)
             or os.environ.get("RESP_MAX_CHARS_PER_MSG")
-            or getattr(env, "RESP_MAX_CHARS_PER_MSG", 230)
+            or getattr(env, "RESP_MAX_CHARS_PER_MSG", 200)
         ),
         resp_max_messages=get("RESP_MAX_MESSAGES"),
         resp_disclaimer_medico=get("RESP_DISCLAIMER_MEDICO"),
