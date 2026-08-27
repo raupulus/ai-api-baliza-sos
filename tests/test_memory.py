@@ -29,8 +29,8 @@ class TestConversationMemory(unittest.TestCase):
     def test_obtener_historial_expirada_por_ttl(self):
         mgr = ConversationMemoryManager(max_turnos=20, turnos_compactar=10, ttl_segundos=3600)
         mock_cur = MagicMock()
-        # Fila: (activa=True, resumen=None, seg_inactivo=4000.0) -> expirada (> 3600)
-        mock_cur.fetchone.return_value = (True, None, 4000.0)
+        # Fila: (id, activa=True, resumen=None, seg_inactivo=4000.0) -> expirada (> 3600)
+        mock_cur.fetchone.return_value = ("id-expirado", True, None, 4000.0)
 
         with patch("api.memory.cursor") as mock_cursor_ctx:
             mock_cursor_ctx.return_value.__enter__.return_value = mock_cur
@@ -46,7 +46,9 @@ class TestConversationMemory(unittest.TestCase):
     def test_obtener_historial_con_mensajes_y_resumen(self):
         mgr = ConversationMemoryManager(max_turnos=20, turnos_compactar=10, ttl_segundos=3600)
         mock_cur = MagicMock()
-        mock_cur.fetchone.return_value = (True, "El usuario preguntó por playas", 300.0)
+        # Fila: (id, activa=True, resumen, seg_inactivo=300.0)
+        mock_cur.fetchone.return_value = ("id-valido", True, "El usuario preguntó por playas", 300.0)
+        # Mensajes asociados
         mock_cur.fetchall.return_value = [
             ("user", "¿Hay medusas en Zahara?"),
             ("assistant", "No hay alertas activas de medusas hoy."),
@@ -78,15 +80,16 @@ class TestConversationMemory(unittest.TestCase):
     def test_guardar_turno_e_insercion(self):
         mgr = ConversationMemoryManager(max_turnos=20, turnos_compactar=10, ttl_segundos=3600)
         mock_cur = MagicMock()
+        # total_orden actual = 2; total_mensajes tras inserción = 4 (no supera 40)
         mock_cur.fetchone.side_effect = [(2,), (4,)]
 
         with patch("api.memory.cursor") as mock_cursor_ctx:
             mock_cursor_ctx.return_value.__enter__.return_value = mock_cur
             mgr.guardar_turno(
                 id_conversacion="conv-1",
-                pregunta="¿Dónde está Tarifa?",
-                respuesta="Tarifa está en el extremo sur.",
                 cliente_id="nodo-lora",
+                consulta_usuario="¿Dónde está Tarifa?",
+                respuesta_asistente="Tarifa está en el extremo sur.",
                 metadatos={"tiempo_ms": 1200},
             )
             self.assertGreaterEqual(mock_cur.execute.call_count, 3)
