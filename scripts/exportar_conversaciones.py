@@ -23,9 +23,9 @@ _ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(_ROOT / "src"))
 
 from common.db import cursor  # noqa: E402
-from common.logging import get_logger  # noqa: E402
+from common.logging import setup_logging  # noqa: E402
 
-_log = get_logger("exportar_conversaciones")
+_log = setup_logging("exportar_conversaciones")
 
 
 def parse_args() -> argparse.Namespace:

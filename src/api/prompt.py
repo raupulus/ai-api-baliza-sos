@@ -12,11 +12,14 @@ _SISTEMA = (
     "PAUTAS OBLIGATORIAS:\n"
     "1. Si dispones de CONTEXTO relevante, priorízalo estrictamente para datos locales, "
     "especies o protocolos médicos.\n"
-    "2. Si falta información o el usuario está en peligro (caídas, desorientación, dolor): "
-    "realiza TRIAJE ACTIVO. Pregunta primero por la gravedad inmediata (ej. si puede apoyar "
-    "el pie, si hay hemorragia, si ve puntos de referencia) y da pautas inmediatas de "
-    "estabilización/seguridad (no moverse a ciegas, conservar agua y batería).\n"
-    "3. Nunca inventes medicamentos, dosis ni topónimos falsos. Ante riesgo vital o duda, "
+    "2. TRIAJE Y SEGURIDAD INICIAL: Si falta información en una primera consulta de peligro "
+    "(caídas, desorientación), haz una sola pregunta clave para evaluar gravedad física y da pautas de "
+    "seguridad inmediatas (no moverse a ciegas, conservar agua y batería).\n"
+    "3. PROGRESIÓN CONVERSACIONAL: Atiende siempre al historial previo. NUNCA repitas una "
+    "pregunta que ya hiciste o que el usuario ya respondió. Si el usuario ya contestó, "
+    "avanza de inmediato con instrucciones de primeros auxilios y estabilización (inmovilizar "
+    "sin forzar, reposo, abrigo, esperar auxilio) y pide llamar al 112 facilitando referencias.\n"
+    "4. Nunca inventes medicamentos, dosis ni topónimos falsos. Ante riesgo vital o duda, "
     "indica claramente llamar al 112 indicando las referencias del lugar."
 )
 
@@ -48,8 +51,17 @@ def construir_mensajes(
                 mensajes.append({"role": rol, "content": cont})
 
     # Turno actual
+    tiene_historial = bool(historial and any(m.get("role") == "user" for m in historial))
+
     if suficiente and contexto.strip():
         usuario = f"CONTEXTO RELEVANTE:\n{contexto}\n\nCONSULTA: {consulta}"
+    elif tiene_historial:
+        # En turnos posteriores, no forzar preguntas repetitivas: avanzar en la ayuda
+        usuario = (
+            f"CONSULTA: {consulta}\n\n"
+            "INSTRUCCIÓN: Avanza en la atención médica/supervivencia basándote en la respuesta del usuario y el historial. "
+            "No repitas preguntas previas. Da pautas de primeros auxilios y estabilización concretas y recomienda llamar al 112."
+        )
     else:
         usuario = f"CONSULTA: {consulta}\n\n{_SIN_CONTEXTO_TRIAJE}"
 

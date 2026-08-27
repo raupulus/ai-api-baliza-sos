@@ -180,7 +180,7 @@ Limpia la memoria y el contexto de un identificador de conversación o cliente p
    * Cantidad máxima de elementos: **3 mensajes**.
    * Los clientes de radio pueden transmitir cada elemento como un paquete individual secuencial (`[1/2]`, `[2/2]`).
 2. **Garantía Anti-Alucinación:**
-   * Si la consulta no coincide con el corpus validado de Cádiz con una similitud coseno $\ge 0.55$, el sistema **no inventa información**.
+   * Si la consulta no coincide con el corpus validado de Cádiz con una similitud coseno $\ge 0.42$, el sistema **no inventa información**.
    * Devuelve `confianza: 0.0`, `fuentes: []` y un mensaje estándar:
      `"No dispongo de información fiable. Recomiendo llamar al 112 si es urgente."`
 3. **Aviso Médico Obligatorio:**

@@ -74,8 +74,8 @@ EMBEDDING_PASSAGE_PREFIX = os.environ.get("EMBEDDING_PASSAGE_PREFIX", "")
 # ---------------------------------------------------------------------------
 RAG_TOP_K = int(os.environ.get("RAG_TOP_K", "4"))
 # Umbral mínimo de similitud coseno para considerar útil un fragmento.
-# Fragmentos por debajo se descartan. 0.55 es un valor equilibrado para MiniLM.
-RAG_MIN_SCORE = float(os.environ.get("RAG_MIN_SCORE", "0.55"))  # umbral similitud
+# Fragmentos por debajo se descartan. 0.42 es un valor equilibrado para MiniLM en lenguaje natural.
+RAG_MIN_SCORE = float(os.environ.get("RAG_MIN_SCORE", "0.42"))  # umbral similitud
 RAG_MAX_CONTEXT_CHARS = int(os.environ.get("RAG_MAX_CONTEXT_CHARS", "1800"))
 
 # ---------------------------------------------------------------------------

@@ -21,6 +21,8 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/
 ### Modificado
 - **Control Estricto de 230 Bytes UTF-8 para Meshtastic:** Adaptado el empaquetador de respuestas (`src/api/postprocess.py`) para medir longitudes en bytes UTF-8 en lugar de caracteres simples. Se fija el límite en $\le 230$ bytes UTF-8 para encajar sin riesgo en el buffer LoRa de Meshtastic (`Constants.DATA_PAYLOAD_LEN = 237 bytes`) con soporte para tildes y signos en español sin cortes de caracteres multibyte.
 - **Triaje de Emergencias Activo:** Reformulado el prompt para evaluar de inmediato el estado físico de la víctima, aportar pautas de inmovilización/abrigo y referenciar puntos de auxilio para el 112, eliminando el rechazo prematuro.
+- **Corrección de Bucle Conversacional y Progresión de Triaje:** Corregido el bucle atractor en el que el asistente repetía la misma pregunta de evaluación. Se introdujo una regla de progresión conversacional estricta en el prompt que prohíbe repetir preguntas ya contestadas y avanza de inmediato a primeros auxilios/inmovilización. Además, se configuraron `repeat_penalty: 1.15` y `presence_penalty: 0.4` en las peticiones al LLM.
+- **Calibración de Umbral RAG (`RAG_MIN_SCORE = 0.42`):** Calibrado el umbral de similitud coseno de 0.55 a 0.42, adaptado a consultas en lenguaje natural con el modelo MiniLM-L12 para recuperar documentos médicos ante accidentes en montaña.
 - **Contrato de API (`docs/info/08-contrato-api.md`):** Actualizado como documento 100% autónomo y exportable con soporte para `id_conversacion`, `reset_conversacion` y límites en bytes UTF-8.
 
 ---

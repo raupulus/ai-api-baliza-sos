@@ -46,6 +46,8 @@ class LLMClient:
             "temperature": (
                 temperature if temperature is not None else settings.llm_temperature
             ),
+            "repeat_penalty": 1.15,
+            "presence_penalty": 0.4,
             "stop": ["\n\n\n"],
             "cache_prompt": True,
         }
@@ -59,6 +61,9 @@ class LLMClient:
             "temperature": (
                 temperature if temperature is not None else settings.llm_temperature
             ),
+            "presence_penalty": 0.4,
+            "frequency_penalty": 0.2,
+            "repeat_penalty": 1.15,
             "cache_prompt": True,
         }
 
