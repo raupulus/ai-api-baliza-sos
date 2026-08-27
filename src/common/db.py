@@ -52,6 +52,10 @@ def _register_vector(conn: Any) -> None:
         register_vector(conn)
     except ImportError as exc:  # pragma: no cover
         raise DatabaseError("pgvector no está instalado.") from exc
+    except Exception:
+        # Si la extensión 'vector' aún no existe en la base de datos
+        # (por ejemplo, antes de aplicar las migraciones iniciales).
+        pass
 
 
 @contextmanager

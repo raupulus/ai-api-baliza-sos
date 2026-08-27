@@ -24,10 +24,10 @@ SELECT
     id, texto, fuente, fuente_url, fecha, categoria, subcategoria, provincia,
     nivel_confianza, licencia, peligrosa, validado_por, validado_fecha,
     hash_contenido,
-    1 - (embedding <=> %(qvec)s) AS score
+    1 - (embedding <=> %(qvec)s::vector) AS score
 FROM fragmentos
 {where}
-ORDER BY embedding <=> %(qvec)s
+ORDER BY embedding <=> %(qvec)s::vector
 LIMIT %(limit)s;
 """
 

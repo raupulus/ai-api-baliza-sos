@@ -9,10 +9,10 @@ if [ -n "$DB_HOST" ]; then
     MAX_RETRIES=30
     COUNT=0
     until python3 -c "
-import sys
-from common.db import connection
+import sys, psycopg
+from common.config import settings
 try:
-    with connection() as conn:
+    with psycopg.connect(settings.db_dsn) as conn:
         with conn.cursor() as cur:
             cur.execute('SELECT 1')
     sys.exit(0)

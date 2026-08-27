@@ -47,14 +47,10 @@ CREATE INDEX IF NOT EXISTS idx_fragmentos_confianza   ON fragmentos (nivel_confi
 -- mucho. NOTA: IVFFlat requiere datos para construirse con buen reparto; se
 -- puede crear/recrear tras la primera carga masiva.
 --
--- IVFFlat (coseno):
-CREATE INDEX IF NOT EXISTS idx_fragmentos_embedding_ivf
-    ON fragmentos USING ivfflat (embedding vector_cosine_ops)
-    WITH (lists = 100);
---
--- Alternativa HNSW (mejor recall, más RAM; solo si el corpus es grande):
--- CREATE INDEX IF NOT EXISTS idx_fragmentos_embedding_hnsw
---     ON fragmentos USING hnsw (embedding vector_cosine_ops);
+-- Índice vectorial HNSW (coseno): permite inserciones dinámicas desde 0 filas,
+-- excelente recall y construcción incremental sin requerir reentrenar centroides.
+CREATE INDEX IF NOT EXISTS idx_fragmentos_embedding_hnsw
+    ON fragmentos USING hnsw (embedding vector_cosine_ops);
 
 -- Auditoría de ejecuciones del actualizador.
 CREATE TABLE IF NOT EXISTS ingestas (

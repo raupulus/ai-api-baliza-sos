@@ -23,7 +23,7 @@ services:
 
   # 2. Servidor de inferencia LLM (llama.cpp)
   llm:
-    image: ghcr.io/ggerganov/llama.cpp:server
+    image: ghcr.io/ggml-org/llama.cpp:server
     container_name: bot-llm
     restart: unless-stopped
     command:
@@ -77,8 +77,13 @@ services:
       LLM_MAX_TOKENS: ${LLM_MAX_TOKENS:-320}
       LLM_TEMPERATURE: ${LLM_TEMPERATURE:-0.3}
       LLM_TIMEOUT_SECONDS: ${LLM_TIMEOUT_SECONDS:-280}
-      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-intfloat/multilingual-e5-small}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2}
       EMBEDDING_DIM: ${EMBEDDING_DIM:-384}
+      EMBEDDING_QUERY_PREFIX: ${EMBEDDING_QUERY_PREFIX:-}
+      EMBEDDING_PASSAGE_PREFIX: ${EMBEDDING_PASSAGE_PREFIX:-}
+      RAG_TOP_K: ${RAG_TOP_K:-4}
+      RAG_MIN_SCORE: ${RAG_MIN_SCORE:-0.55}
+      RAG_MAX_CONTEXT_CHARS: ${RAG_MAX_CONTEXT_CHARS:-1800}
       PROVINCIA: ${PROVINCIA:-Cádiz}
       PROVINCIA_SLUG: ${PROVINCIA_SLUG:-cadiz}
       PAIS: ${PAIS:-España}
@@ -97,6 +102,7 @@ services:
     volumes:
       - ${HOST_STORAGE_PATH:-./data}/logs:/app/logs
       - ${HOST_STORAGE_PATH:-./data}/data/staging:/app/data/staging
+      - ${HOST_STORAGE_PATH:-./data}/cache:/tmp/fastembed_cache
     networks:
       - bot-net
 
@@ -125,6 +131,7 @@ services:
     volumes:
       - ${HOST_STORAGE_PATH:-./data}/data/staging:/app/data/staging
       - ${HOST_STORAGE_PATH:-./data}/logs:/app/logs
+      - ${HOST_STORAGE_PATH:-./data}/cache:/tmp/fastembed_cache
     networks:
       - bot-net
 

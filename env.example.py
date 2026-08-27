@@ -61,17 +61,21 @@ LLM_TIMEOUT_SECONDS = int(os.environ.get("LLM_TIMEOUT_SECONDS", "280"))
 # (384 dimensiones): excelente en español, índice pequeño, rápido.
 # IMPORTANTE: si cambias de modelo cambia también EMBEDDING_DIM y hay que
 # reindexar toda la base vectorial.
-EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "intfloat/multilingual-e5-small")
+EMBEDDING_MODEL = os.environ.get(
+    "EMBEDDING_MODEL", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+)
 EMBEDDING_DIM = int(os.environ.get("EMBEDDING_DIM", "384"))
-# Prefijos que exige la familia e5 ("query:" / "passage:").
-EMBEDDING_QUERY_PREFIX = os.environ.get("EMBEDDING_QUERY_PREFIX", "query: ")
-EMBEDDING_PASSAGE_PREFIX = os.environ.get("EMBEDDING_PASSAGE_PREFIX", "passage: ")
+# Prefijos para el modelo (vacíos para MiniLM, "query: "/"passage: " para e5).
+EMBEDDING_QUERY_PREFIX = os.environ.get("EMBEDDING_QUERY_PREFIX", "")
+EMBEDDING_PASSAGE_PREFIX = os.environ.get("EMBEDDING_PASSAGE_PREFIX", "")
 
 # ---------------------------------------------------------------------------
 # 4. RECUPERACIÓN RAG
 # ---------------------------------------------------------------------------
-RAG_TOP_K = int(os.environ.get("RAG_TOP_K", "4"))          # fragmentos a recuperar
-RAG_MIN_SCORE = float(os.environ.get("RAG_MIN_SCORE", "0.70"))  # umbral similitud
+RAG_TOP_K = int(os.environ.get("RAG_TOP_K", "4"))
+# Umbral mínimo de similitud coseno para considerar útil un fragmento.
+# Fragmentos por debajo se descartan. 0.55 es un valor equilibrado para MiniLM.
+RAG_MIN_SCORE = float(os.environ.get("RAG_MIN_SCORE", "0.55"))  # umbral similitud
 RAG_MAX_CONTEXT_CHARS = int(os.environ.get("RAG_MAX_CONTEXT_CHARS", "1800"))
 
 # ---------------------------------------------------------------------------

@@ -117,7 +117,7 @@ async def health() -> HealthResponse:
 @app.post(
     "/v1/consulta",
     response_model=ConsultaResponse,
-    responses={4: {"model": ErrorResponse}, 5: {"model": ErrorResponse}},
+    responses={400: {"model": ErrorResponse}, 500: {"model": ErrorResponse}},
     dependencies=[Depends(auth)],
 )
 async def consulta(req: ConsultaRequest) -> ConsultaResponse:
