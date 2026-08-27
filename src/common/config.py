@@ -91,12 +91,14 @@ class Settings:
     db_password: str
     db_data_dir: str
 
-    # --- API ---
+    # --- API & Web ---
     api_host: str
     api_port: int
     api_auth_token: str
     api_max_concurrent_inferences: int
     api_allow_insecure_token: bool
+    web_host: str
+    web_port: int
 
     # --- Formato de respuesta ---
     resp_max_chars_per_msg: int
@@ -198,6 +200,8 @@ def _build_settings() -> Settings:
         api_auth_token=get("API_AUTH_TOKEN"),
         api_max_concurrent_inferences=get("API_MAX_CONCURRENT_INFERENCES"),
         api_allow_insecure_token=get("API_ALLOW_INSECURE_TOKEN"),
+        web_host=get("WEB_HOST"),
+        web_port=get("WEB_PORT"),
         resp_max_chars_per_msg=get("RESP_MAX_CHARS_PER_MSG"),
         resp_max_messages=get("RESP_MAX_MESSAGES"),
         resp_disclaimer_medico=get("RESP_DISCLAIMER_MEDICO"),

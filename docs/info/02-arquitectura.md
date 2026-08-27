@@ -1,56 +1,68 @@
 # 02 · Arquitectura
 
-## 1. Vista general
-
-Dos servicios Python independientes sobre dos servicios de infraestructura
-(LLM y base de datos), todo nativo en la Raspberry Pi y gestionado por systemd.
+Dos servicios Python principales (`api` y `updater`) y una interfaz web de pruebas (`web`),
+orquestados mediante **Docker Compose** sobre una red aislada (`bot-net`) junto a los servicios
+de infraestructura (LLM `llama-server` y base de datos `PostgreSQL + pgvector`).
 
 ```
-        Clientes externos (otros repos)
-   ┌───────────────┐   ┌────────────────────┐
-   │ Bot Telegram  │   │ Gateway Meshtastic │
-   └───────┬───────┘   └─────────┬──────────┘
-           │   HTTP (JSON)       │
-           └──────────┬──────────┘
-                      ▼
-        ┌─────────────────────────────┐
-        │   SERVICIO API DEL BOT      │   (src/api, FastAPI+Uvicorn)
-        │  ───────────────────────    │
-        │  1. valida/normaliza query  │
-        │  2. embed query             │──► fastembed (e5-small, en proceso)
-        │  3. recupera top-k          │──► PostgreSQL + pgvector
-        │  4. construye prompt+ctx    │
-        │  5. genera respuesta        │──► llama-server (HTTP localhost)
-        │  6. post-procesa a 250×3    │
-        │  7. devuelve JSON           │
-        └─────────────────────────────┘
-                      ▲
-                      │ comparte BD y embeddings
-                      ▼
-        ┌─────────────────────────────┐
-        │ SERVICIO ACTUALIZADOR CTX   │   (src/updater)
-        │  ───────────────────────    │
-        │  fuentes → normaliza →      │
-        │  STAGING → checkpoint       │──► revisión humana
-        │  humano → embed → indexa    │──► PostgreSQL + pgvector
-        └─────────────────────────────┘
+         Clientes externos (otros repos / navegador)
+    ┌───────────────┐   ┌────────────────────┐   ┌──────────────────────┐
+    │ Bot Telegram  │   │ Gateway Meshtastic │   │ Navegador (Web UI)   │
+    └───────┬───────┘   └─────────┬──────────┘   └──────────┬───────────┘
+            │                     │                         │
+            │   HTTP :8870 (JSON) │                         ▼ HTTP :8443
+            └──────────┬──────────┘              ┌──────────────────────┐
+                       │                         │ SERVICIO WEB DE TEST │ (src/web, :8443)
+                       │◄────────────────────────┤ proxy /api/v1/...    │
+                       ▼                         └──────────────────────┘
+         ┌─────────────────────────────┐
+         │    SERVICIO API DEL BOT     │ (src/api, FastAPI :8870)
+         │  ───────────────────────    │
+         │  1. valida/normaliza query  │
+         │  2. embed query             │──► fastembed (MiniLM-L12-v2, 384d)
+         │  3. recupera top-k          │──► PostgreSQL + pgvector (HNSW)
+         │  4. construye prompt+ctx    │
+         │  5. genera respuesta        │──► llama-server (:8869)
+         │  6. post-procesa a 250×3    │
+         │  7. devuelve JSON           │
+         └─────────────────────────────┘
+                       ▲
+                       │ comparte BD y embeddings
+                       ▼
+         ┌─────────────────────────────┐
+         │ SERVICIO ACTUALIZADOR CTX   │ (src/updater, perfil tools)
+         │  ───────────────────────    │
+         │  fuentes → normaliza →      │
+         │  STAGING → checkpoint       │──► revisión humana
+         │  humano → embed → indexa    │──► PostgreSQL + pgvector
+         └─────────────────────────────┘
 
-   Infra (systemd):  llama-server   ·   PostgreSQL(+pgvector)
+    Infra (Docker / bot-net):
+    - bot-llm: llama-server ARM (:8869)
+    - bot-db:  PostgreSQL 17 + pgvector (interno :5432, host :5433)
 ```
 
-## 2. Servicios de infraestructura
+## 2. Servicios de infraestructura y Puertos
+
+| Contenedor | Puerto Host | Puerto Interno | Servicio / Rol |
+| :--- | :--- | :--- | :--- |
+| **`bot-llm`** | **`8869`** | `8869` | Servidor `llama-server` nativo ARM (`qwen2.5-3b-instruct-q4_k_m.gguf`). |
+| **`bot-api`** | **`8870`** | `8870` | API REST FastAPI del bot con pipeline RAG. |
+| **`bot-web`** | **`8443`** | `8443` | Interfaz web de pruebas y chat interactivo para simular paquetes RF. |
+| **`bot-db`**  | **`5433`** | `5432` | PostgreSQL 17 con extensión `pgvector` e índice HNSW (evita choque con PG5432 host). |
 
 ### llama-server (llama.cpp)
-- Proceso aparte que carga el GGUF indicado por `LLM_MODEL_PATH` y expone una
-  API HTTP compatible OpenAI en `127.0.0.1:LLM_SERVER_PORT`.
-- Desacopla el cambio de modelo: editar env + `systemctl restart llama-server`.
-- Una sola instancia; la API serializa las peticiones (semáforo).
+- Contenedor independiente basado en `ghcr.io/ggml-org/llama.cpp:server`.
+- Carga el GGUF indicado por `LLM_MODEL_FILE` montado desde el host (`/var/ia/bot-emergencias/models/`).
+- Escucha en el puerto **`8869`**.
+- Desacopla el cambio de modelo: editar `.env` + `docker compose restart llm`.
+- Una sola inferencia concurrente serializada por la API para preservar CPU y RAM.
 
 ### PostgreSQL + pgvector
-- Clúster **local** inicializado en `data/postgres` (autocontenido en el
-  proyecto, como pidió el requisito). Servicio systemd propio.
-- Una base de datos (`bot_emergencias`) con la extensión `pgvector`.
-- Almacena los fragmentos de conocimiento, sus metadatos y sus embeddings.
+- Contenedor basado en `pgvector/pgvector:pg17`.
+- Datos persistidos en el host en `/var/ia/bot-emergencias/data/postgres`.
+- Mapeado externamente al puerto `5433` para evitar conflicto con cualquier PostgreSQL del sistema anfitrión.
+- Índice vectorial **HNSW** (Hierarchical Navigable Small World) para inserciones incrementales dinámicas y recall óptimo desde 0 filas.
 
 ## 3. Servicio API del bot (`src/api`)
 

@@ -62,14 +62,37 @@ source .venv/bin/activate
 pytest                               # ejecuta la suite de pruebas
 ```
 
-## Cómo desplegar en la Raspberry Pi
+## Estado en producción (Raspberry Pi 5 en vivo)
+
+El backend se encuentra **desplegado y validado al 100% en Docker** sobre la Raspberry Pi 5 (`172.18.1.121`):
+
+- **Contenedores activos (healthy):**
+  - `bot-llm` en puerto `8869` (Qwen 2.5-3B-Instruct Q4_K_M en ARM).
+  - `bot-api` en puerto `8870` (FastAPI + Embeddings MiniLM 384d con caché persistente).
+  - `bot-web` en puerto `8443` (Interfaz web de chat de pruebas y proxy a API).
+  - `bot-db` en puerto interno `5432` / host `5433` (PostgreSQL 17 + pgvector HNSW).
+- **Rendimiento validado:**
+  - Latencia media en RPi5: ~8.6s – 9.7s por inferencia.
+  - Memoria RAM consumida: 3.5 GiB de 7.9 GiB (4.4 GiB libres para Hailo-8 / visión).
+  - Cumplimiento de paquetes $\le 250$ caracteres para radiofrecuencia (Meshtastic).
+- **Corpus inicial:** Semilla cargada e indexada en pgvector con índice HNSW.
+- **Aislamiento total:** Los servicios del host (Apache, MariaDB, PG17 local, Ollama) continúan activos sin ninguna colisión.
+
+## Cómo arrancar con Docker
 
 ```bash
-scripts/install.sh                   # paquetes, llama.cpp, modelo, BD, systemd
-# revisa env.py (DB_PASSWORD, API_AUTH_TOKEN, LLM_MODEL_PATH) antes
-python3 scripts/seed_corpus.py       # corpus de prueba (opcional)
-python -m updater.cli --all          # ingesta por API (Overpass/GBIF/Wikidata)
-python3 scripts/review.py            # checkpoint humano de lo sensible
-python -m updater.cli --reindex-aprobados
-scripts/healthcheck.sh
+# Copiar plantilla y configurar variables si es una instalación nueva
+cp .env.example .env
+
+# Desplegar stack completo en segundo plano
+docker compose up -d
+
+# Ver estado de los contenedores
+docker compose ps
+
+# Comprobar salud del sistema
+curl http://localhost:8870/health
+
+# Cargar o reindexar corpus semilla
+docker compose run --rm updater python3 scripts/seed_corpus.py
 ```

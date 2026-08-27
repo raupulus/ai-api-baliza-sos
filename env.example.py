@@ -39,7 +39,7 @@ IDIOMA = os.environ.get("IDIOMA", "es")  # Respuestas del bot: solo español.
 # (p. ej. al pasar de RPi4 4GB a RPi5 8GB) = cambiar LLM_MODEL_PATH y reiniciar
 # el servicio. Por defecto: Qwen2.5-1.5B-Instruct (seguro en 4GB).
 LLM_SERVER_HOST = os.environ.get("LLM_SERVER_HOST", "127.0.0.1")
-LLM_SERVER_PORT = int(os.environ.get("LLM_SERVER_PORT", "8081"))
+LLM_SERVER_PORT = int(os.environ.get("LLM_SERVER_PORT", "8869"))
 LLM_MODEL_PATH = os.environ.get(
     "LLM_MODEL_PATH",
     "./models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
@@ -93,7 +93,9 @@ DB_DATA_DIR = os.environ.get("DB_DATA_DIR", "./data/postgres")
 # 6. API DEL BOT (servicio que atienden los clientes Telegram/Meshtastic)
 # ---------------------------------------------------------------------------
 API_HOST = os.environ.get("API_HOST", "0.0.0.0")
-API_PORT = int(os.environ.get("API_PORT", "8080"))
+API_PORT = int(os.environ.get("API_PORT", "8870"))
+WEB_HOST = os.environ.get("WEB_HOST", "0.0.0.0")
+WEB_PORT = int(os.environ.get("WEB_PORT", "8443"))
 # Token simple de autenticación de clientes (cabecera Authorization: Bearer ...).
 API_AUTH_TOKEN = os.environ.get("API_AUTH_TOKEN", "CAMBIA_ESTE_TOKEN")
 # Sólo una inferencia LLM simultánea (protege la RAM de la RPi).

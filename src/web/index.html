@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bot Emergencias Cádiz — Entorno de Pruebas</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: #334155;
+      --primary: #38bdf8;
+      --primary-hover: #0284c7;
+      --user-bubble: #2563eb;
+      --bot-bubble: #1e293b;
+      --warning: #f59e0b;
+      --success: #10b981;
+      --danger: #ef4444;
+      --font: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Bar */
+    header {
+      background: #111827;
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .title-group {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .title-group h1 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--primary);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.75rem;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      font-weight: 600;
+      background: #1e293b;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+    }
+    .badge.online { color: #34d399; border-color: #065f46; background: #064e3b22; }
+    .badge.offline { color: #f87171; border-color: #7f1d1d; background: #7f1d1d22; }
+    .badge-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: currentColor;
+    }
+
+    .header-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .token-input-group {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 4px 8px;
+    }
+
+    .token-input-group label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .token-input-group input {
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-family: monospace;
+      font-size: 0.8rem;
+      width: 140px;
+      outline: none;
+    }
+
+    /* Main Container */
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      max-width: 900px;
+      width: 100%;
+      margin: 0 auto;
+      height: calc(100vh - 65px);
+      padding: 16px;
+      gap: 12px;
+    }
+
+    /* Quick Pills */
+    .quick-prompts {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+
+    .pill {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      padding: 6px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s ease;
+    }
+    .pill:hover {
+      background: #334155;
+      color: var(--text);
+      border-color: var(--primary);
+    }
+
+    /* Chat Log */
+    #chat-log {
+      flex: 1;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      padding: 8px 4px;
+    }
+
+    .message-row {
+      display: flex;
+      flex-direction: column;
+      max-width: 82%;
+    }
+    .message-row.user {
+      align-self: flex-end;
+      align-items: flex-end;
+    }
+    .message-row.bot {
+      align-self: flex-start;
+      align-items: flex-start;
+    }
+
+    .user-bubble {
+      background: var(--user-bubble);
+      color: #fff;
+      padding: 10px 16px;
+      border-radius: 14px 14px 2px 14px;
+      font-size: 0.95rem;
+      line-height: 1.4;
+      word-break: break-word;
+    }
+
+    /* Multi-packet Bot Messages (Meshtastic Style) */
+    .bot-packet-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      width: 100%;
+    }
+
+    .packet-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--primary);
+      border-radius: 4px 12px 12px 4px;
+      padding: 12px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .packet-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      border-bottom: 1px solid #33415555;
+      padding-bottom: 4px;
+    }
+
+    .packet-body {
+      font-size: 0.92rem;
+      line-height: 1.45;
+      color: #f1f5f9;
+    }
+
+    .char-count {
+      font-family: monospace;
+      font-weight: 600;
+    }
+    .char-count.ok { color: var(--success); }
+    .char-count.warn { color: var(--warning); }
+    .char-count.err { color: var(--danger); }
+
+    /* Metadata details */
+    .meta-box {
+      margin-top: 4px;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      padding: 6px 10px;
+      background: #090e17;
+      border-radius: 6px;
+      border: 1px solid #1e293b;
+    }
+
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .meta-item strong {
+      color: #cbd5e1;
+    }
+
+    /* Input Bar */
+    .input-bar {
+      display: flex;
+      gap: 10px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 6px 12px;
+      align-items: center;
+    }
+
+    .input-bar textarea {
+      flex: 1;
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-size: 0.95rem;
+      font-family: inherit;
+      resize: none;
+      height: 38px;
+      outline: none;
+      padding: 8px 0;
+      line-height: 1.4;
+    }
+
+    .send-btn {
+      background: var(--primary);
+      color: #0f172a;
+      border: none;
+      border-radius: 8px;
+      width: 38px;
+      height: 38px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      font-weight: bold;
+      transition: background 0.15s ease;
+    }
+    .send-btn:hover { background: var(--primary-hover); color: #fff; }
+    .send-btn:disabled { background: #475569; cursor: not-allowed; }
+
+    /* Loading indicator */
+    .loading-pulse {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border: 2px solid var(--primary);
+      border-top-color: transparent;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="title-group">
+      <h1>📡 Bot Emergencias Cádiz</h1>
+      <span class="badge" id="health-badge"><span class="badge-dot"></span> Verificando...</span>
+    </div>
+    <div class="header-actions">
+      <div class="token-input-group" title="Token Bearer para la API">
+        <label for="api-token">Token:</label>
+        <input type="password" id="api-token" placeholder="API Auth Token">
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="quick-prompts">
+      <button class="pill" onclick="sendQuick('Picadura de medusa que hago')">🪼 Picadura de medusa</button>
+      <button class="pill" onclick="sendQuick('Que hacer ante un golpe de calor?')">☀️ Golpe de calor</button>
+      <button class="pill" onclick="sendQuick('Como conseguir agua potable en la playa?')">💧 Agua en la costa</button>
+      <button class="pill" onclick="sendQuick('Perdido en la costa de Cadiz como orientarme?')">🧭 Orientación costera</button>
+      <button class="pill" onclick="sendQuick('Cual es la capital de Francia?')">❌ Prueba no-alucinación</button>
+    </div>
+
+    <div id="chat-log">
+      <div class="message-row bot">
+        <div class="bot-packet-group">
+          <div class="packet-card">
+            <div class="packet-header">
+              <span>SISTEMA INICIALIZADO</span>
+              <span class="char-count ok">0/250</span>
+            </div>
+            <div class="packet-body">
+              Bienvenido al entorno de pruebas web del Bot de Emergencias. Las respuestas se emulan en paquetes de máx. 250 caracteres tal y como viajarán por RF/Meshtastic o Telegram.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="input-bar">
+      <textarea id="prompt-input" placeholder="Escribe tu consulta de emergencia o supervivencia..." rows="1"></textarea>
+      <button id="send-btn" class="send-btn" title="Enviar consulta">➤</button>
+    </div>
+  </main>
+
+  <script>
+    const chatLog = document.getElementById('chat-log');
+    const promptInput = document.getElementById('prompt-input');
+    const sendBtn = document.getElementById('send-btn');
+    const tokenInput = document.getElementById('api-token');
+    const healthBadge = document.getElementById('health-badge');
+
+    // Recuperar token almacenado en localStorage si existe
+    const savedToken = localStorage.getItem('bot_api_token') || '';
+    if (savedToken) {
+      tokenInput.value = savedToken;
+    }
+    tokenInput.addEventListener('change', () => {
+      localStorage.setItem('bot_api_token', tokenInput.value.trim());
+    });
+
+    // Auto-ajuste de altura textarea y Enter para enviar
+    promptInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        handleSubmit();
+      }
+    });
+
+    sendBtn.addEventListener('click', handleSubmit);
+
+    function sendQuick(text) {
+      promptInput.value = text;
+      handleSubmit();
+    }
+
+    // Health check periódico
+    async function checkHealth() {
+      try {
+        const res = await fetch('/api/health');
+        if (res.ok) {
+          const data = await res.json();
+          if (data.ok) {
+            healthBadge.className = 'badge online';
+            healthBadge.innerHTML = `<span class="badge-dot"></span> Backend Activo (${data.llm ? 'LLM ✓' : 'LLM ✗'} · ${data.db ? 'DB ✓' : 'DB ✗'})`;
+            return;
+          }
+        }
+        throw new Error();
+      } catch (err) {
+        healthBadge.className = 'badge offline';
+        healthBadge.innerHTML = `<span class="badge-dot"></span> Backend No Disponible`;
+      }
+    }
+    checkHealth();
+    setInterval(checkHealth, 30000);
+
+    async function handleSubmit() {
+      const query = promptInput.value.trim();
+      if (!query) return;
+
+      const token = tokenInput.value.trim();
+      promptInput.value = '';
+      promptInput.disabled = true;
+      sendBtn.disabled = true;
+
+      // Renderizar mensaje del usuario
+      appendUserMessage(query);
+
+      // Renderizar estado de carga
+      const loadingEl = appendLoading();
+      chatLog.scrollTop = chatLog.scrollHeight;
+
+      const t0 = performance.now();
+      try {
+        const headers = { 'Content-Type': 'application/json' };
+        if (token) {
+          headers['Authorization'] = `Bearer ${token}`;
+        }
+
+        const res = await fetch('/api/v1/consulta', {
+          method: 'POST',
+          headers: headers,
+          body: JSON.stringify({ consulta: query })
+        });
+
+        const elapsedClient = Math.round(performance.now() - t0);
+        loadingEl.remove();
+
+        if (!res.ok) {
+          const errData = await res.json().catch(() => ({}));
+          appendErrorMessage(res.status, errData.detail || 'Error en la petición a la API');
+          return;
+        }
+
+        const data = await res.json();
+        appendBotResponse(data, elapsedClient);
+
+      } catch (err) {
+        loadingEl.remove();
+        appendErrorMessage(0, 'No se pudo conectar con el servidor web o el backend API.');
+      } finally {
+        promptInput.disabled = false;
+        sendBtn.disabled = false;
+        promptInput.focus();
+        chatLog.scrollTop = chatLog.scrollHeight;
+      }
+    }
+
+    function appendUserMessage(text) {
+      const row = document.createElement('div');
+      row.className = 'message-row user';
+      row.innerHTML = `<div class="user-bubble">${escapeHtml(text)}</div>`;
+      chatLog.appendChild(row);
+    }
+
+    function appendLoading() {
+      const row = document.createElement('div');
+      row.className = 'message-row bot';
+      row.innerHTML = `
+        <div class="bot-packet-group">
+          <div class="packet-card" style="border-left-color: var(--warning);">
+            <div class="packet-header">
+              <span>PROCESANDO INFERENCIA Y RAG</span>
+              <span class="loading-pulse"></span>
+            </div>
+            <div class="packet-body" style="color: var(--text-muted);">
+              Buscando contexto en base vectorial y consultando LLM Qwen 2.5 local...
+            </div>
+          </div>
+        </div>`;
+      chatLog.appendChild(row);
+      return row;
+    }
+
+    function appendBotResponse(data, elapsedClient) {
+      const row = document.createElement('div');
+      row.className = 'message-row bot';
+
+      const messages = data.mensajes || [];
+      const totalPackets = messages.length;
+
+      let packetsHtml = '';
+      messages.forEach((msg, idx) => {
+        const chars = msg.length;
+        const charClass = chars <= 250 ? 'ok' : 'err';
+
+        packetsHtml += `
+          <div class="packet-card">
+            <div class="packet-header">
+              <span>PAQUETE [${idx + 1}/${totalPackets}]</span>
+              <span class="char-count ${charClass}">${chars} / 250 caracteres</span>
+            </div>
+            <div class="packet-body">${escapeHtml(msg)}</div>
+          </div>`;
+      });
+
+      // Metadatos RAG y latencia
+      const cat = data.categoria ? escapeHtml(data.categoria) : 'General / Fuera de dominio';
+      const conf = (data.confianza * 100).toFixed(1) + '%';
+      const model = data.modelo || 'LLM';
+      const msServer = data.tiempo_ms || 0;
+
+      let fuentesText = 'Ninguna';
+      if (data.fuentes && data.fuentes.length > 0) {
+        fuentesText = data.fuentes.map(f => escapeHtml(f.titulo || 'Fuente')).join(', ');
+      }
+
+      const metaHtml = `
+        <div class="meta-box">
+          <span class="meta-item">📁 <strong>Categoría:</strong> ${cat}</span>
+          <span class="meta-item">🎯 <strong>Confianza RAG:</strong> ${conf}</span>
+          <span class="meta-item">⏱️ <strong>Latencia:</strong> ${msServer} ms (servidor) · ${elapsedClient} ms (total)</span>
+          <span class="meta-item">🧠 <strong>Modelo:</strong> ${model}</span>
+          <span class="meta-item" style="width: 100%;">📚 <strong>Fuentes:</strong> ${fuentesText}</span>
+        </div>`;
+
+      row.innerHTML = `<div class="bot-packet-group">${packetsHtml}${metaHtml}</div>`;
+      chatLog.appendChild(row);
+    }
+
+    function appendErrorMessage(code, detail) {
+      const row = document.createElement('div');
+      row.className = 'message-row bot';
+      row.innerHTML = `
+        <div class="bot-packet-group">
+          <div class="packet-card" style="border-left-color: var(--danger);">
+            <div class="packet-header">
+              <span style="color: var(--danger); font-weight: bold;">ERROR ${code || ''}</span>
+            </div>
+            <div class="packet-body">${escapeHtml(detail)}</div>
+          </div>
+        </div>`;
+      chatLog.appendChild(row);
+    }
+
+    function escapeHtml(str) {
+      return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+  </script>
+</body>
+</html>

@@ -41,6 +41,10 @@ Se compone de **dos servicios independientes**:
 - **Seguridad del contenido.** El contenido médico y de especies peligrosas
   **requiere validación humana** antes de indexarse. Nunca generar protocolos
   médicos a partir de scraping no verificado.
+- **Documentación técnica obligatoria en `docs/info/`.** Cualquier cambio
+  arquitectónico, de configuración, de puertos, de endpoints o de stack técnico
+  debe quedar documentado obligatoria e inmediatamente en `docs/info/`.
+  Es una regla estricta: `docs/info/` es la fuente única de verdad del proyecto.
 
 ## 3. Configuración
 
@@ -97,7 +101,8 @@ Justificación detallada en `docs/info/03-decisiones-stack.md`.
   y la licencia de la fuente.
 
 ## 8. Estado actual
-
-**Fase de planificación.** El código aún no está implementado; el repositorio
-contiene la estructura, la configuración y la documentación/planificación. La
-implementación sigue el orden de `docs/planning/initial_plan/00_index.md`.
+ 
+**Backend y despliegue Docker operativos.** Los servicios centrales (`bot-api`,
+`bot-llm` con Qwen 2.5-3B, `bot-db` con PostgreSQL 17 + pgvector y `bot-web` para
+pruebas) están containerizados en Docker y desplegados de forma autónoma. La
+documentación técnica completa y contratos de API residen en `docs/info/`.
