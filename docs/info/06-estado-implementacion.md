@@ -64,19 +64,30 @@ pytest                               # ejecuta la suite de pruebas
 
 ## Estado en producción (Raspberry Pi 5 en vivo)
 
+> **Última actualización:** 2026-08-27  
+> **Estado global:** 100% Operativo y Desplegado en Docker
+
 El backend se encuentra **desplegado y validado al 100% en Docker** sobre la Raspberry Pi 5 (`172.18.1.121`):
 
 - **Contenedores activos (healthy):**
   - `bot-llm` en puerto `8869` (Qwen 2.5-3B-Instruct Q4_K_M en ARM).
-  - `bot-api` en puerto `8870` (FastAPI + Embeddings MiniLM 384d con caché persistente).
-  - `bot-web` en puerto `8443` (Interfaz web de chat de pruebas y proxy a API).
+  - `bot-api` en puerto `8870` (FastAPI + Embeddings MiniLM 384d + Memoria conversacional multi-turno).
+  - `bot-web` en puerto `8443` (Interfaz web de chat con gestión de sesión y reseteo).
   - `bot-db` en puerto interno `5432` / host `5433` (PostgreSQL 17 + pgvector HNSW).
+- **Memoria Conversacional y Persistencia (`0002_conversaciones.sql`):**
+  - Historial multi-turno persistente en tablas `conversaciones` y `mensajes_conversacion`.
+  - Ventana móvil de 20 turnos con compactación por IA y expiración por inactividad tras 1 hora (TTL 3600 s).
+  - Endpoint `POST /v1/conversacion/reset` y parámetro `reset_conversacion: true`.
+- **Triaje de Emergencias Activo:**
+  - Sustituido el rechazo prematuro por un triaje activo que evalúa gravedad física, aporta pautas de estabilización/supervivencia y solicita referencias para el 112.
+- **Corpus RAG Ampliado (89 fragmentos locales de Cádiz):**
+  - Primeros auxilios avanzados y montaña, flora y fauna peligrosa/comestible, los 45 municipios con coordenadas GPS oficiales y cotas, fiestas populares e historia.
+  - Script manual bajo demanda: `python3 scripts/actualizar_fuente.py`.
 - **Rendimiento validado:**
-  - Latencia media en RPi5: ~8.6s – 9.7s por inferencia.
-  - Memoria RAM consumida: 3.5 GiB de 7.9 GiB (4.4 GiB libres para Hailo-8 / visión).
-  - Cumplimiento de paquetes $\le 250$ caracteres para radiofrecuencia (Meshtastic).
-- **Corpus inicial:** Semilla cargada e indexada en pgvector con índice HNSW.
-- **Aislamiento total:** Los servicios del host (Apache, MariaDB, PG17 local, Ollama) continúan activos sin ninguna colisión.
+  - Latencia media en RPi5: ~6.8s – 8.6s por inferencia.
+  - Memoria RAM consumida: ~3.6 GiB de 7.9 GiB (4.3 GiB libres para otros proyectos/Hailo-8).
+  - Respuestas estrictas en paquetes $\le 250$ caracteres para radiofrecuencia (Meshtastic).
+- **Aislamiento total:** Los servicios del host (Apache, MariaDB, PG17 local, Ollama) continúan intactos sin ninguna colisión.
 
 ## Cómo arrancar con Docker
 

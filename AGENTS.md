@@ -41,68 +41,98 @@ Se compone de **dos servicios independientes**:
 - **Seguridad del contenido.** El contenido médico y de especies peligrosas
   **requiere validación humana** antes de indexarse. Nunca generar protocolos
   médicos a partir de scraping no verificado.
-- **Documentación técnica obligatoria en `docs/info/`.** Cualquier cambio
-  arquitectónico, de configuración, de puertos, de endpoints o de stack técnico
-  debe quedar documentado obligatoria e inmediatamente en `docs/info/`.
-  Es una regla estricta: `docs/info/` es la fuente única de verdad del proyecto.
+- **Documentación técnica obligatoria en `docs/info/` y `docs/rag/`.** Cualquier
+  cambio arquitectónico, de configuración, de endpoints o de fuentes de conocimiento
+  debe quedar documentado obligatoria e inmediatamente en su directorio respectivo.
+  Es una regla estricta: `docs/info/` y `docs/rag/` son las fuentes únicas de verdad.
 
-## 3. Configuración
+## 3. Guía de Navegación de Documentación para Agentes
 
-- La config real vive en **`env.py`** (NO trackeado). La plantilla es
+Para optimizar el uso de contexto y mantener la consistencia técnica, los agentes deben
+consultar **únicamente el archivo específico** que corresponda a la tarea en curso:
+
+### A. Documentación Técnica (`docs/info/`)
+Abrir **solo** el archivo relacionado con el módulo que se va a consultar o modificar:
+* **`docs/info/01-vision-requisitos.md`** → Visión de producto, casos de uso, restricciones LoRa/RF y premisas de diseño.
+* **`docs/info/02-arquitectura.md`** → Diagramas de contenedores Docker, red `bot-net`, flujo entre servicios y puertos (`8869`, `8870`, `8443`, `5433`).
+* **`docs/info/03-decisiones-stack.md`** → Justificación técnica de `llama.cpp`, fastembed, PostgreSQL + pgvector y FastAPI.
+* **`docs/info/04-presupuesto-recursos.md`** → Límites de memoria RAM, control de inferencia concurrente (semáforo) y presupuesto térmico.
+* **`docs/info/05-contratos-datos.md`** → Esquemas internos de dominio (`Fragmento`, `Categoria`), tablas relacionales (`conversaciones`, `mensajes_conversacion`) y hashes de contenido.
+* **`docs/info/06-estado-implementacion.md`** → Matriz de estado de módulos y checklist de tareas completadas.
+* **`docs/info/07-hardware-objetivo.md`** → Ficha técnica del hardware (RPi4 / RPi5 8GB), flags de CPU, NPU Hailo-8 y almacenamiento SSD.
+* **`docs/info/08-contrato-api.md`** → Contrato formal de integración HTTP REST (`/v1/consulta`, `/v1/conversacion/reset`, `/health`), cabeceras Bearer, formatos JSON y ejemplos cURL/Python/JS.
+
+### B. Especificación de Fuentes de Conocimiento del RAG (`docs/rag/`)
+Cuando se trabaje con **datos, ingesta, vectorización o ampliación de conocimiento**,
+acudir obligatoriamente a este directorio:
+* **`docs/rag/README.md`** → Metodología general, flujo de ingesta manual y registro maestro de fuentes.
+* **`docs/rag/PLANTILLA_FUENTE.md`** → Plantilla estándar que debe cumplimentarse antes de incorporar cualquier fuente nueva.
+* **`docs/rag/primeros-auxilios.md`** → Protocolos médicos y de supervivencia (Cruz Roja, SEMES, Protección Civil).
+* **`docs/rag/flora-fauna.md`** → Plantas tóxicas, setas venenosas, flora comestible y fauna peligrosa de Cádiz (REDIAM).
+* **`docs/rag/municipios-geografia.md`** → Los 45 municipios de Cádiz con coordenadas GPS WGS84 oficiales y cumbres (IGN/IECA).
+* **`docs/rag/fiestas-tradiciones.md`** → Festividades populares, carnavales, ferias y romerías (Patronato de Turismo).
+* **`docs/rag/historia-patrimonio.md`** → Hitos históricos de Cádiz: Gadir, época romana, 1812, Trafalgar (IAPH).
+* **`docs/rag/overpass-osm.md`** → Farmacias, centros sanitarios y fuentes de agua potable (OpenStreetMap).
+* **`docs/rag/wikidata.md`** → Hospitales, faros y entidades territoriales de Cádiz (Wikidata SPARQL).
+* **`docs/rag/gbif.md`** → Presencia biológica georreferenciada en el BBOX provincial (GBIF).
+
+## 4. Configuración
+
+- La config real vive en **`env.py`** y **`.env`** (NO trackeados). La plantilla es
   **`env.example.py`** (trackeada). Cualquier variable nueva se añade primero a
   `env.example.py` con un valor por defecto y un comentario.
 - El código accede a la config **solo** vía `src/common/config.py`. No leer
   `os.environ` ni importar `env.py` directamente desde otros módulos.
 
-## 4. Estructura del repositorio
+## 5. Estructura del repositorio
 
 ```
 src/
   common/     Config, conexión a BD, logging, modelos de datos compartidos.
-  api/        Servicio del bot (FastAPI): endpoints, pipeline RAG, post-proceso.
-  api/rag/    Embeddings, recuperación, construcción de contexto.
-  updater/    Servicio actualizador: orquestación, normalización, checkpoint.
-  updater/sources/  Un módulo por fuente de datos (GBIF, Overpass, AEMET...).
-docs/info/            Documentación técnica y decisiones de arquitectura.
-docs/planning/        Planificación por módulos (fases + checklists).
-deploy/systemd/       Unidades systemd de cada servicio.
-deploy/postgres/      Scripts de init del clúster local y del esquema.
-scripts/              Utilidades de operación (init, descarga de modelos...).
-tests/                Pruebas.
-data/                 Directorio de trabajo (BD, staging, modelos). NO trackeado.
+  api/        Servicio del bot (FastAPI): endpoints, pipeline RAG, memoria multi-turno, post-proceso.
+  api/rag/    Embeddings, recuperación vectorial, construcción de contexto.
+  updater/    Servicio actualizador: orquestación, normalización y staging.
+  updater/sources/  Módulos conectores por cada fuente de datos.
+  web/        Servidor y frontend de pruebas web local (chat interactivo).
+docs/info/    Documentación técnica y decisiones de arquitectura (8 archivos).
+docs/rag/     Fichas y especificaciones de las fuentes de conocimiento del RAG.
+docs/planning/  Planificación por módulos (fases + checklists).
+deploy/postgres/ Migraciones SQL (`0001_init.sql`, `0002_conversaciones.sql`).
+scripts/      Utilidades de operación (`actualizar_fuente.py`, `migrate.py`...).
+tests/        Pruebas automatizadas.
 ```
 
-## 5. Stack acordado (resumen)
+## 6. Stack acordado (resumen)
 
-- **Inferencia LLM:** `llama.cpp` (`llama-server`), compilado nativo para ARM.
-- **Modelo por defecto (4 GB):** Qwen2.5-1.5B-Instruct Q4_K_M. Alternativa en
-  hardware mayor: Qwen2.5-3B-Instruct.
-- **Embeddings:** `multilingual-e5-small` (384 dim) vía fastembed/ONNX.
-- **Base vectorial:** PostgreSQL + **pgvector** (clúster local en `data/`).
-- **API:** FastAPI + Uvicorn (1 worker, semáforo de 1 inferencia).
-- **Despliegue:** nativo con **systemd** (sin Docker).
+- **Inferencia LLM:** `llama.cpp` (`llama-server`) en puerto `8869`, modelo Qwen2.5-3B-Instruct Q4_K_M.
+- **Embeddings:** `fastembed` con `paraphrase-multilingual-MiniLM-L12-v2` (384 dimensiones).
+- **Base vectorial:** PostgreSQL 17 + **pgvector** en puerto `5433` (interno `5432`).
+- **API Backend:** FastAPI + Uvicorn en puerto `8870` (1 worker, semáforo de 1 inferencia pesada concurrente).
+- **Web UI:** Servidor FastAPI en puerto `8443` con interfaz de chat para validación previa.
+- **Despliegue:** Contenedores Docker orquestados con `docker-compose.yml`.
 
-Justificación detallada en `docs/info/03-decisiones-stack.md`.
+## 7. Flujo de trabajo para implementar
 
-## 6. Flujo de trabajo para implementar
-
-1. Localiza el módulo en `docs/planning/initial_plan/`.
+1. Localiza el módulo en `docs/planning/initial_plan/` o consulta `docs/info/`.
 2. Sigue las **fases en orden**; respeta las dependencias entre módulos.
-3. Al completar una tarea, **marca su casilla** en el checklist del módulo.
-4. Añade pruebas mínimas y actualiza la doc afectada en `docs/info/`.
-5. Mantén los commits pequeños y descriptivos.
+3. Si tocas el RAG, consulta y actualiza la ficha correspondiente en `docs/rag/`.
+4. Si tocas arquitectura, endpoints o configuración, actualiza `docs/info/`.
+5. Al completar una tarea, añade pruebas mínimas y mantén los commits pequeños y descriptivos.
 
-## 7. Convenciones de código
+## 8. Convenciones de código
 
 - Estilo: PEP 8, formateo con `ruff`/`black`, tipos con anotaciones.
 - Logging por el helper de `src/common`, nunca `print` en servicios.
-- Sin secretos en el repo. Todo secreto va a `env.py`.
+- Sin secretos en el repo. Todo secreto va a `.env` / `env.py`.
 - Toda llamada de red en el `updater` respeta `UPDATER_USER_AGENT`, rate limits
   y la licencia de la fuente.
 
-## 8. Estado actual
+## 9. Estado actual
  
-**Backend y despliegue Docker operativos.** Los servicios centrales (`bot-api`,
-`bot-llm` con Qwen 2.5-3B, `bot-db` con PostgreSQL 17 + pgvector y `bot-web` para
-pruebas) están containerizados en Docker y desplegados de forma autónoma. La
-documentación técnica completa y contratos de API residen en `docs/info/`.
+**Backend Docker y Memoria Conversacional Operativos.**
+- Servicios centrales containerizados (`bot-api`, `bot-llm`, `bot-db`, `bot-web`).
+- Memoria conversacional multi-turno persistente en PostgreSQL (ventana de 20 turnos con compactación por IA y TTL de 1 hora de inactividad).
+- Prompt calibrado para triaje de emergencias y primeros auxilios sin rechazos prematuros.
+- Corpus RAG ampliado con 89 fragmentos locales de Cádiz (médico, flora/fauna, 45 municipios con coordenadas WGS84, fiestas e historia).
+- Script de actualización manual bajo demanda: `python3 scripts/actualizar_fuente.py`.
+

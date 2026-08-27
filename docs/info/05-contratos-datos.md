@@ -1,5 +1,8 @@
 # 05 · Contratos de datos (API y RAG)
 
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Contrato HTTP de API, modelo interno de fragmentos y persistencia relacional.
+
 Define los formatos estables que comparten el backend y los clientes externos,
 y el formato interno de los fragmentos del RAG. Cualquier cambio aquí es un
 cambio de contrato y debe versionarse.
@@ -16,18 +19,20 @@ Cabecera: `Authorization: Bearer <API_AUTH_TOKEN>`
   "idioma": "es",
   "categoria_sugerida": null,
   "ubicacion": { "lat": 36.13, "lon": -5.85 },
-  "cliente": "meshtastic",
-  "id_conversacion": "opcional-para-trazabilidad"
+  "cliente": "meshtastic-node-!2a4b6c8d",
+  "id_conversacion": "meshtastic-node-!2a4b6c8d",
+  "reset_conversacion": false
 }
 ```
 
-- `consulta` (str, obligatorio): texto en lenguaje natural.
+- `consulta` (str, obligatorio): texto en lenguaje natural (mín. 1, máx. 2000).
 - `idioma` (str, opcional, def. `es`).
 - `categoria_sugerida` (str|null, opcional): pista del cliente
-  (`primeros_auxilios`, `fauna`, `geografia`, `supervivencia`, `orientacion`).
-- `ubicacion` (obj|null, opcional): coordenadas si el cliente las tiene.
-- `cliente` (str, opcional): `meshtastic` | `telegram` | otro.
-- `id_conversacion` (str|null, opcional).
+  (`primeros_auxilios`, `fauna`, `flora`, `geografia`, `supervivencia`, `orientacion`, `cultura_historia`).
+- `ubicacion` (obj|null, opcional): coordenadas GPS si el cliente las tiene.
+- `cliente` (str, opcional): identificador del nodo o cliente (`meshtastic:!xxxx`, `telegram:123`).
+- `id_conversacion` (str|null, opcional): identificador para correlar memoria multi-turno (hasta 20 turnos con compactación por IA y TTL de 1 hora).
+- `reset_conversacion` (bool, opcional, def. `false`): si es `true`, archiva el contexto previo antes de responder.
 
 ## 2. API del bot — respuesta (SIEMPRE JSON)
 
@@ -84,26 +89,24 @@ Cada unidad indexable de conocimiento. Estructura mínima (ampliable):
 ```
 
 - `categoria` ∈ {`primeros_auxilios`, `fauna`, `flora`, `geografia`,
-  `supervivencia`, `orientacion`, `clima`}.
+  `supervivencia`, `orientacion`, `clima`, `cultura_historia`}.
 - `nivel_confianza` ∈ {`alta`, `media`, `baja`}. Las fuentes oficiales y
   validadas son `alta`; scraping no verificado nunca supera `media` y **no se
   indexa** si es contenido sensible sin validación.
-- `validado_por` es obligatorio (no nulo) para `primeros_auxilios` y para fauna
+- `validado_por` es obligatorio (no nulo) para `primeros_auxilios` y para fauna/flora
   marcada como peligrosa/tóxica. Sin validación → permanece en staging.
 - `hash_contenido`: garantiza idempotencia en la reindexación (upsert).
 
-## 4. Esquema lógico en PostgreSQL (orientativo)
+## 4. Esquema relacional en PostgreSQL
 
-- Tabla `fragmentos`: todas las columnas anteriores; `embedding vector(384)`.
-- Índice vectorial sobre `embedding` (IVFFlat/exacto; HNSW si crece).
-- Tabla `fuentes`: catálogo de fuentes, licencia y política de actualización.
-- Tabla `ingestas`: auditoría de ejecuciones del actualizador (qué, cuándo,
-  cuántos fragmentos, errores).
-- Tabla `consultas` (opcional): log anónimo de consultas para evaluar el RAG.
+- **Tabla `fragmentos`:** Almacena los chunks de texto y su vector embedding (`vector(384)`). Índice vectorial HNSW/IVFFlat.
+- **Tabla `conversaciones`:** Sesiones de chat indexadas por `id` y `cliente_id` con `resumen` sintético de IA, `actualizado_en` y flag `activa` (TTL 3600 s).
+- **Tabla `mensajes_conversacion`:** Historial detallado de cada turno (`conversacion_id`, `rol`, `contenido`, `orden`, `metadatos` JSONB).
+- **Tabla `fuentes`:** Catálogo de fuentes, licencia y política de actualización.
+- **Tabla `ingestas`:** Auditoría de ejecuciones del actualizador manual (`actualizar_fuente.py`).
+- **Tabla `schema_migrations`:** Registro idempotente de migraciones SQL aplicadas.
 
-El esquema exacto (DDL) se define en el módulo de infraestructura
-(`docs/planning/initial_plan/01_infraestructura_base.md`) y en
-`deploy/postgres/`.
+Consulta los DDL en `deploy/postgres/migrations/0001_init.sql` y `0002_conversaciones.sql`.
 
 ## 5. Plantilla de prompt (esquema)
 

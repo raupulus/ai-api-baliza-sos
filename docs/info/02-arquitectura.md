@@ -18,14 +18,16 @@ de infraestructura (LLM `llama-server` y base de datos `PostgreSQL + pgvector`).
          ┌─────────────────────────────┐
          │    SERVICIO API DEL BOT     │ (src/api, FastAPI :8870)
          │  ───────────────────────    │
-         │  1. valida/normaliza query  │
-         │  2. embed query             │──► fastembed (MiniLM-L12-v2, 384d)
-         │  3. recupera top-k          │──► PostgreSQL + pgvector (HNSW)
-         │  4. construye prompt+ctx    │
-         │  5. genera respuesta        │──► llama-server (:8869)
-         │  6. post-procesa a 250×3    │
-         │  7. devuelve JSON           │
-         └─────────────────────────────┘
+          │  1. valida token y auth     │
+          │  2. carga memoria (20 turnos)│──► PostgreSQL (conversaciones, TTL 1h)
+          │  3. embed query (fastembed) │──► MiniLM-L12-v2 (384d)
+          │  4. recupera top-k vectorial│──► PostgreSQL + pgvector (HNSW)
+          │  5. construye prompt+triaje │
+          │  6. genera respuesta        │──► llama-server (:8869)
+          │  7. post-procesa a 250×3    │
+          │  8. persiste turno en BD    │──► mensajes_conversacion + compacta IA
+          │  9. devuelve JSON           │
+          └─────────────────────────────┘
                        ▲
                        │ comparte BD y embeddings
                        ▼
