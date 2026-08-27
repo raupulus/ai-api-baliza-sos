@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import importlib.util
 import logging
+import os
 from dataclasses import dataclass
 from pathlib import Path
 from types import ModuleType
@@ -140,12 +141,28 @@ def _build_settings() -> Settings:
     env = _load_env_module()
 
     def get(name: str):
+        # Prioridad 1: valor en os.environ (inyección Docker / contenedor / CI)
+        # Prioridad 2: valor en env.py / env.example.py
         try:
-            return getattr(env, name)
-        except AttributeError as exc:  # pragma: no cover
-            raise AttributeError(
-                f"Falta la variable {name!r} en env.py. Añádela (y a env.example.py)."
-            ) from exc
+            default_val = getattr(env, name)
+        except AttributeError as exc:
+            if name not in os.environ:
+                raise AttributeError(
+                    f"Falta la variable {name!r} en env.py. Añádela (y a env.example.py)."
+                ) from exc
+            default_val = None
+
+        if name in os.environ:
+            raw = os.environ[name]
+            if default_val is not None:
+                if isinstance(default_val, bool):
+                    return raw.lower() in ("1", "true", "yes")
+                if isinstance(default_val, int):
+                    return int(raw)
+                if isinstance(default_val, float):
+                    return float(raw)
+            return raw
+        return default_val
 
     settings = Settings(
         provincia=get("PROVINCIA"),

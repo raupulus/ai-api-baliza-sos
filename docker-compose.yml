@@ -1,0 +1,133 @@
+services:
+  # 1. Base de datos vectorial (PostgreSQL 17 + pgvector)
+  db:
+    image: pgvector/pgvector:pg17
+    container_name: bot-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${DB_NAME:-bot_emergencias}
+      POSTGRES_USER: ${DB_USER:-bot}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-CAMBIA_ESTA_CONTRASENA_POSTGRES}
+    volumes:
+      - ${HOST_STORAGE_PATH:-./data}/data/postgres:/var/lib/postgresql/data
+    ports:
+      # Expuesto solo como puerto 5433 para no interferir con PG17 del host (5432)
+      - "${HOST_DB_PORT:-5433}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-bot} -d ${DB_NAME:-bot_emergencias}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - bot-net
+
+  # 2. Servidor de inferencia LLM (llama.cpp)
+  llm:
+    image: ghcr.io/ggerganov/llama.cpp:server
+    container_name: bot-llm
+    restart: unless-stopped
+    command:
+      - "-m"
+      - "/models/${LLM_MODEL_FILE:-qwen2.5-3b-instruct-q4_k_m.gguf}"
+      - "--host"
+      - "0.0.0.0"
+      - "--port"
+      - "${LLM_SERVER_PORT:-8081}"
+      - "-c"
+      - "${LLM_CONTEXT_SIZE:-2048}"
+      - "-t"
+      - "${LLM_THREADS:-3}"
+      - "-n"
+      - "${LLM_MAX_TOKENS:-320}"
+    volumes:
+      - ${HOST_STORAGE_PATH:-./data}/models:/models:ro
+    ports:
+      - "${LLM_SERVER_PORT:-8081}:${LLM_SERVER_PORT:-8081}"
+    networks:
+      - bot-net
+
+  # 3. Servicio API del bot (FastAPI + Embeddings + RAG)
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bot-api
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+      llm:
+        condition: service_started
+    environment:
+      API_HOST: 0.0.0.0
+      API_PORT: 8080
+      API_AUTH_TOKEN: ${API_AUTH_TOKEN:-CAMBIA_ESTE_TOKEN_SEGURO}
+      API_ALLOW_INSECURE_TOKEN: ${API_ALLOW_INSECURE_TOKEN:-false}
+      API_MAX_CONCURRENT_INFERENCES: ${API_MAX_CONCURRENT_INFERENCES:-1}
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-bot_emergencias}
+      DB_USER: ${DB_USER:-bot}
+      DB_PASSWORD: ${DB_PASSWORD:-CAMBIA_ESTA_CONTRASENA_POSTGRES}
+      LLM_SERVER_HOST: llm
+      LLM_SERVER_PORT: ${LLM_SERVER_PORT:-8081}
+      LLM_MODEL_PATH: /models/${LLM_MODEL_FILE:-qwen2.5-3b-instruct-q4_k_m.gguf}
+      LLM_THREADS: ${LLM_THREADS:-3}
+      LLM_CONTEXT_SIZE: ${LLM_CONTEXT_SIZE:-2048}
+      LLM_MAX_TOKENS: ${LLM_MAX_TOKENS:-320}
+      LLM_TEMPERATURE: ${LLM_TEMPERATURE:-0.3}
+      LLM_TIMEOUT_SECONDS: ${LLM_TIMEOUT_SECONDS:-280}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-intfloat/multilingual-e5-small}
+      EMBEDDING_DIM: ${EMBEDDING_DIM:-384}
+      PROVINCIA: ${PROVINCIA:-Cádiz}
+      PROVINCIA_SLUG: ${PROVINCIA_SLUG:-cadiz}
+      PAIS: ${PAIS:-España}
+      PAIS_CODIGO_ISO: ${PAIS_CODIGO_ISO:-ES}
+      BBOX: ${BBOX:--6.50,35.95,-5.10,37.05}
+      PROVINCIA_CODIGO_INE: ${PROVINCIA_CODIGO_INE:-11}
+      IDIOMA: ${IDIOMA:-es}
+      RESP_MAX_CHARS_PER_MSG: ${RESP_MAX_CHARS_PER_MSG:-250}
+      RESP_MAX_MESSAGES: ${RESP_MAX_MESSAGES:-3}
+      RESP_DISCLAIMER_MEDICO: ${RESP_DISCLAIMER_MEDICO:-Info orientativa. Llama al 112.}
+      UPDATER_STAGING_DIR: /app/data/staging
+      LOG_DIR: /app/logs
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+    ports:
+      - "${API_PORT:-8080}:8080"
+    volumes:
+      - ${HOST_STORAGE_PATH:-./data}/logs:/app/logs
+      - ${HOST_STORAGE_PATH:-./data}/data/staging:/app/data/staging
+    networks:
+      - bot-net
+
+  # 4. Servicio actualizador bajo demanda (CLI / ingesta)
+  updater:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bot-updater
+    profiles: ["tools"]
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-bot_emergencias}
+      DB_USER: ${DB_USER:-bot}
+      DB_PASSWORD: ${DB_PASSWORD:-CAMBIA_ESTA_CONTRASENA_POSTGRES}
+      PROVINCIA: ${PROVINCIA:-Cádiz}
+      PROVINCIA_SLUG: ${PROVINCIA_SLUG:-cadiz}
+      BBOX: ${BBOX:--6.50,35.95,-5.10,37.05}
+      UPDATER_STAGING_DIR: /app/data/staging
+      LOG_DIR: /app/logs
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+    volumes:
+      - ${HOST_STORAGE_PATH:-./data}/data/staging:/app/data/staging
+      - ${HOST_STORAGE_PATH:-./data}/logs:/app/logs
+    networks:
+      - bot-net
+
+networks:
+  bot-net:
+    driver: bridge

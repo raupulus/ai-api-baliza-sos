@@ -1,5 +1,8 @@
 # --- Configuración sensible (NO trackear) ---
 env.py
+.env
+.env.*
+!.env.example
 
 # --- Datos locales / directorio de trabajo ---
 data/
