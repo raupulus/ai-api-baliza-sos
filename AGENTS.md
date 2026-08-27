@@ -37,7 +37,7 @@ Se compone de **dos servicios independientes**:
 - **Provincia parametrizable.** Todo lo geográfico sale de `env.py` (`PROVINCIA`,
   `BBOX`, etc.). Cambiar de provincia = cambiar config, no código.
 - **Respuestas breves y en español.** Formato fijo: JSON con lista de mensajes,
-  cada uno ≤ 250 caracteres, máximo 3.
+  cada uno ≤ 200 bytes UTF-8, máximo 3.
 - **Seguridad del contenido.** El contenido médico y de especies peligrosas
   **requiere validación humana** antes de indexarse. Nunca generar protocolos
   médicos a partir de scraping no verificado.
@@ -45,6 +45,12 @@ Se compone de **dos servicios independientes**:
   cambio arquitectónico, de configuración, de endpoints o de fuentes de conocimiento
   debe quedar documentado obligatoria e inmediatamente en su directorio respectivo.
   Es una regla estricta: `docs/info/` y `docs/rag/` son las fuentes únicas de verdad.
+- **Notificación Obligatoria de Cambios en el Contrato de la API.** Si se modifica
+  cualquier aspecto del contrato HTTP REST (`docs/info/08-contrato-api.md`, rutas,
+  esquemas Pydantic de petición o respuesta, límites de tamaño o campos), es
+  **estrictamente obligatorio informar explícita y detalladamente al usuario**
+  en la respuesta para que pueda ajustar sus clientes externos (bot de Meshtastic,
+  Telegram, frontend web).
 
 ## 3. Guía de Navegación de Documentación para Agentes
 
@@ -127,6 +133,7 @@ Makefile      Comandos rápidos de gestión, despliegue y testing.
 4. Si tocas arquitectura, endpoints o configuración, actualiza `docs/info/`.
 5. Al completar una tarea o plan, añade pruebas mínimas y mantén los commits descriptivos.
 6. **Actualización Obligatoria de Planificación:** Al terminar de implementar un plan, es imperativo actualizar `docs/info/06-estado-implementacion.md` y documentar los cambios en `CHANGELOG.md`.
+7. **Notificación de Cambios en la API:** Si la tarea afectó a `src/api/schemas.py`, endpoints o límites de respuesta, detalla con precisión los cambios en la respuesta al usuario para la adaptación de los clientes.
 
 ## 8. Convenciones de código
 
