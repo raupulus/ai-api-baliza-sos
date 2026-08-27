@@ -1,0 +1,6 @@
+[
+  {"consulta": "me ha picado una medusa, qué hago", "fuente_esperada": "GBIF", "subcadena": "medusa"},
+  {"consulta": "dónde hay un faro cerca de la costa", "subcadena": "faro"},
+  {"consulta": "dónde encontrar agua potable", "subcadena": "agua"},
+  {"consulta": "hospital más cercano", "subcadena": "hospital"}
+]

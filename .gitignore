@@ -52,3 +52,4 @@ htmlcov/
 # --- Bases de datos / dumps ---
 *.sql.gz
 *.dump
+.junie
