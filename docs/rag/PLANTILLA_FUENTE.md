@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: [NOMBRE DE LA FUENTE]
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 > **Plantilla estándar para registrar y mantener fuentes de conocimiento en el RAG.**
 > Toda fuente debe disponer de esta ficha antes de ser indexada en producción.
 
@@ -64,3 +66,8 @@ Detalla cada uno de los temas o bloques de datos que el conector debe extraer y 
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `AAAA-MM-DD` | `[Nombre]` | Creación inicial de la fuente e indexación del corpus base. |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

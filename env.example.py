@@ -131,7 +131,17 @@ UPDATER_USER_AGENT = os.environ.get(
 AEMET_API_KEY = os.environ.get("AEMET_API_KEY", "")
 
 # ---------------------------------------------------------------------------
-# 9. LOGGING
+# 9. MEMORIA CONVERSACIONAL Y MULTI-TURNO
+# ---------------------------------------------------------------------------
+# Cantidad máxima de turnos completos (pregunta + respuesta) retenidos por cliente
+CONV_MAX_TURNOS = int(os.environ.get("CONV_MAX_TURNOS", 20))
+# Turnos íntegros a conservar al compactar el historial antiguo con IA
+CONV_TURNOS_COMPACTAR = int(os.environ.get("CONV_TURNOS_COMPACTAR", 10))
+# Tiempo de expiración de memoria por inactividad (en segundos, 3600 = 1 hora)
+CONV_TTL_SEGUNDOS = int(os.environ.get("CONV_TTL_SEGUNDOS", 3600))
+
+# ---------------------------------------------------------------------------
+# 10. LOGGING
 # ---------------------------------------------------------------------------
 LOG_LEVEL = os.environ.get("LOG_LEVEL", "INFO")
 LOG_DIR = os.environ.get("LOG_DIR", "./logs")

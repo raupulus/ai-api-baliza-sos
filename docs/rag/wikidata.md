@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: Wikidata (Grafo de Conocimiento)
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -56,3 +58,8 @@ Permite recuperar mediante consultas SPARQL estructuradas datos enciclopédicos 
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_datos_enlazados` | Conector SPARQL funcional para entidades de Cádiz. |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

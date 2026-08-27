@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: Primeros Auxilios y Supervivencia Avanzada
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -92,3 +94,8 @@ Esta fuente proporciona el núcleo de conocimiento médico y de supervivencia pa
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_sanitario_emergencias` | Corpus inicial validado: 13 fragmentos de soporte vital, traumatología, picaduras y protocolo STOP. |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

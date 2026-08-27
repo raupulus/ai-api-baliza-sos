@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: Flora y Fauna de Cádiz
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -77,3 +79,8 @@ Esta fuente recopila las especies vegetales, micológicas y animales más releva
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_botanica_zoologia` | Ficha inicial con 12 especies críticas de Cádiz (plantas tóxicas, setas, comestibles y fauna venenosa). |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

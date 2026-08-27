@@ -1,5 +1,12 @@
 # 02 · Arquitectura
 
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Arquitectura de servicios, contenedores Docker, puertos y flujo de datos.
+
+[← Volver al Índice de Documentación Técnica](README.md)
+
+---
+
 Dos servicios Python principales (`api` y `updater`) y una interfaz web de pruebas (`web`),
 orquestados mediante **Docker Compose** sobre una red aislada (`bot-net`) junto a los servicios
 de infraestructura (LLM `llama-server` y base de datos `PostgreSQL + pgvector`).
@@ -131,3 +138,8 @@ Bajo `data/` (no trackeado):
 - `data/postgres/` — clúster PostgreSQL local.
 - `data/staging/` — fragmentos pendientes de revisión.
 - `models/` (raíz, ignorado) — ficheros GGUF/ONNX descargados.
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

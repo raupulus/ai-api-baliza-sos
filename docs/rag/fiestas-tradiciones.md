@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: Fiestas y Tradiciones de la Provincia de Cádiz
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -76,3 +78,8 @@ Cubre el calendario festivo tradicional, ferias, carnavales, romerías y celebra
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_cultura_turismo` | 10 fragmentos indexados con las festividades mayores de la provincia de Cádiz. |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

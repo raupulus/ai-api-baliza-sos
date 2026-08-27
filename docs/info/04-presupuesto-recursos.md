@@ -1,4 +1,11 @@
-# 04 · Presupuesto de recursos (RAM en RPi4 4 GB)
+# 04 · Presupuesto de recursos (RAM en RPi4 4 GB y RPi5 8 GB)
+
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Presupuesto de memoria RAM, semáforo de inferencia y control térmico.
+
+[← Volver al Índice de Documentación Técnica](README.md)
+
+---
 
 El recurso crítico es la **RAM**. Este documento fija un presupuesto y las
 medidas para no superarlo. Es la referencia para validar cualquier decisión
@@ -62,3 +69,8 @@ Sin cambios de código:
 
 Detalle de placas, modelo recomendado por RAM y cuántas inferencias en paralelo
 admite cada configuración: `07-hardware-objetivo.md`.
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

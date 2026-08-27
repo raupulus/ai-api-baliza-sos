@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: OpenStreetMap (Overpass API)
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -60,3 +62,8 @@ Consulta mediante el API Overpass elementos geoespaciales y puntos de interés (
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_cartografia_osm` | Conector inicial con soporte de BBOX gaditano y rate limiting. |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

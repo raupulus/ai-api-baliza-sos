@@ -3,6 +3,10 @@
 > **Última actualización:** 2026-08-27  
 > **Ámbito:** Contrato HTTP de API, modelo interno de fragmentos y persistencia relacional.
 
+[← Volver al Índice de Documentación Técnica](README.md)
+
+---
+
 Define los formatos estables que comparten el backend y los clientes externos,
 y el formato interno de los fragmentos del RAG. Cualquier cambio aquí es un
 cambio de contrato y debe versionarse.
@@ -126,3 +130,8 @@ Límite: 3 frases muy cortas.
 ```
 
 El post-proceso (no el modelo) garantiza el límite duro de 250×3 caracteres.
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

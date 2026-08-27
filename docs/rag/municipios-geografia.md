@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: Municipios y Geografía Oficial de Cádiz
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -70,3 +72,8 @@ Permite al asistente responder preguntas de geolocalización, coordenadas GPS ex
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_cartografia_ign` | Incorporación exhaustiva de los 45 municipios de Cádiz con coordenadas GPS, altitud y 4 puntos orográficos principales (48 fragmentos). |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

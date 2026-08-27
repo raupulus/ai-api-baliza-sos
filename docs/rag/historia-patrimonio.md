@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: Historia y Patrimonio de la Provincia de Cádiz
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -66,3 +68,8 @@ Cubre los grandes hitos históricos y patrimoniales que han modelado la geograf�
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_historia_archivo` | 6 fragmentos estructurados con la cronología histórica principal de Cádiz. |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

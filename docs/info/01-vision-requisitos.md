@@ -1,5 +1,12 @@
 # 01 · Visión y requisitos
 
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Visión de producto, casos de uso, restricciones LoRa/RF y requisitos.
+
+[← Volver al Índice de Documentación Técnica](README.md)
+
+---
+
 ## 1. Visión
 
 Un **asistente de emergencia y supervivencia offline** para la provincia de
@@ -87,3 +94,8 @@ conocimiento y los datos viven en el dispositivo.
   somete al presupuesto de `docs/info/04-presupuesto-recursos.md`.
 - **Calidad del RAG.** Recuperación pobre = respuesta pobre. La curación y el
   formato de fragmento son tan importantes como el modelo.
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

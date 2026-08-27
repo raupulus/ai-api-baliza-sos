@@ -1,8 +1,13 @@
 # Contrato de la API HTTP — Asistente de Emergencias (Cádiz)
 
-Este documento define la **especificación técnica formal y contrato de integración** de la API HTTP del Asistente de Emergencias y Supervivencia.
+> **Versión del Contrato:** 1.2.0  
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Especificación técnica formal de integración HTTP REST.  
+> **Documento Autónomo y Exportable:** Este archivo puede copiarse directamente a repositorios de clientes externos (bots de Telegram, pasarelas Meshtastic/LoRa, frontends o microservicios) como especificación técnica completa y definitiva de la API.
 
-Está diseñado para que cualquier cliente externo (**pasarelas Meshtastic/LoRa**, **bots de Telegram**, interfaces web, scripts o clientes móviles) pueda interactuar con el backend de manera predecible, segura y estandarizada.
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
 
 ---
 
@@ -266,22 +271,49 @@ const data = await res.json();
 console.log('Mensajes recibidos:', data.mensajes);
 ```
 
-### 6.4. Pasarela Meshtastic (Pseudo-código / Python)
+### 6.4. Pasarela Meshtastic (Python con Memoria y Comando Reset)
 ```python
-# Cuando un nodo Meshtastic envía un mensaje directo al bot:
-def on_meshtastic_packet(packet, interface):
-    texto_recibido = packet['decoded']['text']
-    sender_id = packet['fromId']
+import httpx
 
-    # Consultar la API del bot
+API_URL = "http://172.18.1.121:8870"
+TOKEN = "MI_API_AUTH_TOKEN"
+
+def on_meshtastic_packet(packet, interface):
+    texto = packet.get("decoded", {}).get("text", "").strip()
+    sender_id = packet.get("fromId")  # Ej. '!2a4b6c8d'
+
+    if not texto or not sender_id:
+        return
+
+    # Comando para resetear contexto conversacional
+    if texto.lower() in ("/reset", "!reset", "nueva"):
+        httpx.post(
+            f"{API_URL}/v1/conversacion/reset",
+            headers={"Authorization": f"Bearer {TOKEN}"},
+            json={"id_conversacion": f"meshtastic:{sender_id}"},
+            timeout=10.0
+        )
+        interface.sendText("Conversación reiniciada.", destinationId=sender_id)
+        return
+
+    # Consulta habitual: la API asocia automáticamente el historial por id_conversacion
     res = httpx.post(
-        "http://172.18.1.121:8870/v1/consulta",
-        headers={"Authorization": "Bearer MI_TOKEN"},
-        json={"consulta": texto_recibido, "cliente": f"meshtastic:{sender_id}"},
-        timeout=120.0
+        f"{API_URL}/v1/consulta",
+        headers={"Authorization": f"Bearer {TOKEN}"},
+        json={
+            "consulta": texto,
+            "id_conversacion": f"meshtastic:{sender_id}",
+            "cliente": f"meshtastic:{sender_id}"
+        },
+        timeout=180.0
     ).json()
 
-    # Cada elemento de data['mensajes'] mide <= 250 caracteres
-    for msg in res["mensajes"]:
+    # Cada elemento de mensajes mide obligatoriamente <= 250 caracteres
+    for msg in res.get("mensajes", []):
         interface.sendText(text=msg, destinationId=sender_id)
 ```
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

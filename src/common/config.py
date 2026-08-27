@@ -110,6 +110,11 @@ class Settings:
     updater_user_agent: str
     aemet_api_key: str
 
+    # --- Memoria conversacional ---
+    conv_max_turnos: int
+    conv_turnos_compactar: int
+    conv_ttl_segundos: int
+
     # --- Logging ---
     log_level: str
     log_dir: str
@@ -208,6 +213,9 @@ def _build_settings() -> Settings:
         updater_staging_dir=get("UPDATER_STAGING_DIR"),
         updater_user_agent=get("UPDATER_USER_AGENT"),
         aemet_api_key=get("AEMET_API_KEY"),
+        conv_max_turnos=get("CONV_MAX_TURNOS"),
+        conv_turnos_compactar=get("CONV_TURNOS_COMPACTAR"),
+        conv_ttl_segundos=get("CONV_TTL_SEGUNDOS"),
         log_level=get("LOG_LEVEL"),
         log_dir=get("LOG_DIR"),
     )
@@ -225,6 +233,10 @@ def _validate(s: Settings) -> None:
         raise ValueError("RAG_MIN_SCORE debe estar en [0, 1].")
     if s.resp_max_messages <= 0 or s.resp_max_chars_per_msg <= 0:
         raise ValueError("RESP_MAX_MESSAGES y RESP_MAX_CHARS_PER_MSG deben ser > 0.")
+    if s.conv_max_turnos <= 0:
+        raise ValueError("CONV_MAX_TURNOS debe ser > 0.")
+    if s.conv_ttl_segundos <= 0:
+        raise ValueError("CONV_TTL_SEGUNDOS debe ser > 0.")
     # Validar BBOX (lanza si está mal formado).
     _ = s.bbox_tuple
 

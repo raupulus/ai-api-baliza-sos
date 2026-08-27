@@ -1,5 +1,12 @@
 # 06 · Estado de implementación
 
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Matriz de avance de módulos y estado operativo en producción.
+
+[← Volver al Índice de Documentación Técnica](README.md)
+
+---
+
 Resumen de lo implementado en la primera sesión de desarrollo (módulos 01–07) y
 qué falta por ejecutar en la Raspberry Pi. La planificación por módulos lleva los
 checklists marcados con la misma información.
@@ -107,3 +114,8 @@ curl http://localhost:8870/health
 # Cargar o reindexar corpus semilla
 docker compose run --rm updater python3 scripts/seed_corpus.py
 ```
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

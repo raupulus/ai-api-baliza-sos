@@ -1,5 +1,12 @@
 # 07 · Hardware objetivo, modelos y paralelismo
 
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Especificaciones de hardware (RPi4 / RPi5), NPU Hailo-8 y almacenamiento SSD.
+
+[← Volver al Índice de Documentación Técnica](README.md)
+
+---
+
 Completa la información de hardware del proyecto: placas soportadas, modelo
 recomendado para cada una y cuántas consultas (inferencias) puede atender cada
 configuración. Complementa el presupuesto de RAM de
@@ -100,3 +107,8 @@ RPi4 4 GB conviene no solaparlos.
 - [Raspberry Pi 5 (producto y variantes de RAM)](https://www.raspberrypi.com/products/raspberry-pi-5/)
 - [Tom's Hardware — Raspberry Pi 5 16GB review](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-16gb-review)
 - [llama.cpp server — parallel / continuous batching](https://github.com/ggml-org/llama.cpp/tree/master/tools/server)
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

@@ -76,6 +76,12 @@ acudir obligatoriamente a este directorio:
 * **`docs/rag/wikidata.md`** → Hospitales, faros y entidades territoriales de Cádiz (Wikidata SPARQL).
 * **`docs/rag/gbif.md`** → Presencia biológica georreferenciada en el BBOX provincial (GBIF).
 
+### C. Protocolo de Lectura Just-in-Time
+Para optimizar el uso de contexto y no saturar la ventana de conversación:
+- **No leer proactivamente archivos completos de documentación** salvo que sea estrictamente necesario para la tarea actual.
+- Utilizar `view_file` especificando rangos acotados de líneas (`StartLine` y `EndLine`) o herramientas de búsqueda puntual (`grep_search`, `find_by_name`).
+- Si solo necesitas consultar un endpoint, consulta exclusivamente `docs/info/08-contrato-api.md`. Si solo necesitas una fuente, consulta únicamente su archivo en `docs/rag/`.
+
 ## 4. Configuración
 
 - La config real vive en **`env.py`** y **`.env`** (NO trackeados). La plantilla es
@@ -96,10 +102,12 @@ src/
   web/        Servidor y frontend de pruebas web local (chat interactivo).
 docs/info/    Documentación técnica y decisiones de arquitectura (8 archivos).
 docs/rag/     Fichas y especificaciones de las fuentes de conocimiento del RAG.
-docs/planning/  Planificación por módulos (fases + checklists).
+docs/planning/  Planificación activa y archivo histórico (archive/).
 deploy/postgres/ Migraciones SQL (`0001_init.sql`, `0002_conversaciones.sql`).
-scripts/      Utilidades de operación (`actualizar_fuente.py`, `migrate.py`...).
-tests/        Pruebas automatizadas.
+scripts/      Utilidades de operación (`actualizar_fuente.py`, `test_e2e.py`, `exportar_conversaciones.py`...).
+tests/        Pruebas automatizadas unitarias y de integración.
+CHANGELOG.md  Registro histórico formal de versiones (Keep a Changelog).
+Makefile      Comandos rápidos de gestión, despliegue y testing.
 ```
 
 ## 6. Stack acordado (resumen)
@@ -113,11 +121,12 @@ tests/        Pruebas automatizadas.
 
 ## 7. Flujo de trabajo para implementar
 
-1. Localiza el módulo en `docs/planning/initial_plan/` o consulta `docs/info/`.
+1. Localiza el módulo en `docs/info/` o en `docs/planning/`.
 2. Sigue las **fases en orden**; respeta las dependencias entre módulos.
 3. Si tocas el RAG, consulta y actualiza la ficha correspondiente en `docs/rag/`.
 4. Si tocas arquitectura, endpoints o configuración, actualiza `docs/info/`.
-5. Al completar una tarea, añade pruebas mínimas y mantén los commits pequeños y descriptivos.
+5. Al completar una tarea o plan, añade pruebas mínimas y mantén los commits descriptivos.
+6. **Actualización Obligatoria de Planificación:** Al terminar de implementar un plan, es imperativo actualizar `docs/info/06-estado-implementacion.md` y documentar los cambios en `CHANGELOG.md`.
 
 ## 8. Convenciones de código
 

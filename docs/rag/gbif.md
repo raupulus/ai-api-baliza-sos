@@ -1,5 +1,7 @@
 # Ficha de Fuente de Conocimiento: GBIF (Biodiversidad Global)
 
+[← Volver al Índice de Fuentes RAG](README.md)
+
 ---
 
 ## 1. Metadatos de la Fuente
@@ -55,3 +57,8 @@ Permite recuperar registros de presencia biológica de especies observadas y val
 | Versión | Fecha | Autor / Revisor | Descripción del Cambio |
 | :---: | :---: | :--- | :--- |
 | `1.0.0` | `2026-08-27` | `equipo_biodiversidad_gbif` | Conector REST con paginación, filtros de BBOX y normalización de fragmentos. |
+
+---
+
+[← Volver al Índice de Fuentes RAG](README.md)
+

@@ -1,5 +1,12 @@
 # 03 · Decisiones de stack (con justificación)
 
+> **Última actualización:** 2026-08-27  
+> **Ámbito:** Justificación técnica del stack (llama.cpp, fastembed, pgvector, FastAPI).
+
+[← Volver al Índice de Documentación Técnica](README.md)
+
+---
+
 Cada decisión se toma bajo una restricción dominante: **caber y funcionar en
 una Raspberry Pi 4 con 4 GB de RAM, sin internet en operación**. Cuando una
 opción es "más potente pero más pesada", gana la que deja margen de memoria.
@@ -124,3 +131,8 @@ hardware tan ajustado. Con systemd:
 - The Best Open-Source Embedding Models in 2026 — bentoml.com
 - Best Embedding Model for RAG 2026 — milvus.io
 - HNSW Indexes with Postgres and pgvector — crunchydata.com
+
+---
+
+[← Volver al Índice de Documentación Técnica](README.md)
+

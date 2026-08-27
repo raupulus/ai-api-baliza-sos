@@ -13,19 +13,37 @@ import logging
 import time
 from typing import Any
 
+from common.config import settings
 from common.db import cursor
 from common.errors import DatabaseError
 
 _log = logging.getLogger(__name__)
 
-# Configuración de memoria
-MAX_TURNOS_COMPLETOS = 20  # 20 preguntas + 20 respuestas = 40 mensajes
-TURNOS_CONSERVAR_TRAS_COMPACTAR = 10  # Últimos 10 turnos completos tras compactar
-TTL_INACTIVIDAD_SEGUNDOS = 3600  # 1 hora de inactividad
-
 
 class ConversationMemoryManager:
     """Administra el ciclo de vida, persistencia y compactación de conversaciones."""
+
+    def __init__(
+        self,
+        max_turnos: int | None = None,
+        turnos_compactar: int | None = None,
+        ttl_segundos: int | None = None,
+    ) -> None:
+        self._max_turnos = max_turnos
+        self._turnos_compactar = turnos_compactar
+        self._ttl_segundos = ttl_segundos
+
+    @property
+    def max_turnos(self) -> int:
+        return self._max_turnos if self._max_turnos is not None else settings.conv_max_turnos
+
+    @property
+    def turnos_compactar(self) -> int:
+        return self._turnos_compactar if self._turnos_compactar is not None else settings.conv_turnos_compactar
+
+    @property
+    def ttl_segundos(self) -> int:
+        return self._ttl_segundos if self._ttl_segundos is not None else settings.conv_ttl_segundos
 
     def obtener_historial(self, id_conversacion: str) -> list[dict[str, str]]:
         """Recupera los mensajes del historial activo para un ID de conversación.
@@ -58,12 +76,12 @@ class ConversationMemoryManager:
                     return []
 
                 # Si ha pasado más de 1 hora sin mensajes con ese ID, expira
-                if seg_inactivo is not None and seg_inactivo > TTL_INACTIVIDAD_SEGUNDOS:
+                if seg_inactivo is not None and seg_inactivo > self.ttl_segundos:
                     _log.info(
                         "Conversación %s expirada por inactividad (%d s > %d s). Archivando.",
                         id_conversacion,
                         int(seg_inactivo),
-                        TTL_INACTIVIDAD_SEGUNDOS,
+                        self.ttl_segundos,
                     )
                     cur.execute(
                         "UPDATE conversaciones SET activa = FALSE WHERE id = %s;",
@@ -163,7 +181,7 @@ class ConversationMemoryManager:
                     (id_conversacion,),
                 )
                 total_mensajes = cur.fetchone()[0]
-                limite_mensajes = MAX_TURNOS_COMPLETOS * 2
+                limite_mensajes = self.max_turnos * 2
 
                 if total_mensajes > limite_mensajes and llm is not None:
                     self._compactar_historial(cur, id_conversacion, llm)
@@ -185,7 +203,7 @@ class ConversationMemoryManager:
                 (id_conversacion,),
             )
             todos = cur.fetchall()
-            conservar_cnt = TURNOS_CONSERVAR_TRAS_COMPACTAR * 2
+            conservar_cnt = self.turnos_compactar * 2
             if len(todos) <= conservar_cnt:
                 return
 
