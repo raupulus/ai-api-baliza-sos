@@ -213,9 +213,9 @@ def _build_settings() -> Settings:
         updater_staging_dir=get("UPDATER_STAGING_DIR"),
         updater_user_agent=get("UPDATER_USER_AGENT"),
         aemet_api_key=get("AEMET_API_KEY"),
-        conv_max_turnos=get("CONV_MAX_TURNOS"),
-        conv_turnos_compactar=get("CONV_TURNOS_COMPACTAR"),
-        conv_ttl_segundos=get("CONV_TTL_SEGUNDOS"),
+        conv_max_turnos=int(get("CONV_MAX_TURNOS")),
+        conv_turnos_compactar=int(get("CONV_TURNOS_COMPACTAR")),
+        conv_ttl_segundos=int(get("CONV_TTL_SEGUNDOS")),
         log_level=get("LOG_LEVEL"),
         log_dir=get("LOG_DIR"),
     )
