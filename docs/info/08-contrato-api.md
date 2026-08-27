@@ -80,6 +80,8 @@ Procesa una pregunta o situación de emergencia en lenguaje natural, recupera el
   "consulta": "Me ha picado una medusa en la playa de Zahara, ¿qué hago?",
   "ubicacion": "Zahara de los Atunes",
   "cliente": "meshtastic-node-!2a4b6c8d",
+  "id_conversacion": "meshtastic-node-!2a4b6c8d",
+  "reset_conversacion": false,
   "categoria_sugerida": "fauna"
 }
 ```
@@ -87,10 +89,12 @@ Procesa una pregunta o situación de emergencia en lenguaje natural, recupera el
 #### Parámetros de Entrada
 | Parámetro | Tipo | Requerido | Descripción |
 | :--- | :--- | :---: | :--- |
-| `consulta` | `string` | **Sí** | Pregunta o situación en lenguaje natural (mín. 3 caracteres, máx. 500 caracteres). |
-| `ubicacion` | `string` | No | Ubicación aproximada o municipio de la provincia de Cádiz (ej. `"Tarifa"`, `"Grazalema"`). |
-| `cliente` | `string` | No | Identificador del cliente para trazabilidad y métricas (ej. `"telegram:123456"`, `"meshtastic:!abcd1234"`). |
-| `categoria_sugerida`| `string` | No | Filtro temático opcional (`"primeros_auxilios"`, `"fauna"`, `"geografia"`, `"supervivencia"`). |
+| `consulta` | `string` | **Sí** | Pregunta o situación en lenguaje natural (mín. 1 carácter, máx. 2000 caracteres). |
+| `id_conversacion` | `string` | No | Identificador único de la conversación para mantener memoria multi-turno (hasta 20 turnos con compactación por IA). Se elimina tras 1 hora de inactividad. |
+| `reset_conversacion` | `boolean` | No | Si es `true`, archiva y limpia el contexto previo de este `id_conversacion` antes de responder. |
+| `cliente` | `string` | No | Identificador del nodo o usuario emisor (ej. `"telegram:123456"`, `"meshtastic:!2a4b6c8d"`). Sirve de fallback para `id_conversacion` si este no se envía. |
+| `ubicacion` | `object` o `string` | No | Ubicación aproximada, coordenadas GPS o municipio de la provincia de Cádiz. |
+| `categoria_sugerida`| `string` | No | Filtro temático opcional (`"primeros_auxilios"`, `"fauna"`, `"flora"`, `"geografia"`, `"supervivencia"`, `"cultura_historia"`). |
 
 ---
 
@@ -130,7 +134,41 @@ Procesa una pregunta o situación de emergencia en lenguaje natural, recupera el
 
 ---
 
+### 3.3. Reseteo de Conversación (`POST /v1/conversacion/reset`)
+
+Limpia la memoria y el contexto de un identificador de conversación o cliente para iniciar un nuevo diálogo limpio sin mezclar temas previos.
+
+* **Método:** `POST`
+* **Ruta:** `/v1/conversacion/reset`
+* **Autenticación:** Requerida (`Authorization: Bearer <TOKEN>`).
+* **Content-Type:** `application/json`
+
+#### Estructura de Petición (`ResetConversacionRequest`)
+```json
+{
+  "id_conversacion": "meshtastic-node-!2a4b6c8d"
+}
+```
+
+#### Estructura de Respuesta Exitosa (`200 OK`)
+```json
+{
+  "ok": true,
+  "mensaje": "Conversación reseteada correctamente.",
+  "id_conversacion": "meshtastic-node-!2a4b6c8d"
+}
+```
+
+---
+
 ## 4. Reglas de Negocio y Garantías de Seguridad
+
+1. **Memoria Conversacional y Aislamiento de Clientes:**
+   * La API mantiene conversaciones aisladas por cada `id_conversacion` o `cliente`.
+   * **Ventana de 20 turnos:** Se guardan hasta 20 preguntas y 20 respuestas completas.
+   * **Compactación con IA:** Al superar este umbral, el sistema compacta con el LLM los turnos más antiguos en un resumen sintético y conserva íntegros los últimos 10 turnos.
+   * **Expiración a la hora (TTL = 3600 s):** La memoria se borra automáticamente si transcurren 60 minutos sin recibir ningún mensaje con ese identificador.
+   * **Persistencia en Base de Datos:** Todas las conversaciones y mensajes quedan archivados en las tablas `conversaciones` y `mensajes_conversacion` de PostgreSQL para auditoría y trazabilidad.
 
 1. **Restricción de Tamaño para Radiofrecuencia (LoRa / Meshtastic):**
    * Longitud máxima por elemento de `mensajes`: **250 caracteres**.

@@ -20,6 +20,17 @@ class ConsultaRequest(BaseModel):
     ubicacion: Ubicacion | None = None
     cliente: str | None = None
     id_conversacion: str | None = None
+    reset_conversacion: bool = False
+
+
+class ResetConversacionRequest(BaseModel):
+    id_conversacion: str = Field(..., min_length=1)
+
+
+class ResetConversacionResponse(BaseModel):
+    ok: bool = True
+    mensaje: str = "Conversación reseteada correctamente."
+    id_conversacion: str
 
 
 class FuenteOut(BaseModel):

@@ -1,14 +1,5 @@
 """Orquestación del pipeline de consulta: embed → recuperar → contexto →
-generar → post-procesar. Es el corazón del servicio API.
-
-Concurrencia (importante en RPi4 4GB):
-  - Todo el trabajo local pesado (embedding ONNX, consulta a BD síncrona,
-    generación) se ejecuta en un hilo del threadpool con `run_in_threadpool`,
-    de modo que el event loop de FastAPI NO se bloquea (sigue atendiendo
-    /health y encolando peticiones).
-  - Ese bloque va dentro del semáforo de inferencia, así que el embedding y la
-    generación quedan SERIALIZADOS: nunca corren dos a la vez y no se dispara la
-    RAM. (Corrige los hallazgos 1 y 2 de la auditoría docs/planning/checks.)
+generar → post-procesar → persistir memoria conversacional.
 """
 
 from __future__ import annotations
@@ -20,6 +11,7 @@ from fastapi.concurrency import run_in_threadpool
 
 from api.concurrency import inference_semaphore
 from api.llm_client import LLMClient
+from api.memory import conversation_memory
 from api.postprocess import formatear
 from api.prompt import construir_mensajes
 from api.rag import context as ctx_mod
@@ -31,36 +23,84 @@ _log = logging.getLogger(__name__)
 
 
 def _nombre_modelo() -> str:
-    # Nombre legible del modelo a partir de la ruta del GGUF.
     return settings.llm_model_path.rsplit("/", 1)[-1].removesuffix(".gguf")
 
 
 def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
-    """Pipeline completo y SÍNCRONO. Se ejecuta en un hilo del threadpool,
-    bajo el semáforo de inferencia (una sola ejecución pesada a la vez)."""
+    """Pipeline completo con soporte multi-cliente y memoria conversacional."""
     inicio = time.monotonic()
+    conv_id = req.id_conversacion or req.cliente
+    cliente_id = req.cliente or conv_id or "desconocido"
 
-    # 1-2. Recuperación (incluye el embedding de la consulta, CPU-bound).
+    # 1. Manejo de reseteo explícito de conversación
+    if req.reset_conversacion and conv_id:
+        conversation_memory.resetear_conversacion(conv_id)
+        if req.consulta.strip().lower() in ("/reset", "reset", "reiniciar", "nueva"):
+            return ConsultaResponse(
+                ok=True,
+                mensajes=["Conversación reseteada. ¿En qué puedo ayudarte?"],
+                categoria="general",
+                confianza=1.0,
+                modelo=_nombre_modelo(),
+                tiempo_ms=int((time.monotonic() - inicio) * 1000),
+            )
+
+    # 2. Recuperar historial activo (hasta 20 turnos / TTL 1 hora)
+    historial = conversation_memory.obtener_historial(conv_id) if conv_id else []
+
+    # 3. Búsqueda vectorial en el RAG
     recuperados = retrieval.buscar(
         req.consulta,
         categoria=req.categoria_sugerida,
         provincia=settings.provincia if req.ubicacion else None,
     )
 
-    # 3. Construcción del contexto.
+    # Si la consulta actual no recupera nada y hay historial previo, intentar con el tema reciente
+    if not recuperados and historial:
+        ultimos_usuarios = [m["content"] for m in historial if m["role"] == "user"]
+        if ultimos_usuarios:
+            consulta_ampliada = f"{ultimos_usuarios[-1]} {req.consulta}"
+            recuperados = retrieval.buscar(
+                consulta_ampliada,
+                categoria=req.categoria_sugerida,
+                provincia=settings.provincia if req.ubicacion else None,
+            )
+
+    # 4. Construcción del contexto y mensajes con triaje
     contexto = ctx_mod.construir_contexto(recuperados)
+    mensajes = construir_mensajes(
+        req.consulta,
+        contexto.texto,
+        suficiente=contexto.suficiente,
+        historial=historial,
+    )
 
-    # 4. Mensajes (system/user) para el endpoint de chat: deja que llama-server
-    #    aplique la plantilla nativa del modelo (ChatML en Qwen2.5).
-    mensajes = construir_mensajes(req.consulta, contexto.texto, suficiente=contexto.suficiente)
-
-    # 5. Generación (llamada bloqueante a llama-server; este hilo espera).
+    # 5. Generación de respuesta con el LLM
     texto_crudo = llm.chat(mensajes)
 
-    # 6. Post-proceso a 1–3 mensajes de <=250 caracteres + aviso si procede.
+    # 6. Post-proceso a mensajes de <= 250 caracteres + aviso médico si procede
     formateada = formatear(texto_crudo, categoria=contexto.categoria)
+    respuesta_completa = " ".join(formateada.mensajes)
 
     tiempo_ms = int((time.monotonic() - inicio) * 1000)
+
+    # 7. Persistir turno en base de datos y compactar con IA si excede límite
+    if conv_id:
+        metadatos = {
+            "tiempo_ms": tiempo_ms,
+            "categoria": contexto.categoria.value if contexto.categoria else None,
+            "confianza": contexto.confianza,
+            "fuentes": [f.get("titulo") for f in contexto.fuentes],
+        }
+        conversation_memory.guardar_turno(
+            id_conversacion=conv_id,
+            cliente_id=cliente_id,
+            consulta_usuario=req.consulta,
+            respuesta_asistente=respuesta_completa,
+            metadatos=metadatos,
+            llm=llm,
+        )
+
     return ConsultaResponse(
         ok=True,
         mensajes=formateada.mensajes,
@@ -74,8 +114,7 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
 
 
 async def responder(req: ConsultaRequest, *, llm: LLMClient | None = None) -> ConsultaResponse:
-    """Procesa una consulta. Serializa el trabajo pesado y libera el event loop."""
+    """Procesa una consulta dentro del semáforo de inferencia."""
     llm = llm or LLMClient()
-    # El semáforo cubre TODO el trabajo local pesado (embedding + BD + LLM).
     async with inference_semaphore:
         return await run_in_threadpool(_procesar_sync, req, llm)

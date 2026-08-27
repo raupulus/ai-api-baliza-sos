@@ -313,9 +313,14 @@
       <span class="badge" id="health-badge"><span class="badge-dot"></span> Verificando...</span>
     </div>
     <div class="header-actions">
+      <div class="token-input-group" title="ID de conversación / cliente (para aislar memoria)">
+        <label for="conv-id">💬 ID:</label>
+        <input type="text" id="conv-id" placeholder="id_conversacion" style="width: 100px; font-family: monospace; font-size: 0.8rem; background: transparent; border: none; color: var(--text); outline: none;">
+      </div>
+      <button type="button" id="reset-btn" class="pill" style="background:#1e293b; border-color:#38bdf888; color:#38bdf8; font-weight:600; padding:4px 10px;" title="Resetear contexto y empezar nueva conversación">🔄 Nueva</button>
       <div class="token-input-group" title="Token Bearer para la API (guardado automático en navegador)">
         <label for="api-token">🔑 Token:</label>
-        <input type="password" id="api-token" placeholder="Cargando token..." spellcheck="false" autocomplete="off" style="width: 220px;">
+        <input type="password" id="api-token" placeholder="Cargando token..." spellcheck="false" autocomplete="off" style="width: 150px;">
         <button type="button" id="toggle-token-btn" style="background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:0.85rem;" title="Mostrar token">👁️</button>
       </div>
     </div>
@@ -323,11 +328,11 @@
 
   <main>
     <div class="quick-prompts">
+      <button class="pill" onclick="sendQuick('Me he caido en la montaña y no encuentro camino de vuelta, estoy desorientado')">⛰️ Caída en montaña (triaje)</button>
       <button class="pill" onclick="sendQuick('Picadura de medusa que hago')">🪼 Picadura de medusa</button>
       <button class="pill" onclick="sendQuick('Que hacer ante un golpe de calor?')">☀️ Golpe de calor</button>
       <button class="pill" onclick="sendQuick('Como conseguir agua potable en la playa?')">💧 Agua en la costa</button>
-      <button class="pill" onclick="sendQuick('Perdido en la costa de Cadiz como orientarme?')">🧭 Orientación costera</button>
-      <button class="pill" onclick="sendQuick('Cual es la capital de Francia?')">❌ Prueba no-alucinación</button>
+      <button class="pill" onclick="sendQuick('Cual es la capital de Francia?')">❌ Prueba anti-alucinación</button>
     </div>
 
     <div id="chat-log">
@@ -358,6 +363,46 @@
     const sendBtn = document.getElementById('send-btn');
     const tokenInput = document.getElementById('api-token');
     const healthBadge = document.getElementById('health-badge');
+    const convInput = document.getElementById('conv-id');
+    const resetBtn = document.getElementById('reset-btn');
+
+    // Gestión del ID de conversación (persistente en localStorage)
+    let currentConvId = localStorage.getItem('bot_conv_id') || ('web-' + Math.random().toString(36).substring(2, 8));
+    convInput.value = currentConvId;
+    localStorage.setItem('bot_conv_id', currentConvId);
+
+    convInput.addEventListener('input', () => {
+      currentConvId = convInput.value.trim() || ('web-' + Math.random().toString(36).substring(2, 8));
+      localStorage.setItem('bot_conv_id', currentConvId);
+    });
+
+    resetBtn.addEventListener('click', async () => {
+      const token = tokenInput.value.trim();
+      try {
+        const headers = { 'Content-Type': 'application/json' };
+        if (token) headers['Authorization'] = `Bearer ${token}`;
+        await fetch('/api/v1/conversacion/reset', {
+          method: 'POST',
+          headers: headers,
+          body: JSON.stringify({ id_conversacion: currentConvId })
+        });
+      } catch (e) {}
+
+      // Generar nuevo ID para el nuevo hilo
+      currentConvId = 'web-' + Math.random().toString(36).substring(2, 8);
+      convInput.value = currentConvId;
+      localStorage.setItem('bot_conv_id', currentConvId);
+
+      chatLog.innerHTML = `
+        <div class="message-row bot">
+          <div class="bot-packet-group">
+            <div class="packet-card" style="border-left-color: var(--success);">
+              <div class="packet-header"><span>NUEVA CONVERSACIÓN INICIADA</span></div>
+              <div class="packet-body">Contexto reiniciado correctamente. La memoria previa para este cliente ha sido archivada.</div>
+            </div>
+          </div>
+        </div>`;
+    });
 
     // Cargar token: si existe en localStorage se usa, si no, se consulta al servidor
     const savedToken = localStorage.getItem('bot_api_token') || '';
@@ -452,7 +497,11 @@
         const res = await fetch('/api/v1/consulta', {
           method: 'POST',
           headers: headers,
-          body: JSON.stringify({ consulta: query })
+          body: JSON.stringify({
+            consulta: query,
+            id_conversacion: currentConvId,
+            cliente: currentConvId
+          })
         });
 
         const elapsedClient = Math.round(performance.now() - t0);

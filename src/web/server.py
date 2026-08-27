@@ -90,6 +90,36 @@ async def proxy_consulta(request: Request) -> Response:
         )
 
 
+@app.post("/api/v1/conversacion/reset")
+async def proxy_reset(request: Request) -> Response:
+    """Proxy hacia el endpoint de reseteo de conversación."""
+    body = await request.body()
+    headers: dict[str, str] = {"Content-Type": "application/json"}
+
+    auth = request.headers.get("Authorization")
+    if auth:
+        headers["Authorization"] = auth
+
+    try:
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            resp = await client.post(
+                f"{API_BASE_URL}/v1/conversacion/reset",
+                content=body,
+                headers=headers,
+            )
+            return Response(
+                content=resp.content,
+                status_code=resp.status_code,
+                media_type="application/json",
+            )
+    except Exception as exc:
+        return Response(
+            content=f'{{"detail": "Error reseteando conversación: {str(exc)}"}}',
+            status_code=502,
+            media_type="application/json",
+        )
+
+
 def main() -> None:
     uvicorn.run(
         "web.server:app",

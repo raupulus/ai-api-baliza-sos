@@ -7,8 +7,13 @@ para `--source <nombre>` y `--all`.
 from __future__ import annotations
 
 from updater.sources.base import Source
+from updater.sources.fiestas_cadiz import FiestasCadizSource
+from updater.sources.flora_fauna_cadiz import FloraFaunaCadizSource
 from updater.sources.gbif import GbifSource
+from updater.sources.historia_cadiz import HistoriaCadizSource
+from updater.sources.municipios_cadiz import MunicipiosCadizSource
 from updater.sources.overpass import OverpassSource
+from updater.sources.primeros_auxilios_avanzado import PrimerosAuxiliosAvanzadoSource
 from updater.sources.stubs import (
     AemetSource,
     IgnSource,
@@ -18,8 +23,13 @@ from updater.sources.stubs import (
 )
 from updater.sources.wikidata import WikidataSource
 
-# Orden recomendado de ejecución: primero lo seguro y por API.
+# Registro global de fuentes
 SOURCES: dict[str, type[Source]] = {
+    PrimerosAuxiliosAvanzadoSource.nombre: PrimerosAuxiliosAvanzadoSource,
+    FloraFaunaCadizSource.nombre: FloraFaunaCadizSource,
+    MunicipiosCadizSource.nombre: MunicipiosCadizSource,
+    FiestasCadizSource.nombre: FiestasCadizSource,
+    HistoriaCadizSource.nombre: HistoriaCadizSource,
     OverpassSource.nombre: OverpassSource,
     WikidataSource.nombre: WikidataSource,
     GbifSource.nombre: GbifSource,
@@ -30,8 +40,17 @@ SOURCES: dict[str, type[Source]] = {
     PrimerosAuxiliosSource.nombre: PrimerosAuxiliosSource,
 }
 
-# Fuentes ya implementadas con lógica real (el resto son stubs).
-IMPLEMENTADAS = {OverpassSource.nombre, WikidataSource.nombre, GbifSource.nombre}
+# Fuentes ya implementadas con lógica real y validada
+IMPLEMENTADAS = {
+    PrimerosAuxiliosAvanzadoSource.nombre,
+    FloraFaunaCadizSource.nombre,
+    MunicipiosCadizSource.nombre,
+    FiestasCadizSource.nombre,
+    HistoriaCadizSource.nombre,
+    OverpassSource.nombre,
+    WikidataSource.nombre,
+    GbifSource.nombre,
+}
 
 
 def get_source(nombre: str) -> Source:

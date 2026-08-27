@@ -17,12 +17,15 @@ from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import JSONResponse
 
 from api.llm_client import LLMClient
+from api.memory import conversation_memory
 from api.pipeline import responder
 from api.schemas import (
     ConsultaRequest,
     ConsultaResponse,
     ErrorResponse,
     HealthResponse,
+    ResetConversacionRequest,
+    ResetConversacionResponse,
 )
 from common.config import settings
 from common.errors import BotError
@@ -123,6 +126,21 @@ async def health() -> HealthResponse:
 async def consulta(req: ConsultaRequest) -> ConsultaResponse:
     _log.info("Consulta (%s): %s", req.cliente or "?", req.consulta[:80])
     return await responder(req)
+
+
+@app.post(
+    "/v1/conversacion/reset",
+    response_model=ResetConversacionResponse,
+    dependencies=[Depends(auth)],
+)
+async def reset_conversacion(req: ResetConversacionRequest) -> ResetConversacionResponse:
+    exito = conversation_memory.resetear_conversacion(req.id_conversacion)
+    msg = "Conversación reseteada correctamente." if exito else "La conversación no existía o ya estaba inactiva."
+    return ResetConversacionResponse(
+        ok=True,
+        mensaje=msg,
+        id_conversacion=req.id_conversacion,
+    )
 
 
 def main() -> None:  # pragma: no cover

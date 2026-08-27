@@ -21,6 +21,7 @@ class Categoria(str, Enum):
     SUPERVIVENCIA = "supervivencia"
     ORIENTACION = "orientacion"
     CLIMA = "clima"
+    CULTURA_HISTORIA = "cultura_historia"
 
 
 class NivelConfianza(str, Enum):
