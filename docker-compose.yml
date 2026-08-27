@@ -132,6 +132,7 @@ services:
         condition: service_healthy
     environment:
       API_BASE_URL: http://api:8870
+      API_AUTH_TOKEN: ${API_AUTH_TOKEN:-CAMBIA_ESTE_TOKEN_SEGURO}
       WEB_PORT: 8443
       WEB_HOST: 0.0.0.0
     command: ["uvicorn", "web.server:app", "--host", "0.0.0.0", "--port", "8443"]

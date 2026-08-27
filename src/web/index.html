@@ -313,9 +313,10 @@
       <span class="badge" id="health-badge"><span class="badge-dot"></span> Verificando...</span>
     </div>
     <div class="header-actions">
-      <div class="token-input-group" title="Token Bearer para la API">
-        <label for="api-token">Token:</label>
-        <input type="password" id="api-token" placeholder="API Auth Token">
+      <div class="token-input-group" title="Token Bearer para la API (guardado automático en navegador)">
+        <label for="api-token">🔑 Token:</label>
+        <input type="text" id="api-token" placeholder="Cargando token..." spellcheck="false" autocomplete="off" style="width: 220px;">
+        <button type="button" id="toggle-token-btn" style="background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:0.85rem;" title="Ocultar/Mostrar">👁️</button>
       </div>
     </div>
   </header>
@@ -358,14 +359,33 @@
     const tokenInput = document.getElementById('api-token');
     const healthBadge = document.getElementById('health-badge');
 
-    // Recuperar token almacenado en localStorage si existe
+    // Cargar token: si existe en localStorage se usa, si no, se consulta al servidor
     const savedToken = localStorage.getItem('bot_api_token') || '';
     if (savedToken) {
       tokenInput.value = savedToken;
+    } else {
+      fetch('/api/auth/token')
+        .then(res => res.json())
+        .then(data => {
+          if (data && data.token) {
+            tokenInput.value = data.token;
+            localStorage.setItem('bot_api_token', data.token);
+          }
+        })
+        .catch(() => {});
     }
-    tokenInput.addEventListener('change', () => {
+
+    // Guardado inmediato en localStorage mientras se teclea
+    tokenInput.addEventListener('input', () => {
       localStorage.setItem('bot_api_token', tokenInput.value.trim());
     });
+
+    const toggleBtn = document.getElementById('toggle-token-btn');
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', () => {
+        tokenInput.type = tokenInput.type === 'password' ? 'text' : 'password';
+      });
+    }
 
     // Auto-ajuste de altura textarea y Enter para enviar
     promptInput.addEventListener('keydown', (e) => {

@@ -17,6 +17,7 @@ from fastapi import FastAPI, Request, Response
 from fastapi.responses import FileResponse, HTMLResponse
 
 API_BASE_URL = os.environ.get("API_BASE_URL", "http://api:8870").rstrip("/")
+API_AUTH_TOKEN = os.environ.get("API_AUTH_TOKEN", "")
 WEB_PORT = int(os.environ.get("WEB_PORT", "8443"))
 WEB_HOST = os.environ.get("WEB_HOST", "0.0.0.0")
 
@@ -31,6 +32,12 @@ async def index() -> FileResponse:
     if not INDEX_FILE.exists():
         return Response("index.html no encontrado", status_code=404)
     return FileResponse(INDEX_FILE)
+
+
+@app.get("/api/auth/token")
+async def get_default_token() -> dict[str, str]:
+    """Devuelve el token configurado en el servidor para auto-completar el frontend."""
+    return {"token": API_AUTH_TOKEN}
 
 
 @app.get("/api/health")
@@ -54,13 +61,16 @@ async def proxy_health() -> Response:
 
 @app.post("/api/v1/consulta")
 async def proxy_consulta(request: Request) -> Response:
-    """Proxy hacia el endpoint de inferencia /v1/consulta."""
+    """Proxy hacia el endpoint de inferencia /v1/consulta con fallback automático de token."""
     body = await request.body()
     headers: dict[str, str] = {"Content-Type": "application/json"}
 
     auth = request.headers.get("Authorization")
     if auth:
         headers["Authorization"] = auth
+    elif API_AUTH_TOKEN:
+        # Fallback para pruebas transparentes desde el entorno web local
+        headers["Authorization"] = f"Bearer {API_AUTH_TOKEN}"
 
     try:
         # Timeout amplio (hasta 280s) para soportar inferencia en RPi
