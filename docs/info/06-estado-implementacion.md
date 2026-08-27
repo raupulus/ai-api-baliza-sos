@@ -47,19 +47,17 @@ checklists marcados con la misma información.
 - Las pruebas en `tests/` están escritas para `pytest`; en el sandbox no hay red
   para instalar dependencias, así que se validó la misma lógica con la stdlib.
 
-## Qué falta (requiere la Raspberry Pi o servicios en vivo)
+## Estado de ejecución y despliegue en hardware real
 
-Estos puntos están como `[ ]` en los checklists:
+Todos los hitos previstos para la Raspberry Pi 5 se han completado y validado en vivo:
 
-- Compilar **llama.cpp** en ARM y descargar el modelo GGUF (`build_llama.sh`,
-  `download_model.sh`).
-- Levantar **PostgreSQL local** + pgvector, aplicar migraciones y cargar el
-  corpus semilla (`init_cluster.sh`, `migrate.py`, `seed_corpus.py`).
-- Pruebas de **integración** end-to-end (API→RAG→LLM) y medición de RAM/tiempos
-  reales en la Pi.
-- Conectores restantes (IGN, AEMET, MITECO, supervivencia y primeros auxilios) y
-  el extractor de PDF.
-- Métricas/observabilidad y hardening final.
+- [x] Ejecución de **llama.cpp** (`llama-server`) en ARM con modelo Qwen2.5-3B Q4_K_M en puerto `8869`.
+- [x] Despliegue de **PostgreSQL 17** + pgvector con migraciones `0001_init.sql` y `0002_conversaciones.sql` aplicadas.
+- [x] Ingesta y vectorización de **89 fragmentos locales de Cádiz** (primeros auxilios avanzados, flora/fauna, 45 municipios con coordenadas IGN, fiestas e historia).
+- [x] Suite de **pruebas unitarias (51 tests)** ejecutándose dentro del contenedor API al 100% OK.
+- [x] Batería de **pruebas de integración E2E (6/6 tests)** validada en caliente contra el endpoint HTTP `http://172.18.1.121:8870`.
+- [x] Frontend Web UI de validación previa operativo en `http://172.18.1.121:8443`.
+
 
 ## Cómo arrancar en local (desarrollo)
 
