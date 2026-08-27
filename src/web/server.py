@@ -61,16 +61,13 @@ async def proxy_health() -> Response:
 
 @app.post("/api/v1/consulta")
 async def proxy_consulta(request: Request) -> Response:
-    """Proxy hacia el endpoint de inferencia /v1/consulta con fallback automático de token."""
+    """Proxy hacia el endpoint de inferencia /v1/consulta retransmitiendo la autenticación del cliente."""
     body = await request.body()
     headers: dict[str, str] = {"Content-Type": "application/json"}
 
     auth = request.headers.get("Authorization")
     if auth:
         headers["Authorization"] = auth
-    elif API_AUTH_TOKEN:
-        # Fallback para pruebas transparentes desde el entorno web local
-        headers["Authorization"] = f"Bearer {API_AUTH_TOKEN}"
 
     try:
         # Timeout amplio (hasta 280s) para soportar inferencia en RPi

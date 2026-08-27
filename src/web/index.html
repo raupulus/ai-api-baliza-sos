@@ -315,8 +315,8 @@
     <div class="header-actions">
       <div class="token-input-group" title="Token Bearer para la API (guardado automático en navegador)">
         <label for="api-token">🔑 Token:</label>
-        <input type="text" id="api-token" placeholder="Cargando token..." spellcheck="false" autocomplete="off" style="width: 220px;">
-        <button type="button" id="toggle-token-btn" style="background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:0.85rem;" title="Ocultar/Mostrar">👁️</button>
+        <input type="password" id="api-token" placeholder="Cargando token..." spellcheck="false" autocomplete="off" style="width: 220px;">
+        <button type="button" id="toggle-token-btn" style="background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:0.85rem;" title="Mostrar token">👁️</button>
       </div>
     </div>
   </header>
@@ -383,7 +383,10 @@
     const toggleBtn = document.getElementById('toggle-token-btn');
     if (toggleBtn) {
       toggleBtn.addEventListener('click', () => {
-        tokenInput.type = tokenInput.type === 'password' ? 'text' : 'password';
+        const isPassword = tokenInput.type === 'password';
+        tokenInput.type = isPassword ? 'text' : 'password';
+        toggleBtn.textContent = isPassword ? '🙈' : '👁️';
+        toggleBtn.title = isPassword ? 'Ocultar token' : 'Mostrar token';
       });
     }
 
