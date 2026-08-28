@@ -5,7 +5,7 @@ description = "Backend de asistente de emergencia/supervivencia offline (RAG + L
 requires-python = ">=3.11"
 readme = "README.md"
 license = { text = "MIT" }
-authors = [{ name = "Raul", email = "raupulus@gmail.com" }]
+authors = [{ name = "Raul", email = "public@raupulus.dev" }]
 
 # Las dependencias reales se gestionan con pip + requirements/ (ver requirements/).
 # pyproject.toml se usa aquí solo para configurar las herramientas de desarrollo.

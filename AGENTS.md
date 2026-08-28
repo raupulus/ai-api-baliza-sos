@@ -55,6 +55,11 @@ Se compone de **dos servicios independientes**:
   cuaderno de trabajo y evaluación manual del usuario. Está **terminantemente
   prohibido modificarlo, editarlo o sobrescribirlo** a no ser que el usuario lo
   pida de forma totalmente explícita en su mensaje.
+- **Privacidad y Correo Público del Autor.** El único correo de contacto
+  público autorizado para metadatos, autorías (`pyproject.toml`), `User-Agent`
+  y documentación es **`public@raupulus.dev`**. Está **terminantemente
+  prohibido** incluir cuentas de correo personales o no públicas en el
+  código, configuraciones, docstrings, commits o documentación del repositorio.
 
 ## 3. Guía de Navegación de Documentación para Agentes
 
