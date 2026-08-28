@@ -6,11 +6,12 @@ env.py
 
 # --- Datos locales / directorio de trabajo ---
 data/postgres/
-data/staging/
 data/cache/
 data/logs/
 data/raw/*
 !data/raw/.gitkeep
+data/tmp/*
+!data/tmp/.gitkeep
 
 # --- Modelos descargados (GGUF, ONNX) ---
 models/
