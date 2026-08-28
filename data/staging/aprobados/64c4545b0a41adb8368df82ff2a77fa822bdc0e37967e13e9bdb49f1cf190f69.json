@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Padión (Curso Fluvial) en Estepona. WGS84: 36.520724, -5.160001.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64c4545b0a41adb8368df82ff2a77fa822bdc0e37967e13e9bdb49f1cf190f69"
+}

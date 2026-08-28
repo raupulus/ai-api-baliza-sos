@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Internacional Estepona Centro (farmacia). Coordenadas aprox: 36.4261, -5.1446.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4261025&mlon=-5.1446008",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d55c2bcbbaf72159552007f0c2739b7dba229dbc7d38ae76cb61e8c4cafd6e1e"
+}

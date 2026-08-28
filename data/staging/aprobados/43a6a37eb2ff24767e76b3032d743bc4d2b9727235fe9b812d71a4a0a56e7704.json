@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: SANLUCAR DE BARRAMEDA. WGS84: 36.612599, -6.208829.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "43a6a37eb2ff24767e76b3032d743bc4d2b9727235fe9b812d71a4a0a56e7704"
+}

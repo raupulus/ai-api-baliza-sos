@@ -1,0 +1,15 @@
+{
+  "texto": "Europa Point Trinity Lighthouse (faro). Coordenadas aprox: 36.1097, -5.3448.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1096537&mlon=-5.3448416",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ce3b2dbe0997ab68db8da7ec4667749a48a453fdd412417f78aa50426d2b1f8a"
+}

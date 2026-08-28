@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica San Felipe (centro de salud). Coordenadas aprox: 36.2099, -5.3856.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2099307&mlon=-5.3855846",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "87ff0ba8b65ebb89ab29e0b5d6582c78d1fbaf94c5699b93c668f528db3314f6"
+}

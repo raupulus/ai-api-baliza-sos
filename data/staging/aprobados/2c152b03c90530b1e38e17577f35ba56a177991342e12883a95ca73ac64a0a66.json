@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación De Autobuses Sanlúcar (Sanlúcar de Barrameda). WGS84: 36.781579, -6.358452.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2c152b03c90530b1e38e17577f35ba56a177991342e12883a95ca73ac64a0a66"
+}

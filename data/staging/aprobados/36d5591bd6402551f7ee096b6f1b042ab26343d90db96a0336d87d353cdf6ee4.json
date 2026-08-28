@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Cuevas (Curso Fluvial) en Grazalema. WGS84: 36.790223, -5.487218.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "36d5591bd6402551f7ee096b6f1b042ab26343d90db96a0336d87d353cdf6ee4"
+}

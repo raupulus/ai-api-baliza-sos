@@ -1,0 +1,15 @@
+{
+  "texto": "Cardelino (Carduelis carduelis (Linnaeus, 1758)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2494686",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a8f66f29fe857ca89490af3a3d6b8228511c66ad4545f879d70b991f238ab06e"
+}

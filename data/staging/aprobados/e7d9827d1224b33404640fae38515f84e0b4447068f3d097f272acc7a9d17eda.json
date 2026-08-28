@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Ojén (Curso Fluvial) en Los Barrios. WGS84: 36.13575, -5.559896.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e7d9827d1224b33404640fae38515f84e0b4447068f3d097f272acc7a9d17eda"
+}

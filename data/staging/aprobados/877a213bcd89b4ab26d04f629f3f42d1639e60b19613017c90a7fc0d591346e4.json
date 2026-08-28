@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: OLVERA. WGS84: 36.941490, -5.252866.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "877a213bcd89b4ab26d04f629f3f42d1639e60b19613017c90a7fc0d591346e4"
+}

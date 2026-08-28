@@ -1,0 +1,15 @@
+{
+  "texto": "Cañada del Rayo (Curso Fluvial) en Casares. WGS84: 36.452412, -5.329837.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8774b95eae72f18e8c97770244ffd9902476f7b919ab498df7a063ac7111084d"
+}

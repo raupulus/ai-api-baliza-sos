@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cerona (Curso Fluvial) en Tarifa. WGS84: 36.150573, -5.73083.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "41fe746d34984481f659e63c57e4c7a452298fd28d0741cc127acf81e6d5823a"
+}

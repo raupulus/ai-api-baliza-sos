@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente del Chiquero (Curso Fluvial) en Benaocaz. WGS84: 36.706046, -5.403035.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d5e3d1b8cfcf3515b7da3ba2bb835a4e51c920cf04f518fcdf3c5bb00de05f5f"
+}

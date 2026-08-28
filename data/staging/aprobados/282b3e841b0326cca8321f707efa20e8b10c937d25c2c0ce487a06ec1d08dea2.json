@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Molaza (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.343817, -5.930432.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "282b3e841b0326cca8321f707efa20e8b10c937d25c2c0ce487a06ec1d08dea2"
+}

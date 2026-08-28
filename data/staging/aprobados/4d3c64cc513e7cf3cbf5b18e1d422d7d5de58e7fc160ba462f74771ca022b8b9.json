@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Abogado (Servicio/Equipamiento) en Ronda. WGS84: 36.786504, -5.112409.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4d3c64cc513e7cf3cbf5b18e1d422d7d5de58e7fc160ba462f74771ca022b8b9"
+}

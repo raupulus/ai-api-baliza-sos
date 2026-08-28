@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Levante (playa). Coordenadas aprox: 36.5457, -6.2281.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5457152&mlon=-6.2281182",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "266c7522e66652d01828188899f7edef6f638ce7c649778b1f7f1a3a0df1a927"
+}

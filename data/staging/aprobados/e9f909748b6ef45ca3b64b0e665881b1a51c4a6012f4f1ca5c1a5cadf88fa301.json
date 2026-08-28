@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Sepúlveda García Torre (farmacia). Coordenadas aprox: 36.8609, -5.6434.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8608587&mlon=-5.6433721",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e9f909748b6ef45ca3b64b0e665881b1a51c4a6012f4f1ca5c1a5cadf88fa301"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Gimena (farmacia) en Ronda. Coordenadas aprox: 36.7430, -5.1647.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7429848&mlon=-5.1647385",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8c364528db90a40a73d791730b3b3bbf18ec83c8dcb9dd08f6bd4f3b18621fae"
+}

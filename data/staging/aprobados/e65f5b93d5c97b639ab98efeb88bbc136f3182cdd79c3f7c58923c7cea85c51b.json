@@ -1,0 +1,15 @@
+{
+  "texto": "Canuto de los Tajos (Curso Fluvial) en Los Barrios. WGS84: 36.234747, -5.592124.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e65f5b93d5c97b639ab98efeb88bbc136f3182cdd79c3f7c58923c7cea85c51b"
+}

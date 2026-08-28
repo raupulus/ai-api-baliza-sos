@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Sacrificio (Servicio/Equipamiento) en Medina Sidonia. WGS84: 36.487419, -5.904261.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "58b2cf8c18c76f78175c5e065d5cad8acea28b80add1f8269173a2010d9a8dff"
+}

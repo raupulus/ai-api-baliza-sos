@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo de Cuernavacas (Obra Hidráulica) en Chiclana de la Frontera. WGS84: 36.409694, -6.057068.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "52c978f05a6aac8bf9d073c77d7dc5deed2bfbedec944d3319167efef724fc95"
+}

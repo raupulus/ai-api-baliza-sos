@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Corpus Christi (Algeciras). WGS84: 36.139333, -5.450764.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3cb4060361b594a10a8c131d908bcece68f36e90fd3f646fdd52f409e2528bf9"
+}

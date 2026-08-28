@@ -1,0 +1,15 @@
+{
+  "texto": "agua potable (agua potable). Coordenadas aprox: 36.7374, -5.1655.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7373569&mlon=-5.1655453",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d556f6504bae3cc02427b1583bda43a5ba87eb7e9553519052dbd1f80b1ebd7a"
+}

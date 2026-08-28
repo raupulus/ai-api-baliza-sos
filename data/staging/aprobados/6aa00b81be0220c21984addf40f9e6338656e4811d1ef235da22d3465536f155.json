@@ -1,0 +1,15 @@
+{
+  "texto": "Punta del Arrecife (Relieve Litoral / Marítimo) en San Fernando. WGS84: 36.396665, -6.226882.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6aa00b81be0220c21984addf40f9e6338656e4811d1ef235da22d3465536f155"
+}

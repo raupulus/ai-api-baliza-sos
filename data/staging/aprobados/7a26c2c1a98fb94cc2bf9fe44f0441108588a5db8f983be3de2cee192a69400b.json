@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Batán (Curso Fluvial) en Algodonales. WGS84: 36.870266, -5.409278.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7a26c2c1a98fb94cc2bf9fe44f0441108588a5db8f983be3de2cee192a69400b"
+}

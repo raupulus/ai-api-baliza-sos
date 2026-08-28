@@ -1,0 +1,15 @@
+{
+  "texto": "Bahía de Cádiz (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.545932, -6.286253.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e9d14cad2b9049d0934d29e53b7befba1363d00c19ffa3e4f6847407e750c043"
+}

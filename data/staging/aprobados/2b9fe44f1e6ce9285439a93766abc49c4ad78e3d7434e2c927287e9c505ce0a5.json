@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Plaza Asdrúbal (Cádiz). WGS84: 36.518333, -6.283854.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2b9fe44f1e6ce9285439a93766abc49c4ad78e3d7434e2c927287e9c505ce0a5"
+}

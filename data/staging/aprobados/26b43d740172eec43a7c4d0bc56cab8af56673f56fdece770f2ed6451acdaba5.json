@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Carreño (farmacia) en Ronda. Coordenadas aprox: 36.7454, -5.1614.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7454044&mlon=-5.1614405",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "26b43d740172eec43a7c4d0bc56cab8af56673f56fdece770f2ed6451acdaba5"
+}

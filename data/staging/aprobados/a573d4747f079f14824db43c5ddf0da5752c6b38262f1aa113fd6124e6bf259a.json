@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Los Pastores V (Algeciras). WGS84: 36.110806, -5.457646.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a573d4747f079f14824db43c5ddf0da5752c6b38262f1aa113fd6124e6bf259a"
+}

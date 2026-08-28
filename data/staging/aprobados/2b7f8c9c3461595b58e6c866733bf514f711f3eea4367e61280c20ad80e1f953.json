@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Botafuegos (Curso Fluvial) en Los Barrios. WGS84: 36.159292, -5.476899.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2b7f8c9c3461595b58e6c866733bf514f711f3eea4367e61280c20ad80e1f953"
+}

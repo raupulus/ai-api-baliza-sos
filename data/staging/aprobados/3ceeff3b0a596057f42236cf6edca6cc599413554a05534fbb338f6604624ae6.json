@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Guadiaro V (San Roque). WGS84: 36.300728, -5.302719.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3ceeff3b0a596057f42236cf6edca6cc599413554a05534fbb338f6604624ae6"
+}

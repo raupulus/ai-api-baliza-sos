@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de salud Padre Salado (centro de salud). Coordenadas aprox: 36.4198, -6.1427.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4198041&mlon=-6.1426771",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cfc9f70a26982340a161241ede137c380bfb648117b05d884a8596c21c910421"
+}

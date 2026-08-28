@@ -1,0 +1,15 @@
+{
+  "texto": "Sección Tercera de Marismas Sector A (Relieve Litoral / Marítimo) en Lebrija. WGS84: 37.024612, -6.081561.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "acd67d9fd00b8094b4449a552a9e4dc37ad9b3ceb4d8366dbf5f4580e313f447"
+}

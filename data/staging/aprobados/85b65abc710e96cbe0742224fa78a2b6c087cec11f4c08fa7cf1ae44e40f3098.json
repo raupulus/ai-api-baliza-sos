@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Cuervo (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1738, -5.3503.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1737538&mlon=-5.3502876",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "85b65abc710e96cbe0742224fa78a2b6c087cec11f4c08fa7cf1ae44e40f3098"
+}

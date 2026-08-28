@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Vinagrero (Curso Fluvial) en Ronda. WGS84: 36.737255, -5.133974.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ad6f1d02e64b5a12490204c6020aefaec5b553ed3f33beb6fb07d643dae51e50"
+}

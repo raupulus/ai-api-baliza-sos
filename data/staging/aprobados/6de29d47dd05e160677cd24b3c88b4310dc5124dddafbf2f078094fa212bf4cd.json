@@ -1,0 +1,15 @@
+{
+  "texto": "# Hipoglucemia (niveles bajos de azúcar en sangre)\n\n## Reconocimiento\n- Sospecha hipoglucemia en alguien con diabetes o desnutrición crónica con deterioro repentino del nivel de conciencia o cambios de comportamiento.\n\n## Actuación\n1. Administra 15-20 g de glucosa o dextrosa por vía oral si la persona está despierta y puede tragar.\n2. Si es posible, mide el azúcar en sangre; trata si es bajo (< 70 mg/dL o 4,0 mmol/L) y repite la medición tras el tratamiento.\n3. Si no hay glucosa, ofrece caramelos azucarados o 50-100 mL de zumo o refresco con azúcar.\n4. Repite la glucosa oral si los síntomas persisten tras 15 minutos.\n5. Si tiene prescrito un autoinyector de glucagón, puede administrarse bajo la piel.",
+  "fuente": "European Resuscitation Council — Guías ERC 2025 (Resumen Ejecutivo ES)",
+  "fuente_url": null,
+  "fecha": "2026-08-28",
+  "categoria": "primeros_auxilios",
+  "subcategoria": "urgencias_medicas",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6de29d47dd05e160677cd24b3c88b4310dc5124dddafbf2f078094fa212bf4cd"
+}

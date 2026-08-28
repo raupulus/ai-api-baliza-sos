@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo del Puntal (Obra Hidráulica) en Almonte. WGS84: 36.974961, -6.433742.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cdcd8db30785a1dc30d2bad51d6356b72fe39dfcb6459ad1beeacb2cce9f523a"
+}

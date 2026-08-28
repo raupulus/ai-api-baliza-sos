@@ -1,0 +1,15 @@
+{
+  "texto": "Chloris chloris (Linnaeus, 1758) (Chloris chloris (Linnaeus, 1758)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/5845582",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "96bec658c80f9684a5074c52cd2eba68cc62410d5247dd36574089f029847ed9"
+}

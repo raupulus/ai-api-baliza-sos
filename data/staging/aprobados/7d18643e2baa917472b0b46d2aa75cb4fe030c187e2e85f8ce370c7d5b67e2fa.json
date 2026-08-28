@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Cuerno (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.600943, -5.463601.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7d18643e2baa917472b0b46d2aa75cb4fe030c187e2e85f8ce370c7d5b67e2fa"
+}

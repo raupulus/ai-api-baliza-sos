@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Mendoza (farmacia) en San Fernando. Coordenadas aprox: 36.4596, -6.2016.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4595969&mlon=-6.2015784",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e8393e4bf070575183cf5e17188ddd74c3be12d0bb4baaf4208a669f34483cec"
+}

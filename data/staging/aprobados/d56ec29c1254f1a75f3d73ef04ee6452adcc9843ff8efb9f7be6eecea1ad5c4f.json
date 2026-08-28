@@ -1,0 +1,15 @@
+{
+  "texto": "Casitas Cueva (Servicio/Equipamiento) en Benaoján. WGS84: 36.727691, -5.235048.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d56ec29c1254f1a75f3d73ef04ee6452adcc9843ff8efb9f7be6eecea1ad5c4f"
+}

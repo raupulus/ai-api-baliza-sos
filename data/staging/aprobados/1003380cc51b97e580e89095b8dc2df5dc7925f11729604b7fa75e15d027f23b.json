@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cartuja (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.759049, -6.229865.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1003380cc51b97e580e89095b8dc2df5dc7925f11729604b7fa75e15d027f23b"
+}

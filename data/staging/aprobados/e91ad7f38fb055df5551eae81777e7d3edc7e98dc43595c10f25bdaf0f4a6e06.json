@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Caliche (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.430112, -5.701035.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e91ad7f38fb055df5551eae81777e7d3edc7e98dc43595c10f25bdaf0f4a6e06"
+}

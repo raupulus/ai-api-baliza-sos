@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Mezquita (Curso Fluvial) en Lebrija. WGS84: 36.880993, -5.915762.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a69b7a3f96a332b1ae7efdd1d2f3d85faf8dd532a05458dcfe73a1b1781558e0"
+}

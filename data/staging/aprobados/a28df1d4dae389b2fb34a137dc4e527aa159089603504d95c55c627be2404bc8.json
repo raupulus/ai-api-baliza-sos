@@ -1,0 +1,15 @@
+{
+  "texto": "centro de salud (centro de salud). Coordenadas aprox: 36.7310, -6.4338.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7310392&mlon=-6.4338402",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a28df1d4dae389b2fb34a137dc4e527aa159089603504d95c55c627be2404bc8"
+}

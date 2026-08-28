@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de salud El Lugar (centro de salud). Coordenadas aprox: 36.4186, -6.1502.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4185995&mlon=-6.1502179",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5268feabe8084c7af482dd4f5d8b820197955761838201f56fa8b12e16d08ca7"
+}

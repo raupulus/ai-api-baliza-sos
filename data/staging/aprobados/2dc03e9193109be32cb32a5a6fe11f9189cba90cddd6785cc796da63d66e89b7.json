@@ -1,0 +1,15 @@
+{
+  "texto": "Lcda. M. Alonso Barthe (farmacia). Coordenadas aprox: 36.5350, -6.2977.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5349994&mlon=-6.297723",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2dc03e9193109be32cb32a5a6fe11f9189cba90cddd6785cc796da63d66e89b7"
+}

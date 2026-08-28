@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: San Enrique (San Roque). WGS84: 36.304094, -5.292422.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1bbad49b1bf71a0108a53de39488d1b2862c8fd285c40fbc89adfd7d82ca33ad"
+}

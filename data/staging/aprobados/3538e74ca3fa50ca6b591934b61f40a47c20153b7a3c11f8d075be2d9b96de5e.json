@@ -1,0 +1,15 @@
+{
+  "texto": "Templete Gonzalez Byass (refugio). Coordenadas aprox: 36.6955, -6.1261.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6955219&mlon=-6.1261248",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3538e74ca3fa50ca6b591934b61f40a47c20153b7a3c11f8d075be2d9b96de5e"
+}

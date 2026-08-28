@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Gallo de Oro (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.710302, -6.04851.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cb46e05c0398cd616b8007e50e58576b74edc86a67eeb4331f5608477c3833c5"
+}

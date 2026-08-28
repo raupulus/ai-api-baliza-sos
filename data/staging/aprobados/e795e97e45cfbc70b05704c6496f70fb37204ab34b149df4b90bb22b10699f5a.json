@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Arnea (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.438009, -5.793218.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e795e97e45cfbc70b05704c6496f70fb37204ab34b149df4b90bb22b10699f5a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Álamo (Curso Fluvial) en Algodonales. WGS84: 36.855713, -5.427866.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a4d2e1b2aac1882c904dba1ad6715f3b20e91528d368cb303b4554a4addaf03a"
+}

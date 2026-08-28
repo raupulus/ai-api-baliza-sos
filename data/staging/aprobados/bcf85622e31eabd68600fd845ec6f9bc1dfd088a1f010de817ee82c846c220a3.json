@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud \"La Atalaya\" (centro de salud) en Conil de la Frontera. Coordenadas aprox: 36.2808, -6.0901.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2808054&mlon=-6.0900884",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bcf85622e31eabd68600fd845ec6f9bc1dfd088a1f010de817ee82c846c220a3"
+}

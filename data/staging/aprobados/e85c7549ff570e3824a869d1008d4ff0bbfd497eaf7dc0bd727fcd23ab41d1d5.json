@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente Nueva (Montejaque) (agua potable). Coordenadas aprox: 36.7353, -5.2512.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7353335&mlon=-5.2511868",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e85c7549ff570e3824a869d1008d4ff0bbfd497eaf7dc0bd727fcd23ab41d1d5"
+}

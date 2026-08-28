@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Aguila Torres (farmacia). Coordenadas aprox: 36.1335, -5.4498.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1334556&mlon=-5.4498088",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9e571c7b43120d168badeca10ab51189370c03e3ad6b5d0c28586d8bd9276a1b"
+}

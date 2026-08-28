@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: LA INDIANA. WGS84: 36.760734, -5.196439.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "304d52c21d253d0a2dd8f5085864e6498a39537b100d6a65e16b06b43531bccf"
+}

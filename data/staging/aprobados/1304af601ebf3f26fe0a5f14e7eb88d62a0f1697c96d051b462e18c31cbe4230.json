@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Carpio (Curso Fluvial) en Benalup-Casas Viejas. WGS84: 36.317908, -5.731918.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1304af601ebf3f26fe0a5f14e7eb88d62a0f1697c96d051b462e18c31cbe4230"
+}

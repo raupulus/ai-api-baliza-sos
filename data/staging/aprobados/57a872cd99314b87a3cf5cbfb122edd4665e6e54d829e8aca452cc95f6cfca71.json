@@ -1,0 +1,15 @@
+{
+  "texto": "Marismas del Bajo Guadalquivir (Relieve Litoral / Marítimo) en Lebrija. WGS84: 36.984272, -6.159933.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "57a872cd99314b87a3cf5cbfb122edd4665e6e54d829e8aca452cc95f6cfca71"
+}

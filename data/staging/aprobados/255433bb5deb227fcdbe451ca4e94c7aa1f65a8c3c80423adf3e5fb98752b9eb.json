@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio Real (Relieve Litoral / Marítimo) en La Puebla del Río. WGS84: 36.972602, -6.274517.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "255433bb5deb227fcdbe451ca4e94c7aa1f65a8c3c80423adf3e5fb98752b9eb"
+}

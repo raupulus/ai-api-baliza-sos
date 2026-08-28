@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Zarzalera (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.600693, -5.531031.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "417ae060c8e05e7efcc9461b66bc8dc398129ea869e490543632155ccd93a43b"
+}

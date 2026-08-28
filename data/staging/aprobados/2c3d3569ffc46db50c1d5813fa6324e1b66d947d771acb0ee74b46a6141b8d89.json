@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Almirante León Herrero (San Fernando). WGS84: 36.462013, -6.205045.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2c3d3569ffc46db50c1d5813fa6324e1b66d947d771acb0ee74b46a6141b8d89"
+}

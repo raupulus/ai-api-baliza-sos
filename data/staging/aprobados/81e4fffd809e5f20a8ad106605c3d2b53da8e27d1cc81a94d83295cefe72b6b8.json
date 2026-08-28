@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Mate López (farmacia). Coordenadas aprox: 36.5207, -5.8639.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5207268&mlon=-5.8639188",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "81e4fffd809e5f20a8ad106605c3d2b53da8e27d1cc81a94d83295cefe72b6b8"
+}

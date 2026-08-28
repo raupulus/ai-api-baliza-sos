@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Ballena (Relieve Litoral / Marítimo) en Chipiona. WGS84: 36.689737, -6.421715.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "364353cf06ce6e76415b0f283a3fe916b1604e4244f67ab89696fae6b6569eb0"
+}

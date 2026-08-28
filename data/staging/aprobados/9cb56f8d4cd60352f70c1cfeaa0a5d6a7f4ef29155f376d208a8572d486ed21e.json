@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud de Trebujena (centro de salud) en Trebujena. Coordenadas aprox: 36.8679, -6.1743.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8679324&mlon=-6.1742546",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9cb56f8d4cd60352f70c1cfeaa0a5d6a7f4ef29155f376d208a8572d486ed21e"
+}

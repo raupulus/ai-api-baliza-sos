@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Riachuelo (Curso Fluvial) en Júzcar. WGS84: 36.618817, -5.171316.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "82b7e1a93f594374de836a1f796671a45bfbf6b00c56dcb9698e00479cae2ae6"
+}

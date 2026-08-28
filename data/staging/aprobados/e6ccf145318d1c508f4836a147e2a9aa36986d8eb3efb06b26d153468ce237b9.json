@@ -1,0 +1,15 @@
+{
+  "texto": "Quore Clinic (centro de salud). Coordenadas aprox: 36.2924, -5.2746.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2923687&mlon=-5.274643",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e6ccf145318d1c508f4836a147e2a9aa36986d8eb3efb06b26d153468ce237b9"
+}

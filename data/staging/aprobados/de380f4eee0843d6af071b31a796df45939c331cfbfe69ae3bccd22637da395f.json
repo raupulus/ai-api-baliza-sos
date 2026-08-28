@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica ADI (centro de salud) en San Fernando. Coordenadas aprox: 36.4745, -6.1951.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4744589&mlon=-6.1951083",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "de380f4eee0843d6af071b31a796df45939c331cfbfe69ae3bccd22637da395f"
+}

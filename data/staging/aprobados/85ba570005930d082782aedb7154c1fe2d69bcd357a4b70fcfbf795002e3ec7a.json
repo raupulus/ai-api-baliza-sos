@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Andalucia (farmacia). Coordenadas aprox: 36.5226, -6.2864.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5225809&mlon=-6.2864435",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "85ba570005930d082782aedb7154c1fe2d69bcd357a4b70fcfbf795002e3ec7a"
+}

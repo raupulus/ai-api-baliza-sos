@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Gaznate (Curso Fluvial) en Benalup-Casas Viejas. WGS84: 36.317201, -5.747304.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "91b8f068b6a77fe9b71712b129c101587d78d4a182e2309c9c200510bc2e0755"
+}

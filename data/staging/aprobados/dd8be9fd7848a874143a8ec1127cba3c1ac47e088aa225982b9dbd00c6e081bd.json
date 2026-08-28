@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Jandilla (Curso Fluvial) en Conil de la Frontera. WGS84: 36.305808, -6.038406.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dd8be9fd7848a874143a8ec1127cba3c1ac47e088aa225982b9dbd00c6e081bd"
+}

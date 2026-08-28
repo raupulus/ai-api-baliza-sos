@@ -1,0 +1,15 @@
+{
+  "texto": "Consultorio Médico de la Estación de San Roque (centro de salud). Coordenadas aprox: 36.2132, -5.4308.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2132413&mlon=-5.4308495",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "12f4499353a01603b5c999715726cfb882a740f34c8722d5d48aa0aaafc05849"
+}

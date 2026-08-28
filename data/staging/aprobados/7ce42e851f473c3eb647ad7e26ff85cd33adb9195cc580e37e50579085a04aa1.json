@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Juncal (Curso Fluvial) en Casares. WGS84: 36.392832, -5.305103.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7ce42e851f473c3eb647ad7e26ff85cd33adb9195cc580e37e50579085a04aa1"
+}

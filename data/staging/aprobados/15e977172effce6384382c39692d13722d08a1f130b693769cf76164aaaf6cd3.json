@@ -1,0 +1,15 @@
+{
+  "texto": "Cernicalo común (Falco tinnunculus Linnaeus, 1758). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/9616058",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "15e977172effce6384382c39692d13722d08a1f130b693769cf76164aaaf6cd3"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Al-Andalus (San Fernando). WGS84: 36.459477, -6.208618.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4b50b70af6a89760a88a01c4fef09b2fe5b80fd8557c8ccf9fd7eba712d534bf"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Casa de los Pájaros (refugio). Coordenadas aprox: 36.4898, -6.1604.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4897506&mlon=-6.1604421",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9b288dbba52dc3ddd22eaead5eebfd4370d1587ddbe487159f844054a6c94801"
+}

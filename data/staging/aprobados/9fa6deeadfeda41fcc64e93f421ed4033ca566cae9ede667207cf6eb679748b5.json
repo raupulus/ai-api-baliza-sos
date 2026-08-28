@@ -1,0 +1,15 @@
+{
+  "texto": "Servicio Integral Médico Abierto (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1645, -5.3483.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1645163&mlon=-5.3482968",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9fa6deeadfeda41fcc64e93f421ed4033ca566cae9ede667207cf6eb679748b5"
+}

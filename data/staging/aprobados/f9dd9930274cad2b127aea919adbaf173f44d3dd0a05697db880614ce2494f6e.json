@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Pollo (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.634237, -6.135448.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f9dd9930274cad2b127aea919adbaf173f44d3dd0a05697db880614ce2494f6e"
+}

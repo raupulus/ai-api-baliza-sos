@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Candalar (Curso Fluvial) en Tarifa. WGS84: 36.131334, -5.827361.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "47c35ec689d750979222ca99a4c668f31c205ad0a8da2e018ab85b74bb0b1fb3"
+}

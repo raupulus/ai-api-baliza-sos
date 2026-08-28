@@ -1,0 +1,15 @@
+{
+  "texto": "refugio (refugio). Coordenadas aprox: 36.6367, -6.3933.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6366856&mlon=-6.3932975",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a1d3f2a1d70d9a1c32a4e213824baa3131b60f9c8ab9b5762a02eb56e245fe37"
+}

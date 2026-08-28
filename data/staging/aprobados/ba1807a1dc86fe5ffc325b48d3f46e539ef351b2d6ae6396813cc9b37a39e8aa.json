@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Planilla (Curso Fluvial) en Ronda. WGS84: 36.727461, -5.139717.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ba1807a1dc86fe5ffc325b48d3f46e539ef351b2d6ae6396813cc9b37a39e8aa"
+}

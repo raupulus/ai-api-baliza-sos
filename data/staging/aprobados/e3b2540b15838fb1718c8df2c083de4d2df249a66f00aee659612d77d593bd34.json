@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo el Indiano (Curso Fluvial) en Manilva. WGS84: 36.357734, -5.261562.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e3b2540b15838fb1718c8df2c083de4d2df249a66f00aee659612d77d593bd34"
+}

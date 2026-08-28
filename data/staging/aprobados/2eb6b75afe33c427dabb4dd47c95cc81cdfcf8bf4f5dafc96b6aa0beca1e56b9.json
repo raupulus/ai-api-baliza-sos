@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Botica del Puerto (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1796, -5.3373.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1796127&mlon=-5.3372662",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2eb6b75afe33c427dabb4dd47c95cc81cdfcf8bf4f5dafc96b6aa0beca1e56b9"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cotilla (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.244222, -5.440045.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cce889d61b1c9311401186cfa4f5f48d21f55a54ed820d4dfb6ef032a275eb05"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Guijo (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.732113, -5.840843.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b5d0aa192af5bdd15e78ab37ef1d4be73303294447181fecaa6d64d3b5afb526"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de Juan Azul (Curso Fluvial) en Los Barrios. WGS84: 36.247064, -5.53937.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4a750fe2c6bd8691aa29e3b614e45ccef8372dcf1d4cb392097371b64af36350"
+}

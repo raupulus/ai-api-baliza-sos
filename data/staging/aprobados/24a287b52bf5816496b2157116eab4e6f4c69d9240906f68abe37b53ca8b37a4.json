@@ -1,0 +1,15 @@
+{
+  "texto": "Río San Pedro (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.533354, -6.215642.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "24a287b52bf5816496b2157116eab4e6f4c69d9240906f68abe37b53ca8b37a4"
+}

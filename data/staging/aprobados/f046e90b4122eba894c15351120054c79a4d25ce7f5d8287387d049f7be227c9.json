@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Valdelagrana (El Puerto de Santa María). WGS84: 36.584725, -6.216299.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f046e90b4122eba894c15351120054c79a4d25ce7f5d8287387d049f7be227c9"
+}

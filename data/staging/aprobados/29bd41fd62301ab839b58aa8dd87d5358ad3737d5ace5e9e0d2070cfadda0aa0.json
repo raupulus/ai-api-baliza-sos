@@ -1,0 +1,15 @@
+{
+  "texto": "Almagro (farmacia). Coordenadas aprox: 36.3163, -6.1510.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3163418&mlon=-6.1510466",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "29bd41fd62301ab839b58aa8dd87d5358ad3737d5ace5e9e0d2070cfadda0aa0"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Audika (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1600, -5.3462.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1599648&mlon=-5.346221",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c89a6dacbbcaa9c924c1a5aa73d8cb5c37e1a162c27ec7820c6e21b920ca7abd"
+}

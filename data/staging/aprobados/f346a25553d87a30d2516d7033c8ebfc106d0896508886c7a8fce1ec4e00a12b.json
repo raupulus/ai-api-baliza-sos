@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Angula (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.32772, -5.429922.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f346a25553d87a30d2516d7033c8ebfc106d0896508886c7a8fce1ec4e00a12b"
+}

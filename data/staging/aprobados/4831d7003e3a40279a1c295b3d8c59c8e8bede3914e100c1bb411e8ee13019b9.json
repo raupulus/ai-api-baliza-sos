@@ -1,0 +1,15 @@
+{
+  "texto": "Victoria del Trocadero (Masa de Agua) en Puerto Real. WGS84: 36.515585, -6.231157.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4831d7003e3a40279a1c295b3d8c59c8e8bede3914e100c1bb411e8ee13019b9"
+}

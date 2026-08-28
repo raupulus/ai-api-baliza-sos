@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Garrapatas (Curso Fluvial) en Villamartín. WGS84: 36.960254, -5.679624.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b383a4886af2c4fe7f54f8c95aceb717f3236aac5d8c03f10e785af4306bd30f"
+}

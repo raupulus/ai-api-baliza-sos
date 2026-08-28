@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia García Muñoz (farmacia) en El Cuervo de Sevilla. Coordenadas aprox: 36.8521, -6.0379.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8520597&mlon=-6.0379313",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0f9f919a6a82bd25ab90aa35efdd148f694cee40383eaaa5145f4d5a5d319576"
+}

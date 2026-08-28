@@ -1,0 +1,15 @@
+{
+  "texto": "Caño del Carrascón (Curso Fluvial) en San Fernando. WGS84: 36.446811, -6.199143.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d3bd8cc821a95416094e559e4e3e521674b0b45284d2ff9b622eadff36fa84b1"
+}

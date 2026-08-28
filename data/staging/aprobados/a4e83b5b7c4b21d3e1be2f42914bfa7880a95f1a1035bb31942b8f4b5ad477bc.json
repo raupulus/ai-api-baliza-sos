@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna de la Galiana (Masa de Agua) en Lebrija. WGS84: 36.895628, -5.913291.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a4e83b5b7c4b21d3e1be2f42914bfa7880a95f1a1035bb31942b8f4b5ad477bc"
+}

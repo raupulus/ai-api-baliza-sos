@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Garganta Honda (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.390882, -5.51529.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a6b64ed28e70aeb3aadada2f935b079a8aad1c469502683012a8ad8668972b3a"
+}

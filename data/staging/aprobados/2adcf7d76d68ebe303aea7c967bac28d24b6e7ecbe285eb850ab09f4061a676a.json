@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Pravia (farmacia). Coordenadas aprox: 36.6828, -6.1112.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.68283&mlon=-6.111219",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2adcf7d76d68ebe303aea7c967bac28d24b6e7ecbe285eb850ab09f4061a676a"
+}

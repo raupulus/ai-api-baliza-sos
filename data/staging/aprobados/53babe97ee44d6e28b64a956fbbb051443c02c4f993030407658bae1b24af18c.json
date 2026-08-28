@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Parrilla (Curso Fluvial) en Casares. WGS84: 36.387705, -5.225646.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "53babe97ee44d6e28b64a956fbbb051443c02c4f993030407658bae1b24af18c"
+}

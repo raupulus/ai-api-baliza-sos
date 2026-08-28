@@ -1,0 +1,15 @@
+{
+  "texto": "Veta del Bizco (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 37.010924, -6.305546.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1a013b9a6dfeb209cc3bcb90cfb1b5db407d84f3c1e2e69b9268d9d8990697af"
+}

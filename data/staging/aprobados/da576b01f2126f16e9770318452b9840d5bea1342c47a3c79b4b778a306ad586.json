@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Malabrigo (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.791643, -5.897132.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da576b01f2126f16e9770318452b9840d5bea1342c47a3c79b4b778a306ad586"
+}

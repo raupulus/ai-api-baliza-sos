@@ -1,0 +1,15 @@
+{
+  "texto": "La Puntilla (playa). Coordenadas aprox: 36.5851, -6.2410.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.585105&mlon=-6.2409525",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "43b9750e9d8e15d19a28061a93635f74124d234dcf511d1b68328ff81733d805"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente de los Tres Chorros (agua potable). Coordenadas aprox: 36.7661, -5.4659.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7660521&mlon=-5.4658759",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9b119484f38bf2cdd2029b9056a65441eb2c97783ca12f96b2b186dbe6a00de4"
+}

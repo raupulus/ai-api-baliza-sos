@@ -1,0 +1,15 @@
+{
+  "texto": "Playa Isla de Las Palomas (playa). Coordenadas aprox: 36.0053, -5.6090.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0052769&mlon=-5.6090352",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6cd297bf6b5455339cd0b7fc8d9ebff2dbe0b58c89ef8d27161943c57e892c5f"
+}

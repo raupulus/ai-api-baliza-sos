@@ -1,0 +1,15 @@
+{
+  "texto": "Sansalvador (farmacia). Coordenadas aprox: 36.1351, -5.4499.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1350901&mlon=-5.4498979",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f24c5714265e8ea0483de1c7ce37e28423168317f4f24954f130d2c3efdf3d2f"
+}

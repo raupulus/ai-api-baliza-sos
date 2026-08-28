@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Toscos (Curso Fluvial) en Algodonales. WGS84: 36.909655, -5.460213.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "356e1a9477800e3b56c0b982b1e025c13c0d1c0730d130bdd3a65f420ddd009f"
+}

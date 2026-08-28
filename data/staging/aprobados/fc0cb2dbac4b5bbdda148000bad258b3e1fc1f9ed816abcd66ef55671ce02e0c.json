@@ -1,0 +1,15 @@
+{
+  "texto": "Sherry Golf (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.659429, -6.154891.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc0cb2dbac4b5bbdda148000bad258b3e1fc1f9ed816abcd66ef55671ce02e0c"
+}

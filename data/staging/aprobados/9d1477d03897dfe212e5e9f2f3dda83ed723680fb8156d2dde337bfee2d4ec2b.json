@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna de la Peña (Masa de Agua) en Lebrija. WGS84: 36.900387, -5.913662.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d1477d03897dfe212e5e9f2f3dda83ed723680fb8156d2dde337bfee2d4ec2b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Curruca Capirotada (Sylvia atricapilla (Linnaeus, 1758)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2492956",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b9ef16fc3d0b872353c5a9cbff4b2ed86c6c0b01f2d2e6114a6bc7463238d007"
+}

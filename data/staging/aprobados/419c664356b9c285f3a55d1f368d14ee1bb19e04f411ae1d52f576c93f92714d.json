@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Zanjar (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.795283, -5.70039.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "419c664356b9c285f3a55d1f368d14ee1bb19e04f411ae1d52f576c93f92714d"
+}

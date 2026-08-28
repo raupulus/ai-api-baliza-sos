@@ -1,0 +1,15 @@
+{
+  "texto": "# Soporte vital básico en el adulto (ERC 2025)\n\n## Tres pasos para salvar una vida\n1. **Comprobar**: ¿es seguro acercarse? ¿está consciente?\n2. **Llamar** al servicio de emergencias si no responde, y evaluar si respira.\n3. **RCP**: iniciar de inmediato si no responde y no respira con normalidad. Conectar un DEA en cuanto esté disponible.\n\n## Reconocer la parada cardiaca\n- Sospecha parada cardiaca en cualquier persona que no responda.\n- Respiración lenta, trabajosa o agónica (gasping) = signo de parada; inicia RCP ante la duda.\n- Si está inconsciente y no respira con normalidad, asume parada cardiaca.\n\n## Compresiones torácicas de calidad\n1. Coloca el talón de una mano en la mitad inferior del esternón (centro del pecho).\n2. Coloca la otra mano encima y entrecruza los dedos (sin presionar costillas).\n3. Mantén los brazos rectos y los hombros en vertical sobre el pecho.\n4. Comprime a 5-6 cm de profundidad, a 100-120 compresiones por minuto.\n5. Permite la reexpansión completa del pecho tras cada compresión.\n\n## Ventilaciones de rescate\n1. Si estás entrenado, alterna 30 compresiones con 2 ventilaciones efectivas.\n2. Insufla solo lo necesario para que el tórax se eleve; evita ventilar en exceso.\n3. Si no estás entrenado, realiza compresiones torácicas continuas sin interrupción.",
+  "fuente": "European Resuscitation Council — Guías ERC 2025 (Resumen Ejecutivo ES)",
+  "fuente_url": null,
+  "fecha": "2026-08-28",
+  "categoria": "primeros_auxilios",
+  "subcategoria": "soporte_vital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4760de684c1ac3ae82ff9e3b2b9c3d60604996b46cb6170cc41260b614308217"
+}

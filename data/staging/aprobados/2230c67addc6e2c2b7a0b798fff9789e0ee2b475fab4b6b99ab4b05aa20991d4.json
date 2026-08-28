@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Brázquez (Curso Fluvial) en Pruna. WGS84: 37.012388, -5.226072.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2230c67addc6e2c2b7a0b798fff9789e0ee2b475fab4b6b99ab4b05aa20991d4"
+}

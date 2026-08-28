@@ -1,0 +1,15 @@
+{
+  "texto": "Punta Macotilla (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.062657, -5.699938.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9e04d33d579aec62921afd4b3ebae65faa35a7f64de505b6ba21c0a1b647cec6"
+}

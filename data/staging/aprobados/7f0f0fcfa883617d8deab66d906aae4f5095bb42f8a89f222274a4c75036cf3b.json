@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ribera del Muelle (farmacia). Coordenadas aprox: 36.5274, -6.1942.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5273784&mlon=-6.194196",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7f0f0fcfa883617d8deab66d906aae4f5095bb42f8a89f222274a4c75036cf3b"
+}

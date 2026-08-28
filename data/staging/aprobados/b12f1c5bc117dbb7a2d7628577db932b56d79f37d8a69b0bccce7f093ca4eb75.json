@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Barcillo (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.36238, -5.435269.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b12f1c5bc117dbb7a2d7628577db932b56d79f37d8a69b0bccce7f093ca4eb75"
+}

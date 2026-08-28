@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Canteras (Curso Fluvial) en San Roque. WGS84: 36.273535, -5.33795.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "36c1fb9e2d048485b89f1586869cc677c78ff9172adbd2ecb3f01d1bad357bb6"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia La Estación (farmacia) en Estación de San Roque. Coordenadas aprox: 36.2155, -5.4330.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2154909&mlon=-5.4330105",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "19158daada1689a7b22891e381bd50d39de7f8aa6f4fb432407c0128df025515"
+}

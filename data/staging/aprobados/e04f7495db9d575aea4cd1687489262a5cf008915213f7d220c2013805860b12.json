@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna la Herradura (Masa de Agua) en Las Cabezas de San Juan. WGS84: 36.93757, -5.907078.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e04f7495db9d575aea4cd1687489262a5cf008915213f7d220c2013805860b12"
+}

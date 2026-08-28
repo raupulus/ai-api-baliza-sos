@@ -1,0 +1,15 @@
+{
+  "texto": "Wasserspender (agua potable). Coordenadas aprox: 36.3640, -6.1723.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3640091&mlon=-6.172265",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eeed9b2f800048d52b892bd0e23f6614d3a8a201702e1a03818a21de6067d6ab"
+}

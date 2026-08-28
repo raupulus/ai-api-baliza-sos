@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Getares (playa). Coordenadas aprox: 36.0908, -5.4438.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0908268&mlon=-5.4438331",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8f88e7a926d64b0525b3697cfc90f3d0ce3feabe0823b1d7c381dfdcc4554044"
+}

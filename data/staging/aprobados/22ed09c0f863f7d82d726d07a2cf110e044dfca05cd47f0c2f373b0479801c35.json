@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cañada del Cordero (Curso Fluvial) en Grazalema. WGS84: 36.80809, -5.332088.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "22ed09c0f863f7d82d726d07a2cf110e044dfca05cd47f0c2f373b0479801c35"
+}

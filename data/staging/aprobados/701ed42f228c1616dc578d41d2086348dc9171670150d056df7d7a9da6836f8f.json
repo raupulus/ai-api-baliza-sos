@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Plaza del Carmen (San Fernando). WGS84: 36.458159, -6.203489.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "701ed42f228c1616dc578d41d2086348dc9171670150d056df7d7a9da6836f8f"
+}

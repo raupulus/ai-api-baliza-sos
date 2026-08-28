@@ -1,0 +1,15 @@
+{
+  "texto": "San Patricio (Masa de Agua) en Puerto Real. WGS84: 36.489959, -6.148438.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e396250af12978127c36dc0c1f8699b81c001bdcdb184e47639d10685b5b232e"
+}

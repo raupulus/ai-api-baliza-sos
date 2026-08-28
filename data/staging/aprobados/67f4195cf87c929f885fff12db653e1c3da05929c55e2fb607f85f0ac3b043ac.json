@@ -1,0 +1,15 @@
+{
+  "texto": "Caño de la Junquera (Curso Fluvial) en Almonte. WGS84: 36.964056, -6.411005.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "67f4195cf87c929f885fff12db653e1c3da05929c55e2fb607f85f0ac3b043ac"
+}

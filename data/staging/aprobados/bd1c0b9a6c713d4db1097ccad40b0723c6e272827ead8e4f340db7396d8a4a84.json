@@ -1,0 +1,15 @@
+{
+  "texto": "Cedro Alto (Servicio/Equipamiento) en Benaoján. WGS84: 36.719761, -5.230537.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bd1c0b9a6c713d4db1097ccad40b0723c6e272827ead8e4f340db7396d8a4a84"
+}

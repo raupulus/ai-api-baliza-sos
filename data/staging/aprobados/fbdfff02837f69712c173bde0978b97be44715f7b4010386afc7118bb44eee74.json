@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Acebuche (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.696113, -5.972588.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fbdfff02837f69712c173bde0978b97be44715f7b4010386afc7118bb44eee74"
+}

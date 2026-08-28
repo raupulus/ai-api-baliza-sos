@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Manigua (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.652066, -5.901015.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "155d3c57c71fdcff84cfd3a3f8c8da102fda9410a518bad33bd909fb1e08c36b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Del Comercio V (Chiclana de la Frontera). WGS84: 36.426236, -6.147988.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c9178ad3f6a2b1bcfc942ba0975b878ec0287219a7c963e5c9aa77f95a7db37b"
+}

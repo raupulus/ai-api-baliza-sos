@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Blanquillo (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.791255, -6.069336.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0c1b3b749fbdb2963ffd9113bde0820a3023b82d2e1cbd876073b73f1a2fde4e"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Matite (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.703553, -5.726103.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b39db81a5630ed746a205ad27eb1faef62929ef329c2f4339d23690ea1251bd5"
+}

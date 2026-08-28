@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cuerno (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.600512, -5.877411.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7f6d20aa8611fa6655ae3c404747ea9b545a09a3e7be8ffff7eac35644b3a1ae"
+}

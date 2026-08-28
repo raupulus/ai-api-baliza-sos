@@ -1,0 +1,15 @@
+{
+  "texto": "Cabo de Trafalgar (Relieve Litoral / Marítimo) en Barbate. WGS84: 36.182003, -6.03497.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "71f940e17b13f624e08201d2edcfde8d98b2d4d2a28ddc44ff4c64d827798e91"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna del Pilón (Masa de Agua) en Lebrija. WGS84: 36.9032, -5.899185.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b64c8a6dbced4dcb90e2b92a3bea28ae010e44249f7ee99b70177cbf8f758da4"
+}

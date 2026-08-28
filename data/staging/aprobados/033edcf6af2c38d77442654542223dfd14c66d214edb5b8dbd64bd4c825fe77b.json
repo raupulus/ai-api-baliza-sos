@@ -1,0 +1,15 @@
+{
+  "texto": "Veta de los Miradores (Relieve Litoral / Marítimo) en La Puebla del Río. WGS84: 36.966026, -6.218184.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "033edcf6af2c38d77442654542223dfd14c66d214edb5b8dbd64bd4c825fe77b"
+}

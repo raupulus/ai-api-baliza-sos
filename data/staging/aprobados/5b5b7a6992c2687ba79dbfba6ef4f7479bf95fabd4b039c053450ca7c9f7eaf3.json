@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Leona (Curso Fluvial) en Morón de la Frontera. WGS84: 37.017756, -5.33385.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5b5b7a6992c2687ba79dbfba6ef4f7479bf95fabd4b039c053450ca7c9f7eaf3"
+}

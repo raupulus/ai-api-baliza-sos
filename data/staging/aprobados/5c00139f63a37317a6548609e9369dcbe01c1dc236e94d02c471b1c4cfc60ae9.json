@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo la Mujer (Curso Fluvial) en San Roque. WGS84: 36.229766, -5.36146.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5c00139f63a37317a6548609e9369dcbe01c1dc236e94d02c471b1c4cfc60ae9"
+}

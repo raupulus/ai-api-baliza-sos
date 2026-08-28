@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Chorrillo Palomo (Curso Fluvial) en Jubrique. WGS84: 36.54977, -5.17857.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e0eb6772ea1341cd543a2fa157af5aa697977a6e3e904d2753c17b09ed82fb30"
+}

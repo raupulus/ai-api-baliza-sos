@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Mora (Curso Fluvial) en Gaucín. WGS84: 36.53464, -5.36564.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "967ca2fe2ba45d26a208cda119fbf37b122b2dfcaf816bc50cb56afaf3bf42df"
+}

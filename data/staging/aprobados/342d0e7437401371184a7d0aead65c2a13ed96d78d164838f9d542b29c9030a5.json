@@ -1,0 +1,15 @@
+{
+  "texto": "Avenida Hispanidad - Campo de Fútbol (refugio). Coordenadas aprox: 36.1836, -5.3835.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1835588&mlon=-5.3834703",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "342d0e7437401371184a7d0aead65c2a13ed96d78d164838f9d542b29c9030a5"
+}

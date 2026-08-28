@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Alisos (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.609417, -5.463849.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1df1c0f1376cca9291d66d15b08f8a2a9a5ded4152d8f530adcab54eb8f8208c"
+}

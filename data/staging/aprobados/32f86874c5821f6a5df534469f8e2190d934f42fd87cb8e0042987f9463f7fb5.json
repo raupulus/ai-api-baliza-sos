@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de Mariné (Servicio/Equipamiento) en Prado del Rey. WGS84: 36.797987, -5.53618.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "32f86874c5821f6a5df534469f8e2190d934f42fd87cb8e0042987f9463f7fb5"
+}

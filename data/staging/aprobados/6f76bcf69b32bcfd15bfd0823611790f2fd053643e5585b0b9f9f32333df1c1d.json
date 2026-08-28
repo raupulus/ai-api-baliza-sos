@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Mariscala (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.803891, -6.18071.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6f76bcf69b32bcfd15bfd0823611790f2fd053643e5585b0b9f9f32333df1c1d"
+}

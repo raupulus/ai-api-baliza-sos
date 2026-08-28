@@ -1,0 +1,15 @@
+{
+  "texto": "Punta de las Cabezuelas (Relieve Litoral / Marítimo) en Puerto Real. WGS84: 36.518786, -6.25459.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "43c03c54b57d44a7ef996b4bfdb5c32585fccd28d8c83e520084ea95b74e7e76"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Parque Almirante Laulhé (San Fernando). WGS84: 36.466547, -6.202521.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4da3f9b15fa817aa00e8afbebb4f51311e0ff912fd010556e09599dd9b729bec"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Medio (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.543501, -5.637687.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e3c9c3b22257bd33475ce4f192999c9636e218d94bd855b61ee9e1ac8d9c4d00"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Las Canteras (Masa de Agua) en Puerto Real. WGS84: 36.512095, -6.223362.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a3086e6db47b26a0b41d3bcaf9dd436f65c6ef80290f2d6874a5237a072ec978"
+}

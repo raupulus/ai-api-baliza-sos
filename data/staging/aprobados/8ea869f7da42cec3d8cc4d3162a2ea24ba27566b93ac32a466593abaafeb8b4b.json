@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Parral (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.588932, -5.589491.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8ea869f7da42cec3d8cc4d3162a2ea24ba27566b93ac32a466593abaafeb8b4b"
+}

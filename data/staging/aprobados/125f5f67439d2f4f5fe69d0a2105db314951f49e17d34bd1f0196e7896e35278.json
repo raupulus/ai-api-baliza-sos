@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente de los Ocho Caños (agua potable). Coordenadas aprox: 36.7605, -5.3671.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7605337&mlon=-5.3670668",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "125f5f67439d2f4f5fe69d0a2105db314951f49e17d34bd1f0196e7896e35278"
+}

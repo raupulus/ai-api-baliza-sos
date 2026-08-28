@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo del Carbón (Servicio/Equipamiento) en Medina Sidonia. WGS84: 36.457402, -5.943034.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7f157ec39339e33180f7295a06888678e863be56d5f490b646fd8a974fd2515b"
+}

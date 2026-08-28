@@ -1,0 +1,15 @@
+{
+  "texto": "Hipermercado (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.704028, -6.116147.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3e2573c70128aade75a4fe451e4ea4fdb06b7bb8cb07f11a761977bc9d570b05"
+}

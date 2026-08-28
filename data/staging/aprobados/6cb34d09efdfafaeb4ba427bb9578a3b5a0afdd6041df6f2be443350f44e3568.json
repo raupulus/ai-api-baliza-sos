@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Hatabo (Curso Fluvial) en Utrera. WGS84: 37.003994, -5.636644.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6cb34d09efdfafaeb4ba427bb9578a3b5a0afdd6041df6f2be443350f44e3568"
+}

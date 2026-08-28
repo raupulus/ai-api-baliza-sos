@@ -1,0 +1,15 @@
+{
+  "texto": "Silvia Moreno Leal (farmacia). Coordenadas aprox: 36.5228, -6.2262.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5228363&mlon=-6.2261803",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8e9a217870ffd03ca64c30263aa549ed09fdf113146503fed83d490f67ba942e"
+}

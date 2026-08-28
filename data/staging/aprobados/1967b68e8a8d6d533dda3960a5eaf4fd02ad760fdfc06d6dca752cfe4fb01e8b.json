@@ -1,0 +1,15 @@
+{
+  "texto": "Sector B-XII Subsector-A (Relieve Litoral / Marítimo) en Lebrija. WGS84: 36.983336, -6.063788.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1967b68e8a8d6d533dda3960a5eaf4fd02ad760fdfc06d6dca752cfe4fb01e8b"
+}

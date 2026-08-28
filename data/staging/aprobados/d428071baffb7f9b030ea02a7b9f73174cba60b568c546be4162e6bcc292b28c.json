@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de las Puercas (faro). Coordenadas aprox: 36.5485, -6.3037.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5485322&mlon=-6.303655",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d428071baffb7f9b030ea02a7b9f73174cba60b568c546be4162e6bcc292b28c"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Río Almarchal (Curso Fluvial) en Genalguacil. WGS84: 36.544396, -5.254213.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "21b804c64d76188118bedf44d833cbd2a6f3408d77443485c6485c435e0231e4"
+}

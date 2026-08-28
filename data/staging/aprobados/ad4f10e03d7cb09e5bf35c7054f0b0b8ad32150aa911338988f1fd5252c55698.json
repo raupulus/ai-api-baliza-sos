@@ -1,0 +1,15 @@
+{
+  "texto": "Licenciado Antonio Morillo (farmacia). Coordenadas aprox: 36.2500, -5.9687.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2499568&mlon=-5.9687159",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ad4f10e03d7cb09e5bf35c7054f0b0b8ad32150aa911338988f1fd5252c55698"
+}

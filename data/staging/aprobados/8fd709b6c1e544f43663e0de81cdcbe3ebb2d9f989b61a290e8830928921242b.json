@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Río Arillo (San Fernando). WGS84: 36.457494, -6.223626.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8fd709b6c1e544f43663e0de81cdcbe3ebb2d9f989b61a290e8830928921242b"
+}

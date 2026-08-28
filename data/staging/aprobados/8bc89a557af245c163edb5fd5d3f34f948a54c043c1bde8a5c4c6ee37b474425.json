@@ -1,0 +1,15 @@
+{
+  "texto": "Canal de Medianilla (Obra Hidráulica) en Vejer de la Frontera. WGS84: 36.254243, -5.857847.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8bc89a557af245c163edb5fd5d3f34f948a54c043c1bde8a5c4c6ee37b474425"
+}

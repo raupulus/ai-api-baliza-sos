@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Hospital Puerta Del Mar (Cádiz). WGS84: 36.509464, -6.278803.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "69a1a5a8eb43051438fda4eccdb875a7f44ff7c64f931d090345ccd1288abb0a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Garganta de San Francisco (Curso Fluvial) en Tarifa. WGS84: 36.067986, -5.688462.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c871c98bebed9d0f6ccd758f1d098f88b77ac737b9210ea44e0b0445c59a51dd"
+}

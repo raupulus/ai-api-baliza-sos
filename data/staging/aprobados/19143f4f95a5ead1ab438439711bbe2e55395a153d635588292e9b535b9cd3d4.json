@@ -1,0 +1,15 @@
+{
+  "texto": "Canuto de Utrera (Curso Fluvial) en Manilva. WGS84: 36.379122, -5.264188.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "19143f4f95a5ead1ab438439711bbe2e55395a153d635588292e9b535b9cd3d4"
+}

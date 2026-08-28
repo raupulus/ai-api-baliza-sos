@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Centro P. Puerto Iii (El Puerto de Santa María). WGS84: 36.664249, -6.256196.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d8cb0f68469dd4cc2e6ceafea138093613e81c80534c1118fc8a72fa9e82a0fb"
+}

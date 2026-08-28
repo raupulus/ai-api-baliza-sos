@@ -1,0 +1,15 @@
+{
+  "texto": "Wesley Pharmacy (farmacia). Coordenadas aprox: 36.1366, -5.3530.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1365906&mlon=-5.3530154",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a4e71dab8bb6f2af151e8742c68967c51a00a5b7e884b3225ee1ac6760f6e6bb"
+}

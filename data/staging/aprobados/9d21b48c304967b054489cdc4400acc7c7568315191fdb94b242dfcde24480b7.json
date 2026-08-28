@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Los Canarios V (Los Barrios). WGS84: 36.176189, -5.467297.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d21b48c304967b054489cdc4400acc7c7568315191fdb94b242dfcde24480b7"
+}

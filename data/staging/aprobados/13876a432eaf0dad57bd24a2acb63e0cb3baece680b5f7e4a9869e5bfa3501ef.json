@@ -1,0 +1,15 @@
+{
+  "texto": "Punta de los Saboneses (Relieve Litoral / Marítimo) en Puerto Real. WGS84: 36.528372, -6.240111.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "13876a432eaf0dad57bd24a2acb63e0cb3baece680b5f7e4a9869e5bfa3501ef"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo la Paloma (Curso Fluvial) en Tarifa. WGS84: 36.161761, -5.631328.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8b7bf57063750db74efcb9e9757e2893ce033a1d8d06099faf2c3ad4d2b40429"
+}

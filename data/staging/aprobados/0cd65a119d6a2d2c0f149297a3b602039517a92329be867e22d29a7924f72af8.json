@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Brioles (Servicio/Equipamiento) en San José del Valle. WGS84: 36.63039, -5.801231.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0cd65a119d6a2d2c0f149297a3b602039517a92329be867e22d29a7924f72af8"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Medina Sidonia (Cádiz). Código INE 11023. Coordenadas WGS84 (centroide): 36.396788, -5.867668.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "67c072583d98fb3e9c6f60c376f9aed1c2b139089d06f8e355d7550e27ad2ee0"
+}

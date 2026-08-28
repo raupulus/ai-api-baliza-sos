@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: 512 Viviendas (Puerto Real). WGS84: 36.530574, -6.196301.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0b96d7bd93363dd96d8e7336fcb2eb25f87b3b596d6db4134b87d3530faf97b9"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Las Banderas (Servicio/Equipamiento) en Benaoján. WGS84: 36.718816, -5.238727.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "491efeca08bf872a2e3c3d8af5a241c88495cfb1f9725d1f6f5c72b807d707c4"
+}

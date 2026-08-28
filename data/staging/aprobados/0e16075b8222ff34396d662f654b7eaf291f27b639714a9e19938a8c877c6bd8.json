@@ -1,0 +1,15 @@
+{
+  "texto": "Parroquia de Nazaret (Servicio/Equipamiento) en Lebrija. WGS84: 36.922006, -6.084726.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0e16075b8222ff34396d662f654b7eaf291f27b639714a9e19938a8c877c6bd8"
+}

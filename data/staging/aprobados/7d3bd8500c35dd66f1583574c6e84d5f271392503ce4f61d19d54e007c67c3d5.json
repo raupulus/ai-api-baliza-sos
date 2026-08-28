@@ -1,0 +1,15 @@
+{
+  "texto": "Chorrón Alto (agua potable). Coordenadas aprox: 36.5198, -5.3186.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5198223&mlon=-5.318622",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7d3bd8500c35dd66f1583574c6e84d5f271392503ce4f61d19d54e007c67c3d5"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Genesis Care Campo de Gibraltar (centro de salud). Coordenadas aprox: 36.1111, -5.4396.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1110817&mlon=-5.4396242",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "33d80de92dddc92d69a2155d4bb5982265460b257198701fd1d17f4e52ea2ba4"
+}

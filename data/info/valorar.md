@@ -1,5 +1,7 @@
 # Cosas a valorar
 
+> Evaluación y organización resultantes: [`docs/rag/catalogo-adquisicion.md`](../../docs/rag/catalogo-adquisicion.md). El listado original se conserva como entrada y trazabilidad de la planificación; no implica que sus enlaces estén aprobados para descarga o indexación.
+
 La información que sea localizada se tiene que aplicar para todas las localidades/pedanías/ciudades/pueblos de la provincia de cádiz entera.
 
 - 230 bytes por mensaje máximo (el límite real es lo que deja enviar por RF meshtastic que es la red con más limitación de todas)
@@ -9,11 +11,11 @@ La información que sea localizada se tiene que aplicar para todas las localidad
 - Añade en cada bloque la fiabilidad de la información, si es oficial, si es de un organismo de confianza, si es de un usuario registrado, etc.
 - Los enlaces adjuntos no tienen por que aportar toda la información, usarlo para mirar si hay información relevante pero no limitarse solo a esa fuente.
 
-## Fuentes fiables (no se limita a estas, es orientativa)
+## Fuentes fiables (no se limita a estas, es orientativa pero todo lo de ellas marcar fiable)
 
 Todos los subdominios de estos son igual de fiables.
 
-- https://www.boe.es
+- https://www.boe.es, https://boe.es
 - https://policia.es/_es/index.php
 - https://european-union.europa.eu/index_es
 - https://www.juntadeandalucia.es
@@ -24,6 +26,9 @@ Todos los subdominios de estos son igual de fiables.
 - https://www.sepe.es
 - https://www.bopcadiz.es/
 - https://www.cadizturismo.com
+- https://datos.gob.es, https://gob.es
+- https://www.dgt.es
+- https://www.sanidad.gob.es
 
 ## Descargar, parsear y almacenar en el RAG esta información
 
@@ -77,24 +82,24 @@ Todos los subdominios de estos son igual de fiables.
 - guía astronómica para ubicarse por las estrellas
 - guía de ingienería básica para la supervivencia: pólvora, jabón
 - Fabricar cerveza, whisky, ginebra hidromiel
-- problemas de salud comunes y tratamientos (ampollas, gripe, resfriados, fiebre, tos, dolor de cabeza, etc.)
+- problemas de salud comunes y tratamientos (ampollas, gripe, resfriados, fiebre, tos, dolor de cabeza, quemadura solar, golpe en la cabeza etc.)
 - Parques naturales con detalles
 - Listado de senderos con detalles
 
 ##  Kit de emergencias para el coche
 
-En caso de que haya una previsión meteorológica de riesgo y te sea imprescindible coger el coche, deberías llevar un kit de emergencias por si tienes que pasar más tiempo del normal o te encuentras alguna incidencia con el mal tiempo. 
+En caso de que haya una previsión meteorológica de riesgo y te sea imprescindible coger el coche, deberías llevar un kit de emergencias por si tienes que pasar más tiempo del normal o te encuentras alguna incidencia con el mal tiempo.
 
 ¿Qué debe contener el kit de emergencias?
 
     Agua potable
     Alimentos que no se estropeen y energéticos
     Manta o ropa de abrigo
-    Cadenas para las ruedas 
+    Cadenas para las ruedas
     Caja de herramientas polivalentes
     Linterna con pilas de repuesto
     Pala o cepillo de nieve
-    A partir del 1 de enero de 2026 es obligatorio en todo el Estado llevar en el coche un dispositivo luminoso de color amarillo, conocido como baliza V16, que sustituye los triángulos reflectantes 
+    A partir del 1 de enero de 2026 es obligatorio en todo el Estado llevar en el coche un dispositivo luminoso de color amarillo, conocido como baliza V16, que sustituye los triángulos reflectantes
     Botiquín de primeros auxilios con gasas, cinta adhesiva, bendiciones, pomada antibiótica, analgésico, guantes sin látex, tijeras, hidrocortisona, termómetro, pinzas y compresa fría instantánea
 
 ##  Material adicional para mascotas
@@ -108,7 +113,7 @@ Los animales pueden estresarse o espantarse durante una situación de emergencia
     Registro médico, cartilla veterinaria actualizada y la medicación que pueda estar tomando
     Jaula o transportín
     Correa, morrión
-    Manta, sábana o juguetes 
+    Manta, sábana o juguetes
     Útiles higiénicos para recoger los excrementos y lavarla si fuera necesario
 
 En caso de emergencia, sigue estos consejos:
@@ -121,7 +126,7 @@ En caso de emergencia, sigue estos consejos:
 
 ## Kit de emergencias básico
 
-Si te quedas aislado en casa o sin suministros básicos es necesario que tengas un kit de emergencias con las provisiones básicas para ser autosuficiente durante algunas horas o días. 
+Si te quedas aislado en casa o sin suministros básicos es necesario que tengas un kit de emergencias con las provisiones básicas para ser autosuficiente durante algunas horas o días.
 
     Agua potable (1,5 litros por persona y día, como mínimo)
     Botiquín y medicación crónica

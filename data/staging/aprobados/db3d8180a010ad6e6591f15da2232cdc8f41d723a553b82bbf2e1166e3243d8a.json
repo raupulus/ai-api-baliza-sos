@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Macharracao (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.817049, -5.652487.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "db3d8180a010ad6e6591f15da2232cdc8f41d723a553b82bbf2e1166e3243d8a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Caballos (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.689127, -5.950235.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "22e46321227b9914dde27aa04fe29b5b03f0522bfd68d36519c924c0fade26fa"
+}

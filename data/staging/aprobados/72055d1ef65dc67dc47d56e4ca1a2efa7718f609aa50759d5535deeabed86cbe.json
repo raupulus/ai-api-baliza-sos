@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Salitre (Curso Fluvial) en Benalauría. WGS84: 36.579187, -5.330814.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "72055d1ef65dc67dc47d56e4ca1a2efa7718f609aa50759d5535deeabed86cbe"
+}

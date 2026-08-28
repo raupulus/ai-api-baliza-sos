@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Terminal Marítima El Puerto De Santa María (El Puerto de Santa María). WGS84: 36.593778, -6.226493.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "62e28f9c475168b949dc78ae89059203400503e373aa21b08a357dfb2985dbb8"
+}

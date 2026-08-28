@@ -1,0 +1,15 @@
+{
+  "texto": "Caño de la Boca Ancha (Curso Fluvial) en Barbate. WGS84: 36.191724, -5.898213.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9ad59dfe8627985e889ff09d95cb1e34c7469daf702f5e458b2139e6a79ead1c"
+}

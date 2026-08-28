@@ -1,0 +1,15 @@
+{
+  "texto": "Río del Castor (Curso Fluvial) en Estepona. WGS84: 36.449873, -5.099151.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ba734325b127dc43fb3a815e6d1ab73737dfce1a9573e439e4c5e410ea011417"
+}

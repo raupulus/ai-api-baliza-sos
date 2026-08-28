@@ -1,0 +1,15 @@
+{
+  "texto": "Circuito de Jerez Ángel Nieto (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.711689, -6.030657.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3e56a06ac8c1d88ddc02dcf3d2792f80b66ee216c761719f7fc78cc920de6cb4"
+}

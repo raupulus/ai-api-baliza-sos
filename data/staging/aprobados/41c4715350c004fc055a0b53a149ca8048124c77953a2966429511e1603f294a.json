@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Estepona (centro de salud) en Estepona. Coordenadas aprox: 36.4248, -5.1526.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.424838&mlon=-5.1525732",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "41c4715350c004fc055a0b53a149ca8048124c77953a2966429511e1603f294a"
+}

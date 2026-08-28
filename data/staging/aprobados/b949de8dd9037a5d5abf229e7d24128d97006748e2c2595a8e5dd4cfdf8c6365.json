@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Peñas (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.835574, -5.848442.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b949de8dd9037a5d5abf229e7d24128d97006748e2c2595a8e5dd4cfdf8c6365"
+}

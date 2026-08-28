@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Moral (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.547273, -5.580457.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "22cb591ea30517cfed35ccc001833441d4c3c66ad517b084be8e8a98af6f1fe3"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Sanlúcar (El Puerto de Santa María). WGS84: 36.604638, -6.228673.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e6cf2e5bddbd3a3923be5b2aaacbc1d9494639f43fa8548815efd74a09cfb3f4"
+}

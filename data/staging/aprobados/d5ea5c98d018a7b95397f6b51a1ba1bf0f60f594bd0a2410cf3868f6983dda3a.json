@@ -1,0 +1,15 @@
+{
+  "texto": "St Bernard's Hospital (hospital) en Gibraltar. Coordenadas aprox: 36.1432, -5.3595.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1432246&mlon=-5.3594905",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d5ea5c98d018a7b95397f6b51a1ba1bf0f60f594bd0a2410cf3868f6983dda3a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Benaocaz (Cádiz). Código INE 11009. Coordenadas WGS84 (centroide): 36.712381, -5.45253.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "13dde3c8a78c734eff7f4c5166ba8c226bec12b1ba20a3b7b63e143c5e642104"
+}

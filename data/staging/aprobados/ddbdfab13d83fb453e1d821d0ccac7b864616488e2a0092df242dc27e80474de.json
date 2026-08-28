@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Hondo (Curso Fluvial) en Tarifa. WGS84: 36.195272, -5.760576.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ddbdfab13d83fb453e1d821d0ccac7b864616488e2a0092df242dc27e80474de"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Natera (Servicio/Equipamiento) en Algámitas. WGS84: 37.030574, -5.124024.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "866b515b530757ddc92046849f24822641ee938ca0e23713ce3376d56836b2d4"
+}

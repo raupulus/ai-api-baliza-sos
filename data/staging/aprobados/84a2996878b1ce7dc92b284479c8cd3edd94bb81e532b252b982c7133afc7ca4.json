@@ -1,0 +1,15 @@
+{
+  "texto": "La Imposible (Masa de Agua) en Puerto Real. WGS84: 36.523113, -6.208232.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "84a2996878b1ce7dc92b284479c8cd3edd94bb81e532b252b982c7133afc7ca4"
+}

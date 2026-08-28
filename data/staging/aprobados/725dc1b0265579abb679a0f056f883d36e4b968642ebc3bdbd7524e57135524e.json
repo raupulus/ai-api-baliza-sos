@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Francisco Barbadillo García de Velasco (farmacia). Coordenadas aprox: 36.7800, -6.3510.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7799687&mlon=-6.3509706",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "725dc1b0265579abb679a0f056f883d36e4b968642ebc3bdbd7524e57135524e"
+}

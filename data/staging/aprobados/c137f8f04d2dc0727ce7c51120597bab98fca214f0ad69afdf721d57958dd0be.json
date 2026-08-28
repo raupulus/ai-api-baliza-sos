@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de salud Ronda Sur Santa Bárbara (centro de salud). Coordenadas aprox: 36.7426, -5.1603.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7425694&mlon=-5.1603293",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c137f8f04d2dc0727ce7c51120597bab98fca214f0ad69afdf721d57958dd0be"
+}

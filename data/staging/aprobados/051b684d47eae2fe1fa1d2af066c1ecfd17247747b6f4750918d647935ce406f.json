@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Camino Lagunetas (Chiclana de la Frontera). WGS84: 36.442686, -6.120368.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "051b684d47eae2fe1fa1d2af066c1ecfd17247747b6f4750918d647935ce406f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Llanos de San Andrés (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.804799, -5.793166.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d3157c6877a5fcff31feee3a425876040357912aed80aa87b58fb11240aade2b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Arenoso (Curso Fluvial) en Medina Sidonia. WGS84: 36.471757, -5.817626.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e7c2b50063febe86f4dac0d7c6a1391578ca0e549f12dd83820cc4811bc021bf"
+}

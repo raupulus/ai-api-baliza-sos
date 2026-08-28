@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ayala Muñoz (farmacia). Coordenadas aprox: 36.7874, -5.5558.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7874418&mlon=-5.5558382",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4931db28c7397c5c12776ee7f091fd53fede2e0153f8a6b2fa794cb674a50f7e"
+}

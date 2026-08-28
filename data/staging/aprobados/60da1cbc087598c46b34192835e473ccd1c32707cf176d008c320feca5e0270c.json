@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia G. Duarte (farmacia). Coordenadas aprox: 36.1630, -5.3548.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1629897&mlon=-5.3547579",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "60da1cbc087598c46b34192835e473ccd1c32707cf176d008c320feca5e0270c"
+}

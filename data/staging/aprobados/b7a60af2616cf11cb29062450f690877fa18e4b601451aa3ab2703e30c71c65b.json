@@ -1,0 +1,15 @@
+{
+  "texto": "farmacia (farmacia) en Jerez de la frontera. Coordenadas aprox: 36.6940, -6.1468.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6939958&mlon=-6.1468134",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b7a60af2616cf11cb29062450f690877fa18e4b601451aa3ab2703e30c71c65b"
+}

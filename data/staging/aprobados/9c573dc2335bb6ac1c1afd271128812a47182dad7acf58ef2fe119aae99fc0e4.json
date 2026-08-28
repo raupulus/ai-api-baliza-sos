@@ -1,0 +1,15 @@
+{
+  "texto": "Colegio Marianistas (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.696545, -6.139903.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9c573dc2335bb6ac1c1afd271128812a47182dad7acf58ef2fe119aae99fc0e4"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo la Víbora (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.548983, -5.676421.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e893fa69080148dcfbb98777d0a36f76f126e1e85308fa0f1f9718fea1461798"
+}

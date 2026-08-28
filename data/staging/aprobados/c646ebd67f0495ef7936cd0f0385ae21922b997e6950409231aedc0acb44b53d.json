@@ -1,0 +1,15 @@
+{
+  "texto": "farmacia (farmacia) en Taraguilla. Coordenadas aprox: 36.2054, -5.4245.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2054358&mlon=-5.4244846",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c646ebd67f0495ef7936cd0f0385ae21922b997e6950409231aedc0acb44b53d"
+}

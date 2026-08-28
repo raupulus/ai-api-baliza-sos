@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: ALGECIRAS. WGS84: 36.126527, -5.449198.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "102ac248792a450066ae5fbd3553980843a4c0f31bb62beedc5e1083201733ab"
+}

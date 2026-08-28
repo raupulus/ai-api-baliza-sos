@@ -1,0 +1,15 @@
+{
+  "texto": "Santa María de Jesús (Masa de Agua) en Chiclana de la Frontera. WGS84: 36.440386, -6.16952.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "41fc40d1cd3289a4253d6d5a0df710bcdad7d7dc06936987330f92d4f867a9e1"
+}

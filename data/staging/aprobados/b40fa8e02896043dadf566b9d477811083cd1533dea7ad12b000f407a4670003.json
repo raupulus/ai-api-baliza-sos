@@ -1,0 +1,15 @@
+{
+  "texto": "Punta del Sur (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.527031, -6.319845.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b40fa8e02896043dadf566b9d477811083cd1533dea7ad12b000f407a4670003"
+}

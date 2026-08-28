@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Torres Quevedo (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1684, -5.3637.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.16843&mlon=-5.3636666",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "adb4a799e205c62b02f49fd0a674c6dfd5d3b062604eda94cb25c91de7991800"
+}

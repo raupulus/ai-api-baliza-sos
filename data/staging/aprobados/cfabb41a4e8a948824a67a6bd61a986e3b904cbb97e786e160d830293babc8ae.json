@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Constitución 1.978-Comisaría (San Fernando). WGS84: 36.45211, -6.216447.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cfabb41a4e8a948824a67a6bd61a986e3b904cbb97e786e160d830293babc8ae"
+}

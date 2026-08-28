@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Carrascosa (Curso Fluvial) en Algar. WGS84: 36.657028, -5.632022.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a71993aabc511332dacc674ac8bf2ab2e7d68f1dca1a3350c8c187a707145949"
+}

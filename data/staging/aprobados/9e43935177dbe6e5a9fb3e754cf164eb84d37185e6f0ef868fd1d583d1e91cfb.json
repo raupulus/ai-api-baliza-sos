@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Forcilar (Curso Fluvial) en Montejaque. WGS84: 36.753972, -5.300906.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9e43935177dbe6e5a9fb3e754cf164eb84d37185e6f0ef868fd1d583d1e91cfb"
+}

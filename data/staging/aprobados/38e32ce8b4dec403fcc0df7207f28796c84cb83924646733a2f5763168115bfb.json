@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente del Mesón (agua potable). Coordenadas aprox: 36.0125, -5.6020.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0125202&mlon=-5.6020074",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "38e32ce8b4dec403fcc0df7207f28796c84cb83924646733a2f5763168115bfb"
+}

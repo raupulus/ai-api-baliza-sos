@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Herrerías (Curso Fluvial) en Villamartín. WGS84: 36.896452, -5.674107.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c23db5df3e8de61eee6cd7a0a2c853c96730a364ac4e117bcd0913ec9deac890"
+}

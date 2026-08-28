@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Quintanilla (Curso Fluvial) en Tarifa. WGS84: 36.204765, -5.769884.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "96ee7094ccf4f2cc175ddf13ebb2968d519d1939125d601e007ed26f57a729f5"
+}

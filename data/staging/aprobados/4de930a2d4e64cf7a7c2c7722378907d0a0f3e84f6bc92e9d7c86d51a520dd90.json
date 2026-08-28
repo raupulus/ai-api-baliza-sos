@@ -1,0 +1,15 @@
+{
+  "texto": "Los Callejones (farmacia). Coordenadas aprox: 36.6773, -5.4455.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6772502&mlon=-5.4454716",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4de930a2d4e64cf7a7c2c7722378907d0a0f3e84f6bc92e9d7c86d51a520dd90"
+}

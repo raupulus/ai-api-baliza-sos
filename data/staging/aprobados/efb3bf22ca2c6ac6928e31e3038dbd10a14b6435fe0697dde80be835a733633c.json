@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo de la Curia Romana (Obra Hidráulica) en San Fernando. WGS84: 36.435049, -6.228844.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "efb3bf22ca2c6ac6928e31e3038dbd10a14b6435fe0697dde80be835a733633c"
+}

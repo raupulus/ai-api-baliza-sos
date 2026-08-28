@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Negro (Curso Fluvial) en La Línea de la Concepción. WGS84: 36.202288, -5.338397.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2d18981cb86a58fa53f4eb26ba4d09436395c81c1d8e2409abe0feb8c9685fc6"
+}

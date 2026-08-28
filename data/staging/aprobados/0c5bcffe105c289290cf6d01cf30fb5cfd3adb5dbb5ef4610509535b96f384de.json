@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Casa De Postas (Conil de la Frontera). WGS84: 36.295077, -6.074074.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0c5bcffe105c289290cf6d01cf30fb5cfd3adb5dbb5ef4610509535b96f384de"
+}

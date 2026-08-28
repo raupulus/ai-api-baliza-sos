@@ -1,0 +1,15 @@
+{
+  "texto": "Recinto Ferial (Servicio/Equipamiento) en Lebrija. WGS84: 36.926961, -6.084335.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0c5d17c5a90129849c62ae25fb8ac571755fcb4f3458449a4a7e15ecea5c458b"
+}

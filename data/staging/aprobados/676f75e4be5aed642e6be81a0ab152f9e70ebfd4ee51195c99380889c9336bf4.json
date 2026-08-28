@@ -1,0 +1,15 @@
+{
+  "texto": "Gaviota patiamarilla (Larus michahellis J.F.Naumann, 1840). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/9413670",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "676f75e4be5aed642e6be81a0ab152f9e70ebfd4ee51195c99380889c9336bf4"
+}

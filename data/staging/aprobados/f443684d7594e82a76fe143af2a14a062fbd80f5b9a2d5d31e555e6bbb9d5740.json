@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente de los Seis Caños (agua potable). Coordenadas aprox: 36.5189, -5.3177.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5189169&mlon=-5.3177122",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f443684d7594e82a76fe143af2a14a062fbd80f5b9a2d5d31e555e6bbb9d5740"
+}

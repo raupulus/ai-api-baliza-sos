@@ -1,0 +1,15 @@
+{
+  "texto": "Campo de Fútbol Juan Antonio Guzmán Pérez (Servicio/Equipamiento) en Setenil de las Bodegas. WGS84: 36.864403, -5.174235.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a0f16c54cd3f3f9573ba9345efdca60017d0f48f60b4adad6c9a8418508fc1ac"
+}

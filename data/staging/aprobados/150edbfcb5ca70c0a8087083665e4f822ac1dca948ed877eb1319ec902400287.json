@@ -1,0 +1,15 @@
+{
+  "texto": "Presa de Tierra (Obra Hidráulica) en Medina Sidonia. WGS84: 36.404234, -6.000627.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "150edbfcb5ca70c0a8087083665e4f822ac1dca948ed877eb1319ec902400287"
+}

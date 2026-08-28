@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Salado (Obra Hidráulica) en Lebrija. WGS84: 36.929898, -5.94669.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ea6afc512b0598c15f77d9b6f8a96f0c9ce1670c4e703ed102672c4725a11d0d"
+}

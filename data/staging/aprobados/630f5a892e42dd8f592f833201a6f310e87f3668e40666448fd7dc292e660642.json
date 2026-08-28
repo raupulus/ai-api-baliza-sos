@@ -1,0 +1,15 @@
+{
+  "texto": "Punta de la Morena (Relieve Litoral / Marítimo) en Rota. WGS84: 36.614297, -6.36079.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "630f5a892e42dd8f592f833201a6f310e87f3668e40666448fd7dc292e660642"
+}

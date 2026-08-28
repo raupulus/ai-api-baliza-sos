@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Cañada del Melón (Curso Fluvial) en Barbate. WGS84: 36.216566, -5.96116.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6f9050208ad49f6eaa8cc6f8fd94593d7a05670efc43121565121bc0e493de3a"
+}

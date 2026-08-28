@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia del Triunfo (farmacia). Coordenadas aprox: 36.5300, -6.3013.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.530018&mlon=-6.3012997",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6114caf775b75a278416ef9791c7e8f12b5c3a665dcb72f579c6021d31815fc7"
+}

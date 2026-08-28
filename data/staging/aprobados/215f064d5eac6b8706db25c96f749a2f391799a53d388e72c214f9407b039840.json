@@ -1,0 +1,15 @@
+{
+  "texto": "Cruz Roja (centro de salud). Coordenadas aprox: 36.4547, -5.9268.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4546795&mlon=-5.9268218",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "215f064d5eac6b8706db25c96f749a2f391799a53d388e72c214f9407b039840"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Calera (Curso Fluvial) en Tarifa. WGS84: 36.153188, -5.828831.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4fa011ea1238be6e00b321ad01869fdb25c24401f29eaa849ef2b82c1094b0f8"
+}

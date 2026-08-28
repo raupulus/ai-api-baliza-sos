@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Piedras Gordas (Relieve Litoral / Marítimo) en Rota. WGS84: 36.632621, -6.39465.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1008d029188735e2c0f1d0ede5e291a30dfa499f4d9ccf1e51371a14dec458e0"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "faro (faro). Coordenadas aprox: 36.1584, -5.3674.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1583971&mlon=-5.3674285",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0df848a6e860de81a77dbee9aaf9c216d77d6cedc50c800bb31437992b038fb3"
+}

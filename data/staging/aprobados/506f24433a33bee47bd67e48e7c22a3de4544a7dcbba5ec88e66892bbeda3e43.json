@@ -1,0 +1,15 @@
+{
+  "texto": "Río Palmones (Curso Fluvial) en Algeciras. WGS84: 36.173275, -5.433297.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "506f24433a33bee47bd67e48e7c22a3de4544a7dcbba5ec88e66892bbeda3e43"
+}

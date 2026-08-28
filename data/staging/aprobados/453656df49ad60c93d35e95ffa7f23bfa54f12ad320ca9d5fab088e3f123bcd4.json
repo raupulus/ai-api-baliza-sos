@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Fuente del Gallo (Relieve Litoral / Marítimo) en Conil de la Frontera. WGS84: 36.29089, -6.11148.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "453656df49ad60c93d35e95ffa7f23bfa54f12ad320ca9d5fab088e3f123bcd4"
+}

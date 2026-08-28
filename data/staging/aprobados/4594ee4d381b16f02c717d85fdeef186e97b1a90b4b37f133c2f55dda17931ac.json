@@ -1,0 +1,15 @@
+{
+  "texto": "playa (playa). Coordenadas aprox: 36.0720, -5.7483.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0719848&mlon=-5.7482786",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4594ee4d381b16f02c717d85fdeef186e97b1a90b4b37f133c2f55dda17931ac"
+}

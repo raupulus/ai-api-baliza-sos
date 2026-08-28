@@ -1,0 +1,15 @@
+{
+  "texto": "Faro Blanco (faro). Coordenadas aprox: 36.6757, -6.4113.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6756669&mlon=-6.4112866",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e489c788f82c6dcc635b53b46d28ba9cef6ce4b99b9045ea0990c866d12ed1e3"
+}

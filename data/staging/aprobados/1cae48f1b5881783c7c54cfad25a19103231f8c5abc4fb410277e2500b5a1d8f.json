@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Gilete (Curso Fluvial) en Puerto Serrano. WGS84: 36.951986, -5.472821.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1cae48f1b5881783c7c54cfad25a19103231f8c5abc4fb410277e2500b5a1d8f"
+}

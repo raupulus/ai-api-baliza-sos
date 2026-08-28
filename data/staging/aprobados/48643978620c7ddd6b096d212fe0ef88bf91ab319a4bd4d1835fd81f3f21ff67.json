@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de Sancti-Petri (faro). Coordenadas aprox: 36.3803, -6.2202.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3803471&mlon=-6.220218",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "48643978620c7ddd6b096d212fe0ef88bf91ab319a4bd4d1835fd81f3f21ff67"
+}

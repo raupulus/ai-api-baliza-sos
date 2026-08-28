@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Castilnovo (playa). Coordenadas aprox: 36.2565, -6.0846.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2565303&mlon=-6.0845524",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1017df167a4b6e98c217732b1b92ed6028921c9490ce106d27ad47dd8ea46d2d"
+}

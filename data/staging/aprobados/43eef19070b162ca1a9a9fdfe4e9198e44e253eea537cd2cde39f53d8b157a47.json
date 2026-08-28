@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Sijuela (Curso Fluvial) en Ronda. WGS84: 36.726486, -5.195287.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "43eef19070b162ca1a9a9fdfe4e9198e44e253eea537cd2cde39f53d8b157a47"
+}

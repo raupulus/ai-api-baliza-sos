@@ -1,0 +1,15 @@
+{
+  "texto": "Eroski Pharmacy (farmacia). Coordenadas aprox: 36.1528, -5.3493.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1527885&mlon=-5.3493495",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0e87d64a643baaa1cda6ff8041e47ef2373dd77b73da222af39b63c1d70b7089"
+}

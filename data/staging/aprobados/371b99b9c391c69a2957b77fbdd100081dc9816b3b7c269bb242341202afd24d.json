@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Hoyos de Roca (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1673, -5.3456.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1672879&mlon=-5.3455786",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "371b99b9c391c69a2957b77fbdd100081dc9816b3b7c269bb242341202afd24d"
+}

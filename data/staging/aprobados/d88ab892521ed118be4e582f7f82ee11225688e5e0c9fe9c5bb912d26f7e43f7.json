@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Sestilles (Curso Fluvial) en Utrera. WGS84: 36.974441, -5.619659.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d88ab892521ed118be4e582f7f82ee11225688e5e0c9fe9c5bb912d26f7e43f7"
+}

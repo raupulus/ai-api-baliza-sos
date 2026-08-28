@@ -1,0 +1,15 @@
+{
+  "texto": "Consultorio Auxiliar de Guadarranque (centro de salud) en Carteya-Guadarranque. Coordenadas aprox: 36.1818, -5.4139.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1818442&mlon=-5.4139124",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "31b8a0e74fa804f7ff96256c6246626f36d14d528c50b77ee5da7c8552c2fa99"
+}

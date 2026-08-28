@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Risco de las Pilas (Curso Fluvial) en Medina Sidonia. WGS84: 36.426734, -5.884711.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "19f0504a1a30117e7987e523f825fe2a219e9f28450b29873d60ab1aa18eb685"
+}

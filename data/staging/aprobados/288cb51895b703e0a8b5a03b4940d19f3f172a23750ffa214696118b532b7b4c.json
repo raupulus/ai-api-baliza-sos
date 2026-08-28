@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Medina 76 (farmacia). Coordenadas aprox: 36.4156, -6.1324.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4155986&mlon=-6.1324076",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "288cb51895b703e0a8b5a03b4940d19f3f172a23750ffa214696118b532b7b4c"
+}

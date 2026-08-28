@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Matamoros (Curso Fluvial) en Tarifa. WGS84: 36.036211, -5.568402.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ef05ba4272ee94fc5db38344d06cf8dc73e318c15278aa37c5285c965f389db6"
+}

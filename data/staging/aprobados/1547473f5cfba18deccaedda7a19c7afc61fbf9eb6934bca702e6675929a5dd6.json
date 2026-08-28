@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Apeadero De Autobuses De Costa Ballena (Rota). WGS84: 36.692676, -6.407163.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1547473f5cfba18deccaedda7a19c7afc61fbf9eb6934bca702e6675929a5dd6"
+}

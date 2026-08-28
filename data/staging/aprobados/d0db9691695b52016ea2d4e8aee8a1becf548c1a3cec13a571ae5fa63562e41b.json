@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Padilla (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.760616, -6.212925.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d0db9691695b52016ea2d4e8aee8a1becf548c1a3cec13a571ae5fa63562e41b"
+}

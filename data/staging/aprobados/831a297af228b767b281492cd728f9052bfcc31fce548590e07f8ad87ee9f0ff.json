@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita de la Salud (Servicio/Equipamiento) en Jimera de Líbar. WGS84: 36.663261, -5.281324.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "831a297af228b767b281492cd728f9052bfcc31fce548590e07f8ad87ee9f0ff"
+}

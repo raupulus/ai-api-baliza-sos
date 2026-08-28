@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Plata (Curso Fluvial) en Medina Sidonia. WGS84: 36.298687, -5.651877.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3e73d4d979afd71dcb3cc1a32294b22df6f72288f91b958b26ffde46609d103c"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Camposoto (farmacia). Coordenadas aprox: 36.4511, -6.2124.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.451079&mlon=-6.212416",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a995af019f4bfc18f7bd4b3519673af1879403fbec7d0059860abf6dd6810b39"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Gato (Curso Fluvial) en Casares. WGS84: 36.432207, -5.339197.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f2f741651a1be8c05d86c19ad39f204ba8644e981d70eacf077edebb417e1c38"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Regajo de la Fuente del Realillo (Curso Fluvial) en Tarifa. WGS84: 36.109329, -5.764883.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a0daa773d60433cb9e3dbec45068462b406bd3cfb5e9e250ce903b2ee4c57c84"
+}

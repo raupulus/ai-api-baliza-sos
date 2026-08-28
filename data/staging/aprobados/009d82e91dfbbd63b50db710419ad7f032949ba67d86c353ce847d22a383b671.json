@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud de Rota (centro de salud) en Rota. Coordenadas aprox: 36.6241, -6.3635.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6240886&mlon=-6.3635233",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "009d82e91dfbbd63b50db710419ad7f032949ba67d86c353ce847d22a383b671"
+}

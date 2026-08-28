@@ -1,0 +1,15 @@
+{
+  "texto": "Ensenada de la Punta de Huete (Relieve Litoral / Marítimo) en Rota. WGS84: 36.616788, -6.307317.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e16ecac22c39ce728d280a83f7cd327f2ff0a7f5829733ebd65ec25ec70a61c8"
+}

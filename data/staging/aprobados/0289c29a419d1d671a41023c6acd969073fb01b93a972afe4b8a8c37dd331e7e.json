@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Murciélagos (Curso Fluvial) en Igualeja. WGS84: 36.635778, -5.111335.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0289c29a419d1d671a41023c6acd969073fb01b93a972afe4b8a8c37dd331e7e"
+}

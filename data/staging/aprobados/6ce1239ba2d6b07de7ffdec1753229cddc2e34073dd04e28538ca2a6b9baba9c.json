@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Parra (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.731269, -5.634862.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6ce1239ba2d6b07de7ffdec1753229cddc2e34073dd04e28538ca2a6b9baba9c"
+}

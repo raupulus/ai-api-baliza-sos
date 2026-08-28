@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Algeciras-Centro Menéndez Tolosa (centro de salud). Coordenadas aprox: 36.1334, -5.4502.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1333544&mlon=-5.4502203",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "94715d98e07e2fe329e7dbb3784ec9a2cf4e6e5a6b5bf591d6ded379fcdbaf94"
+}

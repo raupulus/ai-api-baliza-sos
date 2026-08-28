@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Isla Verde (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.356485, -5.722059.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5537df6780b501b7b78fd92a32ccac18b8619ecafa61f1bdcc3315585ac33787"
+}

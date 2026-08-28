@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Plaza de la Iglesia (San Fernando). WGS84: 36.466219, -6.19555.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "78532983f71c6144755e287e1fbd2e2e1a1caaadbedd758dd76056fe1b0578d4"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ruiz Pareja (farmacia) en Algeciras. Coordenadas aprox: 36.1456, -5.4638.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1455565&mlon=-5.4637625",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a1e2febdf4ec28fd1fe834d7445ca52ddd25237656833e2376683192227b20c4"
+}

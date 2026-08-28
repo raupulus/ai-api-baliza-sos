@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Bola (Curso Fluvial) en Utrera. WGS84: 36.931155, -5.822538.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5bd9c51cad8053c1588692f5ada7e41419d79b83b0f6353398d37ed1308e2cff"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Manceba (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.366961, -5.482985.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9202949345c3ffe05f930224982500871c4d8350cb63dc7c11d55c9d9c3f03da"
+}

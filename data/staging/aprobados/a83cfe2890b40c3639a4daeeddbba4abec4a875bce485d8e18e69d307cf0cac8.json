@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Ponce De León V (San Fernando). WGS84: 36.456289, -6.210236.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a83cfe2890b40c3639a4daeeddbba4abec4a875bce485d8e18e69d307cf0cac8"
+}

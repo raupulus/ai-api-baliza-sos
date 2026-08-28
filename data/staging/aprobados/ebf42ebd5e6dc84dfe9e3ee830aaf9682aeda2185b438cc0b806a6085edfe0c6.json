@@ -1,0 +1,15 @@
+{
+  "texto": "Caño de las Vacas (Curso Fluvial) en Hinojos. WGS84: 36.986936, -6.359136.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ebf42ebd5e6dc84dfe9e3ee830aaf9682aeda2185b438cc0b806a6085edfe0c6"
+}

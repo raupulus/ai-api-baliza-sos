@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Ayuntamiento La Línea (La Línea de la Concepción). WGS84: 36.160664, -5.350503.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4bc3addb70f14efa328b54587d19edba4540f7721f57c681d8cc7ceb17373306"
+}

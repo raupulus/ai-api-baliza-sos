@@ -1,0 +1,15 @@
+{
+  "texto": "Cueva del Gato (Cueva) en Benaoján. WGS84: 36.727633, -5.240298.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "65977829bb4feb1b9f95499c6f442ca9d49e7b317ac2ab1bf7f74b46cb256b08"
+}

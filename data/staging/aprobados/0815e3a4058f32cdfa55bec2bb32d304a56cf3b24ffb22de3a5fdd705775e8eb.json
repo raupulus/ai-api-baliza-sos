@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Venta El Pino V (Chiclana de la Frontera). WGS84: 36.431615, -6.135438.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0815e3a4058f32cdfa55bec2bb32d304a56cf3b24ffb22de3a5fdd705775e8eb"
+}

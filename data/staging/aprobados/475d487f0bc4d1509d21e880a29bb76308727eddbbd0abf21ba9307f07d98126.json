@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Castilla (farmacia) en Algeciras. Coordenadas aprox: 36.1327, -5.4526.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.132744&mlon=-5.4525827",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "475d487f0bc4d1509d21e880a29bb76308727eddbbd0abf21ba9307f07d98126"
+}

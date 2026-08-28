@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Enemigo (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.58123, -5.494544.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "05454abfcfaea67ecc86aeb53e21aadae3fcd79882eebe2d4a7a8f67082cde5d"
+}

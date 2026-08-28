@@ -1,0 +1,15 @@
+{
+  "texto": "Canal de Alto Cielo (Obra Hidráulica) en Arcos de la Frontera. WGS84: 36.707409, -5.911155.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "91229812b10abcf5380c9f85f97a46d84561ca44e34ba4af2604589ee56ec90e"
+}

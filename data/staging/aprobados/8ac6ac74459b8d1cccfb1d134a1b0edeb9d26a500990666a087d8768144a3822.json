@@ -1,0 +1,15 @@
+{
+  "texto": "Consultorio Médico de Facinas (centro de salud). Coordenadas aprox: 36.1415, -5.6987.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1414551&mlon=-5.6987318",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8ac6ac74459b8d1cccfb1d134a1b0edeb9d26a500990666a087d8768144a3822"
+}

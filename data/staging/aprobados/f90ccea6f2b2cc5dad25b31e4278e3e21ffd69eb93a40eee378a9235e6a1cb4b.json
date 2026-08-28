@@ -1,0 +1,15 @@
+{
+  "texto": "Camping Guadalete (Servicio/Equipamiento) en El Puerto de Santa María. WGS84: 36.578798, -6.217045.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f90ccea6f2b2cc5dad25b31e4278e3e21ffd69eb93a40eee378a9235e6a1cb4b"
+}

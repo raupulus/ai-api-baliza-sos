@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de los Alemanes (playa). Coordenadas aprox: 36.0959, -5.8152.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0958519&mlon=-5.8151629",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aa463595edaf8b644dd5982d6f65129ad62c5de86599e509dba0feaa6294ce54"
+}

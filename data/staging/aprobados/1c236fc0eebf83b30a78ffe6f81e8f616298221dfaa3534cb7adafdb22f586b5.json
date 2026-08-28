@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: San Onofre (San Fernando). WGS84: 36.455527, -6.201299.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c236fc0eebf83b30a78ffe6f81e8f616298221dfaa3534cb7adafdb22f586b5"
+}

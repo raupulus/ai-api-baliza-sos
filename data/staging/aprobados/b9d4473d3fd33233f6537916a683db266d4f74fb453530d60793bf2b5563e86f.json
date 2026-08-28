@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Barrio Jarana (Puerto Real). WGS84: 36.502917, -6.143661.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b9d4473d3fd33233f6537916a683db266d4f74fb453530d60793bf2b5563e86f"
+}

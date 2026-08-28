@@ -1,0 +1,15 @@
+{
+  "texto": "US Naval Hospital (hospital) en Rota. Coordenadas aprox: 36.6344, -6.3507.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6343787&mlon=-6.3507401",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2cc872a1fdb3970573ac91951ca7742cfb019034dc2bbbafc17a55251d2d3b13"
+}

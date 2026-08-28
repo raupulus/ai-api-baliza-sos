@@ -1,0 +1,15 @@
+{
+  "texto": "Río del Valerín (Curso Fluvial) en Estepona. WGS84: 36.450996, -5.091882.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eb5b455110bc1864ce639d9daf765c81011bfbc083788264db55bff6a7737a2f"
+}

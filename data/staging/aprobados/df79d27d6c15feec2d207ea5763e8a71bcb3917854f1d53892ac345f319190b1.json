@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación De Autobuses Medina (Medina Sidonia). WGS84: 36.462408, -5.930291.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "df79d27d6c15feec2d207ea5763e8a71bcb3917854f1d53892ac345f319190b1"
+}

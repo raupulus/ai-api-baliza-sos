@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Villaluenga del Rosario (Cádiz). Código INE 11040. Coordenadas WGS84 (centroide): 36.686322, -5.367131.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9a3054ad1acf8fe804981b03bc53376a83a1a8b8fa775a186042f6cab12d2fb1"
+}

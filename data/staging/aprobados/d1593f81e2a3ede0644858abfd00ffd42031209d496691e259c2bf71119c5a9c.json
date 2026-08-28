@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia getares 12h (farmacia). Coordenadas aprox: 36.0993, -5.4436.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0992754&mlon=-5.4436294",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d1593f81e2a3ede0644858abfd00ffd42031209d496691e259c2bf71119c5a9c"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Carrasca (Quercus rotundifolia Lam.). Presente en la provincia de Cádiz. Grupo: Magnoliopsida.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2881550",
+  "fecha": "2026-08-28",
+  "categoria": "flora",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f1c97a7f6b2dde219e72b9e433f52e74c7c7af0fb1abcecb850096d42f146f1c"
+}

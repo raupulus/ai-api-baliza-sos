@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Micones (Servicio/Equipamiento) en Lebrija. WGS84: 36.873367, -6.050333.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "95217d45db3b2ec9472a62905ff9a98d14bd6aa3e4aed3680492f0f61bfb15fe"
+}

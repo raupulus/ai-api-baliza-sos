@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Retozadero (Curso Fluvial) en Los Barrios. WGS84: 36.274756, -5.613426.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7c8de281c555b18daa8ddb7e6b8ad1e532688ebbca10bf8b74495473ed6ada32"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio del Huerto (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.950984, -6.308353.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "611258c83b4d4de0ec940a3653021b0559e992783c95307f1f9a418c807ea536"
+}

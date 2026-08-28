@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Escuela Ingeniería V (Puerto Real). WGS84: 36.536836, -6.200854.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0b7bcb49c0d2568b90c55fc9af88e1e0fbb4e074a9b69e783a2ff6c0ebbf3618"
+}

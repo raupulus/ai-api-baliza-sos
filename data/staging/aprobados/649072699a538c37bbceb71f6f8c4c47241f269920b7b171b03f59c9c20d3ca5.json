@@ -1,0 +1,15 @@
+{
+  "texto": "Drinking Water (agua potable). Coordenadas aprox: 36.1407, -5.3540.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1406775&mlon=-5.354009",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "649072699a538c37bbceb71f6f8c4c47241f269920b7b171b03f59c9c20d3ca5"
+}

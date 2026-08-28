@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cuatro Vientos (San Roque). WGS84: 36.212892, -5.381778.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d93cb153ac2ba5fdfc0049ac54b285e4cb844fd0cf4202fde05bbeac23c19788"
+}

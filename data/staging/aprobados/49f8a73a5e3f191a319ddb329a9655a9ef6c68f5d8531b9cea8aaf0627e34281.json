@@ -1,0 +1,15 @@
+{
+  "texto": "Mercado Central (farmacia) en San Fernando. Coordenadas aprox: 36.4656, -6.1992.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4656134&mlon=-6.1991705",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "49f8a73a5e3f191a319ddb329a9655a9ef6c68f5d8531b9cea8aaf0627e34281"
+}

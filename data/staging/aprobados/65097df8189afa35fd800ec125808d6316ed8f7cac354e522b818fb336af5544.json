@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Cañada Honda (Curso Fluvial) en Alpandeire. WGS84: 36.642361, -5.228755.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "65097df8189afa35fd800ec125808d6316ed8f7cac354e522b818fb336af5544"
+}

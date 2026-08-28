@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Charcadulce (Curso Fluvial) en Medina Sidonia. WGS84: 36.385784, -5.882657.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a18acf670da26e7f15be81c5b75f4fcf3a7c80af0896b3d1f36ab112ccd9a6ab"
+}

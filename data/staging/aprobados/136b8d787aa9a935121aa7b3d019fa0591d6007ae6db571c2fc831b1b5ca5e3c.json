@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Vega (farmacia) en Lebrija. Coordenadas aprox: 36.9188, -6.0778.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9188252&mlon=-6.0778427",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "136b8d787aa9a935121aa7b3d019fa0591d6007ae6db571c2fc831b1b5ca5e3c"
+}

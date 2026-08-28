@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Don Benito Morera (Curso Fluvial) en Algar. WGS84: 36.651298, -5.647588.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3660200cfae7ab351d0846e2c5bd5017ced0ef2a5f63a33a17dcb3b8f6b3119a"
+}

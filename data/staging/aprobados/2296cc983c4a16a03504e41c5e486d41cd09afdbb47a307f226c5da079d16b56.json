@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Algatocín (Curso Fluvial) en Algatocín. WGS84: 36.568709, -5.25629.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2296cc983c4a16a03504e41c5e486d41cd09afdbb47a307f226c5da079d16b56"
+}

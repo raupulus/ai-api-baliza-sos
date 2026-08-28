@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Pavo Real (Servicio/Equipamiento) en El Puerto de Santa María. WGS84: 36.629178, -6.198131.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "81956c85b1d8fb283aead2ab2682e7c1ad7fe5bd497658f6a0ebda3a086143c5"
+}

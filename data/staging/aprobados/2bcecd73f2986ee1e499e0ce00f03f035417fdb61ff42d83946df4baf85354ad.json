@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: San Severiano (Cádiz). WGS84: 36.521605, -6.280671.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2bcecd73f2986ee1e499e0ce00f03f035417fdb61ff42d83946df4baf85354ad"
+}

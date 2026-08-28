@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital de Santa María del Puerto (hospital). Coordenadas aprox: 36.5982, -6.2380.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5982369&mlon=-6.2379934",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "71942162c085364e9295179b2d74f1d9b4ac0f39725120b5407bb0f8ab859a84"
+}

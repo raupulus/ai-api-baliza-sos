@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Álamo (Curso Fluvial) en Utrera. WGS84: 37.002145, -5.652145.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bf9d3440062db23aaec047e13f6c70e605ce15b8a02f0485faf29de00d724ae6"
+}

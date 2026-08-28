@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Mirlo (Puerto Real). WGS84: 36.476511, -6.11725.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a023c99b9dd6b8e5f8862c9ab643864625f3bf91d0856bf119f783c762badc06"
+}

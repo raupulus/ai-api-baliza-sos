@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Astarté (centro de salud) en Cádiz. Coordenadas aprox: 36.5071, -6.2689.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5071144&mlon=-6.2688929",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2b03b8ce56549e53d98900b58b92d3dbd08bc88a97b7f0d4c2402e14d4abec2c"
+}

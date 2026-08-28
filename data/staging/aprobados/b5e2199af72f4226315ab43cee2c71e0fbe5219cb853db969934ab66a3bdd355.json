@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Ciudad Jardín V (Puerto Real). WGS84: 36.523071, -6.175255.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b5e2199af72f4226315ab43cee2c71e0fbe5219cb853db969934ab66a3bdd355"
+}

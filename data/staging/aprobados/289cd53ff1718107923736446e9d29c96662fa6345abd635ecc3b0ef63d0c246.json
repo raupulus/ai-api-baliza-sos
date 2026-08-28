@@ -1,0 +1,15 @@
+{
+  "texto": "Regla (Masa de Agua) en Puerto Real. WGS84: 36.465537, -6.177872.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "289cd53ff1718107923736446e9d29c96662fa6345abd635ecc3b0ef63d0c246"
+}

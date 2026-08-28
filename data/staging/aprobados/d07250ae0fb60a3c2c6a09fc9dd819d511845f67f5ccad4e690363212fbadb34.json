@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Majalén (Curso Fluvial) en El Coronil. WGS84: 36.970086, -5.583171.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d07250ae0fb60a3c2c6a09fc9dd819d511845f67f5ccad4e690363212fbadb34"
+}

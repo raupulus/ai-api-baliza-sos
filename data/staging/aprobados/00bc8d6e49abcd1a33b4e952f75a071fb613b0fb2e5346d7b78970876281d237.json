@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Puente Romano Ii V (Los Barrios). WGS84: 36.180492, -5.456161.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "00bc8d6e49abcd1a33b4e952f75a071fb613b0fb2e5346d7b78970876281d237"
+}

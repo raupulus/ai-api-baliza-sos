@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Los Lances (playa). Coordenadas aprox: 36.0299, -5.6298.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0298777&mlon=-5.6297774",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "14915f431327d99d486972a3315c7ab7e11c115c7bee72db28332e72185117de"
+}

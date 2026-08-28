@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: El Mesón V (Tarifa). WGS84: 36.068247, -5.530672.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "814dc91e10efa994a9fe838817ccbc72856d1720abc7cc905c1cae6ec67e6e40"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud de Sabinillas (centro de salud). Coordenadas aprox: 36.3692, -5.2257.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3691676&mlon=-5.2256643",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b6bc5882d034243dccfdb27917580222830cce86af519e29f8abca84b324d257"
+}

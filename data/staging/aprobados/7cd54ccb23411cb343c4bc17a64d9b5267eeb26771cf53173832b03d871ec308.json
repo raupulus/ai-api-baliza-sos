@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Mir (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1618, -5.3558.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1617662&mlon=-5.3557675",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7cd54ccb23411cb343c4bc17a64d9b5267eeb26771cf53173832b03d871ec308"
+}

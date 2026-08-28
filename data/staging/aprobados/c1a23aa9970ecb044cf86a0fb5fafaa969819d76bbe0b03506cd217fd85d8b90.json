@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Lobo (Curso Fluvial) en Algeciras. WGS84: 36.089213, -5.453351.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1a23aa9970ecb044cf86a0fb5fafaa969819d76bbe0b03506cd217fd85d8b90"
+}

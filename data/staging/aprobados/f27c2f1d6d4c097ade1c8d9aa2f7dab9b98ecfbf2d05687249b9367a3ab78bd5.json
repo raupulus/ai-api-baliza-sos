@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud \"José Sánchez de Miguel\" (centro de salud) en Alcalá del Valle. Coordenadas aprox: 36.9034, -5.1720.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9033858&mlon=-5.1719941",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f27c2f1d6d4c097ade1c8d9aa2f7dab9b98ecfbf2d05687249b9367a3ab78bd5"
+}

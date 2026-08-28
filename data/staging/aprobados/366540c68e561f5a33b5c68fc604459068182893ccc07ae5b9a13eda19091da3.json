@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: La Granja N-340 (Algeciras). WGS84: 36.147694, -5.454583.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "366540c68e561f5a33b5c68fc604459068182893ccc07ae5b9a13eda19091da3"
+}

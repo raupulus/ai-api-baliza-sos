@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Vaquera (Curso Fluvial) en Las Cabezas de San Juan. WGS84: 36.980516, -5.929612.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8a79936865ce0abe9539f37559613764524dfaab8f96be1fd306eff7c972be64"
+}

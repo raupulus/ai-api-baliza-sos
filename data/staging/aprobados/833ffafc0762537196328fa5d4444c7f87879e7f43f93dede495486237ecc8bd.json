@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita del Cristo de Veracruz (Servicio/Equipamiento) en Benarrabá. WGS84: 36.550657, -5.273524.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "833ffafc0762537196328fa5d4444c7f87879e7f43f93dede495486237ecc8bd"
+}

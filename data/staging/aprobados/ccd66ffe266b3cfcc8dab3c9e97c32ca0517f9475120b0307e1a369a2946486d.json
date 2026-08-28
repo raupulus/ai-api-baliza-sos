@@ -1,0 +1,15 @@
+{
+  "texto": "La Magdalena (farmacia). Coordenadas aprox: 36.4652, -6.1925.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4652424&mlon=-6.1924805",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ccd66ffe266b3cfcc8dab3c9e97c32ca0517f9475120b0307e1a369a2946486d"
+}

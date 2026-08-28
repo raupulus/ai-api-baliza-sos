@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Cádiz. WGS84: 36.528935, -6.287972.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cde814b7a7e570e020601629edceffb644841d7763f87232ed7ba5b6626719e6"
+}

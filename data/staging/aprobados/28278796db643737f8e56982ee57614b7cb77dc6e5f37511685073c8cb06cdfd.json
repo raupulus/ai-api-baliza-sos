@@ -1,0 +1,15 @@
+{
+  "texto": "Punta Canteras (Relieve Litoral / Marítimo) en San Fernando. WGS84: 36.48132, -6.214359.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "28278796db643737f8e56982ee57614b7cb77dc6e5f37511685073c8cb06cdfd"
+}

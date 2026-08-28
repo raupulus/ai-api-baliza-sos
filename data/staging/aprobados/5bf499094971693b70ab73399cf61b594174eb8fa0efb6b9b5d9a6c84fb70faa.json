@@ -1,0 +1,15 @@
+{
+  "texto": "Puerto de la Línea de la Concepción (Servicio/Equipamiento) en No aplica. WGS84: 36.155889, -5.355265.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5bf499094971693b70ab73399cf61b594174eb8fa0efb6b9b5d9a6c84fb70faa"
+}

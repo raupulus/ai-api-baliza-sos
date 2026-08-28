@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Intercambiador De Transporte (El Puerto de Santa María). WGS84: 36.604401, -6.217193.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3e41d661d66f82812e9942caa6a53fbaa46cdd0191dad9bf379ba995e48981fa"
+}

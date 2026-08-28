@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: El Cartabón (Puerto Real). WGS84: 36.526036, -6.182332.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c12ca9407f4a473a674741ac10898a3f47f7129fc7aff47962fce855bdb9a22a"
+}

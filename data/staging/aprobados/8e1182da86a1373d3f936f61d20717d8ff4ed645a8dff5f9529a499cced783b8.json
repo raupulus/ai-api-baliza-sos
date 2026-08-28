@@ -1,0 +1,15 @@
+{
+  "texto": "Comunidad de Regantes del Bajo Guadalquivir (Servicio/Equipamiento) en Lebrija. WGS84: 36.959431, -6.045271.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8e1182da86a1373d3f936f61d20717d8ff4ed645a8dff5f9529a499cced783b8"
+}

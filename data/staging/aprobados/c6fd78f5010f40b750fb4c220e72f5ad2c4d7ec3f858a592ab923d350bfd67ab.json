@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Machorro (Curso Fluvial) en Medina Sidonia. WGS84: 36.505875, -5.901119.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c6fd78f5010f40b750fb4c220e72f5ad2c4d7ec3f858a592ab923d350bfd67ab"
+}

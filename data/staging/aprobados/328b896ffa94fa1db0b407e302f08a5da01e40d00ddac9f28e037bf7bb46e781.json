@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Valdecarretas (Curso Fluvial) en Rota. WGS84: 36.647647, -6.3356.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "328b896ffa94fa1db0b407e302f08a5da01e40d00ddac9f28e037bf7bb46e781"
+}

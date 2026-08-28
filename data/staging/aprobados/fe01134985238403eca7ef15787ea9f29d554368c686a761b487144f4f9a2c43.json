@@ -1,0 +1,15 @@
+{
+  "texto": "Barbanea (Masa de Agua) en Puerto Real. WGS84: 36.516486, -6.17166.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fe01134985238403eca7ef15787ea9f29d554368c686a761b487144f4f9a2c43"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Dique de la Isla Mayor (Obra Hidráulica) en La Puebla del Río. WGS84: 36.91868, -6.270385.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0a562349c70d812eee39c4303da037f9486bf65da0a33a8117814575e1f78825"
+}

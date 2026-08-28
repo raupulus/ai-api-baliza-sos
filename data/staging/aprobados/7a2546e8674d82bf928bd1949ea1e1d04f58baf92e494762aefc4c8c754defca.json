@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Sánchez Jiménez (farmacia). Coordenadas aprox: 36.9065, -5.1745.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9064961&mlon=-5.1744901",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7a2546e8674d82bf928bd1949ea1e1d04f58baf92e494762aefc4c8c754defca"
+}

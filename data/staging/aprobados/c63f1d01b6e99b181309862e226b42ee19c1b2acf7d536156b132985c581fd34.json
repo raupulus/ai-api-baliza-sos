@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Carmelo Merchan (farmacia) en Lebrija. Coordenadas aprox: 36.9202, -6.0777.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9201848&mlon=-6.0777113",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c63f1d01b6e99b181309862e226b42ee19c1b2acf7d536156b132985c581fd34"
+}

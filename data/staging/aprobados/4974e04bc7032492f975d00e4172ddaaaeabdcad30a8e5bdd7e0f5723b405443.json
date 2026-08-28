@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Bacalaos (Curso Fluvial) en Los Barrios. WGS84: 36.203534, -5.511799.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4974e04bc7032492f975d00e4172ddaaaeabdcad30a8e5bdd7e0f5723b405443"
+}

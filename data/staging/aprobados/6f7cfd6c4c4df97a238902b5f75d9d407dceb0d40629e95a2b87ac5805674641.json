@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cuna (Curso Fluvial) en Ronda. WGS84: 36.800708, -5.107502.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6f7cfd6c4c4df97a238902b5f75d9d407dceb0d40629e95a2b87ac5805674641"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Conchal (playa). Coordenadas aprox: 36.5293, -6.2168.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5292713&mlon=-6.2168109",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f3bfe5242a96bea47323c2dcd272e8975d6d49eaf605aa72ead98969437ae64f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de San Ambrosio (Curso Fluvial) en Barbate. WGS84: 36.206659, -6.052113.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "00309650e8335fde4d075eb38c0a64a56b9c2b94bf9b331f05bf1f679498c82a"
+}

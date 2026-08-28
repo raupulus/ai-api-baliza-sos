@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Hospital Universitario De Jerez (Jerez de la Frontera). WGS84: 36.69929, -6.148633.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cf89437070fae74bd9502b0bd366b3bcfb778ec7179a8253903d0b8fd743d45c"
+}

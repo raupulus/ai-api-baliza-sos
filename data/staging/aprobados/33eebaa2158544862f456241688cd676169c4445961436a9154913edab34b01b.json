@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia MªDolores Crespo Milla (farmacia). Coordenadas aprox: 36.4507, -6.2062.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4507159&mlon=-6.2062353",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "33eebaa2158544862f456241688cd676169c4445961436a9154913edab34b01b"
+}

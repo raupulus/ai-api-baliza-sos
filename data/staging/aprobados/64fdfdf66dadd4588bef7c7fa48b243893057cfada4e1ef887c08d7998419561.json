@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Madre Vieja Alhaja (Curso Fluvial) en San Roque. WGS84: 36.196104, -5.41011.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64fdfdf66dadd4588bef7c7fa48b243893057cfada4e1ef887c08d7998419561"
+}

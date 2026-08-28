@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Tetuán (farmacia) en San Fernando. Coordenadas aprox: 36.4733, -6.1945.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4732569&mlon=-6.1944801",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d16d2b2f167c6658d4f29a9fa772a7a438a3bb53d477964d42b4fde9f5e86bed"
+}

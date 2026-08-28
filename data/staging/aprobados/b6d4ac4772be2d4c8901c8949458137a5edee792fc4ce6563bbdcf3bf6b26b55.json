@@ -1,0 +1,15 @@
+{
+  "texto": "La Marismilla (Relieve Litoral / Marítimo) en Almonte. WGS84: 36.832105, -6.383785.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b6d4ac4772be2d4c8901c8949458137a5edee792fc4ce6563bbdcf3bf6b26b55"
+}

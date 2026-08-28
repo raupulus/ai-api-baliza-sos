@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: La Colonia (La Línea de la Concepción). WGS84: 36.167556, -5.365717.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0925c3c45ef1623ee8e16239103f2418dd26289b1d2d9678b010a1ebe8a55cab"
+}

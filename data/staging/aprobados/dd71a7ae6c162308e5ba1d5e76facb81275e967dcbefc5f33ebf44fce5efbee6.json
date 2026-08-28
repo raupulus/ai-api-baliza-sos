@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Chopo (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.534953, -5.809086.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dd71a7ae6c162308e5ba1d5e76facb81275e967dcbefc5f33ebf44fce5efbee6"
+}

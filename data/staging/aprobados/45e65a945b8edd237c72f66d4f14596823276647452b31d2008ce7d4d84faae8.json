@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de Tres Cruces (Servicio/Equipamiento) en Villamartín. WGS84: 36.835578, -5.573029.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "45e65a945b8edd237c72f66d4f14596823276647452b31d2008ce7d4d84faae8"
+}

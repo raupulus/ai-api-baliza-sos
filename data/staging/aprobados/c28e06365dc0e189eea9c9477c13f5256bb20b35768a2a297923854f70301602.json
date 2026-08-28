@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Morales (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.793916, -5.911596.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c28e06365dc0e189eea9c9477c13f5256bb20b35768a2a297923854f70301602"
+}

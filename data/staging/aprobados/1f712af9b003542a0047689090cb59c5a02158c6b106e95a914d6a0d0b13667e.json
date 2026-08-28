@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Borracha (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.820312, -5.655381.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1f712af9b003542a0047689090cb59c5a02158c6b106e95a914d6a0d0b13667e"
+}

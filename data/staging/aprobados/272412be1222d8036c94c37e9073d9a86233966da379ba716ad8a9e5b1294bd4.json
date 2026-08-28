@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Campus De Jerez (Jerez de la Frontera). WGS84: 36.686249, -6.119375.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "272412be1222d8036c94c37e9073d9a86233966da379ba716ad8a9e5b1294bd4"
+}

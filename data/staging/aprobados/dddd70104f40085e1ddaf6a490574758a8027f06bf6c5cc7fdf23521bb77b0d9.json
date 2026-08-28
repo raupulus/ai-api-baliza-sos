@@ -1,0 +1,15 @@
+{
+  "texto": "Sector B-XI Norte (Relieve Litoral / Marítimo) en Lebrija. WGS84: 36.966425, -6.050215.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dddd70104f40085e1ddaf6a490574758a8027f06bf6c5cc7fdf23521bb77b0d9"
+}

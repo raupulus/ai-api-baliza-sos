@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Álamos (Curso Fluvial) en Villaluenga del Rosario. WGS84: 36.69078, -5.339968.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6ce2271c1f3104d4808720f62261d556f531cfc8254313a20d3f601b68e2d055"
+}

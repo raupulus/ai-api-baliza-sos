@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Candela (farmacia) en Estepona. Coordenadas aprox: 36.4213, -5.1505.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4213106&mlon=-5.1504832",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ce749415eaca475c25391322c33d3b2f5ccadbd122f90950386d1cc0a097cdd2"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Garganta del Boyar (Curso Fluvial) en Benaocaz. WGS84: 36.735138, -5.447782.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "61a99306aaeabb8819e98f0c8e322c7843930ec692274cf1c115740c66c0bd7b"
+}

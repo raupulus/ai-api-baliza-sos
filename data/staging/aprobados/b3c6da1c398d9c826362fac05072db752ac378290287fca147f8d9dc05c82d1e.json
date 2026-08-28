@@ -1,0 +1,15 @@
+{
+  "texto": "Catalan Bay (playa). Coordenadas aprox: 36.1390, -5.3407.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1390057&mlon=-5.3406531",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b3c6da1c398d9c826362fac05072db752ac378290287fca147f8d9dc05c82d1e"
+}

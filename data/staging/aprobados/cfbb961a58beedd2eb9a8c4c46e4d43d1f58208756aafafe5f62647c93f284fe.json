@@ -1,0 +1,15 @@
+{
+  "texto": "Antigua Estación de Buses (refugio). Coordenadas aprox: 36.5286, -6.2887.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5285598&mlon=-6.2886746",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cfbb961a58beedd2eb9a8c4c46e4d43d1f58208756aafafe5f62647c93f284fe"
+}

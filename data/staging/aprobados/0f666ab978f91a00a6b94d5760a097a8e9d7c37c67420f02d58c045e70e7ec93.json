@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de Chipiona (faro). Coordenadas aprox: 36.7379, -6.4421.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7378983&mlon=-6.4421086",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0f666ab978f91a00a6b94d5760a097a8e9d7c37c67420f02d58c045e70e7ec93"
+}

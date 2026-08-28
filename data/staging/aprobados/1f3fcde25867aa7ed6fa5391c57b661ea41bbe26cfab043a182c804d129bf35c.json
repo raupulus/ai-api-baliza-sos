@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Molino (Servicio/Equipamiento) en San José del Valle. WGS84: 36.623697, -5.847269.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1f3fcde25867aa7ed6fa5391c57b661ea41bbe26cfab043a182c804d129bf35c"
+}

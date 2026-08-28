@@ -1,0 +1,15 @@
+{
+  "texto": "# Moluscos bivalvos y biotoxinas marinas\n\nLos moluscos bivalvos (mejillones, almejas, berberechos, navajas, ostras) pueden acumular **biotoxinas marinas** producidas por microalgas (fenómeno conocido como **marea roja**). Por eso la Junta de Andalucía controla las **Zonas de Producción de Moluscos** y publica su **situación legal** (abierta/cerrada).\n\n## Recomendaciones\n1. Antes de mariscar o consumir moluscos bivalvos, consulta la situación legal de la zona de producción.\n2. No recolectes ni consumas moluscos de zonas **cerradas** o cuya situación desconozcas.\n3. Compra solo en establecimientos autorizados, que garantizan el control sanitario.\n4. La cocción **no elimina** las biotoxinas termoestables (no basta con cocer el marisco).\n\n## Señales de alarma\nSi tras consumir moluscos aparecen náuseas, vómitos, diarrea, hormigueo en boca o extremidades, o dificultad para respirar, llama al **112** o al Servicio de Información Toxicológica (91 562 04 20) e indica que has comido marisco.",
+  "fuente": "Junta de Andalucía — Zonas de Producción de Moluscos Bivalvos y otros Invertebrados",
+  "fuente_url": null,
+  "fecha": "2026-08-28",
+  "categoria": "toxicologia",
+  "subcategoria": "biotoxinas_marinas",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "356a05dea3986c4716e8bcd12459a2888fbd535623925e4615842bc1d1a5754a"
+}

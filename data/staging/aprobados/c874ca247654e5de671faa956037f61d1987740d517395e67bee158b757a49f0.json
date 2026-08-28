@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Los Toruños (El Puerto de Santa María). WGS84: 36.579234, -6.214029.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c874ca247654e5de671faa956037f61d1987740d517395e67bee158b757a49f0"
+}

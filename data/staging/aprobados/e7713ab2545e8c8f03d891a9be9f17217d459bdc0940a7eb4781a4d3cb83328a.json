@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Benamaya (Curso Fluvial) en Benadalid. WGS84: 36.615725, -5.251289.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e7713ab2545e8c8f03d891a9be9f17217d459bdc0940a7eb4781a4d3cb83328a"
+}

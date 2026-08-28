@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Av. Astilleros-Estación Autobuses (Cádiz). WGS84: 36.527312, -6.285309.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f0190cd414ed0422a46101de2e720d7880e7c8ba7d993b89e69e44d1f5ff0a1b"
+}

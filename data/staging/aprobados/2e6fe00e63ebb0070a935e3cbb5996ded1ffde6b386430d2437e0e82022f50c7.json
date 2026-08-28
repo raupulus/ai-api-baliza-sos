@@ -1,0 +1,15 @@
+{
+  "texto": "Venta la Alegría (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.816751, -5.768852.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2e6fe00e63ebb0070a935e3cbb5996ded1ffde6b386430d2437e0e82022f50c7"
+}

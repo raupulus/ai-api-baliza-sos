@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo del Borondal (Obra Hidráulica) en Jerez de la Frontera. WGS84: 36.699356, -6.214703.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "00a16a023d4822b7aed4206d555115c60411705a0c860aa6f5e6d9de9e72c600"
+}

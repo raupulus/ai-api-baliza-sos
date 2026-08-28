@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ldo. Castaño Serradilla (farmacia). Coordenadas aprox: 36.8698, -6.1727.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8697543&mlon=-6.1727184",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "835194dbcb700769181419cc96a0630c479e6b680417ee4845c27e08b855b226"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente Arroyo Abrón (agua potable). Coordenadas aprox: 36.4921, -5.1878.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.492132&mlon=-5.1877832",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "85c0f36032d6dd23af069fb9c0d463167e7f7fe5959465284f67be5d91a03604"
+}

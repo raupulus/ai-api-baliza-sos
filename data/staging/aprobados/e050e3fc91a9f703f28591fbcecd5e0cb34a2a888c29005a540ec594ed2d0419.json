@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Segunda Aguada (Cádiz). WGS84: 36.513532, -6.277013.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e050e3fc91a9f703f28591fbcecd5e0cb34a2a888c29005a540ec594ed2d0419"
+}

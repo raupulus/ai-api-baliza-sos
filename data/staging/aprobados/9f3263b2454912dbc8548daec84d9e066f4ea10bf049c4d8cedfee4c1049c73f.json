@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Pozo de Ruchena (Curso Fluvial) en Utrera. WGS84: 36.935432, -5.712278.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9f3263b2454912dbc8548daec84d9e066f4ea10bf049c4d8cedfee4c1049c73f"
+}

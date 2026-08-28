@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Campus-C. Educación (Puerto Real). WGS84: 36.527558, -6.213559.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f9a6fdd4da4d6442544634c2c5b1bcc28887482fb900babe0e0f9da8849eeaa8"
+}

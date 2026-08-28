@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Candila (Curso Fluvial) en Olvera. WGS84: 37.007605, -5.327198.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a534ebf5c61ef9a36d7186331db01f306f8497500b47b3491f91a7ad911897a1"
+}

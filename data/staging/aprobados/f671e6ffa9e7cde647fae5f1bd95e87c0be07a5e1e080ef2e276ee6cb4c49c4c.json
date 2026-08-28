@@ -1,0 +1,15 @@
+{
+  "texto": "Instalaciones Municipales (Servicio/Equipamiento) en Rota. WGS84: 36.657582, -6.375453.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f671e6ffa9e7cde647fae5f1bd95e87c0be07a5e1e080ef2e276ee6cb4c49c4c"
+}

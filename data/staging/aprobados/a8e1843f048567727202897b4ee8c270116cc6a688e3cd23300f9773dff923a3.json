@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna Dulce de la Zorrilla (Masa de Agua) en Espera. WGS84: 36.856472, -5.86325.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a8e1843f048567727202897b4ee8c270116cc6a688e3cd23300f9773dff923a3"
+}

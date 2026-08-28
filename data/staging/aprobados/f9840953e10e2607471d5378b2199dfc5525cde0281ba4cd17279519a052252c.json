@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Salado (Curso Fluvial) en Espera. WGS84: 36.862474, -5.804407.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f9840953e10e2607471d5378b2199dfc5525cde0281ba4cd17279519a052252c"
+}

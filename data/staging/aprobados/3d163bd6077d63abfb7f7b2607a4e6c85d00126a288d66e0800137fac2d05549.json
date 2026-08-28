@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Acedo Navas (farmacia). Coordenadas aprox: 36.6547, -6.0825.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6546662&mlon=-6.0824841",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3d163bd6077d63abfb7f7b2607a4e6c85d00126a288d66e0800137fac2d05549"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de la Escalera (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.755757, -5.745067.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "afad8ab2c3487f695ce3da6cab727fda731b1d1dc9c81dad2ba95f1fbbf7c35e"
+}

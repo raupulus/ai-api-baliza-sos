@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud de Los Barrios (centro de salud) en Los Barrios. Coordenadas aprox: 36.1830, -5.4937.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1829654&mlon=-5.4936669",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "830e1c4bfe5ac758d41abe1c922ac8435afcaffce8335b0848b0799cbeaf1cd6"
+}

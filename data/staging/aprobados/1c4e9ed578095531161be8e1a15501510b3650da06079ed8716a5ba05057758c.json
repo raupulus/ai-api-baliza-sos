@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Cádiz-Estadio. WGS84: 36.502946, -6.272064.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c4e9ed578095531161be8e1a15501510b3650da06079ed8716a5ba05057758c"
+}

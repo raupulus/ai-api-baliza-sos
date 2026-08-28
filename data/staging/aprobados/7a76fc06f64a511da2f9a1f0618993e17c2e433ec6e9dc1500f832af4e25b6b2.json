@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Calita (playa). Coordenadas aprox: 36.5827, -6.2679.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5827065&mlon=-6.2679069",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7a76fc06f64a511da2f9a1f0618993e17c2e433ec6e9dc1500f832af4e25b6b2"
+}

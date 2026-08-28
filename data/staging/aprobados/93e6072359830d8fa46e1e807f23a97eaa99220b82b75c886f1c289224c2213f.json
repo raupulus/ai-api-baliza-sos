@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: SAN FERNANDO-BAHIA SUR. WGS84: 36.468013, -6.206824.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "93e6072359830d8fa46e1e807f23a97eaa99220b82b75c886f1c289224c2213f"
+}

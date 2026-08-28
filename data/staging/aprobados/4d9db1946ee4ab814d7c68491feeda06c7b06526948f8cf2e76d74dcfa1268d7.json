@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Ramirón (Servicio/Equipamiento) en Ronda. WGS84: 36.742707, -5.113565.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4d9db1946ee4ab814d7c68491feeda06c7b06526948f8cf2e76d74dcfa1268d7"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "El Paraíso (Servicio/Equipamiento) en Las Cabezas de San Juan. WGS84: 36.983449, -5.919138.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cfd4737ce253272b38ff95838357fc2bf10718edcac2d5de4815e84be25621d0"
+}

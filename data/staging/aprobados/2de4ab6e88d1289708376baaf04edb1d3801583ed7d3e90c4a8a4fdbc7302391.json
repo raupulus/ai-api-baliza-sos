@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Rivas (farmacia) en Algeciras. Coordenadas aprox: 36.1216, -5.4486.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1215514&mlon=-5.448601",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2de4ab6e88d1289708376baaf04edb1d3801583ed7d3e90c4a8a4fdbc7302391"
+}

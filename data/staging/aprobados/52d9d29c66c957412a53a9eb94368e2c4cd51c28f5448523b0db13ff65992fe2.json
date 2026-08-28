@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Camino Del Arroyo (Chiclana de la Frontera). WGS84: 36.439775, -6.121705.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "52d9d29c66c957412a53a9eb94368e2c4cd51c28f5448523b0db13ff65992fe2"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Reguero del Catalino (Curso Fluvial) en Tarifa. WGS84: 36.07525, -5.741605.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d5cf36765f4857f4bb370d74edcf94f561d3a31a708b9b2ba5e811cb93df6b54"
+}

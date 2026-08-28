@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Montana (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.717387, -6.242555.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b1180b2468efab5231fa52f2f28ecdf2ea5919d5a3458ccb6dc01e230be43f11"
+}

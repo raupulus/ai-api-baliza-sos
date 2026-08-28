@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital Recoletos consultas externas (centro de salud). Coordenadas aprox: 36.4994, -6.2726.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4993557&mlon=-6.2726483",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b296dcc5fa3ff72f09a721f49433f207c29452aa0e6fbedad35bc6143d1806e5"
+}

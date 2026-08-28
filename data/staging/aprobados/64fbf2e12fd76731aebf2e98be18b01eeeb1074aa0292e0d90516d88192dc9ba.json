@@ -1,0 +1,15 @@
+{
+  "texto": "Faro del Cabo de Roche (faro). Coordenadas aprox: 36.2955, -6.1400.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2955426&mlon=-6.1400344",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64fbf2e12fd76731aebf2e98be18b01eeeb1074aa0292e0d90516d88192dc9ba"
+}

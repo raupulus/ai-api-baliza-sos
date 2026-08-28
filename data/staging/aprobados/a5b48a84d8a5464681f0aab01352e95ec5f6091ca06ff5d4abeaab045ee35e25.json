@@ -1,0 +1,15 @@
+{
+  "texto": "Río de la Vega (Curso Fluvial) en Tarifa. WGS84: 36.027585, -5.614071.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a5b48a84d8a5464681f0aab01352e95ec5f6091ca06ff5d4abeaab045ee35e25"
+}

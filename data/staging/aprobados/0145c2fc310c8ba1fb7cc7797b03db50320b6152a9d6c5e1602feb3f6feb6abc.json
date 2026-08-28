@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna del Taraje (Masa de Agua) en Las Cabezas de San Juan. WGS84: 36.918432, -5.887967.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0145c2fc310c8ba1fb7cc7797b03db50320b6152a9d6c5e1602feb3f6feb6abc"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Cabezas Saura (farmacia) en Pruna. Coordenadas aprox: 36.9733, -5.2224.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9732536&mlon=-5.2223677",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cc5e1c30333917ea3bf2c8bf4b912f13301462fa5df1b89236a80296d4911944"
+}

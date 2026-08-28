@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo Abajo (Obra Hidráulica) en Alcalá de los Gazules. WGS84: 36.462794, -5.714107.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "91e3ba18150a0ee59194652bef63ea4d0de4b513cd59c125154841f76504da98"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Pto. Sta. Mª (El Palmar) (Sanlúcar de Barrameda). WGS84: 36.766917, -6.346745.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cae17ac9affcc6624e7457ad47c7d08915e5e20d24e07064b282431f26b4380c"
+}

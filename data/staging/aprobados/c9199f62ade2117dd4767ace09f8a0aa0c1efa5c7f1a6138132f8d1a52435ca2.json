@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Canalos (Curso Fluvial) en Pruna. WGS84: 37.041217, -5.220403.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c9199f62ade2117dd4767ace09f8a0aa0c1efa5c7f1a6138132f8d1a52435ca2"
+}

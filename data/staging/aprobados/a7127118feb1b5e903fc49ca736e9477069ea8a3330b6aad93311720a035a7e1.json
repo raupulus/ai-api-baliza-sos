@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Cañas (Curso Fluvial) en San Roque. WGS84: 36.197059, -5.388189.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a7127118feb1b5e903fc49ca736e9477069ea8a3330b6aad93311720a035a7e1"
+}

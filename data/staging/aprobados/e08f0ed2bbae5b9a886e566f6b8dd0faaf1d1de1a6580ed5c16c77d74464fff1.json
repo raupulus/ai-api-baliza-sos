@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de San Sebastián (faro). Coordenadas aprox: 36.5283, -6.3161.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5283259&mlon=-6.316052",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e08f0ed2bbae5b9a886e566f6b8dd0faaf1d1de1a6580ed5c16c77d74464fff1"
+}

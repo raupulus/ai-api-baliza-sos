@@ -1,0 +1,15 @@
+{
+  "texto": "Barranco de Echipe (Curso Fluvial) en Casares. WGS84: 36.452391, -5.306512.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7a7b949dcaadd03755670659603a422f5a28a3f911f661ffdec6f94cf315bc8a"
+}

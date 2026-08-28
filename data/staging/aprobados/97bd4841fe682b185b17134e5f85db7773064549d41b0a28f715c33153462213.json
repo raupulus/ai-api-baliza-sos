@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Manga (Curso Fluvial) en Pruna. WGS84: 37.012314, -5.19771.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "97bd4841fe682b185b17134e5f85db7773064549d41b0a28f715c33153462213"
+}

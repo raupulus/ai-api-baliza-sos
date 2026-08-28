@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital de Alta Resolución de Estepona (hospital) en Estepona. Coordenadas aprox: 36.4116, -5.1976.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4115765&mlon=-5.197596",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bd784f99a39c72f75dd315d2d72d3b54d84ef9df440bd4be988186f8dbc4f3bc"
+}

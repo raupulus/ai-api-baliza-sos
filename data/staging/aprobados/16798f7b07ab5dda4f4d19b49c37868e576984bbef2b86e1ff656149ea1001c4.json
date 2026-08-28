@@ -1,0 +1,15 @@
+{
+  "texto": "Monasterio de la Cartuja (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.653886, -6.092125.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "16798f7b07ab5dda4f4d19b49c37868e576984bbef2b86e1ff656149ea1001c4"
+}

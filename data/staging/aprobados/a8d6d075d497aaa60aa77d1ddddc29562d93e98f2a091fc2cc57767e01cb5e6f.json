@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita San Roque (Servicio/Equipamiento) en San Roque. WGS84: 36.210101, -5.392003.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a8d6d075d497aaa60aa77d1ddddc29562d93e98f2a091fc2cc57767e01cb5e6f"
+}

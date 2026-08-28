@@ -1,0 +1,15 @@
+{
+  "texto": "San Leandro (Masa de Agua) en Chiclana de la Frontera. WGS84: 36.428808, -6.20086.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "af9aaa174dfd3bfab23e2606f3082f27b2b05ca3e53ed6426ab2c5bb345d43b5"
+}

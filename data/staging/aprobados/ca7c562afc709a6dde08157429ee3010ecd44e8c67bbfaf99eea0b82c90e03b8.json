@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente del Algarrobo (agua potable). Coordenadas aprox: 36.8803, -5.4096.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8802649&mlon=-5.4095602",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ca7c562afc709a6dde08157429ee3010ecd44e8c67bbfaf99eea0b82c90e03b8"
+}

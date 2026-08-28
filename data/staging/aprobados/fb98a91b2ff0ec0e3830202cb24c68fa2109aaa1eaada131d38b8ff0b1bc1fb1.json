@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo de Flores (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.753724, -5.739939.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fb98a91b2ff0ec0e3830202cb24c68fa2109aaa1eaada131d38b8ff0b1bc1fb1"
+}

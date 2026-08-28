@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Herbos (farmacia). Coordenadas aprox: 36.5314, -6.2969.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5313554&mlon=-6.2969301",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da403a216d02026b6fcccd91dceee5807422e7b3961bae33e839f76d6cda54ab"
+}

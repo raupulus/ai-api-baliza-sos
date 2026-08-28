@@ -1,0 +1,15 @@
+{
+  "texto": "Caño del Tablazo (Curso Fluvial) en Barbate. WGS84: 36.20072, -5.905756.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b5d038ff4989ed3b7b16b376973276f1618c35254b10009157f4e5d9ef3ee585"
+}

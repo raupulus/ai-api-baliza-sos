@@ -1,0 +1,15 @@
+{
+  "texto": "Veta Mojosa (Relieve Litoral / Marítimo) en Hinojos. WGS84: 37.011142, -6.383452.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "02b5c3bf033d402f095524ef8cc6c77e3c069c19b194f671bbef1f05074d5be4"
+}

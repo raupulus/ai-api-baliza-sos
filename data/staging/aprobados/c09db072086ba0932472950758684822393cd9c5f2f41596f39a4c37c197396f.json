@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Mendoza (farmacia) en Las Cabezas de San Juan. Coordenadas aprox: 36.9777, -5.9431.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9777058&mlon=-5.9430896",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c09db072086ba0932472950758684822393cd9c5f2f41596f39a4c37c197396f"
+}

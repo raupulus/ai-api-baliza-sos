@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: RIO ARILLO. WGS84: 36.457598, -6.225227.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "649c50ccb4258ba360558ff5bb4a3f71cb30c91200c88273d5e6102ba005e003"
+}

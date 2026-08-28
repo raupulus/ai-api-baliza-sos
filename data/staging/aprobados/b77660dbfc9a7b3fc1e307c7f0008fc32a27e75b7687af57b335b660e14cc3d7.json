@@ -1,0 +1,15 @@
+{
+  "texto": "Policlínica Europa (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1608, -5.3513.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.160849&mlon=-5.3512926",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b77660dbfc9a7b3fc1e307c7f0008fc32a27e75b7687af57b335b660e14cc3d7"
+}

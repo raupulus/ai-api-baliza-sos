@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Barranco Hondo (Curso Fluvial) en Pujerra. WGS84: 36.592125, -5.122461.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0f91af15be7cd22586ad11ad13ce741d068ec81ee6831daa91b3efb96b8942ee"
+}

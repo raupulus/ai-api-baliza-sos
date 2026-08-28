@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Puerco (Relieve Litoral / Marítimo) en Chiclana de la Frontera. WGS84: 36.339397, -6.166033.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "53bb47ee420d9de456edec6a9d8323249e076dd4e0e5c151b989da3b992f94e8"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "MORILLO MATÍNEZ DE CÁDIZ C.B (farmacia). Coordenadas aprox: 36.5319, -6.2950.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5319043&mlon=-6.2949799",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b8a74eee435e48312263b0f84c3fa8fe68f8bcf9603ad7711b0da3cdba5b7b37"
+}

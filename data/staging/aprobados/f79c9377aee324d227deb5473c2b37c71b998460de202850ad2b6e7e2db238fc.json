@@ -1,0 +1,15 @@
+{
+  "texto": "Río Martín (Curso Fluvial) en Setenil de las Bodegas. WGS84: 36.855823, -5.185215.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f79c9377aee324d227deb5473c2b37c71b998460de202850ad2b6e7e2db238fc"
+}

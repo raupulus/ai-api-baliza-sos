@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia La Reconquista (farmacia). Coordenadas aprox: 36.1380, -5.4509.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1379727&mlon=-5.4508581",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc922c7661b79d351eb7d836ef04a99236958993fa1426bcaf07174b96f173fc"
+}

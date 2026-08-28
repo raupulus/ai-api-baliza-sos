@@ -1,0 +1,15 @@
+{
+  "texto": "Salinas de Jesús y María (Masa de Agua) en Puerto Real. WGS84: 36.517897, -6.220494.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7cecde14472ab4512882ab30a2ce86a83c3a90f15983fc78cd0523b33fe28eec"
+}

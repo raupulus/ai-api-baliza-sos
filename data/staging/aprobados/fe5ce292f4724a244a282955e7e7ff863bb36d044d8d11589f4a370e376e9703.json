@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud El Pósito (centro de salud). Coordenadas aprox: 36.7501, -5.8098.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7500795&mlon=-5.8097843",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fe5ce292f4724a244a282955e7e7ff863bb36d044d8d11589f4a370e376e9703"
+}

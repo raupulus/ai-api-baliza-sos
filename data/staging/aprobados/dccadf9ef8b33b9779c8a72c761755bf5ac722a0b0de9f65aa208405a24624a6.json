@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Aragón (farmacia) en Esepona. Coordenadas aprox: 36.4274, -5.1550.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4273771&mlon=-5.1549888",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dccadf9ef8b33b9779c8a72c761755bf5ac722a0b0de9f65aa208405a24624a6"
+}

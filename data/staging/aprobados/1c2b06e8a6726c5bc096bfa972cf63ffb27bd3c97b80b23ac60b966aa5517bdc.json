@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Romero (Curso Fluvial) en San José del Valle. WGS84: 36.610416, -5.708063.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c2b06e8a6726c5bc096bfa972cf63ffb27bd3c97b80b23ac60b966aa5517bdc"
+}

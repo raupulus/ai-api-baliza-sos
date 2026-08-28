@@ -1,0 +1,15 @@
+{
+  "texto": "# Uso del desfibrilador externo automatizado (DEA)\n\n## Cuándo y cómo usarlo\n1. Usa el DEA tan pronto como esté disponible.\n2. Enciéndelo (algunos se encienden solos al abrir el estuche).\n3. Sigue las indicaciones de audio/visuales del DEA.\n4. Coloca los parches autoadhesivos en el pecho desnudo según indica el DEA.\n5. Si hay más de un reanimador, continúa la RCP mientras se colocan los parches.\n6. Asegúrate de que nadie toque a la víctima mientras el DEA analiza el ritmo.\n\n## Descarga\n1. Si indica descarga, asegúrate de que nadie toque a la persona.\n2. Los DEA semiautomáticos requieren pulsar el botón de descarga; los totalmente automáticos descargan solos.\n3. Tras la descarga (o si no la indica), reinicia inmediatamente las compresiones torácicas.\n4. Continúa siguiendo las instrucciones del DEA.\n\n## Seguridad\n- El riesgo de daño por descarga accidental es bajo.\n- Las personas legas deben iniciar RCP ante presunta parada sin temor a causar daño.",
+  "fuente": "European Resuscitation Council — Guías ERC 2025 (Resumen Ejecutivo ES)",
+  "fuente_url": null,
+  "fecha": "2026-08-28",
+  "categoria": "primeros_auxilios",
+  "subcategoria": "soporte_vital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bd42f131e3c0177c338efb3418c09ecf19cc4687dad5118ad374fae38b2e9d1f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Encinilla (Curso Fluvial) en Utrera. WGS84: 36.982455, -5.73878.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0a54a9701a9798328c85647b99ffc98943afcb69663094c6454ebe37174cc320"
+}

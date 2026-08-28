@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ldo. Hierro Bustillos (farmacia). Coordenadas aprox: 36.8705, -6.1769.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8705104&mlon=-6.1768579",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "949e3d1491f24aa5c267b1a73b5097e2583d21babbe2745fd921de03de64c663"
+}

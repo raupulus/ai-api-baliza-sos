@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Cárdenas (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.716952, -5.708402.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b88d0ffbaf3554147d5b2122d5b8a6ba93cb72ff48197b16f7916634185cd903"
+}

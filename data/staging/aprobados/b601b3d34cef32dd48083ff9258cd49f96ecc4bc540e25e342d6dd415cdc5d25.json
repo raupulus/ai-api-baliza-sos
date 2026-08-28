@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Ratero (Servicio/Equipamiento) en Puerto Real. WGS84: 36.545726, -5.98772.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b601b3d34cef32dd48083ff9258cd49f96ecc4bc540e25e342d6dd415cdc5d25"
+}

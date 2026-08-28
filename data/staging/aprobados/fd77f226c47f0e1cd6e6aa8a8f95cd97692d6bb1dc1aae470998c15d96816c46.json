@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Alameda (San Roque). WGS84: 36.210231, -5.389231.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fd77f226c47f0e1cd6e6aa8a8f95cd97692d6bb1dc1aae470998c15d96816c46"
+}

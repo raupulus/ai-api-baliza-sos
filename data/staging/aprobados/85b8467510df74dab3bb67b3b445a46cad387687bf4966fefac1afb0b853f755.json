@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Chocolatero (Curso Fluvial) en Los Barrios. WGS84: 36.224679, -5.582949.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "85b8467510df74dab3bb67b3b445a46cad387687bf4966fefac1afb0b853f755"
+}

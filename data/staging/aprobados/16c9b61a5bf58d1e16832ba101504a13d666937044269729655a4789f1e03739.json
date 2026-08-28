@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Capuchinos (farmacia) en Sanlúcar de Barrameda. Coordenadas aprox: 36.7757, -6.3612.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7756953&mlon=-6.3612068",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "16c9b61a5bf58d1e16832ba101504a13d666937044269729655a4789f1e03739"
+}

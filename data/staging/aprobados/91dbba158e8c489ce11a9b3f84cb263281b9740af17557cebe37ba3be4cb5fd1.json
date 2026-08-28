@@ -1,0 +1,15 @@
+{
+  "texto": "hospital (hospital). Coordenadas aprox: 36.6736, -6.1123.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6735646&mlon=-6.1123493",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "91dbba158e8c489ce11a9b3f84cb263281b9740af17557cebe37ba3be4cb5fd1"
+}

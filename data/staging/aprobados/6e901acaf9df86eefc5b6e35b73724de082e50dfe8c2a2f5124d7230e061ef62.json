@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Sequillo (Obra Hidráulica) en Las Cabezas de San Juan. WGS84: 36.936663, -5.935923.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6e901acaf9df86eefc5b6e35b73724de082e50dfe8c2a2f5124d7230e061ef62"
+}

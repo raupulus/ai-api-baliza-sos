@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Doña (farmacia) en Cádiz. Coordenadas aprox: 36.5139, -6.2784.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5139189&mlon=-6.278408",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "09af5627492bf35326be97a22e1f58df969b916253642c9f0d0b9a36d3b6a14a"
+}

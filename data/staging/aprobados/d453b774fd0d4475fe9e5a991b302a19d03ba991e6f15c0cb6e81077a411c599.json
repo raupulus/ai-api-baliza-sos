@@ -1,0 +1,15 @@
+{
+  "texto": "Refugio de los Pinsapos (refugio). Coordenadas aprox: 36.6671, -5.3514.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6671457&mlon=-5.3514432",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d453b774fd0d4475fe9e5a991b302a19d03ba991e6f15c0cb6e81077a411c599"
+}

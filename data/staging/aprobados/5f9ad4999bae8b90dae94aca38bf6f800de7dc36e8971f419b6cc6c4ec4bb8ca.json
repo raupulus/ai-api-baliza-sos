@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Plaza De España V (Cádiz). WGS84: 36.534507, -6.292212.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5f9ad4999bae8b90dae94aca38bf6f800de7dc36e8971f419b6cc6c4ec4bb8ca"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "La Laguna (farmacia). Coordenadas aprox: 36.5052, -6.2757.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5052416&mlon=-6.2756716",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ff953bc0929494beee50f0d650ba9b4aaa44bc84ac3c51674cf019afbf62b06f"
+}

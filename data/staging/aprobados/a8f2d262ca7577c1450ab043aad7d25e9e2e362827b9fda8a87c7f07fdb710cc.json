@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Morales (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.6622, -6.05447.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a8f2d262ca7577c1450ab043aad7d25e9e2e362827b9fda8a87c7f07fdb710cc"
+}

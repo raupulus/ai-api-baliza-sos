@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Niño (Curso Fluvial) en Los Barrios. WGS84: 36.197264, -5.605733.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5a7cba348fc6b1f2010c90b2b152826d5ef3f7ca47290fe3351cb3c7ea1ebd24"
+}

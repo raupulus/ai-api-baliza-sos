@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Salado (Obra Hidráulica) en Puerto Real. WGS84: 36.577765, -6.142914.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d8562973e24e4365214a39ca53bca82f76361eb0332ac7ad5202020e73853734"
+}

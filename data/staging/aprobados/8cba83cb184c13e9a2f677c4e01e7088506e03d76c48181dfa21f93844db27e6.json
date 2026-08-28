@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Vicarías (Curso Fluvial) en Rota. WGS84: 36.703571, -6.369302.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8cba83cb184c13e9a2f677c4e01e7088506e03d76c48181dfa21f93844db27e6"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Piletas (Curso Fluvial) en Coripe. WGS84: 36.993102, -5.392135.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "afba533e7eca2d7770bcc8060c509a8dd9049f550ccb66ab1fba95bb4bef3d67"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "وتبنوي (refugio). Coordenadas aprox: 35.9503, -5.6300.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=35.9502634&mlon=-5.6299537",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ba1e33221b21780bc2e94e46779bec1e64a7ed4e50fcac6ea738d854ea3dd612"
+}

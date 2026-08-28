@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Plaza De Las Marinas V (Jerez de la Frontera). WGS84: 36.697483, -6.136633.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ffc9d79c0cab0faa450b11ad4c87a022ac61c6b6fc3c5854fc75305494432632"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Calpe Pharmacy (farmacia). Coordenadas aprox: 36.1425, -5.3531.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1425021&mlon=-5.3531207",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cf07696c53786e0ab5fb679d79b7f3e02f1045090c2b210dd1330d706abad2fd"
+}

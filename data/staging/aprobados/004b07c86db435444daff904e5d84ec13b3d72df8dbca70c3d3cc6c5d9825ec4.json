@@ -1,0 +1,15 @@
+{
+  "texto": "Centro médico Costa de La Luz (centro de salud). Coordenadas aprox: 36.6132, -6.2845.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6132087&mlon=-6.2844985",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "004b07c86db435444daff904e5d84ec13b3d72df8dbca70c3d3cc6c5d9825ec4"
+}

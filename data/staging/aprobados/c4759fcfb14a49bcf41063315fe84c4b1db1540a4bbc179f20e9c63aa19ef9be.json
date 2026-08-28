@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Sasa (Curso Fluvial) en Puerto Serrano. WGS84: 36.939652, -5.489047.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c4759fcfb14a49bcf41063315fe84c4b1db1540a4bbc179f20e9c63aa19ef9be"
+}

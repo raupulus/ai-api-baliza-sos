@@ -1,0 +1,15 @@
+{
+  "texto": "Monasterio de los Capuchinos Pobres (Servicio/Equipamiento) en San Fernando. WGS84: 36.468245, -6.198096.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1ffbd5e720547f2578e50ca564b334952ae206045613df44aa4c3ed0d82c4efb"
+}

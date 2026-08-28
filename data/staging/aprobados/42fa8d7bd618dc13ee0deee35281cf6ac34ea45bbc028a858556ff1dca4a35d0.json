@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud La Paz (centro de salud). Coordenadas aprox: 36.5159, -6.2746.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5159302&mlon=-6.2746247",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "42fa8d7bd618dc13ee0deee35281cf6ac34ea45bbc028a858556ff1dca4a35d0"
+}

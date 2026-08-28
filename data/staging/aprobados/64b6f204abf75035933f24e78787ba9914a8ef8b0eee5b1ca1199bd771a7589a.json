@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Hondo (Curso Fluvial) en Casares. WGS84: 36.426062, -5.271554.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64b6f204abf75035933f24e78787ba9914a8ef8b0eee5b1ca1199bd771a7589a"
+}

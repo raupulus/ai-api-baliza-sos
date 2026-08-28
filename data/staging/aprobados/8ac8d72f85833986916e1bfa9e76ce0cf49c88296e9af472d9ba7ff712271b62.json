@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Sara Gutiérrez Alba (farmacia). Coordenadas aprox: 36.7408, -6.4288.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7407649&mlon=-6.4287843",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8ac8d72f85833986916e1bfa9e76ce0cf49c88296e9af472d9ba7ff712271b62"
+}

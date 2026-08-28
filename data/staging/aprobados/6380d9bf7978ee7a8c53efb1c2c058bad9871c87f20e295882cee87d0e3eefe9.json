@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Juan de Sevilla (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.290388, -5.515148.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6380d9bf7978ee7a8c53efb1c2c058bad9871c87f20e295882cee87d0e3eefe9"
+}

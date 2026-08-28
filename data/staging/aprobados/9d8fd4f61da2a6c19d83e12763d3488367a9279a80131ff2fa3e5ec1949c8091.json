@@ -1,0 +1,15 @@
+{
+  "texto": "La Venta (Servicio/Equipamiento) en Coripe. WGS84: 36.998878, -5.381798.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d8fd4f61da2a6c19d83e12763d3488367a9279a80131ff2fa3e5ec1949c8091"
+}

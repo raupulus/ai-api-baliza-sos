@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia María del Carmen Prieto González (farmacia). Coordenadas aprox: 36.6256, -6.3697.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6256184&mlon=-6.3696681",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b4703f4b2bec28e0cdbb06d2ef83854bab57c1514cb6500b98a214dc7b5dbd11"
+}

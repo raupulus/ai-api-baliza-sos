@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Puerto de Santa María (El Puerto de Santa María). WGS84: 36.604072, -6.217926.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a5f8003b04b1f43042f656a37b6d9ccad7922bdc5a738fa3053d8b3f3a9d8da6"
+}

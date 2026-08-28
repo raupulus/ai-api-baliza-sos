@@ -1,0 +1,15 @@
+{
+  "texto": "Cementerio Municipal Nuestra Señora de la Oliva (Servicio/Equipamiento) en Lebrija. WGS84: 36.922284, -6.070538.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a4bd5beeaba3d6c772071472da8c8828c79258556f69d6d58e282e4f09338fbb"
+}

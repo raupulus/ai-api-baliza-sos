@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Hospital La Línea (La Línea de la Concepción). WGS84: 36.17482, -5.355031.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "21faf5030dc0db362bd6e9aa5dc06af5a675080bdb0d9bb4504e15c51408b9f7"
+}

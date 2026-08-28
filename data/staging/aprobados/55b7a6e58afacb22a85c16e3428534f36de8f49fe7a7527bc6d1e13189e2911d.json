@@ -1,0 +1,15 @@
+{
+  "texto": "Cueva de Garabaquin (Cueva) en Zahara. WGS84: 36.855952, -5.480416.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "55b7a6e58afacb22a85c16e3428534f36de8f49fe7a7527bc6d1e13189e2911d"
+}

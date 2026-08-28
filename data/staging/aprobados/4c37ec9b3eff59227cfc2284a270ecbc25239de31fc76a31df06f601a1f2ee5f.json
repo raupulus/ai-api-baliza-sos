@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Quejigal (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.603071, -5.550946.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4c37ec9b3eff59227cfc2284a270ecbc25239de31fc76a31df06f601a1f2ee5f"
+}

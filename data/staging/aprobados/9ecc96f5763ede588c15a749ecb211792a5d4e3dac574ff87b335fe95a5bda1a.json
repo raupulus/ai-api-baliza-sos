@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Vallehondo (Curso Fluvial) en Villamartín. WGS84: 36.929882, -5.613184.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9ecc96f5763ede588c15a749ecb211792a5d4e3dac574ff87b335fe95a5bda1a"
+}

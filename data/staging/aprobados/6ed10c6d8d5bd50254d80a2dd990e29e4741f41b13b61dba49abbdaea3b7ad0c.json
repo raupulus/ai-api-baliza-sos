@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Tesorillo (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.770905, -5.828003.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6ed10c6d8d5bd50254d80a2dd990e29e4741f41b13b61dba49abbdaea3b7ad0c"
+}

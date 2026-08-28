@@ -1,0 +1,15 @@
+{
+  "texto": "Río Guadamanil (Curso Fluvial) en Coripe. WGS84: 36.985093, -5.369127.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b5c88b9c0f3d3e717ef61db1eaed59f5ee22a00d32f7ecf023af9866b3152e1a"
+}

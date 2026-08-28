@@ -1,0 +1,15 @@
+{
+  "texto": "Canal de Majada Verde (Obra Hidráulica) en Vejer de la Frontera. WGS84: 36.239774, -5.816781.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5f41efcfeabafee9611fd1cad703e1136ab2d5c3879e45b3d29092a69b2edaf2"
+}

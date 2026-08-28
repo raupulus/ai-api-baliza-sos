@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Garzos (Curso Fluvial) en Lebrija. WGS84: 36.853177, -5.91737.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "393c6dd9f88aa8c478ae8b66bc7658987499e40beea2be52ee9f156ccfa77e50"
+}

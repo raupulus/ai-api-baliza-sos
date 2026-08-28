@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Juan Manuel Serrano Ortega (farmacia) en Algatocín. Coordenadas aprox: 36.5731, -5.2771.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5730983&mlon=-5.2770638",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b6d92a9b67a5b5ed844660497fe3baef95c2981d9f0ac1440e2d08949d46002c"
+}

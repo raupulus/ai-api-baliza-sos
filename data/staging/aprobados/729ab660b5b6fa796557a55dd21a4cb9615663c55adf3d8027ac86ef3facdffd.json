@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Pasada Blanca (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.535901, -5.525682.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "729ab660b5b6fa796557a55dd21a4cb9615663c55adf3d8027ac86ef3facdffd"
+}

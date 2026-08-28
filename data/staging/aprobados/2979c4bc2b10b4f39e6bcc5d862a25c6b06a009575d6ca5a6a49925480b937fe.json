@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Virgen del Rosario (centro de salud) en Algeciras. Coordenadas aprox: 36.1428, -5.4490.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1427673&mlon=-5.4490164",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2979c4bc2b10b4f39e6bcc5d862a25c6b06a009575d6ca5a6a49925480b937fe"
+}

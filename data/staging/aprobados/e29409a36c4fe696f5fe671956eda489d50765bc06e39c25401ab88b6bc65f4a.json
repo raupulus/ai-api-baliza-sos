@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de Aborite (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.455395, -5.615868.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e29409a36c4fe696f5fe671956eda489d50765bc06e39c25401ab88b6bc65f4a"
+}

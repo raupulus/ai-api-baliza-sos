@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Entrevieso (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.694871, -6.298253.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ee54ae444dbed17d465c9f379931d5c08d154739bff7590e95f678b4f05edc7b"
+}

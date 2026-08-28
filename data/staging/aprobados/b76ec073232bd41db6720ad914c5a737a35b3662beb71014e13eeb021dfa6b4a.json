@@ -1,0 +1,15 @@
+{
+  "texto": "Los Cascajales (Servicio/Equipamiento) en Benaoján. WGS84: 36.71934, -5.2381.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b76ec073232bd41db6720ad914c5a737a35b3662beb71014e13eeb021dfa6b4a"
+}

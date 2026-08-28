@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Puerto (Curso Fluvial) en Benaocaz. WGS84: 36.713077, -5.508247.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "352d631d36734fef5b9e3c59cd899ec2571eab99057575b310535e03535216bf"
+}

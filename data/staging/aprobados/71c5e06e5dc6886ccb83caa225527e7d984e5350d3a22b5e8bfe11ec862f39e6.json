@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Carrasco (Servicio/Equipamiento) en Jimena de la Frontera. WGS84: 36.374983, -5.419359.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "71c5e06e5dc6886ccb83caa225527e7d984e5350d3a22b5e8bfe11ec862f39e6"
+}

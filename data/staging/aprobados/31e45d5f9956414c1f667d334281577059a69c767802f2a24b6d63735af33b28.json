@@ -1,0 +1,15 @@
+{
+  "texto": "Punta Candelaria (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.538522, -6.300778.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "31e45d5f9956414c1f667d334281577059a69c767802f2a24b6d63735af33b28"
+}

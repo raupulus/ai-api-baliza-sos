@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Óptica Artacho (farmacia) en Estepona. Coordenadas aprox: 36.4243, -5.1456.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4242892&mlon=-5.1455834",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "96ec0d8728876db8393e63396bba473e85bb85f41c51eb54e88b366d8078f82d"
+}

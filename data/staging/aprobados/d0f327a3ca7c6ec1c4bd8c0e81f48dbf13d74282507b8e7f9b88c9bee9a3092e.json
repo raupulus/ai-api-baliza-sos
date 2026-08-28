@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Victoria (farmacia). Coordenadas aprox: 36.9350, -5.2639.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9349541&mlon=-5.2639013",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d0f327a3ca7c6ec1c4bd8c0e81f48dbf13d74282507b8e7f9b88c9bee9a3092e"
+}

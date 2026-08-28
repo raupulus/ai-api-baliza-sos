@@ -1,0 +1,15 @@
+{
+  "texto": "La Rosa (farmacia). Coordenadas aprox: 36.5315, -6.3026.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5315446&mlon=-6.3026154",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e391aa3e9d59c90c2b6e900ddd6521f8036f6e487ee7d188bc16d1ee7fa163f7"
+}

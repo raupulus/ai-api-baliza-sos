@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: TORREGORDA. WGS84: 36.461084, -6.248473.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1b45484a78349bb2c5c5e9f9fed184331b6a61371eb6149fccb83395d64cfa2f"
+}

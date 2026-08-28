@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Zahara (Relieve Litoral / Marítimo) en Barbate. WGS84: 36.137269, -5.852747.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0fa94192a9127c430ea44a126bd7a296535d97b5808158b32d212d31983e7c94"
+}

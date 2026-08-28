@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Quinto (Curso Fluvial) en Conil de la Frontera. WGS84: 36.298744, -6.109574.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1ad4ae9092f47be09f95d1c9d60d1982cc6ed08339592214f01a2becc290557"
+}

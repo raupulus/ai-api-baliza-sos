@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Tres Picos (Curso Fluvial) en Prado del Rey. WGS84: 36.755942, -5.553124.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2c03bfa930692340653eb6f70df9ce539a2a8df49956c7847c8880f8f6b92a18"
+}

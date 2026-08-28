@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Médico Lansy (centro de salud). Coordenadas aprox: 36.5954, -6.2264.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5953788&mlon=-6.2263709",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d3bcd384baaaf1639cc2c75f6cb26607a23e1135af5fd3ddff74676fc488ed71"
+}

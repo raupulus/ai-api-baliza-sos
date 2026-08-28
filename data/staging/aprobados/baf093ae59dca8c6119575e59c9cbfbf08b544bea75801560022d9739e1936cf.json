@@ -1,0 +1,15 @@
+{
+  "texto": "Servicio Provincial EPES 061 (centro de salud). Coordenadas aprox: 36.5193, -6.1507.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5193263&mlon=-6.1506793",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "baf093ae59dca8c6119575e59c9cbfbf08b544bea75801560022d9739e1936cf"
+}

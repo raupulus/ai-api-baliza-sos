@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cruce Carrefour V (Los Barrios). WGS84: 36.181675, -5.443028.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fd7e664c3f6654e6a4c41578f2e78b3aa6f76dbec8d8e1792ef6e9f410317ab1"
+}

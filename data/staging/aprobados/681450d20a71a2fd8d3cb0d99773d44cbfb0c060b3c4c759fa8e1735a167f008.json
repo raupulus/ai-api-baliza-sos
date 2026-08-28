@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Martínez Guerra (farmacia). Coordenadas aprox: 36.5976, -6.2292.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5975694&mlon=-6.2292172",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "681450d20a71a2fd8d3cb0d99773d44cbfb0c060b3c4c759fa8e1735a167f008"
+}

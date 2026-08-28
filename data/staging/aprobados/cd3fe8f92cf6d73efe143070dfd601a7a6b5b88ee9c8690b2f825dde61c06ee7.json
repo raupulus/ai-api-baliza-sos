@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Hortijica (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.411062, -5.409495.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cd3fe8f92cf6d73efe143070dfd601a7a6b5b88ee9c8690b2f825dde61c06ee7"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Galapagar (Curso Fluvial) en Setenil de las Bodegas. WGS84: 36.884803, -5.231705.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4a948330c788f54171d285348099120a722c826dd999e41ad7652df882cc20f6"
+}

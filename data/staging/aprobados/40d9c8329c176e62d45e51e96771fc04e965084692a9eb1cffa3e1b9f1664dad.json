@@ -1,0 +1,15 @@
+{
+  "texto": "# Accidente en montaña: dar aviso y actuar\n\n## Datos a facilitar al Grupo de Rescate\n1. Qué ha ocurrido.\n2. Cuándo ha ocurrido.\n3. Dónde ha ocurrido.\n4. Estado en que se encuentra la víctima.\n5. Localización lo más exacta posible del lugar.\n6. Meteorología de la zona.\n7. Personal disponible para ayudar al Grupo de Rescate.\n8. Material del que se dispone.\n9. Teléfonos del personal que está con la víctima.\n\n## Actuaciones inmediatas\n- Resguardar a la víctima y proporcionarle los Primeros Auxilios.\n- Mantener la calma: quien espera la ayuda percibe el tiempo lento, mientras el Grupo de Rescate actúa lo más rápido posible.\n- Si se va a hacer uso del helicóptero, limpiar la zona de objetos que puedan salir volando y engancharse al rotor.\n- Llevar siempre un chaleco reflectante en la mochila para hacernos ver si necesitamos ayuda.",
+  "fuente": "Guardia Civil — Servicio de Montaña (Prevenciones y actuaciones en caso de accidente)",
+  "fuente_url": null,
+  "fecha": "2026-08-28",
+  "categoria": "proteccion_civil",
+  "subcategoria": "rescate_montana",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "40d9c8329c176e62d45e51e96771fc04e965084692a9eb1cffa3e1b9f1664dad"
+}

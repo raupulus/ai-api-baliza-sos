@@ -1,0 +1,15 @@
+{
+  "texto": "Barranco Cañada Honda (Curso Fluvial) en Los Barrios. WGS84: 36.203724, -5.428468.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64dbd2549df0d93c864a5a66bd2c5c95be6e4b8d01936fa7311f2cd5e43fbd2b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Estanquillo (Curso Fluvial) en Manilva. WGS84: 36.355065, -5.245797.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ab2854e32df37af6ca48707d4e3fc862f312609231895a253a9b0d3172b57cdb"
+}

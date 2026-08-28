@@ -1,0 +1,15 @@
+{
+  "texto": "New Chemist (farmacia). Coordenadas aprox: 36.1438, -5.3531.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.143788&mlon=-5.3530704",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5ee4fd2dad55176b9b0d1697ef70733b5bbd7ab63a2ee93cf244285650758d4d"
+}

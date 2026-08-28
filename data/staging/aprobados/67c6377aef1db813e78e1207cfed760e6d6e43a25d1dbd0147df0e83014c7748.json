@@ -1,0 +1,15 @@
+{
+  "texto": "Consultorio Médico de Manilva (centro de salud). Coordenadas aprox: 36.3777, -5.2541.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3776813&mlon=-5.2540939",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "67c6377aef1db813e78e1207cfed760e6d6e43a25d1dbd0147df0e83014c7748"
+}

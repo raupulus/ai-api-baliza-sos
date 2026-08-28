@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: San Enrique V (San Roque). WGS84: 36.304139, -5.292292.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "53db007856a382fbf2e107bead6fba4dbc54e4f49a5e8e58ac741f0647b8c343"
+}

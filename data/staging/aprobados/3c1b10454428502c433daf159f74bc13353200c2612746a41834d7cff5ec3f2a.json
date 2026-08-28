@@ -1,0 +1,15 @@
+{
+  "texto": "Caleta del Agua (Relieve Litoral / Marítimo) en El Puerto de Santa María. WGS84: 36.57952, -6.264088.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3c1b10454428502c433daf159f74bc13353200c2612746a41834d7cff5ec3f2a"
+}

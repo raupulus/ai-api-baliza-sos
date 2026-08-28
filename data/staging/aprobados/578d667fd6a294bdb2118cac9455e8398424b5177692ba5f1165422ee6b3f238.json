@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ayala Ruiz (farmacia) en Gaucín. Coordenadas aprox: 36.5391, -5.3872.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5390636&mlon=-5.387181",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "578d667fd6a294bdb2118cac9455e8398424b5177692ba5f1165422ee6b3f238"
+}

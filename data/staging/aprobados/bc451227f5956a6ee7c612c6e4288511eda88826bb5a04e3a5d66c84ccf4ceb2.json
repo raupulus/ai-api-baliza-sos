@@ -1,0 +1,15 @@
+{
+  "texto": "Playas de la Jara (playa). Coordenadas aprox: 36.7726, -6.3792.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7725649&mlon=-6.379212",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bc451227f5956a6ee7c612c6e4288511eda88826bb5a04e3a5d66c84ccf4ceb2"
+}

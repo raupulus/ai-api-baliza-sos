@@ -1,0 +1,15 @@
+{
+  "texto": "Punta de Malandar (Relieve Litoral / Marítimo) en Almonte. WGS84: 36.794168, -6.375265.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "453cc1070f8327a1a152f97cb6ae86f32af15cd41d14a00577f0180bf71fd44b"
+}

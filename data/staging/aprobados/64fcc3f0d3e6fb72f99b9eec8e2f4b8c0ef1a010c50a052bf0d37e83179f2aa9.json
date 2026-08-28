@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Puerto de las Palomas (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.531577, -5.682459.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64fcc3f0d3e6fb72f99b9eec8e2f4b8c0ef1a010c50a052bf0d37e83179f2aa9"
+}

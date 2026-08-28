@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Salud San Dionisio (centro de salud). Coordenadas aprox: 36.6834, -6.1400.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6833989&mlon=-6.1399619",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a8792378d190e42973d5ea2fbef762db7e9e87c0556e19042da249de19823bba"
+}

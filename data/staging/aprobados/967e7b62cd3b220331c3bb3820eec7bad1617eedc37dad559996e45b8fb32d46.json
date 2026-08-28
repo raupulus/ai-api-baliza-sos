@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: El Canario V (Conil de la Frontera). WGS84: 36.311537, -6.082892.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "967e7b62cd3b220331c3bb3820eec7bad1617eedc37dad559996e45b8fb32d46"
+}

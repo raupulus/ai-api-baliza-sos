@@ -1,0 +1,15 @@
+{
+  "texto": "Canal de los Yesos (Obra Hidráulica) en Lebrija. WGS84: 36.905943, -6.162136.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "986233b5e38ce70b4b4cc77a0af6b2ea4a95e0f6417061a00eeceb52cd092145"
+}

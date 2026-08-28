@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Cañones (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.75908, -5.846339.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f8e8c436a0e76ee6227dea21dd1ad43d41028568ac6ab7b1e1404abca1ff5946"
+}

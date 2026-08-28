@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Gonzálvez Barrios (farmacia). Coordenadas aprox: 36.6087, -5.8028.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6087342&mlon=-5.8027671",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3e8b2ba36b3979d41c874e676f08eda906de661a261e8af0236fa8618f172b78"
+}

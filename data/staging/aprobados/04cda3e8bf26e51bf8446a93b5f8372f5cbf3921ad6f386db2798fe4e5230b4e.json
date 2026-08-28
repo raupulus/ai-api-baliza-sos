@@ -1,0 +1,15 @@
+{
+  "texto": "Punta del Tajo (Relieve Litoral / Marítimo) en Barbate. WGS84: 36.176597, -5.986813.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "04cda3e8bf26e51bf8446a93b5f8372f5cbf3921ad6f386db2798fe4e5230b4e"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "centro de salud (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1799, -5.3374.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1799007&mlon=-5.3373595",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0ebbe78b9b4c49d5b92d7ccd2ef63385748f9bc5a26c9c5d8f54ca8e2405233b"
+}

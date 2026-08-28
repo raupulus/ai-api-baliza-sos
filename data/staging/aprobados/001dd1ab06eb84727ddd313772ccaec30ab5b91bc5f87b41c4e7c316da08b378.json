@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Escudetes (Curso Fluvial) en San Roque. WGS84: 36.261239, -5.348044.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "001dd1ab06eb84727ddd313772ccaec30ab5b91bc5f87b41c4e7c316da08b378"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado (Curso Fluvial) en Olvera. WGS84: 36.96224, -5.309201.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a3f780111ec82513daeb7b1d5ec939127bbcb57f991b7ae89061fb4de35360d4"
+}

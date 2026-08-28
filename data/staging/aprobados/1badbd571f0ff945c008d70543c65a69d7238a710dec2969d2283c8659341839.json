@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Lancero (Curso Fluvial) en Ronda. WGS84: 36.734081, -5.11095.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1badbd571f0ff945c008d70543c65a69d7238a710dec2969d2283c8659341839"
+}

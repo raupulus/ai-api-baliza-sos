@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Esteban Gonzalez Gálvez (farmacia) en Gaucín. Coordenadas aprox: 36.5195, -5.3183.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5194704&mlon=-5.3182764",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4c4a8eb6a8ca0437c7662b2d2c05a91ed597e94f9f9e0366a216aefa694a9988"
+}

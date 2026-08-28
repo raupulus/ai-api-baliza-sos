@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Tres Caminos (Puerto Real). WGS84: 36.466523, -6.175706.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a8b1c0cd1cfa30b9c94cb9e658ae06deed1154f3c237ea969efd62d85361b7fe"
+}

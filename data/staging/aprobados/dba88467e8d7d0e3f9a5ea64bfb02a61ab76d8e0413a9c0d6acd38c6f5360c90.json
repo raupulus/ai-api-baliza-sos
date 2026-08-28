@@ -1,0 +1,15 @@
+{
+  "texto": "Clinica El Rosal (centro de salud). Coordenadas aprox: 36.1702, -5.3447.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1702385&mlon=-5.3446822",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dba88467e8d7d0e3f9a5ea64bfb02a61ab76d8e0413a9c0d6acd38c6f5360c90"
+}

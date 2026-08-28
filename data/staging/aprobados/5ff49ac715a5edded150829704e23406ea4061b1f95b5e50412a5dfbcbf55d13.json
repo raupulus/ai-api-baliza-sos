@@ -1,0 +1,15 @@
+{
+  "texto": "Duty Chemist (farmacia). Coordenadas aprox: 36.1391, -5.3537.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.13913&mlon=-5.353729",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5ff49ac715a5edded150829704e23406ea4061b1f95b5e50412a5dfbcbf55d13"
+}

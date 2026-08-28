@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Balapala (Curso Fluvial) en Ubrique. WGS84: 36.679737, -5.507164.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "07ebc58ffcd7ff5143423b9d4ed27e198ea5548265b5a45896baff238264d9df"
+}

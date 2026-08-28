@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación De Autobuses Arcos (Arcos de la Frontera). WGS84: 36.749337, -5.818322.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "218084a9a24d1997c1a46dd0bd0d4ecf3dea0958c6a04b3ae7f9a0c8f75914cc"
+}

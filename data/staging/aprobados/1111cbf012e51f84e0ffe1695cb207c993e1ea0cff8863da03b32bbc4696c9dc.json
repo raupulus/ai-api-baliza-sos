@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Laja (Curso Fluvial) en Prado del Rey. WGS84: 36.765836, -5.549458.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1111cbf012e51f84e0ffe1695cb207c993e1ea0cff8863da03b32bbc4696c9dc"
+}

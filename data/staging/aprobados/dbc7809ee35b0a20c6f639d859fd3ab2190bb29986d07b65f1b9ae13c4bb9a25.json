@@ -1,0 +1,15 @@
+{
+  "texto": "Eastern Beach (playa). Coordenadas aprox: 36.1481, -5.3397.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.148115&mlon=-5.3396954",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dbc7809ee35b0a20c6f639d859fd3ab2190bb29986d07b65f1b9ae13c4bb9a25"
+}

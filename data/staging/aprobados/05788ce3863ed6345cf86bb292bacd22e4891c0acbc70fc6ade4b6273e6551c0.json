@@ -1,0 +1,15 @@
+{
+  "texto": "Río Iro (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.429474, -6.160386.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "05788ce3863ed6345cf86bb292bacd22e4891c0acbc70fc6ade4b6273e6551c0"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Doctora (Curso Fluvial) en San Roque. WGS84: 36.231466, -5.367376.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "67c0911514f7660f6bd699c4f586b4b97339ed903a7ed0d7e3fdd7796734f782"
+}

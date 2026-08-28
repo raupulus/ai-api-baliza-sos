@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Cañas (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.357126, -5.494017.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "003b2bfec389435747b524b5c410ac68e7a3d6b6e495ccaf213d8fa9e7f66c52"
+}

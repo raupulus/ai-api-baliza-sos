@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Bermejo (Curso Fluvial) en Olvera. WGS84: 36.944089, -5.357273.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8bfbaf830f0d569df257119f4e7499d20856c9cac59f21381862495eec0d16a0"
+}

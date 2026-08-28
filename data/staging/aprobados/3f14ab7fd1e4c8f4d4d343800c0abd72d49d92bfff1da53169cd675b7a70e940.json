@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Majada Grande (Curso Fluvial) en Júzcar. WGS84: 36.573333, -5.153076.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3f14ab7fd1e4c8f4d4d343800c0abd72d49d92bfff1da53169cd675b7a70e940"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Bujeo (Curso Fluvial) en Tarifa. WGS84: 36.070259, -5.522018.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5058c7bfd06a5abae1cdf93d8232e3034eb671a5d868b2ffed7338727117c612"
+}

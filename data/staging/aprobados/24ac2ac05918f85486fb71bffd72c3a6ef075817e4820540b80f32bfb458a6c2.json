@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna Chica (Masa de Agua) en El Puerto de Santa María. WGS84: 36.647672, -6.230419.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "24ac2ac05918f85486fb71bffd72c3a6ef075817e4820540b80f32bfb458a6c2"
+}

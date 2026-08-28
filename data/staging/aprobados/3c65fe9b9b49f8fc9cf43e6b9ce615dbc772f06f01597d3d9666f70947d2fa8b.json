@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Armada (Curso Fluvial) en Prado del Rey. WGS84: 36.763388, -5.56501.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3c65fe9b9b49f8fc9cf43e6b9ce615dbc772f06f01597d3d9666f70947d2fa8b"
+}

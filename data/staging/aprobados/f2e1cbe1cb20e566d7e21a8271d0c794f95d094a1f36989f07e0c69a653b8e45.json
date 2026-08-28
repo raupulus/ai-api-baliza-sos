@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cuchillera (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.723155, -5.824805.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f2e1cbe1cb20e566d7e21a8271d0c794f95d094a1f36989f07e0c69a653b8e45"
+}

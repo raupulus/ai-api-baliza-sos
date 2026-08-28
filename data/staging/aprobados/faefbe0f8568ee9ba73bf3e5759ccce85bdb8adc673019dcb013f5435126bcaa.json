@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Luis Benjumeda Osborne (farmacia). Coordenadas aprox: 36.6119, -6.2312.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.611938&mlon=-6.2312112",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "faefbe0f8568ee9ba73bf3e5759ccce85bdb8adc673019dcb013f5435126bcaa"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de Gandelar (Curso Fluvial) en Los Barrios. WGS84: 36.141951, -5.579363.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "75cd713c0674f90b3a2c80c91e2ab0e165d2e5ff5092e8c686ee476eea71ea97"
+}

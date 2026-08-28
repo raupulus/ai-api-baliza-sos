@@ -1,0 +1,15 @@
+{
+  "texto": "Cortijo de la Holla (Servicio/Equipamiento) en Benalup-Casas Viejas. WGS84: 36.313259, -5.720948.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1e35821b04cebd7f4e7a27dc450b12ee0f6e1e3b5730d70c4298f7585fee3df9"
+}

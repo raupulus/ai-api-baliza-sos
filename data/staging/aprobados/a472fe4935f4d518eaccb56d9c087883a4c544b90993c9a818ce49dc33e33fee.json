@@ -1,0 +1,15 @@
+{
+  "texto": "Embalse de Torre del Águila (Obra Hidráulica) en Utrera. WGS84: 37.030578, -5.709113.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a472fe4935f4d518eaccb56d9c087883a4c544b90993c9a818ce49dc33e33fee"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Aguila calzada (Hieraaetus pennatus (Gmelin, 1788)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2480685",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "669e1dc3175392f985e112d00627379567e6dac4790003603c1d8e44131be6dd"
+}

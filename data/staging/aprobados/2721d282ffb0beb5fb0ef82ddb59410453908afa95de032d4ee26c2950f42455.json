@@ -1,0 +1,15 @@
+{
+  "texto": "Cámping Trafalgar (Servicio/Equipamiento) en Barbate. WGS84: 36.189548, -6.029598.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2721d282ffb0beb5fb0ef82ddb59410453908afa95de032d4ee26c2950f42455"
+}

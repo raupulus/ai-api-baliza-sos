@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cava (Curso Fluvial) en Algeciras. WGS84: 36.146011, -5.481159.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ef1c25d5750f8537e79c3c9f53624890cc7ab5458ed535ce4c928020dad783e3"
+}

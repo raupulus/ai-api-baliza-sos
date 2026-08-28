@@ -1,0 +1,15 @@
+{
+  "texto": "Veta de la Cierva (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.982569, -6.343485.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1fec3f7412cd05a0cca8b38107bbf0dea64ea6f79f09bf68a4fcff007c76a3c3"
+}

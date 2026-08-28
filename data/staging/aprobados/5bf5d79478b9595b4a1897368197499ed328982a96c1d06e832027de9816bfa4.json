@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Enmedio (Curso Fluvial) en Estepona. WGS84: 36.409377, -5.193696.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5bf5d79478b9595b4a1897368197499ed328982a96c1d06e832027de9816bfa4"
+}

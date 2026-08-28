@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Matavaca (Curso Fluvial) en Algodonales. WGS84: 36.902778, -5.514285.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "80a1efa0e3f40456471b71c1ec4eb83b1bfa4fe5f244d2a5215d38fca4889d50"
+}

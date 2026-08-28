@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Juan Prieto (Curso Fluvial) en Pruna. WGS84: 37.006283, -5.276149.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "30b8410d21b89e2efc649964691cce338c83e5f5518dc7764136f19082b3c9db"
+}

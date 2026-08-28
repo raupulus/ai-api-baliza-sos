@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Ingeniero La Cierva V (Cádiz). WGS84: 36.506274, -6.276833.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4394c2138656932315a669607e6fd27e0968adcdbe0034da476047ee5d723274"
+}

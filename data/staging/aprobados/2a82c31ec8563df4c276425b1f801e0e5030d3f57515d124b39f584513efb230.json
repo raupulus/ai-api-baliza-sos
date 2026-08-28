@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Tartessus (farmacia). Coordenadas aprox: 36.3394, -6.1487.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3394326&mlon=-6.1486989",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2a82c31ec8563df4c276425b1f801e0e5030d3f57515d124b39f584513efb230"
+}

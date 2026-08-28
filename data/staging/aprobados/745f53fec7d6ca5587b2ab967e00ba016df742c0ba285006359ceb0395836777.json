@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: La Ardila (San Fernando). WGS84: 36.45625, -6.216027.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "745f53fec7d6ca5587b2ab967e00ba016df742c0ba285006359ceb0395836777"
+}

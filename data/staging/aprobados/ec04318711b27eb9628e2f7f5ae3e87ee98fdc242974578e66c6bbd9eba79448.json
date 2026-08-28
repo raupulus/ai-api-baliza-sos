@@ -1,0 +1,15 @@
+{
+  "texto": "Parafarmacia (farmacia). Coordenadas aprox: 36.6056, -5.7997.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6055955&mlon=-5.7997359",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ec04318711b27eb9628e2f7f5ae3e87ee98fdc242974578e66c6bbd9eba79448"
+}

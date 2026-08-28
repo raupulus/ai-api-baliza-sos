@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio Boyero (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.95682, -6.303351.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aa0ea7ad301f524f3bb1699727a5b187fccdfddc2e37167b9b1d97ee4ad2b80d"
+}

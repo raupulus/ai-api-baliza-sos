@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de El Chinarral (playa). Coordenadas aprox: 36.1122, -5.4372.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1121507&mlon=-5.4372248",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "af840e4b2f1c450fe3344e78da1a581cf120c7a89f075482ba29cf12fca21cfd"
+}

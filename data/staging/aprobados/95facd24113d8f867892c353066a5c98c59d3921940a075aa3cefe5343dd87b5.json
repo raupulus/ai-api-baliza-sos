@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna de Medina (Masa de Agua) en Jerez de la Frontera. WGS84: 36.617061, -6.05029.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "95facd24113d8f867892c353066a5c98c59d3921940a075aa3cefe5343dd87b5"
+}

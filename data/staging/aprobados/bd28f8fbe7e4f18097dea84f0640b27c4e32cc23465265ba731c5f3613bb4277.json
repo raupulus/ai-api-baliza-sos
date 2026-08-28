@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Salinas (Obra Hidráulica) en Lebrija. WGS84: 36.925, -6.010877.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bd28f8fbe7e4f18097dea84f0640b27c4e32cc23465265ba731c5f3613bb4277"
+}

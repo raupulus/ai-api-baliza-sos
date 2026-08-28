@@ -1,0 +1,15 @@
+{
+  "texto": "Camping Cabañas Jimera de Líbar (Servicio/Equipamiento) en Jimera de Líbar. WGS84: 36.655248, -5.288652.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a0b89e735e96871298920aa76348cb2f7ec8b7725c3a80d9a6b3ef21e06b68d4"
+}

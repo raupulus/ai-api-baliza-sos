@@ -1,0 +1,15 @@
+{
+  "texto": "Estornino Negro (Sturnus unicolor Temminck, 1820). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2489104",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ba5bcd54426ef5ec788b541cdf0b91f7b6f63b7e8e7c192a11d6ff86a4963caf"
+}

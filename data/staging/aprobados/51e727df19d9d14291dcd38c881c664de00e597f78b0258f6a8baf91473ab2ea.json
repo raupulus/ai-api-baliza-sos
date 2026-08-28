@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Plaza De Toros (El Puerto de Santa María). WGS84: 36.597182, -6.232289.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "51e727df19d9d14291dcd38c881c664de00e597f78b0258f6a8baf91473ab2ea"
+}

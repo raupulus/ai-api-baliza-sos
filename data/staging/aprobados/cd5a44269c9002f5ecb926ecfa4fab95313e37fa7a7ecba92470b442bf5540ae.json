@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Charcones (Curso Fluvial) en Benaocaz. WGS84: 36.740872, -5.460412.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cd5a44269c9002f5ecb926ecfa4fab95313e37fa7a7ecba92470b442bf5540ae"
+}

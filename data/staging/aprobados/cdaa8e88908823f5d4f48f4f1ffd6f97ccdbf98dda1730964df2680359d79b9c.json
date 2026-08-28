@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Hornillo (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.747059, -5.668689.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cdaa8e88908823f5d4f48f4f1ffd6f97ccdbf98dda1730964df2680359d79b9c"
+}

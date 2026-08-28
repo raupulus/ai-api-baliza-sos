@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cantora (Curso Fluvial) en Medina Sidonia. WGS84: 36.414397, -5.900503.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ff215c45024454041936e2cc17a25ed78846d88c3c651a5161a93f2e11f6d031"
+}

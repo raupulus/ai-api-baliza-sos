@@ -1,0 +1,15 @@
+{
+  "texto": "La pila abajo (agua potable). Coordenadas aprox: 36.6766, -5.4436.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6766044&mlon=-5.4436006",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e598e77322fa9799db521f5652a1a48eb22c5b6bfe5c1da654de4131e4c20c90"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Culebras (Curso Fluvial) en Ronda. WGS84: 36.722872, -5.158885.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "25eaf852feb68f6ef887fce1f808aed46b70497f567b9699882ea8ac0240b3c9"
+}

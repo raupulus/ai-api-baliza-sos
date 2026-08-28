@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Marqués (Curso Fluvial) en Setenil de las Bodegas. WGS84: 36.864396, -5.196406.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dc2c1fac839bf567e81b1687f630f445fdff9c3c29dd464012ba0bf73fff0636"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Puercos (Curso Fluvial) en Tarifa. WGS84: 36.070803, -5.720728.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "408e91f37f53fc8477ebcf38590cb9f174497aaf7d27b4fe0212a2b5f68c8a94"
+}

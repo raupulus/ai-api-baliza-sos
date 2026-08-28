@@ -1,0 +1,15 @@
+{
+  "texto": "Cala del Río Roche (playa). Coordenadas aprox: 36.2965, -6.1379.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2965209&mlon=-6.1379344",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b9f23ae8cb6815c24115bcac73387c545df9b1ebd37a8e883c6116112e056e83"
+}

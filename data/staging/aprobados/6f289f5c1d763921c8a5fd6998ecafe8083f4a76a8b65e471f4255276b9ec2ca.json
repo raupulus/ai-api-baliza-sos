@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Castillejo (Relieve Litoral / Marítimo) en Barbate. WGS84: 36.181719, -6.005831.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6f289f5c1d763921c8a5fd6998ecafe8083f4a76a8b65e471f4255276b9ec2ca"
+}

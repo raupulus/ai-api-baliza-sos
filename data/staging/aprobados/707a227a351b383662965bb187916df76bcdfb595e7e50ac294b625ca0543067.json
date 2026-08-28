@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Óptica Cándido González (farmacia) en San Fernando. Coordenadas aprox: 36.4631, -6.2020.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4631073&mlon=-6.2020195",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "707a227a351b383662965bb187916df76bcdfb595e7e50ac294b625ca0543067"
+}

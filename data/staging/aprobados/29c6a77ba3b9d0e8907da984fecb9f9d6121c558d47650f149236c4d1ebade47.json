@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de la Cañada del Valle (Curso Fluvial) en Medina Sidonia. WGS84: 36.29399, -5.755649.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "29c6a77ba3b9d0e8907da984fecb9f9d6121c558d47650f149236c4d1ebade47"
+}

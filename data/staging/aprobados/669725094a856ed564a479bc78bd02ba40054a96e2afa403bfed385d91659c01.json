@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Galdón (farmacia) en Estepona. Coordenadas aprox: 36.4181, -5.1544.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.41807&mlon=-5.15442",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "669725094a856ed564a479bc78bd02ba40054a96e2afa403bfed385d91659c01"
+}

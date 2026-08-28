@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Gaitán (Curso Fluvial) en Tarifa. WGS84: 36.081207, -5.711443.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "47a0124bd831440d3f8bd06436023475836957006c7567fe958874804645a90b"
+}

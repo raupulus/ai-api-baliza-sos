@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Abrón (Curso Fluvial) en Estepona. WGS84: 36.491254, -5.172854.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9cfb018815a655b99fef432f7503031dbc65a04469683c51413bafbdec458b5c"
+}

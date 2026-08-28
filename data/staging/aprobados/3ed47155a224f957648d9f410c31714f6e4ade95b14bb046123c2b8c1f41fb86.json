@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Mocka (Servicio/Equipamiento) en El Puerto de Santa María. WGS84: 36.57598, -6.211537.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3ed47155a224f957648d9f410c31714f6e4ade95b14bb046123c2b8c1f41fb86"
+}

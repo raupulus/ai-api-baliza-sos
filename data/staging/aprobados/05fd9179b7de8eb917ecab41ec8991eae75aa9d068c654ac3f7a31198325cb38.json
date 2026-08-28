@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ruiz Cabral (farmacia). Coordenadas aprox: 36.6842, -6.0758.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6842078&mlon=-6.0757742",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "05fd9179b7de8eb917ecab41ec8991eae75aa9d068c654ac3f7a31198325cb38"
+}

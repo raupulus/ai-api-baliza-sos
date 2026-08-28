@@ -1,0 +1,15 @@
+{
+  "texto": "Río del Bosque (Curso Fluvial) en El Bosque. WGS84: 36.714589, -5.532948.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "41d1d795eae23ff516dd9fcf28e1902c78703f9cd35e719c54b57deb44d2f473"
+}

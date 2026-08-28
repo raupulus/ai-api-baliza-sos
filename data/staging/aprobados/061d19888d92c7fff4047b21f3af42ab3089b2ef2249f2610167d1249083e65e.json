@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Palo (Curso Fluvial) en Casares. WGS84: 36.454284, -5.242756.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "061d19888d92c7fff4047b21f3af42ab3089b2ef2249f2610167d1249083e65e"
+}

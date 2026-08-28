@@ -1,0 +1,15 @@
+{
+  "texto": "Marismas de Barbate (Relieve Litoral / Marítimo) en Barbate. WGS84: 36.209945, -5.902185.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e323021e9e2b2978c687ceccab9235294aa6472ecbbd3f6483c3a577f1fbbfe4"
+}

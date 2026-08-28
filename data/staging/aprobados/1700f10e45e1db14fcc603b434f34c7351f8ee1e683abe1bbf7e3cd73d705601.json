@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Campona (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.410602, -5.357605.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1700f10e45e1db14fcc603b434f34c7351f8ee1e683abe1bbf7e3cd73d705601"
+}

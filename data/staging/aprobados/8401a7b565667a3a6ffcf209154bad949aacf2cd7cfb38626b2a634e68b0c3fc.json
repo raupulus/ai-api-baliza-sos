@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita de San Juan de Beltrán (Servicio/Equipamiento) en Ubrique. WGS84: 36.679363, -5.443013.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8401a7b565667a3a6ffcf209154bad949aacf2cd7cfb38626b2a634e68b0c3fc"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Médico El Carmen (centro de salud). Coordenadas aprox: 36.1951, -5.9187.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1951431&mlon=-5.9187465",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f385975a4137228b4e862835b6cff9a570d51fcd57a6c42ce354aec6a6970934"
+}

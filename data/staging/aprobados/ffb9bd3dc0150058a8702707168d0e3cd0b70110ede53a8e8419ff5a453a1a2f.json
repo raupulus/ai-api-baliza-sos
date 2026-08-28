@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia (farmacia). Coordenadas aprox: 36.6262, -6.3642.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6262424&mlon=-6.3642431",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ffb9bd3dc0150058a8702707168d0e3cd0b70110ede53a8e8419ff5a453a1a2f"
+}

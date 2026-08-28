@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: SAN SEVERIANO (APD). WGS84: 36.521317, -6.280592.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0d4d5f19129ecec5a50b64a777661e78802c0d551fd77455ecb1de92930f9dfa"
+}

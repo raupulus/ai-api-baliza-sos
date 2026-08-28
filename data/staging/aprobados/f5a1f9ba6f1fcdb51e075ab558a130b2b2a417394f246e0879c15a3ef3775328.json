@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de la Miel (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.591976, -5.505017.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f5a1f9ba6f1fcdb51e075ab558a130b2b2a417394f246e0879c15a3ef3775328"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Santuario Nuestra Señora de Regla (Servicio/Equipamiento) en Chipiona. WGS84: 36.729595, -6.438756.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0c2ce296a51e1a11b395044568e8988f3e8eeab0573d680544d9dc747c817d74"
+}

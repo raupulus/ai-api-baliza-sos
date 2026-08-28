@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Aguadulce (Relieve Litoral / Marítimo) en Rota. WGS84: 36.67514, -6.412633.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b39e684d2f75f9a0ba2af4d0f1b815b1908947b9a2fc79a5793d3034689e2045"
+}

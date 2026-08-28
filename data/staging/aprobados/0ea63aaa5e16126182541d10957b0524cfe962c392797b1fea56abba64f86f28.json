@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita Sagrado Corazón de Jesús (Servicio/Equipamiento) en Algeciras. WGS84: 36.13611, -5.465126.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0ea63aaa5e16126182541d10957b0524cfe962c392797b1fea56abba64f86f28"
+}

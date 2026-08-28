@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Benalup (centro de salud) en Benalup-Casas Viejas. Coordenadas aprox: 36.3468, -5.8126.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3467746&mlon=-5.8125559",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fd9c2b4fad19c1d3c58899a5859515c5ea20d1fe66ad931938ee16e5e7df5ebd"
+}

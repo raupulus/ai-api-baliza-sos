@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Romera (Curso Fluvial) en Montellano. WGS84: 36.981312, -5.507042.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "98de0d73e31413eaad92387776b0492e3cccb0d10800d7b261b5aab3f2b168a9"
+}

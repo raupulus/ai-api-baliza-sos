@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Montero (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.327002, -5.913924.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da0a96503d76b0b7cc57156ddaef08a0347b0138f257200d2c8e15507958477b"
+}

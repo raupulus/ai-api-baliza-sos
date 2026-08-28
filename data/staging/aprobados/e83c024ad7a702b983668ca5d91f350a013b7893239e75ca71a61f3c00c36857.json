@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital San Carlos (hospital) en San Fernando. Coordenadas aprox: 36.4800, -6.1951.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4799527&mlon=-6.1950774",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e83c024ad7a702b983668ca5d91f350a013b7893239e75ca71a61f3c00c36857"
+}

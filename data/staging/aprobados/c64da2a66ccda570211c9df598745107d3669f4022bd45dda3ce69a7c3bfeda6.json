@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Barriada de los Marineros (farmacia) en Sanlúcar de Barrameda. Coordenadas aprox: 36.7930, -6.3368.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.793003&mlon=-6.3368355",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c64da2a66ccda570211c9df598745107d3669f4022bd45dda3ce69a7c3bfeda6"
+}

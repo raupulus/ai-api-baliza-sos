@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia José Javier Serrano Lanchas (farmacia) en Ronda. Coordenadas aprox: 36.7344, -5.1643.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7344204&mlon=-5.1642909",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e945fac9b55eb303b60e3b1152b586af20b9f50f8394c56aca379e2fab02ad7c"
+}

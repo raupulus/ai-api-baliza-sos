@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital de Jerez (hospital). Coordenadas aprox: 36.6990, -6.1496.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.699046&mlon=-6.1495547",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1ea61f881be91c8d0e56d1e487608bcbd824bdc2da4d8f0fe9bb89e860ed3b1c"
+}

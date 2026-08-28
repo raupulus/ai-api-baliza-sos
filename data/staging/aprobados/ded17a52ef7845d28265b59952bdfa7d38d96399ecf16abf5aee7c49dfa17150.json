@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Águila (Curso Fluvial) en Alpandeire. WGS84: 36.677067, -5.238913.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ded17a52ef7845d28265b59952bdfa7d38d96399ecf16abf5aee7c49dfa17150"
+}

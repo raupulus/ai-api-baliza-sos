@@ -1,0 +1,15 @@
+{
+  "texto": "Cortijo la Bodega (Servicio/Equipamiento) en Benaoján. WGS84: 36.721571, -5.236444.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "26def9769270b25b0d3def5a36354593b48e69484d992b999758b34360b6238a"
+}

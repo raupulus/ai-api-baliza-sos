@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Garganta del Hoyo (Curso Fluvial) en Barbate. WGS84: 36.212477, -5.857553.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "918abd6995badc233aacd189a786f4e6456ea20cbcb0a2978782fe480833ea75"
+}

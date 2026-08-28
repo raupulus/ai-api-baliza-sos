@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Muro (Curso Fluvial) en San José del Valle. WGS84: 36.592447, -5.762687.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0795ec0bd9e86847f98bf6435d6c105dc9f7ec5cc5247674176dc9ede98d21ab"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Tiesa (Curso Fluvial) en Montellano. WGS84: 37.016068, -5.539256.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "001d75e4418949c4b4f6380695ff6e7aa78eba8b4eddb642f617979ba1f852fa"
+}

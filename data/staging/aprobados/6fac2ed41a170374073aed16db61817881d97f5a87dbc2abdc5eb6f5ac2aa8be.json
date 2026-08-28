@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: JEREZ DE LA FRONTERA - MERCANCIAS. WGS84: 36.720488, -6.092733.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6fac2ed41a170374073aed16db61817881d97f5a87dbc2abdc5eb6f5ac2aa8be"
+}

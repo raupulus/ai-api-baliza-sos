@@ -1,0 +1,15 @@
+{
+  "texto": "Veta del Hierro (Relieve Litoral / Marítimo) en Hinojos. WGS84: 36.980884, -6.403206.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0e8ab54b2cddcce63376a8bb55113c26aacd725ca588f6504ef8860833cf7e8b"
+}

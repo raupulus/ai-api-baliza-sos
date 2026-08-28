@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Guadiaro (farmacia) en Guadiaro. Coordenadas aprox: 36.2984, -5.2998.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2984143&mlon=-5.2998448",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b4bca3874c7e011a57da54f023fa476c672594d5262203076b4b563036ad5006"
+}

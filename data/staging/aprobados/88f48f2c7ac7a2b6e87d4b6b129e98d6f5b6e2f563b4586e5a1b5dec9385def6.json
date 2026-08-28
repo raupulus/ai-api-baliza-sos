@@ -1,0 +1,15 @@
+{
+  "texto": "Bell Lane (farmacia). Coordenadas aprox: 36.1417, -5.3526.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1417429&mlon=-5.3526013",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "88f48f2c7ac7a2b6e87d4b6b129e98d6f5b6e2f563b4586e5a1b5dec9385def6"
+}

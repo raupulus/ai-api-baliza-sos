@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Alebuche (Curso Fluvial) en Gaucín. WGS84: 36.503658, -5.362796.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6345cebaae62ca8f22690aef8f97fe5ae21d369adfc80e2c7c25666249ca899f"
+}

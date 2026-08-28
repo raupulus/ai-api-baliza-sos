@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cl. Valdés-Hospital (El Puerto de Santa María). WGS84: 36.59845, -6.236959.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bcbba51c8fd6d78756114d8c34f9b4adc2d81903a456aafddf65fd9c24516bb9"
+}

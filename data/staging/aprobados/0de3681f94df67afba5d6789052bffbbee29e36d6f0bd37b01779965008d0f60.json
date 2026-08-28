@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Zahara (Curso Fluvial) en Olvera. WGS84: 36.923082, -5.307132.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0de3681f94df67afba5d6789052bffbbee29e36d6f0bd37b01779965008d0f60"
+}

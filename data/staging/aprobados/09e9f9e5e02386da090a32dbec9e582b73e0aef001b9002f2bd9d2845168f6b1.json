@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Malfaz (farmacia). Coordenadas aprox: 36.1927, -5.9170.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.192696&mlon=-5.9170022",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "09e9f9e5e02386da090a32dbec9e582b73e0aef001b9002f2bd9d2845168f6b1"
+}

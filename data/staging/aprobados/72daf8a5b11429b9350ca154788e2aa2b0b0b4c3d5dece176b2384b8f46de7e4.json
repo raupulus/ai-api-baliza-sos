@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Navahonda (Curso Fluvial) en Espera. WGS84: 36.919312, -5.772069.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "72daf8a5b11429b9350ca154788e2aa2b0b0b4c3d5dece176b2384b8f46de7e4"
+}

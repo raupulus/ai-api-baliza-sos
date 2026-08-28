@@ -1,0 +1,15 @@
+{
+  "texto": "Veta de la Arena (Relieve Litoral / Marítimo) en Hinojos. WGS84: 37.004498, -6.384678.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0e1e783e42497116e65f4b32bf0cf6cfe66e4b9fa38cb4bb1c95f3c8a471103d"
+}

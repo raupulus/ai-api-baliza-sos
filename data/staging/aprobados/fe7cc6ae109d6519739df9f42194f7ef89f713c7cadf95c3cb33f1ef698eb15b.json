@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Valdelagrana-Caballo Blanco (El Puerto de Santa María). WGS84: 36.583432, -6.217442.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fe7cc6ae109d6519739df9f42194f7ef89f713c7cadf95c3cb33f1ef698eb15b"
+}

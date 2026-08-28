@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Torregorda (playa). Coordenadas aprox: 36.4607, -6.2537.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4606651&mlon=-6.2537096",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "86cd361d5029dd86f153a5cdebb31207ad0c459ea5f6b6ce388904ed54186fd3"
+}

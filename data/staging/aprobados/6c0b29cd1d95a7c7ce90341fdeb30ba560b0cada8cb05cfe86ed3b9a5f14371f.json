@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Puntilla (Relieve Litoral / Marítimo) en El Puerto de Santa María. WGS84: 36.584054, -6.247133.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6c0b29cd1d95a7c7ce90341fdeb30ba560b0cada8cb05cfe86ed3b9a5f14371f"
+}

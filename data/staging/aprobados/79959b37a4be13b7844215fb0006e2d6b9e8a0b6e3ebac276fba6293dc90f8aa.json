@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital de Vejer La Janda (hospital). Coordenadas aprox: 36.2507, -5.9814.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2507344&mlon=-5.9813808",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "79959b37a4be13b7844215fb0006e2d6b9e8a0b6e3ebac276fba6293dc90f8aa"
+}

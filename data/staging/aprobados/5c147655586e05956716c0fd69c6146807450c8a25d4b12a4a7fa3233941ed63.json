@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Yesero (Curso Fluvial) en Puerto Real. WGS84: 36.545284, -6.023967.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5c147655586e05956716c0fd69c6146807450c8a25d4b12a4a7fa3233941ed63"
+}

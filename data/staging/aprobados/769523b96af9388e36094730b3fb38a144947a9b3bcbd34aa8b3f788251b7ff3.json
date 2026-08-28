@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Pasada (Curso Fluvial) en Genalguacil. WGS84: 36.541353, -5.233667.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "769523b96af9388e36094730b3fb38a144947a9b3bcbd34aa8b3f788251b7ff3"
+}

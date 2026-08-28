@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ferrer CB (farmacia) en San Roque. Coordenadas aprox: 36.2099, -5.3895.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2098839&mlon=-5.3894547",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f53cf2c5631fad20eb662ad8443e073b6c3632175a353562b18fd8351e3c8cfc"
+}

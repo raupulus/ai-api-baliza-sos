@@ -1,0 +1,15 @@
+{
+  "texto": "Patronato Militar Virgen de la Paz (Servicio/Equipamiento) en Ronda. WGS84: 36.755201, -5.134911.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b9cadf80d59086f50400d528326e2e279b412450e3f2f9b630d7664ee80882cc"
+}

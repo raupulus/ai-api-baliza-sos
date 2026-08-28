@@ -1,0 +1,15 @@
+{
+  "texto": "Adelfa (farmacia). Coordenadas aprox: 36.4995, -6.2712.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4995347&mlon=-6.2711698",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c74195f57cfad63a50f73b0b794324d04bd3c99c7bf6f38a026d81bea3079467"
+}

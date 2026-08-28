@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Doctor Federico Rubio (centro de salud). Coordenadas aprox: 36.6001, -6.2261.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6000803&mlon=-6.2261367",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4b38e2b90cefd23b4fc31bc457d6cb2b74af831d11511f34e0fbbe7fa43236a1"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Canal del Paraíso (Obra Hidráulica) en Las Cabezas de San Juan. WGS84: 37.019847, -5.913155.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3faa0773e33e73c71fa09e85485a8adb8e27572d0ae42d1e55d7581559f17a44"
+}

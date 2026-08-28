@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Rota (Cádiz). Código INE 11030. Coordenadas WGS84 (centroide): 36.667834, -6.355352.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "725fde63f489adf6df1e03ca5cd373a343c6aff004267fde87f59ec513038c36"
+}

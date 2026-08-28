@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Palas (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.594148, -5.592543.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f17f088cbe3f71e823c4c4cf3fb27f4f19bfd40b6d3c064bdb44233a1f00709e"
+}

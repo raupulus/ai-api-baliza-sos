@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio del Molinillo Chico (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.917054, -6.330511.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "11c28d640ec6c85915c06e0f19ec78d889c200bc193d4f6b09f66c9a2fb2f7a3"
+}

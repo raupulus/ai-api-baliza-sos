@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Piornio (Curso Fluvial) en Utrera. WGS84: 36.950122, -5.757121.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "355578ede48cd919f56a7e67f755a20d6b63faba9896e1e2e97c6b90252e27d2"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Cementerio Municipal Antiguo (Servicio/Equipamiento) en Algeciras. WGS84: 36.144126, -5.447165.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1d49d623aa0a7b1f77e591af48a05de2a139dc351674a86658493c9331037fe0"
+}

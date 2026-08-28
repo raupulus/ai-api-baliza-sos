@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Gallinero (Curso Fluvial) en Medina Sidonia. WGS84: 36.309016, -5.633859.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e496cb9bf36e854a2196e7ace3833ae0d5a1609a7db1f00cfb97fc754a068f6b"
+}

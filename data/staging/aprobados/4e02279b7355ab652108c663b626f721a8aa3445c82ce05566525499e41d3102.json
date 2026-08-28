@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Montilla (Curso Fluvial) en San Roque. WGS84: 36.290858, -5.279394.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4e02279b7355ab652108c663b626f721a8aa3445c82ce05566525499e41d3102"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Instituto de Enseñanza Secundaria Villa de Setenil (Servicio/Equipamiento) en Setenil de las Bodegas. WGS84: 36.864566, -5.174643.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da0e4be812951a4cff6bbd0e4598eda52700632e80d0a455af6154d476d40e45"
+}

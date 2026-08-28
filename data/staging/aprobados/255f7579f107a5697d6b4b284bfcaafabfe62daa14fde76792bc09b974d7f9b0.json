@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Ramblazo (Curso Fluvial) en Cortes de la Frontera. WGS84: 36.532328, -5.514005.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "255f7579f107a5697d6b4b284bfcaafabfe62daa14fde76792bc09b974d7f9b0"
+}

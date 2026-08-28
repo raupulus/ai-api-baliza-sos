@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Adelfas (Curso Fluvial) en Villaluenga del Rosario. WGS84: 36.715259, -5.344818.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a3269bf4945a5c9a25ccd3cd19f2793c94155155d04a5b618609f4618eb0764e"
+}

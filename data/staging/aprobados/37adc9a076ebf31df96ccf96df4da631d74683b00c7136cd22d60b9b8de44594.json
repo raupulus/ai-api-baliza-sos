@@ -1,0 +1,15 @@
+{
+  "texto": "Canal de la Confederación Hidrográfica del Guadalquivir (Obra Hidráulica) en El Puerto de Santa María. WGS84: 36.641039, -6.239406.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "37adc9a076ebf31df96ccf96df4da631d74683b00c7136cd22d60b9b8de44594"
+}

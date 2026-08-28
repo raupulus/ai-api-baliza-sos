@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de Rota (faro). Coordenadas aprox: 36.6160, -6.3572.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6160282&mlon=-6.3572317",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4ea2c9528e603a9c960ab5f796a60c8ec9802fc73ff67809511c5a4156ae2932"
+}

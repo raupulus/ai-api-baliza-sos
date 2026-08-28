@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Hierro (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.543947, -5.876447.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8c2bf364277d8df4c9a6303b467206db19bd15503ab1a67a144d8038a0cad4bf"
+}

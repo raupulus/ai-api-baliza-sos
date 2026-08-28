@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cepa (Curso Fluvial) en Medina Sidonia. WGS84: 36.454016, -6.027226.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d04f5fc73c8ef5d73a217395cd82366096e9a6b18c15ce80ec93982a7a0e3f92"
+}

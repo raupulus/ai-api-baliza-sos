@@ -1,0 +1,15 @@
+{
+  "texto": "Olvemedic (centro de salud). Coordenadas aprox: 36.9335, -5.2491.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9335154&mlon=-5.2491308",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d3ec8410900ecf20eed4dd4d9cf82047839442611c0e9a88f281f4a4f59bea11"
+}

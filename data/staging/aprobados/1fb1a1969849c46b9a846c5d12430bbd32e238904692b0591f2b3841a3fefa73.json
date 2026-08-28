@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Médico Lansys Costa Oeste (centro de salud). Coordenadas aprox: 36.5996, -6.2469.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.599557&mlon=-6.246861",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1fb1a1969849c46b9a846c5d12430bbd32e238904692b0591f2b3841a3fefa73"
+}

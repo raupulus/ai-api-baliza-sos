@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Parralejo (Curso Fluvial) en Zahara. WGS84: 36.829152, -5.434233.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8b9d796c50be6495f59bc724601b34c67c14b21a9e87802d3d6706dd9051f5b1"
+}

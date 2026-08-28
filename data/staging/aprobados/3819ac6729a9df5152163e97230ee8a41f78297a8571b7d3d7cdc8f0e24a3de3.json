@@ -1,0 +1,15 @@
+{
+  "texto": "Patrocinio (Masa de Agua) en Puerto Real. WGS84: 36.505695, -6.171055.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3819ac6729a9df5152163e97230ee8a41f78297a8571b7d3d7cdc8f0e24a3de3"
+}

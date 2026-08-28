@@ -1,0 +1,15 @@
+{
+  "texto": "Wasserspender Stein (agua potable). Coordenadas aprox: 36.3635, -6.1722.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3635282&mlon=-6.1721817",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ddfb0ed44d6ca17a55b4942285e0989383962b154d4c78a6bbe1a8af9919e8e7"
+}

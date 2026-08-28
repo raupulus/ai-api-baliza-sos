@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: CORTES DE LA FRONTERA. WGS84: 36.597393, -5.332606.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "775f06e6986acfcc14b1f60010e87bb2dcc9431b9ca05c08c28983c25d70210a"
+}

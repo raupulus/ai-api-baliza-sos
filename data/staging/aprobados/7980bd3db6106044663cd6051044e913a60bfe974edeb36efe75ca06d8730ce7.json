@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Marimanta (farmacia). Coordenadas aprox: 36.6807, -6.1312.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6807433&mlon=-6.1312241",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7980bd3db6106044663cd6051044e913a60bfe974edeb36efe75ca06d8730ce7"
+}

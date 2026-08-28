@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Granito de Oro (Curso Fluvial) en Tarifa. WGS84: 36.171827, -5.784082.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "45f359688a77ef0fcdf2bfe1f80b688de840ab531fa9ed7b08a66665ad82f230"
+}

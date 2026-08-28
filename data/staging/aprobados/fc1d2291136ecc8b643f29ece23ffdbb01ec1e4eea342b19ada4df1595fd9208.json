@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo Blanco (Obra Hidráulica) en Chiclana de la Frontera. WGS84: 36.391711, -6.049844.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc1d2291136ecc8b643f29ece23ffdbb01ec1e4eea342b19ada4df1595fd9208"
+}

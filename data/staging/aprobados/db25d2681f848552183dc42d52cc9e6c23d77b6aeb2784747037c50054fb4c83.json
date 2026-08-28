@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Delgado (farmacia) en Ronda. Coordenadas aprox: 36.7527, -5.1495.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7526654&mlon=-5.1494937",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "db25d2681f848552183dc42d52cc9e6c23d77b6aeb2784747037c50054fb4c83"
+}

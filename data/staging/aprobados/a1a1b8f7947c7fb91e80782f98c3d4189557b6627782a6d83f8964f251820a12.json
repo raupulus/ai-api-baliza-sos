@@ -1,0 +1,15 @@
+{
+  "texto": "Embalse de los Hurones (Obra Hidráulica) en Ubrique. WGS84: 36.685446, -5.53255.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a1a1b8f7947c7fb91e80782f98c3d4189557b6627782a6d83f8964f251820a12"
+}

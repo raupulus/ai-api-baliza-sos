@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Integral (centro de salud). Coordenadas aprox: 36.5236, -6.2866.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5236003&mlon=-6.2865894",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ec0682b626bf3df18ab1c59562c675bd7ba7a1775c4e9a4572e8540d74760e36"
+}

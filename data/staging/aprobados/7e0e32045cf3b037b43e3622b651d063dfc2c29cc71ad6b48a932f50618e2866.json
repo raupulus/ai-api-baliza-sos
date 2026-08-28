@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del General (Curso Fluvial) en Faraján. WGS84: 36.605761, -5.190394.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7e0e32045cf3b037b43e3622b651d063dfc2c29cc71ad6b48a932f50618e2866"
+}

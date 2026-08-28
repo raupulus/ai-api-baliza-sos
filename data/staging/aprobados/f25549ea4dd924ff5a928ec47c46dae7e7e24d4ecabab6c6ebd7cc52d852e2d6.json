@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Quirós (Curso Fluvial) en San Martín del Tesorillo. WGS84: 36.343353, -5.37596.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f25549ea4dd924ff5a928ec47c46dae7e7e24d4ecabab6c6ebd7cc52d852e2d6"
+}

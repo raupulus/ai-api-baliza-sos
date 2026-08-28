@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia González Ruiz (farmacia). Coordenadas aprox: 36.8170, -5.7431.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8170092&mlon=-5.7430908",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "714ded97ca8262e225288c519067a6e00372ecdad5ffdd0875ab0b35112205cc"
+}

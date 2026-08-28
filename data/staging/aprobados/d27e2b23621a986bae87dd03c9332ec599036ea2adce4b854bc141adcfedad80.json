@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Bonelo (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1692, -5.3460.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1692371&mlon=-5.3459999",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d27e2b23621a986bae87dd03c9332ec599036ea2adce4b854bc141adcfedad80"
+}

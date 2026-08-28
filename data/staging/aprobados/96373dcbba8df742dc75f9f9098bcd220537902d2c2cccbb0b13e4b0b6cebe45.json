@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Campos (centro de salud). Coordenadas aprox: 36.1611, -5.3521.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1610521&mlon=-5.3520505",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "96373dcbba8df742dc75f9f9098bcd220537902d2c2cccbb0b13e4b0b6cebe45"
+}

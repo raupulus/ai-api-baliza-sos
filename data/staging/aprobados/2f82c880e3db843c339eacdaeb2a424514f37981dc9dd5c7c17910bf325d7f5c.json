@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Cristina Pareja (farmacia) en Estepona. Coordenadas aprox: 36.4302, -5.1427.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4302243&mlon=-5.142702",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2f82c880e3db843c339eacdaeb2a424514f37981dc9dd5c7c17910bf325d7f5c"
+}

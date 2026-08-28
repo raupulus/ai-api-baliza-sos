@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio del Nudo (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.991717, -6.32562.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3d07f89e4110311442e47db5d47029bf10925d64556934cde9ad2569dc3cfb53"
+}

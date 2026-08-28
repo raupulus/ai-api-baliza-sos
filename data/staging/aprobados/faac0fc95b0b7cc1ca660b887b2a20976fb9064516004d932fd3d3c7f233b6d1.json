@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: El Berrueco V (Medina Sidonia). WGS84: 36.43828, -6.02193.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "faac0fc95b0b7cc1ca660b887b2a20976fb9064516004d932fd3d3c7f233b6d1"
+}

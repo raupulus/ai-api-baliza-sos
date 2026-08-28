@@ -1,0 +1,15 @@
+{
+  "texto": "Olea europaea L. (Olea europaea L.). Presente en la provincia de Cádiz. Grupo: Magnoliopsida.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/5415040",
+  "fecha": "2026-08-28",
+  "categoria": "flora",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "357fedca0301374bee2a9d569faa3d2fd263b25fc13f2ca0131d9ec583fb1159"
+}

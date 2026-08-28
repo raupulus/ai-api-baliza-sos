@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta Seca (Curso Fluvial) en Zahara. WGS84: 36.812751, -5.421188.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bf4a9af071560d12cf4f2bbc9d810b97af196692611cb54519491d59d0224efd"
+}

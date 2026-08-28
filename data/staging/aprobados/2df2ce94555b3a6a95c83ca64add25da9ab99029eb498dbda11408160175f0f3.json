@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Arroyo Del Aljibe V (Chiclana de la Frontera). WGS84: 36.462239, -6.118723.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2df2ce94555b3a6a95c83ca64add25da9ab99029eb498dbda11408160175f0f3"
+}

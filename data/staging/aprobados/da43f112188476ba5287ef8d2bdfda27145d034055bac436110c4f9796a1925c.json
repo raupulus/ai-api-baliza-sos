@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia José Pérez Santander (farmacia) en Parauta. Coordenadas aprox: 36.6567, -5.1289.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6567263&mlon=-5.128938",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da43f112188476ba5287ef8d2bdfda27145d034055bac436110c4f9796a1925c"
+}

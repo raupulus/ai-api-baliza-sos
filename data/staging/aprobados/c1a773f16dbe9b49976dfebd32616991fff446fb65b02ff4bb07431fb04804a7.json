@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de La Colonia (playa). Coordenadas aprox: 36.1809, -5.3935.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1808723&mlon=-5.3934544",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1a773f16dbe9b49976dfebd32616991fff446fb65b02ff4bb07431fb04804a7"
+}

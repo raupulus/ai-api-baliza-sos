@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de Cabrahigos (Servicio/Equipamiento) en Vejer de la Frontera. WGS84: 36.315795, -5.887066.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b53cfb245968984e8383d59c4147c35e30e85cff1a1dab981d975b77b4615f4f"
+}

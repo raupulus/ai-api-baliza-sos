@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de la Victoria (Servicio/Equipamiento) en Casares. WGS84: 36.440574, -5.233833.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3d67369090eca3d992283a38518f38a99340881706026bc74bc2cde51c059994"
+}

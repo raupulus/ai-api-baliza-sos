@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Victor Manuel Martínez Guerra (farmacia). Coordenadas aprox: 36.5977, -6.2361.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5977427&mlon=-6.2361414",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4efd77f49da7889611584bbf33ac4bebc03a07184333f4514cabbb9a2dfa7116"
+}

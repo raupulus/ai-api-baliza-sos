@@ -1,0 +1,15 @@
+{
+  "texto": "Farallón Grande (Relieve Litoral / Marítimo) en San Fernando. WGS84: 36.378392, -6.222239.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "82582bcd05562fe3cbdd447f2a14a3089e6b2bc8b3e648aafd30d45deec25540"
+}

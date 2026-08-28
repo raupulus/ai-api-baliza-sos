@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Luis Braile (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1656, -5.3519.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1656204&mlon=-5.3518738",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7dc1d314e8d16b13ad295cf0c4a8cd3a14894368637921513f89555f9a62a3cb"
+}

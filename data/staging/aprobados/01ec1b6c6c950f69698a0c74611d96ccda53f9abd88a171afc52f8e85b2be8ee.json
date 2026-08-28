@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Tesorillo (San Martín del Tesorillo). WGS84: 36.340067, -5.320072.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "01ec1b6c6c950f69698a0c74611d96ccda53f9abd88a171afc52f8e85b2be8ee"
+}

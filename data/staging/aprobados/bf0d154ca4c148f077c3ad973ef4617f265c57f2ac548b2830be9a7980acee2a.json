@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Revuelta Viedma (farmacia). Coordenadas aprox: 36.6232, -6.3668.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6231643&mlon=-6.3668155",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bf0d154ca4c148f077c3ad973ef4617f265c57f2ac548b2830be9a7980acee2a"
+}

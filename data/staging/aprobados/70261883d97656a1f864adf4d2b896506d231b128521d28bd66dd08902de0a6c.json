@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio Largo (Relieve Litoral / Marítimo) en Almonte. WGS84: 36.913615, -6.359016.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "70261883d97656a1f864adf4d2b896506d231b128521d28bd66dd08902de0a6c"
+}

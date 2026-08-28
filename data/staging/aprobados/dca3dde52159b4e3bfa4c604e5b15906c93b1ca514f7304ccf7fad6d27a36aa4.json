@@ -1,0 +1,15 @@
+{
+  "texto": "Vertiente del Nacimiento (Curso Fluvial) en Olvera. WGS84: 36.933584, -5.366903.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dca3dde52159b4e3bfa4c604e5b15906c93b1ca514f7304ccf7fad6d27a36aa4"
+}

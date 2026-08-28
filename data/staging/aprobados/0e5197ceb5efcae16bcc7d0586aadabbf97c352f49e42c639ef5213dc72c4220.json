@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Hacienda Arias (Curso Fluvial) en El Cuervo de Sevilla. WGS84: 36.883411, -6.027724.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0e5197ceb5efcae16bcc7d0586aadabbf97c352f49e42c639ef5213dc72c4220"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Cala Picacho (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.066524, -5.73727.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "693f9feb8eedbd868876273d4b444499ad8daba88cf53914956048f858f2419c"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Roa la Bota (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.61237, -6.112476.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cfe5a2dae23d1db0cf178f35f7139818974bd253f0fdb11e37421b468eba99bd"
+}

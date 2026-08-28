@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Torre (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.580937, -5.914909.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d4c4793a4730bd7bbd56a23579109a97c311136c5d89d8f1ea84fd86c272ed6e"
+}

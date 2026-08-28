@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo el Pino (Servicio/Equipamiento) en Los Barrios. WGS84: 36.280991, -5.583469.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2aed0ff8c24fe3c343ecfb703e2040ea9a3a124c16db4e2e80fe5ed2f1966c86"
+}

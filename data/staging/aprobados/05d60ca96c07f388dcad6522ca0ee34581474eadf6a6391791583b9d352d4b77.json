@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Bahía Sur (San Fernando). WGS84: 36.472775, -6.206739.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "05d60ca96c07f388dcad6522ca0ee34581474eadf6a6391791583b9d352d4b77"
+}

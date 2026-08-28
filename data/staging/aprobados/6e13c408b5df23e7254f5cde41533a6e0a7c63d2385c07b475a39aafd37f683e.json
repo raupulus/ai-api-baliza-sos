@@ -1,0 +1,15 @@
+{
+  "texto": "Cala del Frailecillo (playa). Coordenadas aprox: 36.3054, -6.1503.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3054398&mlon=-6.150272",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6e13c408b5df23e7254f5cde41533a6e0a7c63d2385c07b475a39aafd37f683e"
+}

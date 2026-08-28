@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Fates (Curso Fluvial) en Tarifa. WGS84: 36.075379, -5.689685.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fb09609ce2143bc96ff3d6fbf9aecd50587efbbbc2dab9d3d657b2c443d524c9"
+}

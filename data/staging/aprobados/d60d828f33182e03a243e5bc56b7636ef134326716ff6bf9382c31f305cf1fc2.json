@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Medico Circuito (centro de salud). Coordenadas aprox: 36.7111, -6.0338.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7110544&mlon=-6.033769",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d60d828f33182e03a243e5bc56b7636ef134326716ff6bf9382c31f305cf1fc2"
+}

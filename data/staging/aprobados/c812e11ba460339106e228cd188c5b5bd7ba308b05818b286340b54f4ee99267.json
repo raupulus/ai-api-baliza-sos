@@ -1,0 +1,15 @@
+{
+  "texto": "Zona Cementerio Nuestra señora de la Oliva (Servicio/Equipamiento) en Lebrija. WGS84: 36.921928, -6.071378.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c812e11ba460339106e228cd188c5b5bd7ba308b05818b286340b54f4ee99267"
+}

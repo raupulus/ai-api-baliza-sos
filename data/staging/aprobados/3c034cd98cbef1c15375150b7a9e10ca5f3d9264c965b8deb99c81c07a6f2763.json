@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: EL CUERVO. WGS84: 36.833804, -6.066556.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3c034cd98cbef1c15375150b7a9e10ca5f3d9264c965b8deb99c81c07a6f2763"
+}

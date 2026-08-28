@@ -1,0 +1,15 @@
+{
+  "texto": "Ibermutua (centro de salud). Coordenadas aprox: 36.4313, -5.1468.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4312699&mlon=-5.1467809",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "37c3cac6e7b6169af44cc4046f3ba02e59b21cae66e9fb7358cd207f8443172d"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ortega (farmacia) en Cádiz. Coordenadas aprox: 36.5233, -6.2779.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5233182&mlon=-6.2778772",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ff193691193b709554ab8d85b8a0f1d107acd6b6a8ab399bbf7715ee5a5a48f6"
+}

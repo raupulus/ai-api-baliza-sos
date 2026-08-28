@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Sor María Pérez (centro de salud). Coordenadas aprox: 36.7311, -6.4338.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7310621&mlon=-6.4337757",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fa6e645e4ed94e86c8f51bd30b908a7e7bc66599f995a2551bbf47999a1ab0ce"
+}

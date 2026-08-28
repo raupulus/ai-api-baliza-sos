@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Almadraba (Curso Fluvial) en La Línea de la Concepción. WGS84: 36.230058, -5.32979.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7e73467ea6e7c8b6aad5b5328af9f3a79b64ade5c339675bd970f1dab30f9e60"
+}

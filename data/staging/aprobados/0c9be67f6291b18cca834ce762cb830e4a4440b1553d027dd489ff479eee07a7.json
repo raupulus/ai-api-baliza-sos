@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Moriscas (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.382791, -5.404109.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0c9be67f6291b18cca834ce762cb830e4a4440b1553d027dd489ff479eee07a7"
+}

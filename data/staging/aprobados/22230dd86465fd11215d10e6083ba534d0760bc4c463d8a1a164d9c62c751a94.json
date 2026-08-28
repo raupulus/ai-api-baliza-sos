@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: General Lobo V (San Fernando). WGS84: 36.474906, -6.194472.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "22230dd86465fd11215d10e6083ba534d0760bc4c463d8a1a164d9c62c751a94"
+}

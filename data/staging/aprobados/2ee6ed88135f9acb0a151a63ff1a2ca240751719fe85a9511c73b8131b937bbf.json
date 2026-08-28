@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Vico (Curso Fluvial) en Jimera de Líbar. WGS84: 36.638977, -5.295402.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2ee6ed88135f9acb0a151a63ff1a2ca240751719fe85a9511c73b8131b937bbf"
+}

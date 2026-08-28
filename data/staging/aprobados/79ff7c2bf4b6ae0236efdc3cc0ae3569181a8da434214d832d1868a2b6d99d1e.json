@@ -1,0 +1,15 @@
+{
+  "texto": "Río Guadarranque (Curso Fluvial) en Los Barrios. WGS84: 36.188717, -5.420292.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "79ff7c2bf4b6ae0236efdc3cc0ae3569181a8da434214d832d1868a2b6d99d1e"
+}

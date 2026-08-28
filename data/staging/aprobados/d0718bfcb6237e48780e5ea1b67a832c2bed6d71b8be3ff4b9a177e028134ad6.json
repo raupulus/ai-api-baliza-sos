@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Campanario de las Pilas (Curso Fluvial) en Medina Sidonia. WGS84: 36.43783, -5.87112.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d0718bfcb6237e48780e5ea1b67a832c2bed6d71b8be3ff4b9a177e028134ad6"
+}

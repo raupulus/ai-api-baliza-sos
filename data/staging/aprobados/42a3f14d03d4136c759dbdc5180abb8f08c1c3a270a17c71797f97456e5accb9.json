@@ -1,0 +1,15 @@
+{
+  "texto": "Santuario Nuestra Señora de los Ángeles (Servicio/Equipamiento) en Jimena de la Frontera. WGS84: 36.420213, -5.434712.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "42a3f14d03d4136c759dbdc5180abb8f08c1c3a270a17c71797f97456e5accb9"
+}

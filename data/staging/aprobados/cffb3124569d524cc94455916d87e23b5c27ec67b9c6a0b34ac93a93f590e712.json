@@ -1,0 +1,15 @@
+{
+  "texto": "Caño Nuevo (Curso Fluvial) en La Puebla del Río. WGS84: 36.987956, -6.243196.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cffb3124569d524cc94455916d87e23b5c27ec67b9c6a0b34ac93a93f590e712"
+}

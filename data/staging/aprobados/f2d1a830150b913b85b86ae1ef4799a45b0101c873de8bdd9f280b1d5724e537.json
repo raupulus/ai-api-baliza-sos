@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Montecorto (Curso Fluvial) en Montecorto. WGS84: 36.818581, -5.334152.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f2d1a830150b913b85b86ae1ef4799a45b0101c873de8bdd9f280b1d5724e537"
+}

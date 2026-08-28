@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Gallina (Curso Fluvial) en San José del Valle. WGS84: 36.621234, -5.629353.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "077039e792b7679db51a7e1b908678ce02b3f2c54ea86e7788ae1a0d0c700b13"
+}

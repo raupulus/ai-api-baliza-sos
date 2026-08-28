@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Puerto Real (Cádiz). Código INE 11028. Coordenadas WGS84 (centroide): 36.523537, -6.111299.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "71ee2f9e0c35ae0c681681811cddfce29b15c2f4c48cfbc33a3b5c92ea4d751a"
+}

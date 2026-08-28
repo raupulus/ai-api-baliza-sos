@@ -1,0 +1,15 @@
+{
+  "texto": "Belén de Levante (Masa de Agua) en Puerto Real. WGS84: 36.511668, -6.164574.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c32e721aa7dac7cf0eed5246522830f96ede8305d2c52d9f6bbff2dbdb6d7829"
+}

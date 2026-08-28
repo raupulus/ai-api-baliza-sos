@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Marquesado (Chiclana de la Frontera). WGS84: 36.42864, -6.143374.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4a677a4701a25c570cc7074b146289150c20201792158466e9f2afea5f549690"
+}

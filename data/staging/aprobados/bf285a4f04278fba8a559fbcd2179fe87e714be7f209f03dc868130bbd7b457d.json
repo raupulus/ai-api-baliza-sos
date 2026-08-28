@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado de Medina Sidonia (Obra Hidráulica) en Medina Sidonia. WGS84: 36.517546, -5.901136.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bf285a4f04278fba8a559fbcd2179fe87e714be7f209f03dc868130bbd7b457d"
+}

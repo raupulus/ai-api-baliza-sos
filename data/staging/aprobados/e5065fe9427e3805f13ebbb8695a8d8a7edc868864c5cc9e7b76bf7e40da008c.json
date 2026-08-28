@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Piedras (Curso Fluvial) en Cortes de la Frontera. WGS84: 36.534598, -5.432564.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e5065fe9427e3805f13ebbb8695a8d8a7edc868864c5cc9e7b76bf7e40da008c"
+}

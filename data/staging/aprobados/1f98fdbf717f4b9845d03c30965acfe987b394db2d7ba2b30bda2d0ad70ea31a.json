@@ -1,0 +1,15 @@
+{
+  "texto": "Finca Ave María (Servicio/Equipamiento) en Rota. WGS84: 36.641926, -6.380933.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1f98fdbf717f4b9845d03c30965acfe987b394db2d7ba2b30bda2d0ad70ea31a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Varicentro (centro de salud). Coordenadas aprox: 36.6803, -6.1291.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6803497&mlon=-6.129097",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6da0ec293c0ffc76e66c11841698c1b272cc7b1f91e321b9a2bdd0eda2e13d36"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Menuito (Servicio/Equipamiento) en Chipiona. WGS84: 36.748758, -6.381543.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5c0b1193de64efa25423091e35e363c29281c2972072dd715ae7b16c9b4f05e2"
+}

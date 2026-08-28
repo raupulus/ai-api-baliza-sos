@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Dermiláser (centro de salud). Coordenadas aprox: 36.4702, -6.1985.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4702038&mlon=-6.1984744",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c2cfede3d443ed048a83a74811c0b941541b83020aac143b9bb994efdbfc0cde"
+}

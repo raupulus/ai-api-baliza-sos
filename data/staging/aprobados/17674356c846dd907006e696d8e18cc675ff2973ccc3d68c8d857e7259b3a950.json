@@ -1,0 +1,15 @@
+{
+  "texto": "La Farmacia del Viento (farmacia). Coordenadas aprox: 36.0226, -5.6118.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0225518&mlon=-5.611793",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "17674356c846dd907006e696d8e18cc675ff2973ccc3d68c8d857e7259b3a950"
+}

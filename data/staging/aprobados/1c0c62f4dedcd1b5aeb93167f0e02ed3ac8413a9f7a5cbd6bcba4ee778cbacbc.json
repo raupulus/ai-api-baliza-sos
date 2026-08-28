@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Valcargado (Curso Fluvial) en Medina Sidonia. WGS84: 36.389849, -5.863606.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c0c62f4dedcd1b5aeb93167f0e02ed3ac8413a9f7a5cbd6bcba4ee778cbacbc"
+}

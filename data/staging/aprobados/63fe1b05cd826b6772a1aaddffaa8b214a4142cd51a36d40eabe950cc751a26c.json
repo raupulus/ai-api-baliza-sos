@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Benalup de Sidonia (Curso Fluvial) en Medina Sidonia. WGS84: 36.503071, -6.002388.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "63fe1b05cd826b6772a1aaddffaa8b214a4142cd51a36d40eabe950cc751a26c"
+}

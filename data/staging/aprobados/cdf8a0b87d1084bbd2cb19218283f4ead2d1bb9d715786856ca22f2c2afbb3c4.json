@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Abiertas (Curso Fluvial) en Gaucín. WGS84: 36.529747, -5.381485.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cdf8a0b87d1084bbd2cb19218283f4ead2d1bb9d715786856ca22f2c2afbb3c4"
+}

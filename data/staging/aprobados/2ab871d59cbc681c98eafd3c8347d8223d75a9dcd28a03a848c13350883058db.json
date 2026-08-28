@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Donadío (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.28309, -5.954255.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2ab871d59cbc681c98eafd3c8347d8223d75a9dcd28a03a848c13350883058db"
+}

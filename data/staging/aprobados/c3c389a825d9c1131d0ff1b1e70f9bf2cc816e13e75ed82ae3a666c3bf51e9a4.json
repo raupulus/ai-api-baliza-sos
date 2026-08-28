@@ -1,0 +1,15 @@
+{
+  "texto": "Punta Camarón (Relieve Litoral / Marítimo) en Chipiona. WGS84: 36.720027, -6.442876.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c3c389a825d9c1131d0ff1b1e70f9bf2cc816e13e75ed82ae3a666c3bf51e9a4"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de la Parra (Servicio/Equipamiento) en Prado del Rey. WGS84: 36.801496, -5.527536.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "35b27c4d988cfbee53ec0f95e45ec512dea052ecb35cc4b441c9c19a52b0b5e0"
+}

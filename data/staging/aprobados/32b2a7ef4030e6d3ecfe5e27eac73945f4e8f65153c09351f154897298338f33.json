@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Espejos (Curso Fluvial) en Utrera. WGS84: 36.965101, -5.610635.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "32b2a7ef4030e6d3ecfe5e27eac73945f4e8f65153c09351f154897298338f33"
+}

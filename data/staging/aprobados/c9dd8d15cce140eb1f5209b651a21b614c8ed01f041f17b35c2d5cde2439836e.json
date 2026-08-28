@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Rodríguez Prada (farmacia). Coordenadas aprox: 36.4679, -6.1914.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4679317&mlon=-6.1914029",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c9dd8d15cce140eb1f5209b651a21b614c8ed01f041f17b35c2d5cde2439836e"
+}

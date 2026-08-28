@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Martagina (Curso Fluvial) en Manilva. WGS84: 36.331294, -5.241785.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7d5e71a4e0e4f34292f4903d2270fab5eab323e247013ef162699a9c1df2ba57"
+}

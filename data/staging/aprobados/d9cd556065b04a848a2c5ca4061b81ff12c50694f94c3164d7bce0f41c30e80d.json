@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Las Presas Sentido Palmones V (Los Barrios). WGS84: 36.177928, -5.47534.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d9cd556065b04a848a2c5ca4061b81ff12c50694f94c3164d7bce0f41c30e80d"
+}

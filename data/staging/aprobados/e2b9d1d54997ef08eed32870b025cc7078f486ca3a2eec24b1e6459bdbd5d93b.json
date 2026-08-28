@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Juan María Pena Rueda (farmacia) en Las Cabezas de San Juan. Coordenadas aprox: 36.9820, -5.9408.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9820026&mlon=-5.9407868",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e2b9d1d54997ef08eed32870b025cc7078f486ca3a2eec24b1e6459bdbd5d93b"
+}

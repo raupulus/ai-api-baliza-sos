@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Balaces (Curso Fluvial) en Montellano. WGS84: 36.971499, -5.495362.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8fdcb82c79c4840a9d1ab591818b2817fa0dcae8638773c480fffc0d0d4a82be"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.651266, -6.087985.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2cbc18482dc04994200e7f1c7125102393cae2558d9fbd0e959d11e3c5affe73"
+}

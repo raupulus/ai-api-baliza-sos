@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Guaitar (Servicio/Equipamiento) en Igualeja. WGS84: 36.613086, -5.123224.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "194c749a929c7490409deda2c70f6df3b3e43840aacaa3284a649c559c679f4f"
+}

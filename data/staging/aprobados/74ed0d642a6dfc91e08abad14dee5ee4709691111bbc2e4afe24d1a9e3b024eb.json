@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Huertas (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.673639, -6.214402.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "74ed0d642a6dfc91e08abad14dee5ee4709691111bbc2e4afe24d1a9e3b024eb"
+}

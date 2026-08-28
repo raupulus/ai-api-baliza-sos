@@ -1,0 +1,15 @@
+{
+  "texto": "Clínicas Miranza (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1607, -5.3493.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1606916&mlon=-5.3493352",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ec239e34a2e73514df7c33f0ddd43265d804d70d5f1b855ae08e8e85c5185187"
+}

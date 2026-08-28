@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital de Alta Resolución de Lebrija (Servicio/Equipamiento) en Lebrija. WGS84: 36.9106, -6.072452.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3c3c6fca34a7e879aa802d9002315fd591c8fe12ef04b40378b75c2d8940ef71"
+}

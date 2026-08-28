@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Guerra o de Zurraque (Curso Fluvial) en Puerto Real. WGS84: 36.483171, -6.121888.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "62fee7740429f0163e74c13afac0c4bf02fe262d7472f17e64edb82173001a90"
+}

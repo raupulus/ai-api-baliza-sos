@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cuartel (Puerto Real). WGS84: 36.49389, -6.115483.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9582d475544c65cd41a7dc55376d14b1433bc33b649a6198283d53aadb92d2b6"
+}

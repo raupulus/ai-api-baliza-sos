@@ -1,0 +1,15 @@
+{
+  "texto": "Lda. Maria del Rosar Ortus Ruiz (farmacia) en San Fernando. Coordenadas aprox: 36.4799, -6.1964.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4799259&mlon=-6.1964447",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8ceb4e15253c4b67d07d7f5fa1831d301fbd25ee92253bcf1d2f222f8a5d8b88"
+}

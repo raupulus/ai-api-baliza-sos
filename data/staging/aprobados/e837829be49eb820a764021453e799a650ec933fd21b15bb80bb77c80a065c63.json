@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Santa María (Curso Fluvial) en Lebrija. WGS84: 36.896727, -6.003752.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e837829be49eb820a764021453e799a650ec933fd21b15bb80bb77c80a065c63"
+}

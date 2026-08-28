@@ -1,0 +1,15 @@
+{
+  "texto": "Cañada de los Charcones (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.581068, -5.49139.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c517019f8e3bd2bf19309d35cd2a0e346a582a06675d0df3876813e3147d9b6a"
+}

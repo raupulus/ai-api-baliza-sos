@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Escuela Ingeniería (Interior) (Puerto Real). WGS84: 36.536704, -6.201879.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "16d5bae2ab5c4379659709d2d19039b55ade0011e421fa57f599ef001dd85253"
+}

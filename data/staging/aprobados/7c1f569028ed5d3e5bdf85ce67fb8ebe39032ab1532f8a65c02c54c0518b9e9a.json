@@ -1,0 +1,15 @@
+{
+  "texto": "Isla Salud (centro de salud). Coordenadas aprox: 36.4652, -6.2008.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4651899&mlon=-6.2007949",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7c1f569028ed5d3e5bdf85ce67fb8ebe39032ab1532f8a65c02c54c0518b9e9a"
+}

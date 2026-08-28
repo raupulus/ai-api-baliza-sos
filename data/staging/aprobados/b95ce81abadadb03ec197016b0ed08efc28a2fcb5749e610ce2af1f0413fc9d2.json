@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Requera (Servicio/Equipamiento) en Benaocaz. WGS84: 36.724813, -5.49015.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b95ce81abadadb03ec197016b0ed08efc28a2fcb5749e610ce2af1f0413fc9d2"
+}

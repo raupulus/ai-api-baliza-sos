@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: ALMORAIMA. WGS84: 36.276709, -5.429975.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0ea6ce83d3c0c005ce441a7c12c0380db75b5f812ea30eb9f75ef15d8037c747"
+}

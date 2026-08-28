@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Montilla V (San Roque). WGS84: 36.296986, -5.282239.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eb078cf73186c8faca1a1618825288531b4c9a6665c53c8d48c5ef0eb5e913b5"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de Trafalgar (faro). Coordenadas aprox: 36.1829, -6.0351.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1829051&mlon=-6.0350992",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "65fe573995e6d37fc32421961600d5126d1be991952d1ec6b410d043994d29bc"
+}

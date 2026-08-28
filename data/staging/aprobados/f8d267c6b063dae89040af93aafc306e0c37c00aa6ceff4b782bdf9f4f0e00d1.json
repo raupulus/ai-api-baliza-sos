@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Chinarejos (Conil de la Frontera). WGS84: 36.321138, -6.088644.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f8d267c6b063dae89040af93aafc306e0c37c00aa6ceff4b782bdf9f4f0e00d1"
+}

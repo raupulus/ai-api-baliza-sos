@@ -1,0 +1,15 @@
+{
+  "texto": "El Lucio (Relieve Litoral / Marítimo) en Almonte. WGS84: 36.822314, -6.368012.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "266af9527580705cca2eb6e829cb449bd657a8f980c7a259c1471a2b905dd1d5"
+}

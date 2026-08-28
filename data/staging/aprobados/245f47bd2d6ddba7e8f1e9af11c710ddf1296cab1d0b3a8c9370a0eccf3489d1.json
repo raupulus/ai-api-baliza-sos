@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Camino Del Cañaveral (Chiclana de la Frontera). WGS84: 36.456257, -6.11856.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "245f47bd2d6ddba7e8f1e9af11c710ddf1296cab1d0b3a8c9370a0eccf3489d1"
+}

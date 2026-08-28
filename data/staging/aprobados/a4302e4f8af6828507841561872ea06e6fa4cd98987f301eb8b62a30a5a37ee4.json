@@ -1,0 +1,15 @@
+{
+  "texto": "Venta del Puente (Servicio/Equipamiento) en El Coronil. WGS84: 37.017946, -5.607609.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a4302e4f8af6828507841561872ea06e6fa4cd98987f301eb8b62a30a5a37ee4"
+}

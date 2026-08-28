@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo la Viña (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.745387, -5.614658.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ec119769c5b68ab69a3658aabbe4d11f3be49ce8a274865003e99b57af496a03"
+}

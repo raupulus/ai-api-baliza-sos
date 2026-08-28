@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Puertollano (Curso Fluvial) en Bornos. WGS84: 36.870775, -5.701917.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1f9beaa3d26f21b2b820ce634bd6d4cda1a9f1bb8fac61f8f6bfa5010ee7434c"
+}

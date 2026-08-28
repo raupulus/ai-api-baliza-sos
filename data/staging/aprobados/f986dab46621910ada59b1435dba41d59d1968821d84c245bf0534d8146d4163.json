@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia FuenteAmarga (farmacia). Coordenadas aprox: 36.4115, -6.1464.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4114512&mlon=-6.1464422",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f986dab46621910ada59b1435dba41d59d1968821d84c245bf0534d8146d4163"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Punta de la Peña (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.055139, -5.66696.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8e1485e8af994b50f009f1db837167a18a9681470d474bd2be812ab99b00fb40"
+}

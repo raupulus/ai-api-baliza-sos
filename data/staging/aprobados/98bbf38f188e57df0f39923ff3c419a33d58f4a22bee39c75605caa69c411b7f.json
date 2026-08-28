@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Puerto del Higuerón (Curso Fluvial) en La Línea de la Concepción. WGS84: 36.236364, -5.328604.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "98bbf38f188e57df0f39923ff3c419a33d58f4a22bee39c75605caa69c411b7f"
+}

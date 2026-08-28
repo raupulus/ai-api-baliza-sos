@@ -1,0 +1,15 @@
+{
+  "texto": "La Rada (playa). Coordenadas aprox: 36.4214, -5.1442.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4213902&mlon=-5.1442167",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "945c77ed83571c8bcdc95d5b081a59904f17fc8ecb4a2bf596e89c47498e0164"
+}

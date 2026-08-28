@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Amarguillo (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.536722, -5.867165.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5f5c9449af540614802dc4584755df1ed1ad6f71f4af33424fdafed4a36053b0"
+}

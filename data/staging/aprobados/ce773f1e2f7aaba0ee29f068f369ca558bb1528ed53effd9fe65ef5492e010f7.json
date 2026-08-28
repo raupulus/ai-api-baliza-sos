@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Roncador (Curso Fluvial) en Utrera. WGS84: 36.945067, -5.597014.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ce773f1e2f7aaba0ee29f068f369ca558bb1528ed53effd9fe65ef5492e010f7"
+}

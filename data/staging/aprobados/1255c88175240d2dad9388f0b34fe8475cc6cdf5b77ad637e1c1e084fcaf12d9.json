@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Alocaz (Curso Fluvial) en Utrera. WGS84: 37.031939, -5.8788.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1255c88175240d2dad9388f0b34fe8475cc6cdf5b77ad637e1c1e084fcaf12d9"
+}

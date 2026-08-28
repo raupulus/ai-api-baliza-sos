@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de los Corcitos (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.568016, -5.530813.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f9e1fb94b95365726c6670709aa0ba5b06827aeb4a84576825ae1016d8c37bea"
+}

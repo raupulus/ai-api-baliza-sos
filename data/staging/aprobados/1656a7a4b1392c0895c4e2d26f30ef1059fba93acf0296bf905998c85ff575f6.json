@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Diamantes (Curso Fluvial) en Algatocín. WGS84: 36.580071, -5.313065.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1656a7a4b1392c0895c4e2d26f30ef1059fba93acf0296bf905998c85ff575f6"
+}

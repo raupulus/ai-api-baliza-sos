@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo de la Vuelta del Rodeo (Obra Hidráulica) en La Puebla del Río. WGS84: 36.96207, -6.279809.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d5d9bbe58a08e45753ec496674d7c74202872f1f12f98da0a5a63b86a13e9b4e"
+}

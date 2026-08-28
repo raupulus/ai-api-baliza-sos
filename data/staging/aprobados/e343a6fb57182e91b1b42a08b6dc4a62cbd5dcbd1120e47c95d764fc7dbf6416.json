@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de San Jerónimo (Bonanza) (faro). Coordenadas aprox: 36.8060, -6.3272.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8059888&mlon=-6.3272015",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e343a6fb57182e91b1b42a08b6dc4a62cbd5dcbd1120e47c95d764fc7dbf6416"
+}

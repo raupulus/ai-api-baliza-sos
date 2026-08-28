@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Sanlúcar Barrio Bajo (centro de salud). Coordenadas aprox: 36.7810, -6.3559.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7809883&mlon=-6.3558836",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5deb82329b500cb17be6da76c567f58775dee54825c20e0e3474783f1043b5ad"
+}

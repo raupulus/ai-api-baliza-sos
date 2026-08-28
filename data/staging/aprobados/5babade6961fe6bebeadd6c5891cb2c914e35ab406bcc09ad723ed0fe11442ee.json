@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Rotonda Del Toro V (Los Barrios). WGS84: 36.181878, -5.489097.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5babade6961fe6bebeadd6c5891cb2c914e35ab406bcc09ad723ed0fe11442ee"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Benaharas (Curso Fluvial) en Los Barrios. WGS84: 36.177726, -5.502119.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f5594fab0c84a494e85bdf29a684490e04d7e5e7b2d36198f15236c2e3e6a4c6"
+}

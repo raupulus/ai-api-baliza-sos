@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia El Almendral (farmacia). Coordenadas aprox: 36.5369, -6.1746.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5369094&mlon=-6.1746359",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1b81315fcb2d82799d7efda74509dfd3bccc57fd472efe2af99daa03c9ba3cb1"
+}

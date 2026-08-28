@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Norieta (Curso Fluvial) en Bornos. WGS84: 36.885777, -5.683943.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0bda3eb5382f8ae0fd7f75494a7c5c2f5c459a3998c446b5d79111eaff085942"
+}

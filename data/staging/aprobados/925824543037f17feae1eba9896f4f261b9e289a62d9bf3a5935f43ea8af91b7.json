@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Villas (Curso Fluvial) en Tarifa. WGS84: 36.098843, -5.783074.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "925824543037f17feae1eba9896f4f261b9e289a62d9bf3a5935f43ea8af91b7"
+}

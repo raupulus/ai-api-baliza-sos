@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Hondo (Curso Fluvial) en Medina Sidonia. WGS84: 36.447013, -5.815913.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8ae8a8f583817c8ef97211ec054a9644ae031941dbc6f4c0671f089e6db4c733"
+}

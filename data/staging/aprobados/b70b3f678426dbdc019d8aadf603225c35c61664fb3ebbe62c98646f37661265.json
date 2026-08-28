@@ -1,0 +1,15 @@
+{
+  "texto": "Cuatro Chorros (agua potable). Coordenadas aprox: 36.6184, -5.3421.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6183856&mlon=-5.3420711",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b70b3f678426dbdc019d8aadf603225c35c61664fb3ebbe62c98646f37661265"
+}

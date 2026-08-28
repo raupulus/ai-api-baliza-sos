@@ -1,0 +1,15 @@
+{
+  "texto": "Higea Salud Integral (centro de salud). Coordenadas aprox: 36.5196, -6.2835.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5196193&mlon=-6.2835128",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2e9f90b8a67534a2582ca68c9e3a53f9be73f2760afad4f498853900879268d5"
+}

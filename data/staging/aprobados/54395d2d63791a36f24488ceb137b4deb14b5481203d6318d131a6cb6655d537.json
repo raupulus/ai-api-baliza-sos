@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Cascajo López Asunción y Pablo (farmacia). Coordenadas aprox: 36.6191, -6.3593.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6191244&mlon=-6.3592693",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "54395d2d63791a36f24488ceb137b4deb14b5481203d6318d131a6cb6655d537"
+}

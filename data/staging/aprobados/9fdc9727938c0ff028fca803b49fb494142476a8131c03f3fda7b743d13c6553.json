@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Zorreras (Curso Fluvial) en Atajate. WGS84: 36.645384, -5.252198.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9fdc9727938c0ff028fca803b49fb494142476a8131c03f3fda7b743d13c6553"
+}

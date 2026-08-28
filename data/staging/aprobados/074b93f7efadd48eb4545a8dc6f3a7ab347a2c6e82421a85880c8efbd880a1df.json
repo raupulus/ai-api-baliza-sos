@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Malandar (playa). Coordenadas aprox: 36.8027, -6.3712.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8026858&mlon=-6.3712153",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "074b93f7efadd48eb4545a8dc6f3a7ab347a2c6e82421a85880c8efbd880a1df"
+}

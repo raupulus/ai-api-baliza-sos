@@ -1,0 +1,15 @@
+{
+  "texto": "Punta de San Luis (Relieve Litoral / Marítimo) en Puerto Real. WGS84: 36.505972, -6.243467.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b930d6e02b9c3e8241cd5e8ad44f60b6b399326bb73f962f9e47678a4d66cdfe"
+}

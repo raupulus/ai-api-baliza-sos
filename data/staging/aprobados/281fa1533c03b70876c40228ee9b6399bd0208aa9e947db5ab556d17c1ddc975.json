@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Julio García (farmacia) en Campamento. Coordenadas aprox: 36.1774, -5.3767.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1773946&mlon=-5.3767424",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "281fa1533c03b70876c40228ee9b6399bd0208aa9e947db5ab556d17c1ddc975"
+}

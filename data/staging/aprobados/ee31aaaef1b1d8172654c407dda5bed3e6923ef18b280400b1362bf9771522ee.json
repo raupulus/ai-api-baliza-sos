@@ -1,0 +1,15 @@
+{
+  "texto": "Punta Secreta (Relieve Litoral / Marítimo) en Algeciras. WGS84: 36.072601, -5.428784.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ee31aaaef1b1d8172654c407dda5bed3e6923ef18b280400b1362bf9771522ee"
+}

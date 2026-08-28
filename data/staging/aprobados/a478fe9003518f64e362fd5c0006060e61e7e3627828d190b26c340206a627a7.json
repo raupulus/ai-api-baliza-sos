@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de El Palmar (playa). Coordenadas aprox: 36.2246, -6.0664.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2246365&mlon=-6.0663539",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a478fe9003518f64e362fd5c0006060e61e7e3627828d190b26c340206a627a7"
+}

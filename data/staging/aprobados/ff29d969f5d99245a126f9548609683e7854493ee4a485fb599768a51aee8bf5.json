@@ -1,0 +1,15 @@
+{
+  "texto": "Río Bocaleones (Curso Fluvial) en Zahara. WGS84: 36.826322, -5.445502.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ff29d969f5d99245a126f9548609683e7854493ee4a485fb599768a51aee8bf5"
+}

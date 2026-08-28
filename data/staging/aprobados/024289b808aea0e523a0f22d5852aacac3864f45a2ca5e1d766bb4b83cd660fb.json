@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Gavilán (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.367499, -5.625075.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "024289b808aea0e523a0f22d5852aacac3864f45a2ca5e1d766bb4b83cd660fb"
+}

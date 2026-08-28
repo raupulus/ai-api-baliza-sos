@@ -1,0 +1,15 @@
+{
+  "texto": "Dunas de San Antonio (Relieve Litoral / Marítimo) en El Puerto de Santa María. WGS84: 36.584478, -6.252513.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "30051e18b9511a339964742b9795da7831d92069a784d3cf481875c9f9939232"
+}

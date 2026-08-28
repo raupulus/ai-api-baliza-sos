@@ -1,0 +1,15 @@
+{
+  "texto": "Veta Rivera (Relieve Litoral / Marítimo) en Las Cabezas de San Juan. WGS84: 37.02512, -5.98628.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e7a9f75db2c029f78fc6b51076c378a25f15fdf288063cdcd7d01e75f99bc4ba"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Puente Mayorga (San Roque). WGS84: 36.181194, -5.382839.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b6033fa66dc219055a3d921c90be0a5abc46056770a658eb4b8d1a6fb9088fe9"
+}

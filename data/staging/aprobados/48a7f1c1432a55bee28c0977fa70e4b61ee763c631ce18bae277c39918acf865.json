@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Oscuridad (Curso Fluvial) en Los Barrios. WGS84: 36.279099, -5.601897.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "48a7f1c1432a55bee28c0977fa70e4b61ee763c631ce18bae277c39918acf865"
+}

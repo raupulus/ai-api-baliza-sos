@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Ballesteros (Curso Fluvial) en Júzcar. WGS84: 36.587705, -5.145243.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "24534b1655736c473253e14fdd5f6f9811cb69d54421df4ad093f5c890880bfd"
+}

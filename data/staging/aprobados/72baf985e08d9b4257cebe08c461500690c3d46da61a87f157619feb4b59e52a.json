@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Parrilla (Curso Fluvial) en Pujerra. WGS84: 36.569991, -5.126218.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "72baf985e08d9b4257cebe08c461500690c3d46da61a87f157619feb4b59e52a"
+}

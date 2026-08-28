@@ -1,0 +1,15 @@
+{
+  "texto": "Casa la Porqueriza (Zona Recreativa) (Servicio/Equipamiento) en Los Barrios. WGS84: 36.216646, -5.573934.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fbdfb91a3721109e01315b3f62362d9cad8adf303078f631ecf123fe81c1f619"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "alcornoque (Quercus suber L.). Presente en la provincia de Cádiz. Grupo: Magnoliopsida.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2879411",
+  "fecha": "2026-08-28",
+  "categoria": "flora",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "46bf2523fd12163e81b948e3a86d4a62584caafdc96473404f4ef126f9d84e3c"
+}

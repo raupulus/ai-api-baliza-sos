@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Arenas (Curso Fluvial) en Lebrija. WGS84: 36.900608, -6.04552.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c2e829c1fcf55fe506649ead8b71f95bcdfdd6d8b90a374eb3d94459b2f597ca"
+}

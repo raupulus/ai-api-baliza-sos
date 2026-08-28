@@ -1,0 +1,15 @@
+{
+  "texto": "Punta de la Plata (Relieve Litoral / Marítimo) en Estepona. WGS84: 36.428332, -5.121589.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e08916642809db36b8ad75ce52854cfd31be33cef8625daa4905004056568575"
+}

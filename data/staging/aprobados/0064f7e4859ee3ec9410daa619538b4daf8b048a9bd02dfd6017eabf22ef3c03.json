@@ -1,0 +1,15 @@
+{
+  "texto": "Venta los Cabales (Servicio/Equipamiento) en Rota. WGS84: 36.656274, -6.38901.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0064f7e4859ee3ec9410daa619538b4daf8b048a9bd02dfd6017eabf22ef3c03"
+}

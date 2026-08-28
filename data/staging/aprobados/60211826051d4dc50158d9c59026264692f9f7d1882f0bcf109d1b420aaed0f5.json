@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Majadales (Curso Fluvial) en Chipiona. WGS84: 36.702272, -6.403084.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "60211826051d4dc50158d9c59026264692f9f7d1882f0bcf109d1b420aaed0f5"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Fringilla coelebs Linnaeus, 1758 (Fringilla coelebs Linnaeus, 1758). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2494422",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1865fac80d79eb9509770c91600e0ed8b2493e6f0a410badddccd1c82bca51d2"
+}

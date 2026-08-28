@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Moreno Campillo (farmacia). Coordenadas aprox: 36.5101, -6.2811.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5100922&mlon=-6.2810783",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f0a9c935be38f2475f9949883a98ced98b4be3c0725e1e335ec65ffaaf41a3ba"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia E. Orozco (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1626, -5.3443.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1625704&mlon=-5.3442563",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "239fcb33d5e2b5f22d5096678d223693c2cacbdfed975e7ab80059272660ed7e"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Carboneras o de la Venta (Curso Fluvial) en Benarrabá. WGS84: 36.546022, -5.360444.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4f951bb9cb280fd264bb07c36aa0a505ac9ed882b24db8f35d44587bf1425fba"
+}

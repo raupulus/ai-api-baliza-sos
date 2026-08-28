@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Alpecaín (Curso Fluvial) en Montellano. WGS84: 36.994244, -5.572516.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dd59ae71b944491d54cb2e382e54947ea0d498ca3245d55a810c24ef4a027d32"
+}

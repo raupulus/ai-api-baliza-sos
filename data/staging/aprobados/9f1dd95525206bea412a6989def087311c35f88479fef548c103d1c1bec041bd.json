@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Fraile (Curso Fluvial) en Algodonales. WGS84: 36.861253, -5.514748.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9f1dd95525206bea412a6989def087311c35f88479fef548c103d1c1bec041bd"
+}

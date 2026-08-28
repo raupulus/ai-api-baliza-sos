@@ -1,0 +1,15 @@
+{
+  "texto": "San Antonio (Masa de Agua) en Chiclana de la Frontera. WGS84: 36.424439, -6.209637.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bb0c7e7763a01fb0828c74e7bda2e36a60a902da8ce29561b190fb9b3d3f0bbb"
+}

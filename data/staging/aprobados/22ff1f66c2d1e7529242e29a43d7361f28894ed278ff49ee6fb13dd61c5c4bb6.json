@@ -1,0 +1,15 @@
+{
+  "texto": "Cañada de Botijo (Curso Fluvial) en Algeciras. WGS84: 36.073711, -5.497902.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "22ff1f66c2d1e7529242e29a43d7361f28894ed278ff49ee6fb13dd61c5c4bb6"
+}

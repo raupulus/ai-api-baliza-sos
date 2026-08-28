@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Campus-Ciencias V (Puerto Real). WGS84: 36.530915, -6.210186.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e01ec3c096fa6eb99efbea893e9e4257fd488ba20129edb0fcc8d2841f64f437"
+}

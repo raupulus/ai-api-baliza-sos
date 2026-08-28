@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Bornos (Cádiz). Código INE 11010. Coordenadas WGS84 (centroide): 36.849286, -5.712434.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8da683d51e519cf4bc51c9e9a5de570cf2499eb01537a2f8486fe55a10c96644"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Agua (Curso Fluvial) en Gaucín. WGS84: 36.481502, -5.341289.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e95e9de7f998439133aa7f73b81d4c9119236187d59c3f11f847bc6c8d15153e"
+}

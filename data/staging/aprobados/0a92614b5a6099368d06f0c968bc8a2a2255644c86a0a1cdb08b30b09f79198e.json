@@ -1,0 +1,15 @@
+{
+  "texto": "Venta las Corchas (Servicio/Equipamiento) en Benarrabá. WGS84: 36.543129, -5.300358.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0a92614b5a6099368d06f0c968bc8a2a2255644c86a0a1cdb08b30b09f79198e"
+}

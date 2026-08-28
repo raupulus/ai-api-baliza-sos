@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: ARCOS DE LA FRONTERA. WGS84: 36.748766, -5.816672.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9a6e4c475589ea468bd151358f2bbd468fdba5c81c9c10924f7cf4c8ec43ee93"
+}

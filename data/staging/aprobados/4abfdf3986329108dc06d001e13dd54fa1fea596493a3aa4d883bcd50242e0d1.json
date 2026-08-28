@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: EL PORTAL. WGS84: 36.636708, -6.124399.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4abfdf3986329108dc06d001e13dd54fa1fea596493a3aa4d883bcd50242e0d1"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Águila-El Término (Puerto Real). WGS84: 36.467022, -6.118394.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9c9f794e24b34ec72dc8d48fc14f05598f30c655a1acf4e2864aa9fb18b6bdc2"
+}

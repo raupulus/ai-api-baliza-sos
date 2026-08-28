@@ -1,0 +1,15 @@
+{
+  "texto": "farmacia (farmacia) en San Fernando. Coordenadas aprox: 36.4566, -6.2075.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4565997&mlon=-6.207482",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "df82b9e8382831997df72941e6f88ef53f8371cb2edb9071486b59ec88b88af5"
+}

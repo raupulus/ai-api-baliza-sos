@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Pellejero (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.831881, -6.022666.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ad66d81d2763866ae9f03925b7c0ec29c37a0bb9eff4477881b4404d02bbbd41"
+}

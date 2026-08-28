@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Azares (Curso Fluvial) en Puerto Serrano. WGS84: 36.951734, -5.499633.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "41d844c7a5543bc7619691e64294ef73dc7397926887b52d5f4178a467b6b087"
+}

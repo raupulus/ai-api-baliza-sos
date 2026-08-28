@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Sánchez Mingorance (farmacia) en El Cuervo de Sevilla. Coordenadas aprox: 36.8529, -6.0423.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8528778&mlon=-6.0422793",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "247d23ddeb2dfdc0a89c98f067acc0574d2f2cc355e1c89ae74743792315e8af"
+}

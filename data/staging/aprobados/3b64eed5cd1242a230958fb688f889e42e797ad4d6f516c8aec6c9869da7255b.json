@@ -1,0 +1,15 @@
+{
+  "texto": "Punta del Frailecillo (Relieve Litoral / Marítimo) en Conil de la Frontera. WGS84: 36.309081, -6.15421.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3b64eed5cd1242a230958fb688f889e42e797ad4d6f516c8aec6c9869da7255b"
+}

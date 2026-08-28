@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Puerco (Curso Fluvial) en Las Cabezas de San Juan. WGS84: 36.93213, -5.864035.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "be16d29d0e011940060899b33bcc97534bd603d46e74cfaeefd4b82228ebdf56"
+}

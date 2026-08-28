@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Hierbabuena (Relieve Litoral / Marítimo) en Barbate. WGS84: 36.184968, -5.946682.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d8339af0a721a0b5589cc4bd55a9f66e7cf2fbdec519bb9195e62af3b7d0fbfc"
+}

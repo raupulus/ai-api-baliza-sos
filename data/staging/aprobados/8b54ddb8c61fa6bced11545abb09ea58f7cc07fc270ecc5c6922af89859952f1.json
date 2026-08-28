@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia del Carmen, Fernandez Prada Arias (farmacia). Coordenadas aprox: 36.5981, -6.2250.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5981432&mlon=-6.2250347",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8b54ddb8c61fa6bced11545abb09ea58f7cc07fc270ecc5c6922af89859952f1"
+}

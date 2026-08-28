@@ -1,0 +1,15 @@
+{
+  "texto": "Marismas de Gilete (Relieve Litoral / Marítimo) en Las Cabezas de San Juan. WGS84: 36.946448, -5.962525.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "35df5c023f6331f58944b9fe8476af8fd1ab78df29e586670d49189c9d4d48d5"
+}

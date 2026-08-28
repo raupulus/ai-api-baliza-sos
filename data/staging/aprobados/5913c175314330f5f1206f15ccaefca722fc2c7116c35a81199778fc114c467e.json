@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Jardines Del Marquesado (Chiclana de la Frontera). WGS84: 36.43007, -6.140354.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5913c175314330f5f1206f15ccaefca722fc2c7116c35a81199778fc114c467e"
+}

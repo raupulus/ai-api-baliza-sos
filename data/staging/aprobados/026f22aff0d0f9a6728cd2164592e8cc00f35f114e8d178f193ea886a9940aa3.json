@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: SAN FERNANDO-CENTRO (APD). WGS84: 36.475846, -6.194015.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "026f22aff0d0f9a6728cd2164592e8cc00f35f114e8d178f193ea886a9940aa3"
+}

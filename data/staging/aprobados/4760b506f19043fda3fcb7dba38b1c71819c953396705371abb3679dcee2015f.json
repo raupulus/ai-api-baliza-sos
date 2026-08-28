@@ -1,0 +1,15 @@
+{
+  "texto": "Parking de Autocaravanas (Servicio/Equipamiento) en Jimera de Líbar. WGS84: 36.658126, -5.280763.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4760b506f19043fda3fcb7dba38b1c71819c953396705371abb3679dcee2015f"
+}

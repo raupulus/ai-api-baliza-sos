@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Brevas (Curso Fluvial) en Sanlúcar de Barrameda. WGS84: 36.717516, -6.326975.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dcfb82ec36f1f02709a3d0e1c4d0df5e8fa4f8aa6f58424998b5c6caa1dc63c4"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Urgencias hospital San Carlos (hospital). Coordenadas aprox: 36.4803, -6.1954.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4802935&mlon=-6.1954057",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4c75e21d1cb847b216441505b1c55589e89953a98a33d4672b9b505845a51f58"
+}

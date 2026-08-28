@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Vegas (Curso Fluvial) en Villamartín. WGS84: 36.822517, -5.554899.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "47101b3d4239c119e1fcb00e021dfea68d78eb385c22d8c136e178c2e5c73b47"
+}

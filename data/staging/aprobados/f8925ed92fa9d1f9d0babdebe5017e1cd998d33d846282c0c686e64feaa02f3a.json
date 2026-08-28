@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita del Rosario (Servicio/Equipamiento) en Casares. WGS84: 36.40777, -5.330712.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f8925ed92fa9d1f9d0babdebe5017e1cd998d33d846282c0c686e64feaa02f3a"
+}

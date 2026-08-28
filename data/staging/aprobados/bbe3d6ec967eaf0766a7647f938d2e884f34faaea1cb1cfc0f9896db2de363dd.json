@@ -1,0 +1,15 @@
+{
+  "texto": "Salinas San Carlos (Masa de Agua) en Sanlúcar de Barrameda. WGS84: 36.841898, -6.339481.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bbe3d6ec967eaf0766a7647f938d2e884f34faaea1cb1cfc0f9896db2de363dd"
+}

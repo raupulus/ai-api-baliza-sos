@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente del Parralejo (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.526949, -5.685118.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bc75250e99af3ea60ada233240455d6b71541b1fc0af74c53c41a72d7a26b060"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Benalup (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.378542, -5.783338.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ce1ecd1b1e24c32c6343583ecc2c639a0482181664798f23cd5f4298aa245bc6"
+}

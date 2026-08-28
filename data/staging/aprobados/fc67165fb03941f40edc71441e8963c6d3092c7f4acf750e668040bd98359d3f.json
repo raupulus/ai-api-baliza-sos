@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Toro (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.658921, -6.21724.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc67165fb03941f40edc71441e8963c6d3092c7f4acf750e668040bd98359d3f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Radiológica Doctor Cobos (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1623, -5.3537.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1623115&mlon=-5.3537055",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da3e823405368a99eb6cf41dc111b9ce48c5fbb913357edb943bd3a34e8e2bc9"
+}

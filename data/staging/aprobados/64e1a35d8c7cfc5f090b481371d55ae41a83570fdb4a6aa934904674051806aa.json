@@ -1,0 +1,15 @@
+{
+  "texto": "Bahía del Rosario (farmacia). Coordenadas aprox: 36.1435, -5.4506.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1435005&mlon=-5.4505626",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64e1a35d8c7cfc5f090b481371d55ae41a83570fdb4a6aa934904674051806aa"
+}

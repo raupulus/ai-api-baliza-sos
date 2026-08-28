@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Guadalupe (playa). Coordenadas aprox: 36.1849, -6.0090.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1849309&mlon=-6.0090471",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f2d373d6be1d5a2d4cb9d682c8f1219ebc53eb7dd797ed5091ee70aba83f51ea"
+}

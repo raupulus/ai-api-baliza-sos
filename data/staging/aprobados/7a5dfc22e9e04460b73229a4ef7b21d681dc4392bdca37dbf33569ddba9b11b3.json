@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Casines (farmacia). Coordenadas aprox: 36.5249, -6.1709.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5249459&mlon=-6.1708646",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7a5dfc22e9e04460b73229a4ef7b21d681dc4392bdca37dbf33569ddba9b11b3"
+}

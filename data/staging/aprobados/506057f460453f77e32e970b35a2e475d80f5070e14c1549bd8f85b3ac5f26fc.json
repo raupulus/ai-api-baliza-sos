@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación De Autobuses Cádiz. WGS84: 36.527224, -6.285389.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "506057f460453f77e32e970b35a2e475d80f5070e14c1549bd8f85b3ac5f26fc"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Minas (Obra Hidráulica) en Parauta. WGS84: 36.657198, -5.111668.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cb4b226a6ac450a6cf90a33c4b67a69806de5e9a063e8602e31f2310cff3cf53"
+}

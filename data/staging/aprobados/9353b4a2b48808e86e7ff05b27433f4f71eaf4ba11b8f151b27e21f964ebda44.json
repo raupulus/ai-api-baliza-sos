@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo del Valle (Servicio/Equipamiento) en Gaucín. WGS84: 36.525347, -5.326001.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9353b4a2b48808e86e7ff05b27433f4f71eaf4ba11b8f151b27e21f964ebda44"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Romera (Curso Fluvial) en Puerto Real. WGS84: 36.51242, -6.033134.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1d21c38d7eacb091ebf5b8f7cfb039c30259c9aabd0faeda4991e745a4c01573"
+}

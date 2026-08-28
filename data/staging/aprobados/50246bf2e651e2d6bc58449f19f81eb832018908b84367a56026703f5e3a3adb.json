@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Arcos de la Frontera (Cádiz). Código INE 11006. Coordenadas WGS84 (centroide): 36.743577, -5.754659.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "50246bf2e651e2d6bc58449f19f81eb832018908b84367a56026703f5e3a3adb"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Medico Bahía Blanca (centro de salud). Coordenadas aprox: 36.5238, -6.2855.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5237909&mlon=-6.285529",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da5d6f8f83f097c38a0a71eb4b0f1db861b9d4ca4fcbc1e00aa6514db17756ca"
+}

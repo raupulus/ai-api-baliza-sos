@@ -1,0 +1,15 @@
+{
+  "texto": "Vithas Xanit Gibraltar (centro de salud). Coordenadas aprox: 36.1386, -5.3557.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1386316&mlon=-5.3556772",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a0eddf9f18edb5b4391f30329333db12f0b0bb98a7cde5f75a9adbb4a0212e14"
+}

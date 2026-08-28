@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo Andrés (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.524913, -5.982265.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ad730fe58d1529209aa01427bfb7791d9463cde8342ab61920625c9c9c9c6dbd"
+}

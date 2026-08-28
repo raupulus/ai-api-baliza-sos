@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cigarra (Curso Fluvial) en Ronda. WGS84: 36.858684, -5.229108.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fffa1eaf825d1d4113c09cab05099d37368418763cc8b1ccdcd2a2ab8fb2888d"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital Universitario de La Línea de la Concepción (hospital) en La Línea de la Concepción. Coordenadas aprox: 36.1748, -5.3536.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1748044&mlon=-5.3535598",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9767eb4cde45e63d4d4bb1381e3464f715245a2a6e0d20014c655c56fe78ecdc"
+}

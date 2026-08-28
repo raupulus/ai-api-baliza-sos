@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cuesta Ajustada (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.294213, -6.015938.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f1a07fd113c0b91944eb0c921125a4ab30c83963edb33fbc50d7057a77750614"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Penitenciario Puerto III (Servicio/Equipamiento) en El Puerto de Santa María. WGS84: 36.665491, -6.257985.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1baf364e4a55115b897685cea01762abd68a393b33f923407411ffa392497aa7"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Veta Cerrada (Relieve Litoral / Marítimo) en Las Cabezas de San Juan. WGS84: 37.024169, -5.953701.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3c6136a51ac75b0502bef214bd70df37b38da0029a549cea68c1e672362827db"
+}

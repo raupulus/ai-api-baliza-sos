@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: La Romera-Venta Rosario V (Puerto Real). WGS84: 36.517486, -6.044727.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fe1b1476e3a0caebd670468c0689df4e8282da363966f41f35357c4ee9eb3a4a"
+}

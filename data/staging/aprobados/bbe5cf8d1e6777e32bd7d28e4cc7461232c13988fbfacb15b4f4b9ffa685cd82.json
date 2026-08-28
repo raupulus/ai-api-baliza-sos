@@ -1,0 +1,15 @@
+{
+  "texto": "San Fernando (Masa de Agua) en Puerto Real. WGS84: 36.498505, -6.166276.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bbe5cf8d1e6777e32bd7d28e4cc7461232c13988fbfacb15b4f4b9ffa685cd82"
+}

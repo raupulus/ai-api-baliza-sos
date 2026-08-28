@@ -1,0 +1,15 @@
+{
+  "texto": "Estación Radio Naval (Servicio/Equipamiento) en Puerto Real. WGS84: 36.49583, -6.11973.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c4f41c31e3d6b4745df2aa6d4587a085caf4722095be1c8faaed3f36fd3cb6ee"
+}

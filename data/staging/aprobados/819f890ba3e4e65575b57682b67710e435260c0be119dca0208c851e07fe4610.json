@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Espera (Cádiz). Código INE 11017. Coordenadas WGS84 (centroide): 36.878536, -5.801665.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "819f890ba3e4e65575b57682b67710e435260c0be119dca0208c851e07fe4610"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Mangas Ruiz (farmacia) en Algámitas. Coordenadas aprox: 37.0167, -5.1499.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=37.0166592&mlon=-5.1499483",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fd733959a6893b8c1f48f90879bda07359783921d1ae4adb5ca97ad3552ac12b"
+}

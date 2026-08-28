@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Estepona (farmacia) en Estepona. Coordenadas aprox: 36.4075, -5.1898.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4074962&mlon=-5.1898037",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9029d51cf5ee6ecf5119f16e4416f55939ad2e3517712e3477bfaab35acaefb2"
+}

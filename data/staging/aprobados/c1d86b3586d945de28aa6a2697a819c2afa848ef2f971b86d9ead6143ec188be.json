@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: SEGUNDA AGUADA (APD). WGS84: 36.513648, -6.277033.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1d86b3586d945de28aa6a2697a819c2afa848ef2f971b86d9ead6143ec188be"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Palomar (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.788133, -5.95664.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7a0e22cb0b37171305f51247f6b83ed883e32fc644bb63042414b4bbc70416f3"
+}

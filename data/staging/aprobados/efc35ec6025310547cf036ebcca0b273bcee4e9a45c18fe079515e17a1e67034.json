@@ -1,0 +1,15 @@
+{
+  "texto": "El Molinete (Masa de Agua) en Puerto Real. WGS84: 36.520415, -6.171928.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "efc35ec6025310547cf036ebcca0b273bcee4e9a45c18fe079515e17a1e67034"
+}

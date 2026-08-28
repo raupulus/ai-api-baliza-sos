@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Ranchiles (Curso Fluvial) en Algodonales. WGS84: 36.878667, -5.453827.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a741e318ad81908fbd0f53d09e338f04d81eb5116be6e9daf21d60904b570e4d"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Valdeperros (Obra Hidráulica) en Las Cabezas de San Juan. WGS84: 36.965237, -5.960601.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f8cbd945831756a6ea0c353ee67bb0b771c93aec1f72281175142f034403eb34"
+}

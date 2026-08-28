@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Dulce (Curso Fluvial) en San Roque. WGS84: 36.225302, -5.438342.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b86df65631ffcbfbd5f55e5dd0d51ddb6d66761a20304243816e07ae5bb040f"
+}

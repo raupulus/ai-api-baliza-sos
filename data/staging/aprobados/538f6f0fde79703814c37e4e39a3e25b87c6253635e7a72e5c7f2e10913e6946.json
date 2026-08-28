@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de Tres Caminos (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.736226, -5.790006.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "538f6f0fde79703814c37e4e39a3e25b87c6253635e7a72e5c7f2e10913e6946"
+}

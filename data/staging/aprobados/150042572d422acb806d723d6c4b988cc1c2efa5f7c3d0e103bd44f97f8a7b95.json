@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: PUERTO DE SANTA Mõ CONTENEDORES. WGS84: 36.591703, -6.218633.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "150042572d422acb806d723d6c4b988cc1c2efa5f7c3d0e103bd44f97f8a7b95"
+}

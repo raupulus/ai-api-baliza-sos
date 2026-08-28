@@ -1,0 +1,15 @@
+{
+  "texto": "Vetilla de la Zorra (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.916089, -6.351647.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "61b98641d6d1813890e11cd33673c69edd31548cf117dfa076dc6a8030af8d22"
+}

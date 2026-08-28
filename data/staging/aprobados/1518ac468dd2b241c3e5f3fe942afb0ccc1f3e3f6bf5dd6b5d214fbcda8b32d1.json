@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Lechuza (Curso Fluvial) en Las Cabezas de San Juan. WGS84: 36.916292, -5.857649.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1518ac468dd2b241c3e5f3fe942afb0ccc1f3e3f6bf5dd6b5d214fbcda8b32d1"
+}

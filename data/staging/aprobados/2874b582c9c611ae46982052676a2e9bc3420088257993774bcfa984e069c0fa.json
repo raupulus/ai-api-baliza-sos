@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Zarza (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.224723, -6.040636.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2874b582c9c611ae46982052676a2e9bc3420088257993774bcfa984e069c0fa"
+}

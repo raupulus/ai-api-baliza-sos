@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Mari Sucia (playa). Coordenadas aprox: 36.1837, -6.0304.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1836659&mlon=-6.0304163",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0468b3ae8d641b8e879e2f2b14d0afb82a16a458cb37ea3632a719a76396f588"
+}

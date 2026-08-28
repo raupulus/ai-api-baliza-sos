@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Tenería (Curso Fluvial) en Villamartín. WGS84: 36.855873, -5.647216.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aa637c0125770fad557f941888da196d829ccea179c327f54e5b565013734f20"
+}

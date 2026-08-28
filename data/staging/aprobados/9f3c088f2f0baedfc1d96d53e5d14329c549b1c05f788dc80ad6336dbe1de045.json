@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Palmones (playa). Coordenadas aprox: 36.1748, -5.4280.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1748453&mlon=-5.4280034",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9f3c088f2f0baedfc1d96d53e5d14329c549b1c05f788dc80ad6336dbe1de045"
+}

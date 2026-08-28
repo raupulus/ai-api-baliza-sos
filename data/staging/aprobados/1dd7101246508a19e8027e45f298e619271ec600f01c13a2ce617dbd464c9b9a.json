@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Pozo Medina (Curso Fluvial) en Medina Sidonia. WGS84: 36.52746, -5.892475.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1dd7101246508a19e8027e45f298e619271ec600f01c13a2ce617dbd464c9b9a"
+}

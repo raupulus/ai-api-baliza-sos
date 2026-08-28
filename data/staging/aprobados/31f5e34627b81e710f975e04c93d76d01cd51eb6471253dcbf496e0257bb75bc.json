@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de San Juan (Curso Fluvial) en Olvera. WGS84: 36.985565, -5.360258.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "31f5e34627b81e710f975e04c93d76d01cd51eb6471253dcbf496e0257bb75bc"
+}

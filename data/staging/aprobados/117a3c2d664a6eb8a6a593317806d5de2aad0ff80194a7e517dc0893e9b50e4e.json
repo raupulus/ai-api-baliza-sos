@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Alijar (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.735698, -6.258296.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "117a3c2d664a6eb8a6a593317806d5de2aad0ff80194a7e517dc0893e9b50e4e"
+}

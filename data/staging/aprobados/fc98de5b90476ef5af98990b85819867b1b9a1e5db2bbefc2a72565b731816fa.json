@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Las Cortes V (Cádiz). WGS84: 36.521784, -6.276491.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc98de5b90476ef5af98990b85819867b1b9a1e5db2bbefc2a72565b731816fa"
+}

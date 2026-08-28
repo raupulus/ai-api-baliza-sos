@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Sanguijuela (Curso Fluvial) en San José del Valle. WGS84: 36.655294, -5.782015.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d0440069fe1d672b6d716fff78337dadeae6678db81b283c17fc8aa15d47ecf2"
+}

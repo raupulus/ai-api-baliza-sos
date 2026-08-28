@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Multidisciplinar Alana (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1629, -5.3534.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1628572&mlon=-5.3533722",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a50376ca40217042ae29b5950afe45153d25a7f40ae97c4dc14ee25f036eb4cb"
+}

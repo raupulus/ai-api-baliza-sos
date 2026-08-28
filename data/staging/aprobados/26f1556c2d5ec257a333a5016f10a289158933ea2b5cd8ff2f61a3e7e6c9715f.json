@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado de Espera (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.769803, -5.849145.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "26f1556c2d5ec257a333a5016f10a289158933ea2b5cd8ff2f61a3e7e6c9715f"
+}

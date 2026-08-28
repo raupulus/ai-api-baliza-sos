@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Charcones (Curso Fluvial) en Medina Sidonia. WGS84: 36.316906, -5.697237.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2f6b3051b00462329e2f1afdf8f9d42df8c27a91c60d346d0c848ae7cc13b505"
+}

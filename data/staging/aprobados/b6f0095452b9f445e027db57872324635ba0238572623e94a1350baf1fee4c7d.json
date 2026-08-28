@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Leopoldo Cuadrado Borrego (farmacia) en Pujerra. Coordenadas aprox: 36.6126, -5.1475.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6126261&mlon=-5.1475051",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b6f0095452b9f445e027db57872324635ba0238572623e94a1350baf1fee4c7d"
+}

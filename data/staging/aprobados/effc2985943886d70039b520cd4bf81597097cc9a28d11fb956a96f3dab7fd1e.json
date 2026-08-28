@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Santos Zafra (farmacia) en Ronda. Coordenadas aprox: 36.7412, -5.1665.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7412418&mlon=-5.1665318",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "effc2985943886d70039b520cd4bf81597097cc9a28d11fb956a96f3dab7fd1e"
+}

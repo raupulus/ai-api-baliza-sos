@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Galán Ceballos (farmacia) en Jerez de la Frontera. Coordenadas aprox: 36.7902, -6.1748.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7902359&mlon=-6.1748182",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5ceae3722a7b74fbffabb9e8da61dc4b8cbf6cf41941eae5c31ac1cd2de23115"
+}

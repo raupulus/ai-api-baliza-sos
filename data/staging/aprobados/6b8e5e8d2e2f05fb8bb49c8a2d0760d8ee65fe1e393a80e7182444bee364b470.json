@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Tortas (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.428648, -6.09258.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b8e5e8d2e2f05fb8bb49c8a2d0760d8ee65fe1e393a80e7182444bee364b470"
+}

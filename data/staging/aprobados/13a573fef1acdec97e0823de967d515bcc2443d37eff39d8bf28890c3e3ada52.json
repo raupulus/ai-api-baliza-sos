@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cañada De Los Barrancos V (Chiclana de la Frontera). WGS84: 36.432967, -6.131388.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "13a573fef1acdec97e0823de967d515bcc2443d37eff39d8bf28890c3e3ada52"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Estadio Municipal Nuevo Mirador (Servicio/Equipamiento) en Algeciras. WGS84: 36.163053, -5.465072.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4602a84d3c5cf9e6ff3463e338289dd49b53829a186841720b08c7cfc9125ba8"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo el Chato (Servicio/Equipamiento) en Cádiz. WGS84: 36.480071, -6.262137.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "36b858360b01c93af34e0f5a208e1c0bf4e741ff644570e66953c872ab91541e"
+}

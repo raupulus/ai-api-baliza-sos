@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Águila (Curso Fluvial) en Medina Sidonia. WGS84: 36.266893, -5.713498.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bed693298f682c0f9b251413008b834fd9b7d342703d2cfd39c404494e93597b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ana Colchero Romero (farmacia) en Atajate. Coordenadas aprox: 36.6400, -5.2467.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6399779&mlon=-5.24674",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e93f98fd41d47c5fa45d6b1b00bdfb7061b86af5c36984fb70024e33715a5654"
+}

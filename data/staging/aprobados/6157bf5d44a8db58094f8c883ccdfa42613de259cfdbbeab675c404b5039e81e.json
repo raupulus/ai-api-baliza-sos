@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Marchenilla (Curso Fluvial) en Algeciras. WGS84: 36.094269, -5.465243.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6157bf5d44a8db58094f8c883ccdfa42613de259cfdbbeab675c404b5039e81e"
+}

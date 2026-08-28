@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Angostura (Curso Fluvial) en Montecorto. WGS84: 36.827451, -5.32594.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9830ea5b1bf92be7b92ff515bfb435a8a21568f0e4c2260fb6242f7c078b22f1"
+}

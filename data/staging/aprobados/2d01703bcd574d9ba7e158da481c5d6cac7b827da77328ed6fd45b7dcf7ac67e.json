@@ -1,0 +1,15 @@
+{
+  "texto": "Cala Pitones (playa). Coordenadas aprox: 36.2954, -6.1233.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.295368&mlon=-6.1232964",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2d01703bcd574d9ba7e158da481c5d6cac7b827da77328ed6fd45b7dcf7ac67e"
+}

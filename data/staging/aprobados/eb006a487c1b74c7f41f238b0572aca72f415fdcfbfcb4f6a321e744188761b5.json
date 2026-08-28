@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Salado (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.6901, -6.312704.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eb006a487c1b74c7f41f238b0572aca72f415fdcfbfcb4f6a321e744188761b5"
+}

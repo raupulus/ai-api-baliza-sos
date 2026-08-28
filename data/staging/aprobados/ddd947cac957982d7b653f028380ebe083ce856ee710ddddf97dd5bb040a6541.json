@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Santa Catalina (playa). Coordenadas aprox: 36.5955, -6.2767.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5954529&mlon=-6.2766837",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ddd947cac957982d7b653f028380ebe083ce856ee710ddddf97dd5bb040a6541"
+}

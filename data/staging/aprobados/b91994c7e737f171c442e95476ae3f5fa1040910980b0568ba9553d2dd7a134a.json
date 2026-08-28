@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de la Palma (Servicio/Equipamiento) en Setenil de las Bodegas. WGS84: 36.904292, -5.20018.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b91994c7e737f171c442e95476ae3f5fa1040910980b0568ba9553d2dd7a134a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de Punta Carbonera (faro). Coordenadas aprox: 36.2446, -5.3013.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2445519&mlon=-5.3012769",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dabb3c6ff0c457d54c9f3b0989d13a0d35e376c54f8e445b7c75573b4080cbf8"
+}

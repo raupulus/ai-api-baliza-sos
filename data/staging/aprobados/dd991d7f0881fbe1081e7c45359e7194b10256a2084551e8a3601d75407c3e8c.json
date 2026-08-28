@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Comisario (Curso Fluvial) en Puerto Real. WGS84: 36.509237, -6.029594.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dd991d7f0881fbe1081e7c45359e7194b10256a2084551e8a3601d75407c3e8c"
+}

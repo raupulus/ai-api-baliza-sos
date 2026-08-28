@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de las Canteras (playa). Coordenadas aprox: 36.7393, -6.4407.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7393459&mlon=-6.4406896",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cee68a3c1c8e99c72d1d95c59de39dc84de15bfcbe75979ab3615df77e53ea11"
+}

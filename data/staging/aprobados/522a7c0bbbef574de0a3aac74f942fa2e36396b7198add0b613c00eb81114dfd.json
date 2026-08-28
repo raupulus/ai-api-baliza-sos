@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Sánchez Romero (farmacia) en El Cuervo de Sevilla. Coordenadas aprox: 36.8535, -6.0401.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.853478&mlon=-6.0400942",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "522a7c0bbbef574de0a3aac74f942fa2e36396b7198add0b613c00eb81114dfd"
+}

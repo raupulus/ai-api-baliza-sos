@@ -1,0 +1,15 @@
+{
+  "texto": "Venta la Higuera (Servicio/Equipamiento) en Conil de la Frontera. WGS84: 36.322015, -6.089083.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "31b5916b2f9b39469f2971e92313e855eced937fdc2ba28e24d7b8923f5b8953"
+}

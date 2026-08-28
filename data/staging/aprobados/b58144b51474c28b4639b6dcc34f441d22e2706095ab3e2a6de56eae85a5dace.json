@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud de El Cuervo (centro de salud) en El Cuervo de Sevilla. Coordenadas aprox: 36.8535, -6.0398.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8535428&mlon=-6.0397827",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b58144b51474c28b4639b6dcc34f441d22e2706095ab3e2a6de56eae85a5dace"
+}

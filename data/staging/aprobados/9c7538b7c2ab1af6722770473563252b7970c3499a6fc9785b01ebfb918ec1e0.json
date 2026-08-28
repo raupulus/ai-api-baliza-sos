@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Alisos (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.362149, -5.730017.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9c7538b7c2ab1af6722770473563252b7970c3499a6fc9785b01ebfb918ec1e0"
+}

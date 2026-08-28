@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Quejigal (Curso Fluvial) en Jubrique. WGS84: 36.533834, -5.19415.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "49a21c09ff5b7f4d6498054aebdeaccc110dbbb08d6303fa3f4c3a032f88eb4d"
+}

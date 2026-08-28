@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: AZUCARERA DEL GUADALETE. WGS84: 36.657319, -6.126129.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0ed5aca1df49cd14ad4f2940891d7c304f25a13fb86de29009de5c67feb4a1fb"
+}

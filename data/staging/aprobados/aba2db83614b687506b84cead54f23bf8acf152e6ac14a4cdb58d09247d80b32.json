@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: San Marcos V (San Fernando). WGS84: 36.460923, -6.196589.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aba2db83614b687506b84cead54f23bf8acf152e6ac14a4cdb58d09247d80b32"
+}

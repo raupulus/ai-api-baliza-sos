@@ -1,0 +1,15 @@
+{
+  "texto": "Asisa San Fernando (centro de salud) en San Fernando. Coordenadas aprox: 36.4622, -6.2048.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4622172&mlon=-6.2048423",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "43ad673e5b810b4a53d79da6922dfabd874bb723188b83eb3e32a3d606a5314d"
+}

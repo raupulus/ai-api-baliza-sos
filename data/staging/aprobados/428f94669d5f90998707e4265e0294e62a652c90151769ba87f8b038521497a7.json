@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Valle (Curso Fluvial) en Casares. WGS84: 36.448828, -5.33829.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "428f94669d5f90998707e4265e0294e62a652c90151769ba87f8b038521497a7"
+}

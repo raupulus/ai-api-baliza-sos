@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Hospitalario de Alta Resolución de Lebrija (hospital) en Lebrija. Coordenadas aprox: 36.9105, -6.0723.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9105319&mlon=-6.0723078",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "390cb3a9ade9fd92e22b3da5b57314cad9e96a935e960c474a53155b47ae4792"
+}

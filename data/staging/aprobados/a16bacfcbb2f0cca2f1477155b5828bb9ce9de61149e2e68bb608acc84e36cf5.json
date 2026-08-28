@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Recinto Ferial (El Puerto de Santa María). WGS84: 36.613758, -6.241361.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a16bacfcbb2f0cca2f1477155b5828bb9ce9de61149e2e68bb608acc84e36cf5"
+}

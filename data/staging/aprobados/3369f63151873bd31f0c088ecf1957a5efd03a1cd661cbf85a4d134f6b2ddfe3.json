@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Costa Ballena (farmacia). Coordenadas aprox: 36.6926, -6.4081.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6926056&mlon=-6.4081236",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3369f63151873bd31f0c088ecf1957a5efd03a1cd661cbf85a4d134f6b2ddfe3"
+}

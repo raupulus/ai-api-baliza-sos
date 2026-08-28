@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Cruces (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.6399, -6.00082.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "22b207586406bb85b06fb33973444d8c5fd03c419fd196e92aba5385a52b4a1b"
+}

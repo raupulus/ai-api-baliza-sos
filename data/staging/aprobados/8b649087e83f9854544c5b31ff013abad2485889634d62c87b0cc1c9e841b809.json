@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Médico Viamed Santa Ana (centro de salud). Coordenadas aprox: 36.1532, -5.4544.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1531764&mlon=-5.4543737",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8b649087e83f9854544c5b31ff013abad2485889634d62c87b0cc1c9e841b809"
+}

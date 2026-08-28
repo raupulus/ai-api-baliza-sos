@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Plaza Del Caballo (Jerez de la Frontera). WGS84: 36.693608, -6.129309.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9ef0cf6ba25679ae3cbe5aba99414a2bf7238f712ad20bbfbfc26f7e8b1808b4"
+}

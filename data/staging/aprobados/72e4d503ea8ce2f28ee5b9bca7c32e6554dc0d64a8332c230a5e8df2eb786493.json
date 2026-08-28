@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica del Río (centro de salud). Coordenadas aprox: 36.4295, -5.1285.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4295269&mlon=-5.1285318",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "72e4d503ea8ce2f28ee5b9bca7c32e6554dc0d64a8332c230a5e8df2eb786493"
+}

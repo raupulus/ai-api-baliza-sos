@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Sanguijuela (Curso Fluvial) en Ronda. WGS84: 36.771066, -5.211212.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "54e40b7d7c77e04f672d05bc0c317b5ecbb059e96336f684722a175e6d679ee6"
+}

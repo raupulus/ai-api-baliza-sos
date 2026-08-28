@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Gades (centro de salud). Coordenadas aprox: 36.5190, -6.2821.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5189502&mlon=-6.2820702",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6e2000771e6d87306ecf6be797c22dc48ff4a3cc48ed79252bed09f72b2ac6eb"
+}

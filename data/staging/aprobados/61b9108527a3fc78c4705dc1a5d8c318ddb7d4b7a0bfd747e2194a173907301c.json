@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Espino (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.724878, -5.884897.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "61b9108527a3fc78c4705dc1a5d8c318ddb7d4b7a0bfd747e2194a173907301c"
+}

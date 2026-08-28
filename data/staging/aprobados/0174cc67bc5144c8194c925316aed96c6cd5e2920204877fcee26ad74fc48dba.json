@@ -1,0 +1,15 @@
+{
+  "texto": "Alondra Crestada (Galerida cristata (Linnaeus, 1758)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2490669",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0174cc67bc5144c8194c925316aed96c6cd5e2920204877fcee26ad74fc48dba"
+}

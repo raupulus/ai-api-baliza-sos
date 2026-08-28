@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Paparrata (Curso Fluvial) en Los Barrios. WGS84: 36.216306, -5.507903.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "469ad91e8f5ad18a1154df7139153ab978eafd7cca1ae54d3f48ab6f6f365f6a"
+}

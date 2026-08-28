@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia La Banda (farmacia). Coordenadas aprox: 36.4196, -6.1428.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4195779&mlon=-6.1427647",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d0b4b1e34a69e9ff08bd93ea1558d2f853df201a86b4726b2293029fe6507aef"
+}

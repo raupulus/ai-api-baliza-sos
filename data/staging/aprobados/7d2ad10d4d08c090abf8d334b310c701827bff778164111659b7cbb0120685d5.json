@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Marrueco (Curso Fluvial) en Zahara. WGS84: 36.80432, -5.433775.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7d2ad10d4d08c090abf8d334b310c701827bff778164111659b7cbb0120685d5"
+}

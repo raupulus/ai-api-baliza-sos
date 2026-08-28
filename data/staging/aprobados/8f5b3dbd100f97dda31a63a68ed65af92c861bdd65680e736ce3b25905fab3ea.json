@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Secadero (farmacia) en Casares. Coordenadas aprox: 36.3377, -5.3143.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.337725&mlon=-5.3142767",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8f5b3dbd100f97dda31a63a68ed65af92c861bdd65680e736ce3b25905fab3ea"
+}

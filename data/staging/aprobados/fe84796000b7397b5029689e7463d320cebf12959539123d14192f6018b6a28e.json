@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Virgen del Carmen (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1730, -5.3376.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1730464&mlon=-5.3376022",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fe84796000b7397b5029689e7463d320cebf12959539123d14192f6018b6a28e"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia D6 (farmacia). Coordenadas aprox: 36.4197, -6.1567.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.419709&mlon=-6.1567123",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f443d8a37b51970ec13eb3879efba87b9f16ec5819144ab068a46154e8dae345"
+}

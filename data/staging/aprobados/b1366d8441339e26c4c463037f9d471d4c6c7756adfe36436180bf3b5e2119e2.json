@@ -1,0 +1,15 @@
+{
+  "texto": "Refugio Sierra Crestellina (refugio). Coordenadas aprox: 36.4560, -5.2813.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4560177&mlon=-5.28135",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b1366d8441339e26c4c463037f9d471d4c6c7756adfe36436180bf3b5e2119e2"
+}

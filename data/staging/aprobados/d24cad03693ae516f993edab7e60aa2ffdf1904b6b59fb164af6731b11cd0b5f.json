@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Tierras Nuevas (Curso Fluvial) en Villamartín. WGS84: 36.8522, -5.560694.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d24cad03693ae516f993edab7e60aa2ffdf1904b6b59fb164af6731b11cd0b5f"
+}

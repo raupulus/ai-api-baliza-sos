@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Urb. Las Colinas (Algeciras). WGS84: 36.141963, -5.456474.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7c63d85933065a77a6936924b5a2846eca854d1d92eb2f93ca6920a319a4a8f9"
+}

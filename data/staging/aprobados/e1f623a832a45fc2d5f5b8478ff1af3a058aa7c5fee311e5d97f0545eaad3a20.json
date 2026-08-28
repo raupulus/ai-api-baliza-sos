@@ -1,0 +1,15 @@
+{
+  "texto": "Old bunker (refugio). Coordenadas aprox: 36.0347, -5.5299.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0347418&mlon=-5.5299229",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e1f623a832a45fc2d5f5b8478ff1af3a058aa7c5fee311e5d97f0545eaad3a20"
+}

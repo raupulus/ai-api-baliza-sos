@@ -1,0 +1,15 @@
+{
+  "texto": "Bahía de Algeciras (Relieve Litoral / Marítimo) en Algeciras. WGS84: 36.144629, -5.434915.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2866dcff045b0fbf92c2614fec48c67c2ebda661cbedbb30aa92a6aede899d9f"
+}

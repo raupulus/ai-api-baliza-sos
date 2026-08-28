@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Marina De La Bahía V (Puerto Real). WGS84: 36.530667, -6.199933.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ed502f30030c0881dbf749c191534dafb5de2a68db5f99c4d883cf2dcea6bc71"
+}

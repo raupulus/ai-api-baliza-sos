@@ -1,0 +1,15 @@
+{
+  "texto": "San Nicolás (Masa de Agua) en San Fernando. WGS84: 36.410337, -6.221372.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6bf4d1369d541e5ea2cf99d7c9d4f64d0bb3df6b91278d34bdf036ff8bc94398"
+}

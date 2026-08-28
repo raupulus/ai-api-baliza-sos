@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Canteras (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.651361, -6.175689.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1d9432616f76e9679e688c73c495055d7421520a578386010fb3824d261f699"
+}

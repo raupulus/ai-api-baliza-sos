@@ -1,0 +1,15 @@
+{
+  "texto": "La Albufera (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.443385, -6.24686.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b39ffbdefe6b48064bed546ee6c07ad88fd5e5a45024b93928116826aa576654"
+}

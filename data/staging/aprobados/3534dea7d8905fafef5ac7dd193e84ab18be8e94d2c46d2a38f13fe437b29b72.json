@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo la Carriona (Obra Hidráulica) en Medina Sidonia. WGS84: 36.501841, -5.988509.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3534dea7d8905fafef5ac7dd193e84ab18be8e94d2c46d2a38f13fe437b29b72"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Monteros (Curso Fluvial) en San José del Valle. WGS84: 36.586434, -5.823145.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7d5e612c3ff55ffdaf7d18080c04d5b0ea2f25e32c254723491eeaecc6752df9"
+}

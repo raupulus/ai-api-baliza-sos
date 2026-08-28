@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Puertallanilla (Curso Fluvial) en Espera. WGS84: 36.893961, -5.739306.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4ce1a68cc77f741cb26617629f4ca5c2c041f63150a2ec7eb920f2fd07644ff4"
+}

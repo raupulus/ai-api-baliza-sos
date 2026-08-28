@@ -1,0 +1,15 @@
+{
+  "texto": "Campamento Juvenil Cerro Mulera (Servicio/Equipamiento) en Ubrique. WGS84: 36.6637, -5.484769.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8d9de22347b7130fb918712c932ae3993e1bb9bbabe36fabda91e6d2f8f76c37"
+}

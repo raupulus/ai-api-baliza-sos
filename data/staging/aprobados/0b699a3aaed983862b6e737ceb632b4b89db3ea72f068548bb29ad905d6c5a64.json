@@ -1,0 +1,15 @@
+{
+  "texto": "Canal Colector del Este (Obra Hidráulica) en Barbate. WGS84: 36.212315, -5.901739.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0b699a3aaed983862b6e737ceb632b4b89db3ea72f068548bb29ad905d6c5a64"
+}

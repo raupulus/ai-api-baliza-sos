@@ -1,0 +1,15 @@
+{
+  "texto": "Botica (farmacia) en Villaluenga del Rosario. Coordenadas aprox: 36.6965, -5.3869.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6965195&mlon=-5.3869174",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "45cf2ff3d3c9a0b89cf5c0773867db152d90e21534255a411b9700f8ba920381"
+}

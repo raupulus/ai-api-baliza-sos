@@ -1,0 +1,15 @@
+{
+  "texto": "Caño Madre o de Talanquera (Curso Fluvial) en Puerto Real. WGS84: 36.480863, -6.156141.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2dbdc1352285594da01191b79c53f6580abfbdd0e73a029041af86803f1bd7e6"
+}

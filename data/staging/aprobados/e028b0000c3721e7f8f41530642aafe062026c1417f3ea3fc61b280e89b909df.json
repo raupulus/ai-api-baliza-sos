@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Erillas (Curso Fluvial) en Grazalema. WGS84: 36.76534, -5.332798.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e028b0000c3721e7f8f41530642aafe062026c1417f3ea3fc61b280e89b909df"
+}

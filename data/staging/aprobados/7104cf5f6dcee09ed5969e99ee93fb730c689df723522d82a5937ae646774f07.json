@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Diagnóstico CMDI (centro de salud). Coordenadas aprox: 36.5165, -6.2821.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5165149&mlon=-6.2820518",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7104cf5f6dcee09ed5969e99ee93fb730c689df723522d82a5937ae646774f07"
+}

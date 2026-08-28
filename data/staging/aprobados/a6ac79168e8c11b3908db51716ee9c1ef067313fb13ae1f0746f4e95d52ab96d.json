@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Zumajo (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.310588, -5.986472.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a6ac79168e8c11b3908db51716ee9c1ef067313fb13ae1f0746f4e95d52ab96d"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Complejo Deportivo la Granja (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.697337, -6.107373.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "02ffe893761632cb2f291c6611a419d5f71ed1f0f69ce2e7dcc980f093d0257b"
+}

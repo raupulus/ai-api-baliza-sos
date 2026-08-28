@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Cano (farmacia) en Estepona. Coordenadas aprox: 36.4224, -5.1534.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4224341&mlon=-5.1533949",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cb7ad2c8e032820f5858e11e216309c241a315967e42ddbf15bec8ecfcd211a0"
+}

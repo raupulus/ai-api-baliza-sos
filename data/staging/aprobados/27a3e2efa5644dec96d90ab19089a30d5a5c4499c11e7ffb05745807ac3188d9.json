@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio Redondo (Relieve Litoral / Marítimo) en Almonte. WGS84: 36.895139, -6.374956.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "27a3e2efa5644dec96d90ab19089a30d5a5c4499c11e7ffb05745807ac3188d9"
+}

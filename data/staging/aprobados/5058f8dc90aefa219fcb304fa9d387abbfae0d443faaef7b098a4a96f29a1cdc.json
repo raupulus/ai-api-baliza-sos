@@ -1,0 +1,15 @@
+{
+  "texto": "Cementerio Parroquial (Servicio/Equipamiento) en Olvera. WGS84: 36.935936, -5.268014.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5058f8dc90aefa219fcb304fa9d387abbfae0d443faaef7b098a4a96f29a1cdc"
+}

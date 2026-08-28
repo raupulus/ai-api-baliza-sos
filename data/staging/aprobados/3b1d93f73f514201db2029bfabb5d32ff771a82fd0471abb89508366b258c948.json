@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Florida (Curso Fluvial) en Pruna. WGS84: 37.031642, -5.250917.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3b1d93f73f514201db2029bfabb5d32ff771a82fd0471abb89508366b258c948"
+}

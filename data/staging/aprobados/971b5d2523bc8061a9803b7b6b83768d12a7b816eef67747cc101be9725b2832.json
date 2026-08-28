@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Seco (Curso Fluvial) en Los Barrios. WGS84: 36.234368, -5.670512.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "971b5d2523bc8061a9803b7b6b83768d12a7b816eef67747cc101be9725b2832"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Breñas (Curso Fluvial) en Tarifa. WGS84: 36.098578, -5.776202.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c598288796793364e65a67859ee8199e259975a90a4c31b80d3a1bd639d18890"
+}

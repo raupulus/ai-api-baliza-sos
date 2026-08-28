@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Naranjo (Curso Fluvial) en Cañete la Real. WGS84: 37.011307, -5.114733.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e564d510f24a8f3b91181b8aa055cb61c1b11dc39553ff0c9526ec530c48bc89"
+}

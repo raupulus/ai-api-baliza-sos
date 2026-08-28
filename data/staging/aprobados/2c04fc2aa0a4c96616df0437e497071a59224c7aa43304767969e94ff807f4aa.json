@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de Millán (Curso Fluvial) en Ubrique. WGS84: 36.657666, -5.477618.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2c04fc2aa0a4c96616df0437e497071a59224c7aa43304767969e94ff807f4aa"
+}

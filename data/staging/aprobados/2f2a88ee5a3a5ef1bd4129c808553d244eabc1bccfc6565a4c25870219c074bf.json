@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: LAS ALETAS. WGS84: 36.544148, -6.198406.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2f2a88ee5a3a5ef1bd4129c808553d244eabc1bccfc6565a4c25870219c074bf"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente Alta (Curso Fluvial) en Algodonales. WGS84: 36.883751, -5.396198.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "327bf4a1937aff22827721788cdc321b6c227e22618d7a370cd821342e8988a7"
+}

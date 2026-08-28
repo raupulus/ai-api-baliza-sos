@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cambuco (Curso Fluvial) en Gaucín. WGS84: 36.470168, -5.339717.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cc3c6e5c845355513e789a53a86cf1f1db104e3f793adc967b32d8ba14c6e09d"
+}

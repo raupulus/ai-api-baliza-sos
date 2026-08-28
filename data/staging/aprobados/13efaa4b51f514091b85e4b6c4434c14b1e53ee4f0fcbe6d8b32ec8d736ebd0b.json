@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Endrinal (Curso Fluvial) en Utrera. WGS84: 36.925777, -5.818274.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "13efaa4b51f514091b85e4b6c4434c14b1e53ee4f0fcbe6d8b32ec8d736ebd0b"
+}

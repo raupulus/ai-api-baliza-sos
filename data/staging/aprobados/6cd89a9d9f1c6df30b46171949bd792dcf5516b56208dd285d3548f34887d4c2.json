@@ -1,0 +1,15 @@
+{
+  "texto": "Salina de San Rafael (Masa de Agua) en Almonte. WGS84: 36.877303, -6.365657.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6cd89a9d9f1c6df30b46171949bd792dcf5516b56208dd285d3548f34887d4c2"
+}

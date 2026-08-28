@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita de San Telmo (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.676862, -6.133292.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1b5c1abf2fd9df2b7a921849a0c2dc5e9dae426cfde15636bdbee7beeffbcaac"
+}

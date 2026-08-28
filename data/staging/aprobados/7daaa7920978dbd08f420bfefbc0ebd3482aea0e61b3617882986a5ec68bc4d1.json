@@ -1,0 +1,15 @@
+{
+  "texto": "Cañada de los Alelíes (Curso Fluvial) en Tarifa. WGS84: 36.038353, -5.528954.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7daaa7920978dbd08f420bfefbc0ebd3482aea0e61b3617882986a5ec68bc4d1"
+}

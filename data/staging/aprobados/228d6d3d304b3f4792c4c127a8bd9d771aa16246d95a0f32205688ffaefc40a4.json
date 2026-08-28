@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Bar La Redonda (San Roque). WGS84: 36.203068, -5.42068.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "228d6d3d304b3f4792c4c127a8bd9d771aa16246d95a0f32205688ffaefc40a4"
+}

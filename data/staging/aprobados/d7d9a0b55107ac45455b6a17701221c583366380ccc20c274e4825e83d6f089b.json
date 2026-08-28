@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de la Jota (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.405646, -5.617149.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d7d9a0b55107ac45455b6a17701221c583366380ccc20c274e4825e83d6f089b"
+}

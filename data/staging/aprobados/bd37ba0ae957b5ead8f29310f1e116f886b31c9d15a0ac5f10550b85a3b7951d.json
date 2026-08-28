@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Miguel Ángel Berraquero González (farmacia). Coordenadas aprox: 36.4999, -6.2736.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4998543&mlon=-6.2735632",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bd37ba0ae957b5ead8f29310f1e116f886b31c9d15a0ac5f10550b85a3b7951d"
+}

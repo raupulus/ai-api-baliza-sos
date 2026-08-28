@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Zorra (Curso Fluvial) en Villamartín. WGS84: 36.883655, -5.576491.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2faad7c95a3a99eb582ad118479e3e68e1a599809931ecd9240b172ef2d4c6c8"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Setenil de las Bodegas (Cádiz). Código INE 11034. Coordenadas WGS84 (centroide): 36.871556, -5.176382.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8eb19fc72f5ab27c39a4439f4ebc6c9e19c653fd24be1fdb29cc562adb87fe71"
+}

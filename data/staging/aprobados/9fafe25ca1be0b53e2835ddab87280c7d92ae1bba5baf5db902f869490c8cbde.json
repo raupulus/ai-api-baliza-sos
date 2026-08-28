@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Jara (Relieve Litoral / Marítimo) en Sanlúcar de Barrameda. WGS84: 36.763009, -6.39534.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9fafe25ca1be0b53e2835ddab87280c7d92ae1bba5baf5db902f869490c8cbde"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Canal Colector del Este (Obra Hidráulica) en Tarifa. WGS84: 36.213339, -5.776283.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cd0394c0997c7e73249dd4a3e4aedbaf8101afdb6ab9625c5fa4dd0775afc375"
+}

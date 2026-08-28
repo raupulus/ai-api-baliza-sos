@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente Calle Casares (agua potable). Coordenadas aprox: 36.5178, -5.3172.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5178474&mlon=-5.3172286",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bba103b288bca112803fdb1a2bab8c09043b26550062fdb522febe2d2aa0e906"
+}

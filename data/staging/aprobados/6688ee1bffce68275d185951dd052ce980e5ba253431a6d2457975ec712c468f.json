@@ -1,0 +1,15 @@
+{
+  "texto": "Santo Domingo (Masa de Agua) en Puerto Real. WGS84: 36.504757, -6.163593.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6688ee1bffce68275d185951dd052ce980e5ba253431a6d2457975ec712c468f"
+}

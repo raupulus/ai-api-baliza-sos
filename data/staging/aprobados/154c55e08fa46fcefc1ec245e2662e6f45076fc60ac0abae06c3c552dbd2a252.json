@@ -1,0 +1,15 @@
+{
+  "texto": "\"Golondrina Tijereta, Golondrina de Horquilla\" (Hirundo rustica Linnaeus, 1758). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/9515886",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "154c55e08fa46fcefc1ec245e2662e6f45076fc60ac0abae06c3c552dbd2a252"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Jubrique (Curso Fluvial) en Parauta. WGS84: 36.647629, -5.129876.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "47be826320d982e248d284eeb29a795b963eb91e89cc8e30dd42ddf01e5ba0c8"
+}

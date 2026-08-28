@@ -1,0 +1,15 @@
+{
+  "texto": "Viamed Las Salinas (centro de salud). Coordenadas aprox: 36.4288, -6.1453.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4288176&mlon=-6.1453381",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "818733ae4e7808d0464a2faf3dc75f2b028c45b61e78d6d5e7876f7f101c0636"
+}

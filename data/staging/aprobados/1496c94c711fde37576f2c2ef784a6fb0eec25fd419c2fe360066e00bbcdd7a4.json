@@ -1,0 +1,15 @@
+{
+  "texto": "Playa fluvial embalse de Arcos de la Frontera (playa). Coordenadas aprox: 36.7664, -5.7844.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7664438&mlon=-5.7843823",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1496c94c711fde37576f2c2ef784a6fb0eec25fd419c2fe360066e00bbcdd7a4"
+}

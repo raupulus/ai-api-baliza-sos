@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Hato (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.748032, -5.593983.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "80b767c2f8479c6e9d08e5e60549f18b26ad8105d5a9d58be3ee248b38286710"
+}

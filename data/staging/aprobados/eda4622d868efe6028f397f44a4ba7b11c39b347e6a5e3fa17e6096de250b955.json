@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Armaña (Curso Fluvial) en Gaucín. WGS84: 36.491982, -5.367068.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eda4622d868efe6028f397f44a4ba7b11c39b347e6a5e3fa17e6096de250b955"
+}

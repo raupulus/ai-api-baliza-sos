@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Torreira Góngora (farmacia). Coordenadas aprox: 36.7146, -6.0902.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7145638&mlon=-6.0902163",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1156449a457807686abacd5fbf94fdf2cd132f5d3d84e4edbdf33ea7ea8d29a1"
+}

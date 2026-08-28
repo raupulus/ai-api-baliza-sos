@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Peña (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.054566, -5.660321.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0916e952cdd446056d703091382d70b9044b849afdd92d2eff2ca6edea408a8c"
+}

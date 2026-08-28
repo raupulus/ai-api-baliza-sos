@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Fraile (Curso Fluvial) en Villamartín. WGS84: 36.902591, -5.686811.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ea2853d51861d8ff652a086f486e98f6ddbf66749a9648c3e146a6c5a1d9c50f"
+}

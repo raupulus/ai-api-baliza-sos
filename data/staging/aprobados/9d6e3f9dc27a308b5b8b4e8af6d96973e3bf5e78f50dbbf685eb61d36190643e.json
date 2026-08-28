@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Castellar de la Frontera (Cádiz). Código INE 11013. Coordenadas WGS84 (centroide): 36.311546, -5.464737.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d6e3f9dc27a308b5b8b4e8af6d96973e3bf5e78f50dbbf685eb61d36190643e"
+}

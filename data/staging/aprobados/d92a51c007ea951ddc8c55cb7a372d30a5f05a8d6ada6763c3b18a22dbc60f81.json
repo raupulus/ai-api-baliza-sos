@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Fami Bernal (farmacia). Coordenadas aprox: 36.5710, -6.2236.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5709646&mlon=-6.2235889",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d92a51c007ea951ddc8c55cb7a372d30a5f05a8d6ada6763c3b18a22dbc60f81"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia La Esperanza (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1670, -5.3421.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1669738&mlon=-5.3421382",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "07fe2b2a3fbc18ff8c92c21e8eaaf09fdb5e71618af7166babfd31fb6bab6a40"
+}

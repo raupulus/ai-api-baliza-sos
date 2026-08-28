@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Calle Canarias (farmacia). Coordenadas aprox: 36.2809, -6.0856.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2808901&mlon=-6.0855597",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9fc70a3277c39c740434b42f3bbc2cc9f1162b800e6ccd5e1498cda08f696e25"
+}

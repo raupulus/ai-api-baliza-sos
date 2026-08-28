@@ -1,0 +1,15 @@
+{
+  "texto": "BBT Clinic (centro de salud). Coordenadas aprox: 36.1883, -5.9248.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1882859&mlon=-5.9248333",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b0e467f4b739f0a93f7a1634b30a25c6314e6ba9a8da9db6478b729e74f477c4"
+}

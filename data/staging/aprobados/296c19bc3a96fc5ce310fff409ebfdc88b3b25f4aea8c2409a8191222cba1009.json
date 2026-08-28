@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Pedregosillo (Curso Fluvial) en Medina Sidonia. WGS84: 36.374114, -5.821799.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "296c19bc3a96fc5ce310fff409ebfdc88b3b25f4aea8c2409a8191222cba1009"
+}

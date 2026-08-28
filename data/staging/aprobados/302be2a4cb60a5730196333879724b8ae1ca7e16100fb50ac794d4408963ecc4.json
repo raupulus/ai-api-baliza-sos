@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Guijo (Curso Fluvial) en Algeciras. WGS84: 36.0969, -5.473729.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "302be2a4cb60a5730196333879724b8ae1ca7e16100fb50ac794d4408963ecc4"
+}

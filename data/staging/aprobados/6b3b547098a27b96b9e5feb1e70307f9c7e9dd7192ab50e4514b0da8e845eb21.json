@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica del Pie (centro de salud). Coordenadas aprox: 36.5198, -6.2831.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5197683&mlon=-6.2830585",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b3b547098a27b96b9e5feb1e70307f9c7e9dd7192ab50e4514b0da8e845eb21"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Venta la Salina (Servicio/Equipamiento) en Las Cabezas de San Juan. WGS84: 37.011365, -5.907789.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ee402d17afe5ae536aeaa4842febb13f5c83260f9593732462c0e3971a6215f1"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Rosario (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.723359, -6.099549.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1abcae15e19d53936d3a21622c7f14ee8d5b6afbd556f2780a07f2f443ca10f9"
+}

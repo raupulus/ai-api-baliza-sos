@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Esparraguera (Curso Fluvial) en Medina Sidonia. WGS84: 36.427185, -5.901824.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "081bb0886c27261e217daab39e8ce9e8a684a5a938b378cd79d15fe16113b967"
+}

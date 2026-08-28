@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: LOS BARRIOS. WGS84: 36.173735, -5.460688.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "55159d7a55ef77d2b3ec6d6ad6cc0d756da4e3b4481cad7c8ff60951a0dca56b"
+}

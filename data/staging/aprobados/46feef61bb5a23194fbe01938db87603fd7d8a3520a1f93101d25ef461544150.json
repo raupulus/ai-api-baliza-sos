@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Alcalá del Valle (Cádiz). Código INE 11002. Coordenadas WGS84 (centroide): 36.921574, -5.149582.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "46feef61bb5a23194fbe01938db87603fd7d8a3520a1f93101d25ef461544150"
+}

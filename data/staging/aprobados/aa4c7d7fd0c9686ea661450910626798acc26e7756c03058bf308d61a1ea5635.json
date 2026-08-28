@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna del Zahillo (Masa de Agua) en Almonte. WGS84: 36.98691, -6.506162.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aa4c7d7fd0c9686ea661450910626798acc26e7756c03058bf308d61a1ea5635"
+}

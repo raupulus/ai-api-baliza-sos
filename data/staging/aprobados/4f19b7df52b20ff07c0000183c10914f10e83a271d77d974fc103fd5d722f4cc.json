@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: BENAOJAN-MONTEJAQUE. WGS84: 36.713629, -5.246324.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4f19b7df52b20ff07c0000183c10914f10e83a271d77d974fc103fd5d722f4cc"
+}

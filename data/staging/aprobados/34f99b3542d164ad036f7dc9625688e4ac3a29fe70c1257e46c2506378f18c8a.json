@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio de la Rueda (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.950444, -6.315306.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "34f99b3542d164ad036f7dc9625688e4ac3a29fe70c1257e46c2506378f18c8a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Toronjil (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.789921, -5.773811.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9afa515512a48ce05e9a0c79fcf0aee0b16c7b02657dc8484fe392d5a0e2232f"
+}

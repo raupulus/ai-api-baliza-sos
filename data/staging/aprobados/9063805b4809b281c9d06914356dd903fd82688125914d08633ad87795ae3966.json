@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Valle (Curso Fluvial) en San José del Valle. WGS84: 36.600177, -5.785173.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9063805b4809b281c9d06914356dd903fd82688125914d08633ad87795ae3966"
+}

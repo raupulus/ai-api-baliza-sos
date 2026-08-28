@@ -1,0 +1,15 @@
+{
+  "texto": "Cala del Tio Juan Medina (playa). Coordenadas aprox: 36.2986, -6.1443.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2986158&mlon=-6.144349",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c67e76ece2eb02b3fafd302fca86da2c2dd9f252bfc05a6c41ad0f21a22a5d11"
+}

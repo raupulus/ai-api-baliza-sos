@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Pelagatos (Chiclana de la Frontera). WGS84: 36.408756, -6.134322.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "56510ce3006ffa055b66f1a60cbbbd11f1727558804b74187c12023056d4b50b"
+}

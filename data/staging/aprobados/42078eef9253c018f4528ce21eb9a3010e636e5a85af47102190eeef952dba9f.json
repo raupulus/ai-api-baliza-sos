@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica estética Ancha (centro de salud). Coordenadas aprox: 36.5343, -6.2983.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.534264&mlon=-6.2983151",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "42078eef9253c018f4528ce21eb9a3010e636e5a85af47102190eeef952dba9f"
+}

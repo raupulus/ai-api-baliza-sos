@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Toro (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.437021, -6.060008.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "68467d16d4add2b0df469e47d5f2c73e87a5e0c4882ffd381c40422c961717bd"
+}

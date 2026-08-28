@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Poyales (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.376119, -5.720833.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "955bfc4101533ad55cc1bf185e272eaf50676cca2cd2f2c6d4f39f17d72b81fc"
+}

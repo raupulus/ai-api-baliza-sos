@@ -1,0 +1,15 @@
+{
+  "texto": "Cañada Honda (Curso Fluvial) en Medina Sidonia. WGS84: 36.392593, -5.852158.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a52a4babc4cdfe7320041d23e77121f8b94cde69b13e2c8c1814fbe239ed19a3"
+}

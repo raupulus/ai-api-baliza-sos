@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Suárez Corchete (farmacia) en Estepona. Coordenadas aprox: 36.4315, -5.1463.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4315078&mlon=-5.1462556",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a7c236431abc03ad124d44c4b10f85d73a2d076188a97fb9562bc8e62b880ec9"
+}

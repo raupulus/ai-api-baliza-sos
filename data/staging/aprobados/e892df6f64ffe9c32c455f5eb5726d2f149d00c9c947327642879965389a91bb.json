@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Prado del Rey (Cádiz). Código INE 11026. Coordenadas WGS84 (centroide): 36.78365, -5.546015.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e892df6f64ffe9c32c455f5eb5726d2f149d00c9c947327642879965389a91bb"
+}

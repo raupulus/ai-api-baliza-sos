@@ -1,0 +1,15 @@
+{
+  "texto": "Templete Municipal (refugio). Coordenadas aprox: 36.6950, -6.1242.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6949521&mlon=-6.1242381",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6bb68c0c9d5ae7b75bda204962a563381d197fde17b1d7c4d2d62e2d0c2768a4"
+}

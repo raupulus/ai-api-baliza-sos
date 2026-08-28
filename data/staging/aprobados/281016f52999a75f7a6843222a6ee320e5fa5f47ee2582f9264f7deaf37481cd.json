@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Seco (Curso Fluvial) en Ubrique. WGS84: 36.665609, -5.45242.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "281016f52999a75f7a6843222a6ee320e5fa5f47ee2582f9264f7deaf37481cd"
+}

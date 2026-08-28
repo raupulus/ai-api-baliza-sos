@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Lazareto (farmacia). Coordenadas aprox: 36.1872, -5.4977.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1871944&mlon=-5.4977439",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ff338c40d3f8962596fc835dfc9551db5698f78068a9d842f72412f40857afce"
+}

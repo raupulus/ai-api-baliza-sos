@@ -1,0 +1,15 @@
+{
+  "texto": "El Parque (farmacia). Coordenadas aprox: 36.4672, -6.2004.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4671514&mlon=-6.2003786",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "78cfa83f1206eec1b7eda1b132a0e2a77113d043cf9464839de9232011a2f02f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Usero (farmacia) en Estepona. Coordenadas aprox: 36.4308, -5.1488.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4307914&mlon=-5.1488286",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cce58c0d24751589300f7a6d1d15a65aabe1848e3da52a51b3c71218ef169d91"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita de San Roque (Servicio/Equipamiento) en Rota. WGS84: 36.620246, -6.360621.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b8c72291178cd0494b389218f53e9023426e87be0d547a39eecdb33e1a20c028"
+}

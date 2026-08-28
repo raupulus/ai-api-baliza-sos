@@ -1,0 +1,15 @@
+{
+  "texto": "Aldea Geriatrica (centro de salud). Coordenadas aprox: 36.1566, -5.6957.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1566086&mlon=-5.6956995",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f9b2ccb01d05153edd6b3d3f04981dc2ab022db319d6908bde3871ac836c2b4a"
+}

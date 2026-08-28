@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de San Antonio (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.780412, -5.661118.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e64e1410d8768c89f0a83df9604c0f42bca9626e28d5a8a2edd567a834b313ee"
+}

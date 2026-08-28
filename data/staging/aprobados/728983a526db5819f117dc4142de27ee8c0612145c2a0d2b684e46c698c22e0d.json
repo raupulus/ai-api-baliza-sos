@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Presidio (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.643097, -6.262612.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "728983a526db5819f117dc4142de27ee8c0612145c2a0d2b684e46c698c22e0d"
+}

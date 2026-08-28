@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Concepción (farmacia). Coordenadas aprox: 36.5298, -6.1854.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5298077&mlon=-6.1854143",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da382df3fd438b4b814206313fb435c0e1c61a2144c494cbafb9e7592eec363b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Plata (Curso Fluvial) en Utrera. WGS84: 36.986689, -5.621618.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "49c278c27e3f74d4bdcd7b2b792d3ef7f12e0a2c3c633ca789e51ba5657e1a98"
+}

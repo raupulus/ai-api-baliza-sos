@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Audalaz (Curso Fluvial) en Alpandeire. WGS84: 36.643881, -5.222803.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c8a58045e3073ac5e0c3437ddbc334cb756db84155fe16bc37db0323a3b67c4e"
+}

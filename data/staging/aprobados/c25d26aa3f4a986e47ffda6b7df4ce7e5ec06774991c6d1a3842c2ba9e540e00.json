@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Berrueco (Curso Fluvial) en Ubrique. WGS84: 36.631299, -5.426744.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c25d26aa3f4a986e47ffda6b7df4ce7e5ec06774991c6d1a3842c2ba9e540e00"
+}

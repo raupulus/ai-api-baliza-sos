@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cermeño (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.356516, -5.771644.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3d8cda5c41ea56ff50975b35a99f0aa77c52d3562a92890680ec3aaa638604c5"
+}

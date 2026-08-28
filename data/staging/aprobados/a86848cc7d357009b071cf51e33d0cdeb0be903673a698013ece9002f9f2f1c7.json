@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Helechos (Curso Fluvial) en Los Barrios. WGS84: 36.215343, -5.594589.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a86848cc7d357009b071cf51e33d0cdeb0be903673a698013ece9002f9f2f1c7"
+}

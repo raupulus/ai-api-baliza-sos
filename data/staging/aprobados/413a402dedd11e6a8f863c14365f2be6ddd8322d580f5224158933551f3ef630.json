@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Guadarín (Curso Fluvial) en Faraján. WGS84: 36.595905, -5.20343.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "413a402dedd11e6a8f863c14365f2be6ddd8322d580f5224158933551f3ef630"
+}

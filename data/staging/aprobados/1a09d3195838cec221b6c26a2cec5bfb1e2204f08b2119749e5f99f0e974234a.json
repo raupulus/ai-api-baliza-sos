@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. V Centenario (Sanlúcar de Barrameda). WGS84: 36.771424, -6.356657.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1a09d3195838cec221b6c26a2cec5bfb1e2204f08b2119749e5f99f0e974234a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Serrano Aznarte (farmacia) en Ronda. Coordenadas aprox: 36.7427, -5.1653.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7426584&mlon=-5.1653297",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "98592cd68d404190f60c271a27d21e9dc3fbb42df21e71b482bbde6a5eaeb316"
+}

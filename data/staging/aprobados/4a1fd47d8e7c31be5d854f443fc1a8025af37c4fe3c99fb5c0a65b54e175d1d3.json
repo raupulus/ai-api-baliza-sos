@@ -1,0 +1,15 @@
+{
+  "texto": "Pabellón Polideportivo 28 de Febrero (Servicio/Equipamiento) en Setenil de las Bodegas. WGS84: 36.86236, -5.169141.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4a1fd47d8e7c31be5d854f443fc1a8025af37c4fe3c99fb5c0a65b54e175d1d3"
+}

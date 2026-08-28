@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Santa María del Mar (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.522106, -6.288923.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "248639b7802d0d8326f551c03bde5d598064b3a5b70991cdc49ed486ee93b55a"
+}

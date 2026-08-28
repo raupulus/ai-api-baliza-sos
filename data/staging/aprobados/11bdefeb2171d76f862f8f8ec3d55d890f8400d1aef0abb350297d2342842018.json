@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Hiedra (Curso Fluvial) en Júzcar. WGS84: 36.606066, -5.160809.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "11bdefeb2171d76f862f8f8ec3d55d890f8400d1aef0abb350297d2342842018"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Campo De Fútbol V (Puerto Real). WGS84: 36.486799, -6.11674.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0d41300057c65ca1c032ae55047ca6fd8eefb66b1cf46ca6422dac6079e1365f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Alcornocalejo (Curso Fluvial) en San José del Valle. WGS84: 36.654024, -5.806411.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5ac7e87e25b3c5824246e7f35bc766a33a7830844909ca10c64504edc101fe58"
+}

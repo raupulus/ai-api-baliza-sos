@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ruiz Fernández de Mesa (farmacia). Coordenadas aprox: 36.5202, -6.2851.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5201958&mlon=-6.285101",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8f6115f414d756853adccef6a1610f828d0c6bf4ec0ac843a653d07258e46277"
+}

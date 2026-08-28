@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Humo (Curso Fluvial) en Algodonales. WGS84: 36.890177, -5.441404.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d8b7cd93d8e736cb2e825cc0e35eecc60a6bac0f6871caf741df2332a96c370f"
+}

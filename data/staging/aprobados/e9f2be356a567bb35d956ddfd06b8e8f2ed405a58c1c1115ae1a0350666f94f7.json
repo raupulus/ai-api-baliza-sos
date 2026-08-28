@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Matancilla (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.57097, -6.036359.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e9f2be356a567bb35d956ddfd06b8e8f2ed405a58c1c1115ae1a0350666f94f7"
+}

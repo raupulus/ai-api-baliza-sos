@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Toriles (Curso Fluvial) en Tarifa. WGS84: 36.173451, -5.713962.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c96837eca0f544be143547275fe1d725d145df94edc9053057b3a8966f69e77a"
+}

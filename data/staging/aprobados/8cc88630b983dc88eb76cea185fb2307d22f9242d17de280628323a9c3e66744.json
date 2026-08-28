@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Cortadura (playa). Coordenadas aprox: 36.4878, -6.2676.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4877587&mlon=-6.2676198",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8cc88630b983dc88eb76cea185fb2307d22f9242d17de280628323a9c3e66744"
+}

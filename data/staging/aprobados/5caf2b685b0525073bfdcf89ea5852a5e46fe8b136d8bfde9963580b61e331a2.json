@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Arcos (Curso Fluvial) en Ronda. WGS84: 36.76445, -5.123491.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5caf2b685b0525073bfdcf89ea5852a5e46fe8b136d8bfde9963580b61e331a2"
+}

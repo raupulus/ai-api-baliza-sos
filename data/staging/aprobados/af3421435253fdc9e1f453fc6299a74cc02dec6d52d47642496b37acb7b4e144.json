@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Serman (centro de salud). Coordenadas aprox: 36.6927, -6.1243.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6926956&mlon=-6.1243484",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "af3421435253fdc9e1f453fc6299a74cc02dec6d52d47642496b37acb7b4e144"
+}

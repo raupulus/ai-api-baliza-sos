@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Puerto Alto (farmacia) en Estepona. Coordenadas aprox: 36.4177, -5.1589.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4176685&mlon=-5.1589201",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b00d7dd470de937fbf96f5f194473e0d4bfb21947a698ce5de07143a065afff7"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Marismilla (Relieve Litoral / Marítimo) en Las Cabezas de San Juan. WGS84: 36.989925, -6.008475.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "514c583a546e96c10837810b539c1db18ea27ddd9a90edd70329bfeea1609421"
+}

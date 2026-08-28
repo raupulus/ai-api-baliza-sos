@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Judio (Curso Fluvial) en Estepona. WGS84: 36.441938, -5.103066.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1bb87d013f24e4d52bd075d0b2a302d0c7e26b8010aad002e315f8110dfd9c9d"
+}

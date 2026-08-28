@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital Quirónsalud Campo de Gibraltar (hospital) en Palmones. Coordenadas aprox: 36.1854, -5.4309.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1854281&mlon=-5.4308947",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f29fc51dd4b0452154a24c795d078ddf1cfb52c6b79c9dcd062880922cf43399"
+}

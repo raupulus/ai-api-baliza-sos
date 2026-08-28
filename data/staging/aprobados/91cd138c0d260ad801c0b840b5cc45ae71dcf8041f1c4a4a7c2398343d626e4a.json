@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado de Medina Sidonia (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.543794, -5.900344.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "91cd138c0d260ad801c0b840b5cc45ae71dcf8041f1c4a4a7c2398343d626e4a"
+}

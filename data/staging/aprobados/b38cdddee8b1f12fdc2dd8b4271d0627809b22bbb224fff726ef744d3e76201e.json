@@ -1,0 +1,15 @@
+{
+  "texto": "Río Manilva (Curso Fluvial) en Manilva. WGS84: 36.373443, -5.226577.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b38cdddee8b1f12fdc2dd8b4271d0627809b22bbb224fff726ef744d3e76201e"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Elisa Gil de Reboleño Roselló (farmacia). Coordenadas aprox: 36.5932, -6.2361.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5932388&mlon=-6.236144",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "866006ff070698f9fc18443ce7f5965cf81396c1d3fde59d6f694a7fc7a51b23"
+}

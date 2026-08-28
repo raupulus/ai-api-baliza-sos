@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Compañía de María (San Fernando). WGS84: 36.460437, -6.201011.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "51acac60ded7eb4f7a5b8406bb99d36b855701811d171dab2bbed37627b4cb76"
+}

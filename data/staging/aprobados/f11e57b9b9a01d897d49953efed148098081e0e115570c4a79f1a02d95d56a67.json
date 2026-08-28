@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Ministra (playa). Coordenadas aprox: 36.5250, -6.2322.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5249617&mlon=-6.2322282",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f11e57b9b9a01d897d49953efed148098081e0e115570c4a79f1a02d95d56a67"
+}

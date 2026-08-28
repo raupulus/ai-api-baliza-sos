@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Portugués (Curso Fluvial) en Medina Sidonia. WGS84: 36.299121, -5.748031.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "dc21e720a611f27e7a5cb26a69c338e03b02f2698256b4f84fab529b26afc179"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: A-480 Venta El Menuito (Chipiona). WGS84: 36.74881, -6.380444.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2611ca9ccda8662a671cc120db44e36fe02db8f39d2451e54496802fc5f9f757"
+}

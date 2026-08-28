@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna del Taraje (Masa de Agua) en Puerto Real. WGS84: 36.535474, -6.057277.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a58982d35cdf2e8be148638482f000da24b21b2050a7d72d00f6da6394436e23"
+}

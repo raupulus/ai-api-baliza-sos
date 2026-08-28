@@ -1,0 +1,15 @@
+{
+  "texto": "Juan Oncala - Clínica del Pie (centro de salud). Coordenadas aprox: 36.1348, -5.4523.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1348368&mlon=-5.4523351",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e35e97a1505dfef6948a2210853471a8a593ea888d4fde6d41b0d1f72277c91c"
+}

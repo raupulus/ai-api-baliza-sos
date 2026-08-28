@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Sancho (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.383418, -5.416635.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a6ccc036250b1dcfbd7eedf73043eb2238b5b21f161502dbc9426feefe3a4c29"
+}

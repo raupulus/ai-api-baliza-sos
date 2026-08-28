@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Caños (Curso Fluvial) en Montellano. WGS84: 37.016889, -5.605132.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a14e03361a415a9a09f2d0bd715761cd32b335e2a0996c16ef49e8ed0e5830ab"
+}

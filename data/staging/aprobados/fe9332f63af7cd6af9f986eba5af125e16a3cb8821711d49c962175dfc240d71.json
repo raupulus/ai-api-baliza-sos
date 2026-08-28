@@ -1,0 +1,15 @@
+{
+  "texto": "Punta Acebuche (Relieve Litoral / Marítimo) en Algeciras. WGS84: 36.04958, -5.46753.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fe9332f63af7cd6af9f986eba5af125e16a3cb8821711d49c962175dfc240d71"
+}

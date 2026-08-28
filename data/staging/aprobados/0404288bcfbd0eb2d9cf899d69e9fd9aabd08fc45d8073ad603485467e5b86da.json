@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cañuelo (Curso Fluvial) en Utrera. WGS84: 36.982343, -5.616743.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0404288bcfbd0eb2d9cf899d69e9fd9aabd08fc45d8073ad603485467e5b86da"
+}

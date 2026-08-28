@@ -1,0 +1,15 @@
+{
+  "texto": "Los Santos Patronos (Masa de Agua) en San Fernando. WGS84: 36.488785, -6.186464.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8b12127b1574728f2d11f4c401ae5cf4934808e17e33970c8b2dff7f3b5dc671"
+}

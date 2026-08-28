@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Juan José Jiménez León (farmacia) en Las Cabezas de San Juan. Coordenadas aprox: 36.9826, -5.9364.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9825655&mlon=-5.936423",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "220af8f23c3946d20005ca7b91251b7c27fd85b4c411cee08c15106a6e299bf4"
+}

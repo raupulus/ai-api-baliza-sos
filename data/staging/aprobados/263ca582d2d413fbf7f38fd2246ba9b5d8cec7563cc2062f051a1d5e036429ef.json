@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Loro (Curso Fluvial) en Benadalid. WGS84: 36.624349, -5.236774.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "263ca582d2d413fbf7f38fd2246ba9b5d8cec7563cc2062f051a1d5e036429ef"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Altamirano (Servicio/Equipamiento) en Barbate. WGS84: 36.242706, -5.919709.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6eb7175559c1b8c04fe5c11e4db80d0ebbabbe1ad75a068f756670d7b162a82d"
+}

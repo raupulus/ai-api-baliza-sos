@@ -1,0 +1,15 @@
+{
+  "texto": "La Marisma (Relieve Litoral / Marítimo) en Rota. WGS84: 36.670553, -6.351858.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "40e66ae1ebfe6c3e21e284f6516084db550707f3550cf5f308c9ca2d92227dfa"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Las Flores (farmacia) en La Línea de la Concepción. Coordenadas aprox: 36.1634, -5.3500.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1633942&mlon=-5.3500195",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6752edc2e30fe88be90dde7dee95c22daa0fb52fdde979ec5f6be0afa0ef7d36"
+}

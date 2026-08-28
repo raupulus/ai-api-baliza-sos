@@ -1,0 +1,15 @@
+{
+  "texto": "Venta la Carreta (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.644946, -6.057463.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d9a4c46b9ca14e6a3083feb74c061112a5fec3015a58508cc4d6cc524323a4b0"
+}

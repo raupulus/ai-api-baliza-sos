@@ -1,0 +1,15 @@
+{
+  "texto": "Aguila culebrera (Circaetus gallicus (Gmelin, 1788)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2480666",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc08f76cb1caed1a778721613603a53af37dbf49b91b444068ca13c1e8d9ea51"
+}

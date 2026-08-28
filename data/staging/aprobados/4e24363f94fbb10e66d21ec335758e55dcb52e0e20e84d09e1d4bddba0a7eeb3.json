@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de San Roque (Cádiz). Código INE 11033. Coordenadas WGS84 (centroide): 36.245568, -5.294323.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4e24363f94fbb10e66d21ec335758e55dcb52e0e20e84d09e1d4bddba0a7eeb3"
+}

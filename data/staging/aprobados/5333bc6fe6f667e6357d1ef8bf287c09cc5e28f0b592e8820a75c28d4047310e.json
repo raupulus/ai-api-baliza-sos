@@ -1,0 +1,15 @@
+{
+  "texto": "Cañada de Cantarranas (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.695904, -6.202023.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5333bc6fe6f667e6357d1ef8bf287c09cc5e28f0b592e8820a75c28d4047310e"
+}

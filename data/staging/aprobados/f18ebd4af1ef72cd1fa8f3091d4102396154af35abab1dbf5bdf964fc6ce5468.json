@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Álamos (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.334075, -5.401079.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f18ebd4af1ef72cd1fa8f3091d4102396154af35abab1dbf5bdf964fc6ce5468"
+}

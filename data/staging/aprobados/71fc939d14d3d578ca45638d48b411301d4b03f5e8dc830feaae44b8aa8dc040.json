@@ -1,0 +1,15 @@
+{
+  "texto": "Playa Beach (Relieve Litoral / Marítimo) en Estepona. WGS84: 36.416857, -5.152282.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "71fc939d14d3d578ca45638d48b411301d4b03f5e8dc830feaae44b8aa8dc040"
+}

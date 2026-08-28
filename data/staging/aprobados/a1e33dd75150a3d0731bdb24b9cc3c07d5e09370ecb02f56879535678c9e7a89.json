@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Valdelagrana (Relieve Litoral / Marítimo) en El Puerto de Santa María. WGS84: 36.580221, -6.230551.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a1e33dd75150a3d0731bdb24b9cc3c07d5e09370ecb02f56879535678c9e7a89"
+}

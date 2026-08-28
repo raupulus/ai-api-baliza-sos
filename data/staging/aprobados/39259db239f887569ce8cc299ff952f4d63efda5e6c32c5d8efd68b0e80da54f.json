@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Guadalquitón (Curso Fluvial) en San Roque. WGS84: 36.261387, -5.31326.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "39259db239f887569ce8cc299ff952f4d63efda5e6c32c5d8efd68b0e80da54f"
+}

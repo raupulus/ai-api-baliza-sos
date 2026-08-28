@@ -1,0 +1,15 @@
+{
+  "texto": "Midtown Clinic (centro de salud). Coordenadas aprox: 36.1415, -5.3557.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1415202&mlon=-5.3557224",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "356d469d0496afe26c07e6689b3db4d45e53238fbfba3d91f3cc3eb2ff094247"
+}

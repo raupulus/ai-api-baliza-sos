@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Ahogaratones (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.366743, -6.138029.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4704c2720f663e99c6b72e445580a70bf515fb5cb16eb7c4f0f0c6e24d56ec1e"
+}

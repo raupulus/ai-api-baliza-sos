@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Talavera (Curso Fluvial) en Puerto Serrano. WGS84: 37.039922, -5.430802.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2487b42f2e2bc41682de8fb9adcda3e6bf03571d026c3d6786d438ebdaf2d48d"
+}

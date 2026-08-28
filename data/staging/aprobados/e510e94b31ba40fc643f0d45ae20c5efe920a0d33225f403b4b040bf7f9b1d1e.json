@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia María José Domínguez Ceada (farmacia) en Marismillas. Coordenadas aprox: 36.9988, -5.9995.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9988135&mlon=-5.9995077",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e510e94b31ba40fc643f0d45ae20c5efe920a0d33225f403b4b040bf7f9b1d1e"
+}

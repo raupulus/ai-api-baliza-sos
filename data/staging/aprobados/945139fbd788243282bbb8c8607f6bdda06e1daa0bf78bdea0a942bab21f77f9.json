@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Cañuelo (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.088272, -5.806709.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "945139fbd788243282bbb8c8607f6bdda06e1daa0bf78bdea0a942bab21f77f9"
+}

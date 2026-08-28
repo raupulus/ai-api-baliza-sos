@@ -1,0 +1,15 @@
+{
+  "texto": "Depósito de Agua el Tempul (Obra Hidráulica) en Jerez de la Frontera. WGS84: 36.690017, -6.150623.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d1d847bf61874c2ef1b4cb5594d2db36e997a6037420e991d2f2136bfee6f34"
+}

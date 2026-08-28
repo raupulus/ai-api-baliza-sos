@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Rafael Alés Contreras (farmacia). Coordenadas aprox: 36.1863, -6.0149.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1862939&mlon=-6.0149127",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fa73cbb52299ffaf885a3a094fd63ac6978eb2b6c5bf58c27fcc6923138abcb2"
+}

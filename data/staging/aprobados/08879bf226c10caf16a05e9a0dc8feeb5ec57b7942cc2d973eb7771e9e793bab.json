@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Alcones (Curso Fluvial) en El Cuervo de Sevilla. WGS84: 36.877587, -6.025699.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "08879bf226c10caf16a05e9a0dc8feeb5ec57b7942cc2d973eb7771e9e793bab"
+}

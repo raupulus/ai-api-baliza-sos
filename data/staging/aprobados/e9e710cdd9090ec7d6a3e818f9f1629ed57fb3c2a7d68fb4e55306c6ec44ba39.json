@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Ronda (Curso Fluvial) en Torre Alháquime. WGS84: 36.915012, -5.239386.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e9e710cdd9090ec7d6a3e818f9f1629ed57fb3c2a7d68fb4e55306c6ec44ba39"
+}

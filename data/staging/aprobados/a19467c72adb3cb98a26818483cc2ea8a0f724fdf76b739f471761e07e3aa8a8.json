@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de la Vigueta (Curso Fluvial) en Los Barrios. WGS84: 36.194662, -5.583291.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a19467c72adb3cb98a26818483cc2ea8a0f724fdf76b739f471761e07e3aa8a8"
+}

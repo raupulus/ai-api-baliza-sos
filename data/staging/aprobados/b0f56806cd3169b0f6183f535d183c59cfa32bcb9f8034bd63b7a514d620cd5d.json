@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Morenillo (Curso Fluvial) en Los Barrios. WGS84: 36.195608, -5.501757.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b0f56806cd3169b0f6183f535d183c59cfa32bcb9f8034bd63b7a514d620cd5d"
+}

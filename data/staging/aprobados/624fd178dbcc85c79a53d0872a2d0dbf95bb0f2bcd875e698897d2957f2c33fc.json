@@ -1,0 +1,15 @@
+{
+  "texto": "Jose Gallardo Acuña (farmacia). Coordenadas aprox: 36.1353, -5.8448.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1353358&mlon=-5.8448405",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "624fd178dbcc85c79a53d0872a2d0dbf95bb0f2bcd875e698897d2957f2c33fc"
+}

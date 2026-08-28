@@ -1,0 +1,15 @@
+{
+  "texto": "policlínica la milagrosa,Clínicas ADI (centro de salud) en San Fernando. Coordenadas aprox: 36.4504, -6.2169.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.450416&mlon=-6.2169043",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f2995caf5c49334203eecda84596335d867418110ef2ce51389f900f7bdb38d1"
+}

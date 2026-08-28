@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Fuenteprieto (Curso Fluvial) en Algámitas. WGS84: 37.024056, -5.156412.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6d094dd77c6a35a1796c9fe4cdbece1e26f501d23df2ccbec66ad9588986bbab"
+}

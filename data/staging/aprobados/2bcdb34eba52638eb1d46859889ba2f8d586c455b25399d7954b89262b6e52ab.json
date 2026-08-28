@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cotero (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.811025, -5.980032.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2bcdb34eba52638eb1d46859889ba2f8d586c455b25399d7954b89262b6e52ab"
+}

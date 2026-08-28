@@ -1,0 +1,15 @@
+{
+  "texto": "Playa Faro de Trafalgar (playa). Coordenadas aprox: 36.1815, -6.0329.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1815302&mlon=-6.0329194",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4ee2ec4676ab55ede1bdda3033df3e80300793069523cfeb658b70f54d1f0977"
+}

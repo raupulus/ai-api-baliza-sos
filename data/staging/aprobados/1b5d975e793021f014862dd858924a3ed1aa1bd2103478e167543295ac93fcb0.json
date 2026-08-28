@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Moleros (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.398463, -5.451031.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1b5d975e793021f014862dd858924a3ed1aa1bd2103478e167543295ac93fcb0"
+}

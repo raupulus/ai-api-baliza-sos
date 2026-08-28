@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: JIMENA DE LA FRONTERA. WGS84: 36.424272, -5.434066.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b05b7d1a9eccbf30db27e34c22d1f64d1e9b1fcf817abd08bb11dbd769fe5494"
+}

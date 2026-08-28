@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Ciegos (Curso Fluvial) en San José del Valle. WGS84: 36.566775, -5.840249.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "142d3aa6bcab5e15b7a001f8b42c260577aafd203bde37733bbaad2cc6ca4934"
+}

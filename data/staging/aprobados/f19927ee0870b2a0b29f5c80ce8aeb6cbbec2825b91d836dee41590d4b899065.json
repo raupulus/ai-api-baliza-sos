@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Torres (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.71794, -5.694625.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f19927ee0870b2a0b29f5c80ce8aeb6cbbec2825b91d836dee41590d4b899065"
+}

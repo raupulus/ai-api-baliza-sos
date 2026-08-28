@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Palmetín (Curso Fluvial) en San José del Valle. WGS84: 36.632236, -5.719423.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "87fd03fd9782c0a45924177c15b55324cef962d4ce1645c724150ca4ac95e342"
+}

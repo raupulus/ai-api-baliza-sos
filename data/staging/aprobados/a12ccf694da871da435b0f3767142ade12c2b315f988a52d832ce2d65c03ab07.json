@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Cortadura (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.490466, -6.270423.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a12ccf694da871da435b0f3767142ade12c2b315f988a52d832ce2d65c03ab07"
+}

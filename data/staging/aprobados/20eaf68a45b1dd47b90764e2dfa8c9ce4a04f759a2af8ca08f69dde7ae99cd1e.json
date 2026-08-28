@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Puntales (farmacia). Coordenadas aprox: 36.5066, -6.2670.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5065974&mlon=-6.2670321",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "20eaf68a45b1dd47b90764e2dfa8c9ce4a04f759a2af8ca08f69dde7ae99cd1e"
+}

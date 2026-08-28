@@ -1,0 +1,15 @@
+{
+  "texto": "Granja Escuela el Dorado (Servicio/Equipamiento) en Jimena de la Frontera. WGS84: 36.43636, -5.393808.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "19f11d7675c76ced6f6249cc83db438f83ace7b4b9d899ad7c04597b8f19f145"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de Ortela (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.553889, -5.62031.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "919f8fd094fd1e760d7984ceb3d6756946e922812745942f38a3ab1a2945e342"
+}

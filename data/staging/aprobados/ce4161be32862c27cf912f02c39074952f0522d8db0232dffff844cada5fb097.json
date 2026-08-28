@@ -1,0 +1,15 @@
+{
+  "texto": "Restaurante las Rejas (Servicio/Equipamiento) en Jimena de la Frontera. WGS84: 36.435515, -5.443039.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ce4161be32862c27cf912f02c39074952f0522d8db0232dffff844cada5fb097"
+}

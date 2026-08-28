@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Pulito (farmacia). Coordenadas aprox: 36.5097, -6.2763.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5096691&mlon=-6.2762574",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b6eb38e07288208b23dee365666362f19023789cc4ed2d620d94e91a51607296"
+}

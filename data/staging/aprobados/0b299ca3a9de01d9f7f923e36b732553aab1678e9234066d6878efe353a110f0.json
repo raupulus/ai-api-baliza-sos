@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Manuel Aragón (Chiclana de la Frontera). WGS84: 36.451805, -6.118891.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0b299ca3a9de01d9f7f923e36b732553aab1678e9234066d6878efe353a110f0"
+}

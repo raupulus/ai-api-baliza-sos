@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Pilos (Curso Fluvial) en Algámitas. WGS84: 37.020957, -5.1273.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fb1a32b436b7426e3ec7f3d4c87c7b85af8e7f53f645a99232fee5804a7d0283"
+}

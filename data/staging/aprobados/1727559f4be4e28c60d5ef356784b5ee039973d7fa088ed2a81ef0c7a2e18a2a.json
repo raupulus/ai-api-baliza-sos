@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Molina (Servicio/Equipamiento) en Vejer de la Frontera. WGS84: 36.236957, -6.072891.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1727559f4be4e28c60d5ef356784b5ee039973d7fa088ed2a81ef0c7a2e18a2a"
+}

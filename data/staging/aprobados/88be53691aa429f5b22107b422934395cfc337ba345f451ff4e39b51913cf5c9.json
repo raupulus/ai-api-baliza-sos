@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Charcón (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.697066, -5.78783.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "88be53691aa429f5b22107b422934395cfc337ba345f451ff4e39b51913cf5c9"
+}

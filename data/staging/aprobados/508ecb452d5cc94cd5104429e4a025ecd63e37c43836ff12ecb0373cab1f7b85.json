@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Sabinillas (farmacia) en Manilva. Coordenadas aprox: 36.3639, -5.2298.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3639174&mlon=-5.2297505",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "508ecb452d5cc94cd5104429e4a025ecd63e37c43836ff12ecb0373cab1f7b85"
+}

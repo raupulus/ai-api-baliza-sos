@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo las Cañillas (Servicio/Equipamiento) en Cortes de la Frontera. WGS84: 36.505259, -5.521608.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6bce3b56e9065a6bbabe600ff47199fc61133bf68d1a703dcb570ec0a0e8e4f0"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Refugio para ganado (refugio). Coordenadas aprox: 36.7152, -5.3809.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7151519&mlon=-5.3809138",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "refugio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f61d1f1f4a7127caee896bb1f2f099c050532287954b089f6fe17f68f67110b5"
+}

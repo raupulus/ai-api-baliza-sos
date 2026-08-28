@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación De San Roque V. WGS84: 36.213886, -5.432217.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "54e8e5f1667f2d5b993c6e3d1165a30449f81942e08b03ab49a1363d24ed0ff5"
+}

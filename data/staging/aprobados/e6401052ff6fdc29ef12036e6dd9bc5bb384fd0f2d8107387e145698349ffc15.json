@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Majaleta (Curso Fluvial) en Los Barrios. WGS84: 36.206122, -5.467421.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e6401052ff6fdc29ef12036e6dd9bc5bb384fd0f2d8107387e145698349ffc15"
+}

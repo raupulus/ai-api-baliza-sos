@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Descansadero (Curso Fluvial) en Grazalema. WGS84: 36.757147, -5.46371.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "34fe479eb392aa55a4e6d8c2f0e5b8f5b947e8e7fa8cfe241997df7f00432372"
+}

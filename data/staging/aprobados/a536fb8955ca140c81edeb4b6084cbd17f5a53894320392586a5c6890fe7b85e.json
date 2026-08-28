@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Pañeros (Curso Fluvial) en El Gastor. WGS84: 36.853388, -5.369772.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a536fb8955ca140c81edeb4b6084cbd17f5a53894320392586a5c6890fe7b85e"
+}

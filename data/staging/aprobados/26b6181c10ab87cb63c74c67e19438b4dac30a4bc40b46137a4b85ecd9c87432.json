@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Campillo (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.656169, -6.284648.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "26b6181c10ab87cb63c74c67e19438b4dac30a4bc40b46137a4b85ecd9c87432"
+}

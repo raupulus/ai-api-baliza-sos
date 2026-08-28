@@ -1,0 +1,15 @@
+{
+  "texto": "Clinica Novo Sancti Petri (centro de salud). Coordenadas aprox: 36.3562, -6.1587.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.356191&mlon=-6.1587055",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "368f25226fd4ba6bb69c8fd1e1ba18fcdc65776d270f04d5b58483ff64c1c373"
+}

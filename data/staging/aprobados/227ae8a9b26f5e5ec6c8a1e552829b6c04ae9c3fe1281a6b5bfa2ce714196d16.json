@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Ana Fernández García (farmacia) en Cartajima. Coordenadas aprox: 36.6448, -5.1540.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6447873&mlon=-5.154008",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "227ae8a9b26f5e5ec6c8a1e552829b6c04ae9c3fe1281a6b5bfa2ce714196d16"
+}

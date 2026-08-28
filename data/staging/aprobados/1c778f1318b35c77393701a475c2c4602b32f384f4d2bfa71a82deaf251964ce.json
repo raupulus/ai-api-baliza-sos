@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: CASTELLAR DE LA FRONTERA. WGS84: 36.331102, -5.406701.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c778f1318b35c77393701a475c2c4602b32f384f4d2bfa71a82deaf251964ce"
+}

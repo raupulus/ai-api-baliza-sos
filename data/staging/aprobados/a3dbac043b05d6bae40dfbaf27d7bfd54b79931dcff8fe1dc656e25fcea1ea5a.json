@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Casines (Puerto Real). WGS84: 36.522057, -6.170788.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a3dbac043b05d6bae40dfbaf27d7bfd54b79931dcff8fe1dc656e25fcea1ea5a"
+}

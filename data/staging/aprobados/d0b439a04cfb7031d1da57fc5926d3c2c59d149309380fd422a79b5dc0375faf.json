@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo las Carboneras (Curso Fluvial) en Medina Sidonia. WGS84: 36.449381, -5.822845.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d0b439a04cfb7031d1da57fc5926d3c2c59d149309380fd422a79b5dc0375faf"
+}

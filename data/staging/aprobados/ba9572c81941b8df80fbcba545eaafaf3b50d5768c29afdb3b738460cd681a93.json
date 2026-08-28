@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Tomás García Figueras (Jerez de la Frontera). WGS84: 36.700675, -6.141437.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ba9572c81941b8df80fbcba545eaafaf3b50d5768c29afdb3b738460cd681a93"
+}

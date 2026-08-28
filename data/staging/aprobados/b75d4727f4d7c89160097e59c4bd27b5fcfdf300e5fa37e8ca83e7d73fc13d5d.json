@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Boca Leones (Curso Fluvial) en Pruna. WGS84: 36.983667, -5.262095.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b75d4727f4d7c89160097e59c4bd27b5fcfdf300e5fa37e8ca83e7d73fc13d5d"
+}

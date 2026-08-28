@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Cuadrado (farmacia) en San Fernando. Coordenadas aprox: 36.4654, -6.1971.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4654316&mlon=-6.1970897",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "29e958849925f3ed579b75e4747732d3511fcfe2853546b709583d32942bcb99"
+}

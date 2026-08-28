@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Chorizo (Servicio/Equipamiento) en El Coronil. WGS84: 36.949026, -5.584482.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4251cff3733d18b4382a71b91a37015c53027c3696094a6089abcb9e893935cd"
+}

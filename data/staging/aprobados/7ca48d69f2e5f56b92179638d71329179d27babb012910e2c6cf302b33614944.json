@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Navetillas (Curso Fluvial) en Ronda. WGS84: 36.803504, -5.106848.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7ca48d69f2e5f56b92179638d71329179d27babb012910e2c6cf302b33614944"
+}

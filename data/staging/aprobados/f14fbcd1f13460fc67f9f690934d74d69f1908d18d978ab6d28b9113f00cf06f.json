@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud La Lobilla Estepona (centro de salud). Coordenadas aprox: 36.4325, -5.1419.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4325231&mlon=-5.1418993",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f14fbcd1f13460fc67f9f690934d74d69f1908d18d978ab6d28b9113f00cf06f"
+}

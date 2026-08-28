@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Algodonales (Cádiz). Código INE 11005. Coordenadas WGS84 (centroide): 36.89103, -5.434109.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "137aa87bebda598cf57e80ba16f4fab97b02c56c14d98c9fdb3aed1e4fc01fa9"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Aljibe (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.544141, -5.634304.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ea0cf253889ef7c085e8ae11dc9dd51f9e6b6a9830815593127532b9ef13fce4"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Piñar (Curso Fluvial) en Gaucín. WGS84: 36.488775, -5.300648.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "17a2ed4d735e49f5ec8cc4ea0cf9b030980216e917bf8c33f08c727090116ea7"
+}

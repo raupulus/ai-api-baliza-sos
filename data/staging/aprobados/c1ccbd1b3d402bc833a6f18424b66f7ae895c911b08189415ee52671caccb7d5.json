@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Sandaliales (Curso Fluvial) en Montellano. WGS84: 36.981139, -5.484944.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1ccbd1b3d402bc833a6f18424b66f7ae895c911b08189415ee52671caccb7d5"
+}

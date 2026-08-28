@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Plaza del Rey (San Fernando). WGS84: 36.463944, -6.198344.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fde75f0d8c9eab6acc86d76befa1c00140a4d615d4c28882d478536e6168d9b4"
+}

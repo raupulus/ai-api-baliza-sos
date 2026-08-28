@@ -1,0 +1,15 @@
+{
+  "texto": "Cueva del Hundidero (Cueva) en Montejaque. WGS84: 36.754653, -5.239894.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ef0109530c2b2bd948cd7d26170d8002338909d2cbb482311efb594706df5f12"
+}

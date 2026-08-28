@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Corchadillo (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.356563, -5.474329.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "884ed0904e5383e56f19a95d93e9abf215f3f350c2497bc63b784e15c2c552cc"
+}

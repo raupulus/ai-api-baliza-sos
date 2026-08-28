@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Hospital Virgen Del Camino V (Sanlúcar de Barrameda). WGS84: 36.768106, -6.358389.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "51ea0315928db6c4da8fe14c4ed7adb8c9d889607ab9ff0acf3940780cd2cfd3"
+}

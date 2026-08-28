@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Hondo (Curso Fluvial) en Cortes de la Frontera. WGS84: 36.608502, -5.342859.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5794c3d4d99edeaea46ae96f122c423053e2c75162c6ff84f3aa65c008621e85"
+}

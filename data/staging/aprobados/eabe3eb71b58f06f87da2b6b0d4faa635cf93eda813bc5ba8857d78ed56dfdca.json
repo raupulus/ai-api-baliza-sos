@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Garganta del Águila (Curso Fluvial) en Barbate. WGS84: 36.208072, -5.847393.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eabe3eb71b58f06f87da2b6b0d4faa635cf93eda813bc5ba8857d78ed56dfdca"
+}

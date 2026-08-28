@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud \"Doctor Gonzalo Pérez Fabra\" (centro de salud). Coordenadas aprox: 36.5211, -5.8640.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5210652&mlon=-5.8640019",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b4c5892fdcf2508a3b9ea6774e1239af0a8020f794e3f9f83d9b8cf41d338ff"
+}

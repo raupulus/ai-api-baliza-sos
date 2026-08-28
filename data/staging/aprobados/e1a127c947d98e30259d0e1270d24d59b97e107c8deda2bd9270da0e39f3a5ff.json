@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Zahara (Cádiz). Código INE 11042. Coordenadas WGS84 (centroide): 36.829888, -5.444953.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e1a127c947d98e30259d0e1270d24d59b97e107c8deda2bd9270da0e39f3a5ff"
+}

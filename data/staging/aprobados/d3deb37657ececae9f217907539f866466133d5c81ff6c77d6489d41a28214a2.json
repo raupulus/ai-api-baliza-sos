@@ -1,0 +1,15 @@
+{
+  "texto": "Río Rocinejo (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.396102, -5.699088.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d3deb37657ececae9f217907539f866466133d5c81ff6c77d6489d41a28214a2"
+}

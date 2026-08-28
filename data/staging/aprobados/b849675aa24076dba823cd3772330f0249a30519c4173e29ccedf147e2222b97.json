@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Cristo (playa). Coordenadas aprox: 36.4157, -5.1666.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4156916&mlon=-5.1665796",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b849675aa24076dba823cd3772330f0249a30519c4173e29ccedf147e2222b97"
+}

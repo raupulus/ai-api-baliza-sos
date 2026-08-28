@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Bolones (Curso Fluvial) en Parauta. WGS84: 36.659663, -5.139966.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "31590a7a6e8a4a23e183e4b90344b8f8426c05f68b1afba0c9127737f68dc22e"
+}

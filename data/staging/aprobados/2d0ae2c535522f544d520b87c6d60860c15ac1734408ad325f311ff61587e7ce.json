@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Hornacinos (Curso Fluvial) en Estepona. WGS84: 36.43735, -5.125492.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2d0ae2c535522f544d520b87c6d60860c15ac1734408ad325f311ff61587e7ce"
+}

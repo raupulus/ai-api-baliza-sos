@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Plaza Andalucia (Algeciras). WGS84: 36.133319, -5.452383.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "490875065cfb66c75d4814a5df58e784a7d58c7cbeb537586e35f59d9c781d02"
+}

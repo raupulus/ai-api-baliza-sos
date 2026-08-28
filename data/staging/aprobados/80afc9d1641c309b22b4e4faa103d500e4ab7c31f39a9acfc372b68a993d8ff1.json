@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Emilio Angel Mendaro (farmacia) en Lebrija. Coordenadas aprox: 36.9195, -6.0760.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9195182&mlon=-6.0759722",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "80afc9d1641c309b22b4e4faa103d500e4ab7c31f39a9acfc372b68a993d8ff1"
+}

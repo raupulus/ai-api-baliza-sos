@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cebrillo (Curso Fluvial) en Los Barrios. WGS84: 36.25868, -5.535224.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5819073210eda195467645c8cfde4a69eb0c7baf8c7d3a500030fb0949509820"
+}

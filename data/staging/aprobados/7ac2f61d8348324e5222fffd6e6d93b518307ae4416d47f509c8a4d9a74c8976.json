@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Urb. Ciudad Jardín (Los Barrios). WGS84: 36.184394, -5.443097.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7ac2f61d8348324e5222fffd6e6d93b518307ae4416d47f509c8a4d9a74c8976"
+}

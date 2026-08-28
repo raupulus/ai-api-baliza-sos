@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Manolo (Servicio/Equipamiento) en San Roque. WGS84: 36.307729, -5.293194.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "60ef406510cffd5f1948bf2dad5ddab4a03f9f0d823c63eee903f287878245b5"
+}

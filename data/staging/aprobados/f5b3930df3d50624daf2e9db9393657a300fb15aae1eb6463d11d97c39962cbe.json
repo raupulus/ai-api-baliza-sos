@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Alamillos (Curso Fluvial) en Ronda. WGS84: 36.819197, -5.21386.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f5b3930df3d50624daf2e9db9393657a300fb15aae1eb6463d11d97c39962cbe"
+}

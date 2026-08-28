@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente de la Caracola (Curso Fluvial) en Pruna. WGS84: 36.966467, -5.227554.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4bd997d926b9b9d5af1d40fd515f11528101fe2231dae07922f425d0e001a7c0"
+}

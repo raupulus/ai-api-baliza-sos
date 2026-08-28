@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Charcón (Curso Fluvial) en Olvera. WGS84: 36.893648, -5.284213.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "84fc7881a9b631ba6f5d8038c47c9482e922cb7521abf65ca5130db2972a1df2"
+}

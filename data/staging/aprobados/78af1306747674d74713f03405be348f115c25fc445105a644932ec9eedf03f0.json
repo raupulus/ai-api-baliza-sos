@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia J. Maria Gonzalez Rodriguez (farmacia) en Igualeja. Coordenadas aprox: 36.6303, -5.1227.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6302989&mlon=-5.1226845",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "78af1306747674d74713f03405be348f115c25fc445105a644932ec9eedf03f0"
+}

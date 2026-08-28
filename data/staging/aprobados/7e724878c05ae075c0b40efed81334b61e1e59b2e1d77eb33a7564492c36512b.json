@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Zarpa (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.748284, -6.089443.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7e724878c05ae075c0b40efed81334b61e1e59b2e1d77eb33a7564492c36512b"
+}

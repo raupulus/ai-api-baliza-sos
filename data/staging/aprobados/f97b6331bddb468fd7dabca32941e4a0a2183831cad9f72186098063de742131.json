@@ -1,0 +1,15 @@
+{
+  "texto": "Venta los Pinos (Servicio/Equipamiento) en Puerto Real. WGS84: 36.512739, -6.150256.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f97b6331bddb468fd7dabca32941e4a0a2183831cad9f72186098063de742131"
+}

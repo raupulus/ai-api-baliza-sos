@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Machorro (Curso Fluvial) en Tarifa. WGS84: 36.176823, -5.763993.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "280d8c97470f4e38bc73689e2c51ed15f9e0fd674dc322028be9184c182735c0"
+}

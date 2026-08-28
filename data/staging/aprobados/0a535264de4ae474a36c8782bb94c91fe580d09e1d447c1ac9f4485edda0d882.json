@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Hípico las Lagunetas (Servicio/Equipamiento) en Rota. WGS84: 36.673968, -6.374103.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0a535264de4ae474a36c8782bb94c91fe580d09e1d447c1ac9f4485edda0d882"
+}

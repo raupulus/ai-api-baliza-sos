@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Tres Caminos (Puerto Real). WGS84: 36.469027, -6.173693.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "99f10c84a0939e3fb8c6d1d3a2c4ba9be13bdd2df28a9951aa5f87e067b659a5"
+}

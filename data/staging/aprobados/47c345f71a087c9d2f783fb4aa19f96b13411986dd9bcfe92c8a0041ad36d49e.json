@@ -1,0 +1,15 @@
+{
+  "texto": "Las Marismas (Relieve Litoral / Marítimo) en Rota. WGS84: 36.662575, -6.354306.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "47c345f71a087c9d2f783fb4aa19f96b13411986dd9bcfe92c8a0041ad36d49e"
+}

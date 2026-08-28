@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: CADIZ. WGS84: 36.529276, -6.288518.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "43b150daf0ea8f55d43953fa638319c415a71f3752f31262b7440718dffb516f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Aguzadera (Curso Fluvial) en Utrera. WGS84: 37.016149, -5.674316.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d83b9d45fa00cd6c42f1e67ecc59af8f3c826e19212ce1188cf074a5b7eb4ca3"
+}

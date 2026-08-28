@@ -1,0 +1,15 @@
+{
+  "texto": "Parque Zoológico (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.690317, -6.149876.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9bf5ea3310192e5e76db7d265817d0474c5e860b8e0c0fbe83b3871275a50fd7"
+}

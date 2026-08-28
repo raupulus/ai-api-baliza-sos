@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Ventilla (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.536727, -5.664699.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "929f5ab9274ca4b05e340b2d66811f0074ba2b0798cd6c51b095a868ced8ec9a"
+}

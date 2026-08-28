@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia San Felipe (farmacia). Coordenadas aprox: 36.5146, -6.2819.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5146131&mlon=-6.281943",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "280d2a39bab54cd47ead5027996c21d909f31fa755a53f9d78de7adc0f6aad70"
+}

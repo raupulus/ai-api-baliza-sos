@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Barros de Alocaz (Curso Fluvial) en Las Cabezas de San Juan. WGS84: 36.979473, -5.837444.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8048af44360b4f1ab38c2f7d22277944156514cb0cf2b6c06b49ee33d0ee1800"
+}

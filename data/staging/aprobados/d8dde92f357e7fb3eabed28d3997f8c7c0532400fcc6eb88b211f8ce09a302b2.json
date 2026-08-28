@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Alguaciles (Curso Fluvial) en Utrera. WGS84: 37.009521, -5.797802.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d8dde92f357e7fb3eabed28d3997f8c7c0532400fcc6eb88b211f8ce09a302b2"
+}

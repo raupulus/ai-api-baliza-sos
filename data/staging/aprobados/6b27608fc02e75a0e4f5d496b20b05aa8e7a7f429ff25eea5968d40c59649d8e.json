@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Apeadero Los Barrios. WGS84: 36.183394, -5.49435.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b27608fc02e75a0e4f5d496b20b05aa8e7a7f429ff25eea5968d40c59649d8e"
+}

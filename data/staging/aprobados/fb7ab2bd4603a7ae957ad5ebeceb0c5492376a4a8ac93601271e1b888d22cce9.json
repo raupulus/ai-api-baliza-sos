@@ -1,0 +1,15 @@
+{
+  "texto": "Campus el Sabio (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.661864, -6.155516.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fb7ab2bd4603a7ae957ad5ebeceb0c5492376a4a8ac93601271e1b888d22cce9"
+}

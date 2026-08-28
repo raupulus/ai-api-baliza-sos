@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de San Isidaro (Servicio/Equipamiento) en Benadalid. WGS84: 36.622817, -5.269732.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2e3e9a972d3efc1c4610c0f1e1376b323fff9fc4f7b199f5e95bb7184cf9ad53"
+}

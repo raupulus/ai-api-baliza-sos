@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Sotogrande Alto V (San Roque). WGS84: 36.278856, -5.314136.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e8183e030bc3c33baad93b12a9dad0e675d463049d20f166d0de1d5bdfe56aab"
+}

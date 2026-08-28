@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Garganta los Pájaros (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.355696, -5.697333.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1001ec0deab2aac1444b3068243e239989487757e72a83200cdcc801bfd8b5b6"
+}

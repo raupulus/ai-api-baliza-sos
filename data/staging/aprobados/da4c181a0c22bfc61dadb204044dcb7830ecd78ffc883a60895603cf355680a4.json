@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo Lebrija (Obra Hidráulica) en Las Cabezas de San Juan. WGS84: 36.975809, -5.950559.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "da4c181a0c22bfc61dadb204044dcb7830ecd78ffc883a60895603cf355680a4"
+}

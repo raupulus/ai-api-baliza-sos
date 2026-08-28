@@ -1,0 +1,15 @@
+{
+  "texto": "Sagasta con Sacramento (farmacia). Coordenadas aprox: 36.5323, -6.2996.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5323124&mlon=-6.2996297",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d727e99331e03d994bd5ab06da9ec4d254a32bae2d2f7e878fd1a282a1942b6c"
+}

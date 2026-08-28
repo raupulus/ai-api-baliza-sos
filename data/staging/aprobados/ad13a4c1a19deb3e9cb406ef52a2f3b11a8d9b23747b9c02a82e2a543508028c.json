@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. De Andalucía V (Jerez de la Frontera). WGS84: 36.705044, -6.117529.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ad13a4c1a19deb3e9cb406ef52a2f3b11a8d9b23747b9c02a82e2a543508028c"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Faro Colorado (faro). Coordenadas aprox: 36.8023, -6.3664.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8022871&mlon=-6.366379",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "13cb181cfb7fda30735e5f207809f22532b165ba83aed8f26d5c155d67f8d40a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Valdevaqueros (playa). Coordenadas aprox: 36.0631, -5.6838.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0630918&mlon=-5.6838149",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4643835b472a2082b97d125cc6763ba8b3da6db14f3278bb963b8b2d75313823"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Alameda Solano (Chiclana de la Frontera). WGS84: 36.425378, -6.144524.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e20280e8ac0d519bb022034c53f0897164d74be9411e4322cc9b785ffe439a01"
+}

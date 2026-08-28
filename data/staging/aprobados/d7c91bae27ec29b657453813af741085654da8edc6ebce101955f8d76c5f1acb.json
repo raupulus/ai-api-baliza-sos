@@ -1,0 +1,15 @@
+{
+  "texto": "San Severiano (farmacia). Coordenadas aprox: 36.5210, -6.2791.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5209751&mlon=-6.2791347",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d7c91bae27ec29b657453813af741085654da8edc6ebce101955f8d76c5f1acb"
+}

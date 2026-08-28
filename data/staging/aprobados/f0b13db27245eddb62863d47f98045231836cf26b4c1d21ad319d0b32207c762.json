@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Puerto Santa María Angel Salvatierra (centro de salud). Coordenadas aprox: 36.6119, -6.2294.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6118626&mlon=-6.2293962",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f0b13db27245eddb62863d47f98045231836cf26b4c1d21ad319d0b32207c762"
+}

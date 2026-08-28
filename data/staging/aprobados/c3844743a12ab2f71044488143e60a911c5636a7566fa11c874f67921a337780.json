@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Jucilla (Curso Fluvial) en Montellano. WGS84: 37.030333, -5.523893.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c3844743a12ab2f71044488143e60a911c5636a7566fa11c874f67921a337780"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Rodríguez Muñoz (farmacia). Coordenadas aprox: 36.8148, -5.7432.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8147595&mlon=-5.7431817",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a5ea6275ea6f11096762c4791495d608fb400aaf1c42b9f36dfdbb963e1785f4"
+}

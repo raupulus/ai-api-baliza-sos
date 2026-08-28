@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo del Colorado (Servicio/Equipamiento) en Conil de la Frontera. WGS84: 36.332291, -6.089981.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4f9f9f02893372928d6d9f736db181886b9c1204fe57c713657423587dd2f202"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Río Genal (Curso Fluvial) en Casares. WGS84: 36.402527, -5.322948.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0bb7ca10c358bd385ab4f320d3b560a02f97c53dfa61715f7ef163320bee5495"
+}

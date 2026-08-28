@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Cerrillo (Curso Fluvial) en Grazalema. WGS84: 36.805944, -5.336209.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "82cd5d015ba74f3d28dafe30e89660d4968b7c37593ced5a069aa4296e5cb548"
+}

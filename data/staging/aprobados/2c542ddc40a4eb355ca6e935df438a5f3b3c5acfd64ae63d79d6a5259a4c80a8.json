@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Calita (Relieve Litoral / Marítimo) en El Puerto de Santa María. WGS84: 36.583141, -6.269239.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2c542ddc40a4eb355ca6e935df438a5f3b3c5acfd64ae63d79d6a5259a4c80a8"
+}

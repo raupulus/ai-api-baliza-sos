@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Corchado Gallego (farmacia). Coordenadas aprox: 36.6559, -5.6564.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6559412&mlon=-5.656443",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c866ab4be1bfa13b9d6daaaddfe8ddecf436ee56c62ee0f8088a87bd8676898"
+}

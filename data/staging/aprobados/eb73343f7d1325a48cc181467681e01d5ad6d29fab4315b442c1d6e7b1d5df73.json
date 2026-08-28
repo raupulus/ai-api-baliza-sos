@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Patriste (Servicio/Equipamiento) en Alcalá de los Gazules. WGS84: 36.463843, -5.66424.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eb73343f7d1325a48cc181467681e01d5ad6d29fab4315b442c1d6e7b1d5df73"
+}

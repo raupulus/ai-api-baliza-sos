@@ -1,0 +1,15 @@
+{
+  "texto": "Cala de Melchor (Relieve Litoral / Marítimo) en Conil de la Frontera. WGS84: 36.295555, -6.128845.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5ab0477cbad9474d3a8c691d2682eec48b2d3e71fea9229a736c98dc0227307a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Regato de Matavacas (Curso Fluvial) en El Cuervo de Sevilla. WGS84: 36.846159, -5.969832.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8e976f5cbcf506d7a8a32347bf5c50f956bdf61746f1dcd010b0e73c300d48be"
+}

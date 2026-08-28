@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud de San Enrique (centro de salud) en San Enrique de Guadiaro. Coordenadas aprox: 36.3032, -5.2921.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3032211&mlon=-5.2920527",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c7da1dc5c49443980be9bec011a175166c0a07a3341bc7f88c8906e366e18f02"
+}

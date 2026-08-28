@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna de la Paja (Masa de Agua) en Chiclana de la Frontera. WGS84: 36.394632, -6.129796.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d5bc692aa4096cc651a8790b6f548565abebc11cae6228f9878e465209a2c0c3"
+}

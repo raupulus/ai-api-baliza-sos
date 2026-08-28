@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Alonso (Servicio/Equipamiento) en Las Cabezas de San Juan. WGS84: 36.9405, -5.914167.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d96ad4a9bb88cc361fbb190ecc75e72ad0531e1a6c9b0d927dedbdb03a0b656e"
+}

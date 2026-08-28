@@ -1,0 +1,15 @@
+{
+  "texto": "Lebrija Centro Médico (centro de salud). Coordenadas aprox: 36.9230, -6.0740.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9229948&mlon=-6.0739675",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5a9900650490cf2a431bcd82c132a895652c3303b7dc98c49adc92b523bb14fc"
+}

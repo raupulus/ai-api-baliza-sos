@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente Potable Simón Susarte (agua potable). Coordenadas aprox: 36.2132, -5.3840.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2131528&mlon=-5.3840485",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6e70d780be79cbe1fbfce303296040c6b959406f56b1d2cb3c381cc1122f4070"
+}

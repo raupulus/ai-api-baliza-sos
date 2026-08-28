@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Nueva Frontera (Servicio/Equipamiento) en San Roque. WGS84: 36.310603, -5.298967.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "26bcb295e49192ee3bb85d99b6542b3f9309dc8af60fa211887a7bd907f8ac38"
+}

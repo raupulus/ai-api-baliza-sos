@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: San Fernando-Centro. WGS84: 36.475961, -6.194032.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bf24af5afc4914a332edc91ec4b34b2b1e26792cc5fcf06fa7a366d5979f7bfa"
+}

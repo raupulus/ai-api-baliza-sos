@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Los Roncalillo (playa). Coordenadas aprox: 36.1804, -5.4084.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.180447&mlon=-5.4083977",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ec0c5bd6d141315b2bac24a6c4334a9ba4408e64ddcab88600e3b74d116984e4"
+}

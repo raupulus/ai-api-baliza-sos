@@ -1,0 +1,15 @@
+{
+  "texto": "Cementerio de San Lorenzo (Servicio/Equipamiento) en Benaoján. WGS84: 36.727935, -5.248844.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8b8a6239617086bfb91c151f5b1a93a3848a21d2629f702c78f3fea9ba01c656"
+}

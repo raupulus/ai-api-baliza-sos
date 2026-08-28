@@ -1,0 +1,15 @@
+{
+  "texto": "Batería de Costa Punta Acebuche (Servicio/Equipamiento) en Algeciras. WGS84: 36.065562, -5.462573.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0463cea94d6e1af70b0725597d0ffaeac723e9873ee84e011444811b22d2716a"
+}

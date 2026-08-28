@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Abrevadero (Curso Fluvial) en Gaucín. WGS84: 36.50484, -5.372934.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3b739706b02534decb3fa05862994e45ee643c34a84f42054fe31ef7bf1b5337"
+}

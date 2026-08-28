@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Moscardó (Obra Hidráulica) en Lebrija. WGS84: 36.927468, -5.935195.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0a8ea8c64a65bbe0f5c319e0fb6d6e58234566462337cdab2023fbbfeddd657d"
+}

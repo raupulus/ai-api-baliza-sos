@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital Universitario Punta de Europa (hospital). Coordenadas aprox: 36.1109, -5.4437.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1109074&mlon=-5.443741",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0e06a654d4bb4950652e171ed60566292f93f38065c9dfc5e0b9809b4d8bbc98"
+}

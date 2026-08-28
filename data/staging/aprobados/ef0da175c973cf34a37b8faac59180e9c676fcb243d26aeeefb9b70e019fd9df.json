@@ -1,0 +1,15 @@
+{
+  "texto": "Río Roche (Curso Fluvial) en Conil de la Frontera. WGS84: 36.313515, -6.138906.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ef0da175c973cf34a37b8faac59180e9c676fcb243d26aeeefb9b70e019fd9df"
+}

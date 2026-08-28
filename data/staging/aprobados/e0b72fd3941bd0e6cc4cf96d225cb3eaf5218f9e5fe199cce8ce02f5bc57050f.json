@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia El puente 24h (farmacia). Coordenadas aprox: 36.5201, -6.2761.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5201393&mlon=-6.2761143",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e0b72fd3941bd0e6cc4cf96d225cb3eaf5218f9e5fe199cce8ce02f5bc57050f"
+}

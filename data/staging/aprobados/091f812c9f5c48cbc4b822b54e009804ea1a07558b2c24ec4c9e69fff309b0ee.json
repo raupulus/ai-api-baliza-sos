@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Tinajero (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.719905, -5.580864.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "091f812c9f5c48cbc4b822b54e009804ea1a07558b2c24ec4c9e69fff309b0ee"
+}

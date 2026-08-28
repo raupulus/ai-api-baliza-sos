@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Chorreadero (Curso Fluvial) en Algodonales. WGS84: 36.857135, -5.507751.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6ea12471496f384a6e16e3e5bd76aaf745571df142f6e3fc282f8012926389c1"
+}

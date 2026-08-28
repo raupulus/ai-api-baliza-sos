@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Redondo González (farmacia). Coordenadas aprox: 36.5223, -5.8661.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5222529&mlon=-5.8661397",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7ac0aaeb56a4acb726f90c53c5ee983eb6394a62399163811d604f99ba3217da"
+}

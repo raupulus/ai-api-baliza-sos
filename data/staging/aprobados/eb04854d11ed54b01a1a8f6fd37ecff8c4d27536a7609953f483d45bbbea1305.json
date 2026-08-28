@@ -1,0 +1,15 @@
+{
+  "texto": "Canal del Molino (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.391465, -6.199082.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eb04854d11ed54b01a1a8f6fd37ecff8c4d27536a7609953f483d45bbbea1305"
+}

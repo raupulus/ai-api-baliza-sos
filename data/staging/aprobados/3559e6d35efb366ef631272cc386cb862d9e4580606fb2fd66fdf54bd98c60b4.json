@@ -1,0 +1,15 @@
+{
+  "texto": "Venta la Adelfilla (Servicio/Equipamiento) en Jimena de la Frontera. WGS84: 36.373316, -5.419332.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3559e6d35efb366ef631272cc386cb862d9e4580606fb2fd66fdf54bd98c60b4"
+}

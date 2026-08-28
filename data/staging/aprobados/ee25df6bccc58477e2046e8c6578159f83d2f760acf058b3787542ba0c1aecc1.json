@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia del Pueblo (farmacia) en Júzcar. Coordenadas aprox: 36.6237, -5.1700.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6237227&mlon=-5.1699648",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ee25df6bccc58477e2046e8c6578159f83d2f760acf058b3787542ba0c1aecc1"
+}

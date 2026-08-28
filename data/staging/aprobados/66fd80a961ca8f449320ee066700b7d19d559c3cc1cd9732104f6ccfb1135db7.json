@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Santa Brigida Blanca Dulce Ayala Muñoz (farmacia) en Lebrija. Coordenadas aprox: 36.9234, -6.0741.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.923373&mlon=-6.0741114",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "66fd80a961ca8f449320ee066700b7d19d559c3cc1cd9732104f6ccfb1135db7"
+}

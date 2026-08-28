@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Calvente Vázquez (farmacia). Coordenadas aprox: 36.8600, -5.6411.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8599956&mlon=-5.6410838",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "395020ac1af2bd1c287c2ce11a0697de31299447e2543b9fc2f1ba9e7b301275"
+}

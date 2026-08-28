@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Moral (Curso Fluvial) en Torre Alháquime. WGS84: 36.913833, -5.220161.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6e1d9900c43a070b7b28a95efad903d256c540245f446ce80af7bcea11f12e90"
+}

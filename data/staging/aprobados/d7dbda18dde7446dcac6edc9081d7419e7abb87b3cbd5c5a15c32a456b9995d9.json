@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Moreno Vázquez (farmacia). Coordenadas aprox: 36.7586, -6.0316.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7585764&mlon=-6.031623",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d7dbda18dde7446dcac6edc9081d7419e7abb87b3cbd5c5a15c32a456b9995d9"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Jaba (Curso Fluvial) en Tarifa. WGS84: 36.198958, -5.725602.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9db1094995f9c1ee238af4597c0f50df2fc5810b366def14e61d80333e2379a5"
+}

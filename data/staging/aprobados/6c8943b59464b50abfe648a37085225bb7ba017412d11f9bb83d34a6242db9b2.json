@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Fuente Cubierta (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.220322, -6.00906.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6c8943b59464b50abfe648a37085225bb7ba017412d11f9bb83d34a6242db9b2"
+}

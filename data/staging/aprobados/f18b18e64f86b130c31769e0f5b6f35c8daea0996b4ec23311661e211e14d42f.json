@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de las Cabezuelas (Relieve Litoral / Marítimo) en Puerto Real. WGS84: 36.528873, -6.250302.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f18b18e64f86b130c31769e0f5b6f35c8daea0996b4ec23311661e211e14d42f"
+}

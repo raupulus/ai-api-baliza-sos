@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Atalaya (Curso Fluvial) en Algodonales. WGS84: 36.879674, -5.524687.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9ec58bd517000b77bf941418f75301b885ce76d4a2dc6a566bcce071bf9dc6bd"
+}

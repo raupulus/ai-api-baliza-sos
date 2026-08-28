@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Piedra Hincada (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.413303, -5.667325.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c0067027dd02bb601c7dc6edf29eb3048b1284608543570624fe8cf540b89b5c"
+}

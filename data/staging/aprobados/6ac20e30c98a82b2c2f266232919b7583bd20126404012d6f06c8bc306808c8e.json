@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Matute (farmacia). Coordenadas aprox: 36.5303, -6.2926.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5302506&mlon=-6.292641",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6ac20e30c98a82b2c2f266232919b7583bd20126404012d6f06c8bc306808c8e"
+}

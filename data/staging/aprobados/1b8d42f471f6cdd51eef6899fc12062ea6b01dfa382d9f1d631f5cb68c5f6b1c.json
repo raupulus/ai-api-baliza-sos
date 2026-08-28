@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Pozo Dulce (Curso Fluvial) en Tarifa. WGS84: 36.155931, -5.758583.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1b8d42f471f6cdd51eef6899fc12062ea6b01dfa382d9f1d631f5cb68c5f6b1c"
+}

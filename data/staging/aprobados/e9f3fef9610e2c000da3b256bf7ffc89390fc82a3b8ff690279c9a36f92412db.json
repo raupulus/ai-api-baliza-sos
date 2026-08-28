@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita de la Cabeza (Servicio/Equipamiento) en Ronda. WGS84: 36.734858, -5.180778.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e9f3fef9610e2c000da3b256bf7ffc89390fc82a3b8ff690279c9a36f92412db"
+}

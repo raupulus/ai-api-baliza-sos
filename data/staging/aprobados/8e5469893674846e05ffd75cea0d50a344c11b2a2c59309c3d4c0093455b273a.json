@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Universal (centro de salud) en La Línea de la Concepción. Coordenadas aprox: 36.1651, -5.3479.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1651499&mlon=-5.3478868",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8e5469893674846e05ffd75cea0d50a344c11b2a2c59309c3d4c0093455b273a"
+}

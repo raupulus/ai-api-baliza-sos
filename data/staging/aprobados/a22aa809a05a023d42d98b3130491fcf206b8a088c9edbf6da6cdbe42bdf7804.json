@@ -1,0 +1,15 @@
+{
+  "texto": "Antigua Casa Peones Camineros (Servicio/Equipamiento) en Algeciras. WGS84: 36.092437, -5.446728.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a22aa809a05a023d42d98b3130491fcf206b8a088c9edbf6da6cdbe42bdf7804"
+}

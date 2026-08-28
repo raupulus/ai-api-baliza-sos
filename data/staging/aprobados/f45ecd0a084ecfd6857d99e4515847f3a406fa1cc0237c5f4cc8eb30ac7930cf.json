@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Multa (Curso Fluvial) en Los Barrios. WGS84: 36.315249, -5.583498.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f45ecd0a084ecfd6857d99e4515847f3a406fa1cc0237c5f4cc8eb30ac7930cf"
+}

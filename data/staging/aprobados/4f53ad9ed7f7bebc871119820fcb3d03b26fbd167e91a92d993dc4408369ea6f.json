@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Canillas (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.703951, -6.003662.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4f53ad9ed7f7bebc871119820fcb3d03b26fbd167e91a92d993dc4408369ea6f"
+}

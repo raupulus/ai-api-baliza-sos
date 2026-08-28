@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Constitución (Sanlúcar de Barrameda). WGS84: 36.7698, -6.34688.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "65f8a6fea6e3a129601a8f5ffb2544e6b7c8ac90815c0adc63a38730da7b9c9d"
+}

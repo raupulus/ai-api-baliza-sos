@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Catedral (farmacia). Coordenadas aprox: 36.5304, -6.2962.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5304179&mlon=-6.2961987",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2c280e752d4a99b9d629fe6c3f1d1635dcbfbe5887ff109e08c488244324c521"
+}

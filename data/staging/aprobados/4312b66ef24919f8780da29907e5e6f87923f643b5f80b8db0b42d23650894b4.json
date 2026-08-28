@@ -1,0 +1,15 @@
+{
+  "texto": "Venta del Chichi (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.704853, -5.806005.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4312b66ef24919f8780da29907e5e6f87923f643b5f80b8db0b42d23650894b4"
+}

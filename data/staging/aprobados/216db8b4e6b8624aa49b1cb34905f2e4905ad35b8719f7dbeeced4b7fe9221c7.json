@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Sadres (Curso Fluvial) en Los Barrios. WGS84: 36.176385, -5.514056.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "216db8b4e6b8624aa49b1cb34905f2e4905ad35b8719f7dbeeced4b7fe9221c7"
+}

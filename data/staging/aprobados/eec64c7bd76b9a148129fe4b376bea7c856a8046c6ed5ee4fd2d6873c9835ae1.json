@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Chivos (Curso Fluvial) en Estepona. WGS84: 36.45734, -5.188786.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eec64c7bd76b9a148129fe4b376bea7c856a8046c6ed5ee4fd2d6873c9835ae1"
+}

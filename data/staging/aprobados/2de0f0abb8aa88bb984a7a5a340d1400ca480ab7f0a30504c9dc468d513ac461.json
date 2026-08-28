@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Los Cortijillos V (Los Barrios). WGS84: 36.187049, -5.436586.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2de0f0abb8aa88bb984a7a5a340d1400ca480ab7f0a30504c9dc468d513ac461"
+}

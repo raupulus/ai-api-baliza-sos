@@ -1,0 +1,15 @@
+{
+  "texto": "Canal de la Punta de la Arenilla (Obra Hidráulica) en La Puebla del Río. WGS84: 36.983339, -6.175692.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f17b54b845c2b8d3b492ba7ed2e2d0a5e7a8cd42238712d09371f9a5fa14f0ef"
+}

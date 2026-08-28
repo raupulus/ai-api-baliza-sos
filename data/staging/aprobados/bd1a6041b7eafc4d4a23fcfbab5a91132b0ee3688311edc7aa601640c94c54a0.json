@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Galera (Curso Fluvial) en Estepona. WGS84: 36.401095, -5.209415.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bd1a6041b7eafc4d4a23fcfbab5a91132b0ee3688311edc7aa601640c94c54a0"
+}

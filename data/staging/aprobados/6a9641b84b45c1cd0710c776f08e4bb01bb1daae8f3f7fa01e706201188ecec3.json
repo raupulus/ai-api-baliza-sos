@@ -1,0 +1,15 @@
+{
+  "texto": "Hacienda los Barrancos (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.774497, -5.744636.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6a9641b84b45c1cd0710c776f08e4bb01bb1daae8f3f7fa01e706201188ecec3"
+}

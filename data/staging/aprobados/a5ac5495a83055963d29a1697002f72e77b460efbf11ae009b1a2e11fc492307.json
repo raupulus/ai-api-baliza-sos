@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Carajonilla (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.37922, -6.179622.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a5ac5495a83055963d29a1697002f72e77b460efbf11ae009b1a2e11fc492307"
+}

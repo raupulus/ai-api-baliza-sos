@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Dulce (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.733738, -6.001848.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "181261ffc75931800f84152868447b70d21a7c3527547363ee757a0357ab3c08"
+}

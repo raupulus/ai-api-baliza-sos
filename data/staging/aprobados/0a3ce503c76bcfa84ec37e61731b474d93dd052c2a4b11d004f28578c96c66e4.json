@@ -1,0 +1,15 @@
+{
+  "texto": "Caño de Hervas (Obra Hidráulica) en La Puebla del Río. WGS84: 36.919902, -6.22164.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0a3ce503c76bcfa84ec37e61731b474d93dd052c2a4b11d004f28578c96c66e4"
+}

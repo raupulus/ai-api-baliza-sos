@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Mediana (Curso Fluvial) en Villamartín. WGS84: 36.875484, -5.62157.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0e7d63124cf8c821519c121895c08eb4fa7b85b4c675aaa786f5588862be47f1"
+}

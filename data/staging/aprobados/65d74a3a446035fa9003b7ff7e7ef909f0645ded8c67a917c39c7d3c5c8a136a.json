@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia la Duquesa (farmacia) en Manilva. Coordenadas aprox: 36.3572, -5.2316.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3572451&mlon=-5.2316297",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "65d74a3a446035fa9003b7ff7e7ef909f0645ded8c67a917c39c7d3c5c8a136a"
+}

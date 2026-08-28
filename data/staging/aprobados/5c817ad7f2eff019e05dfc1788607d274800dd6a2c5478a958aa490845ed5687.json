@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Portuguesa (Curso Fluvial) en Pruna. WGS84: 37.013989, -5.272413.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5c817ad7f2eff019e05dfc1788607d274800dd6a2c5478a958aa490845ed5687"
+}

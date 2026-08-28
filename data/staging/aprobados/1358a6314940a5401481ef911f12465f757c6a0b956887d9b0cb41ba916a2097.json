@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Alamillo (Curso Fluvial) en Algodonales. WGS84: 36.877534, -5.348839.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1358a6314940a5401481ef911f12465f757c6a0b956887d9b0cb41ba916a2097"
+}

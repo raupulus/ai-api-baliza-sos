@@ -1,0 +1,15 @@
+{
+  "texto": "Mill Pharmacy (farmacia). Coordenadas aprox: 36.1407, -5.3529.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.140664&mlon=-5.3528553",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a11e8946e6e53d43bfa180de7694cffa06270e6480d986bb484dcd0e5f9d0f63"
+}

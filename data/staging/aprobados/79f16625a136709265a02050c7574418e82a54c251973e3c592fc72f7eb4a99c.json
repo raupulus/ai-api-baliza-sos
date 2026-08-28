@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Términos (Curso Fluvial) en Ronda. WGS84: 36.837464, -5.199768.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "79f16625a136709265a02050c7574418e82a54c251973e3c592fc72f7eb4a99c"
+}

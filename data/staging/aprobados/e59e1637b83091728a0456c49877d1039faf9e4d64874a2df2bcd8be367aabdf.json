@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Padilla (Curso Fluvial) en Igualeja. WGS84: 36.596695, -5.096299.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e59e1637b83091728a0456c49877d1039faf9e4d64874a2df2bcd8be367aabdf"
+}

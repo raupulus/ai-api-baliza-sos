@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Jédula V (Arcos de la Frontera). WGS84: 36.725011, -5.929644.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8a8ac4a25f82d80449ca679a9721d9b2d79594e946567027adba67cd7629a5ec"
+}

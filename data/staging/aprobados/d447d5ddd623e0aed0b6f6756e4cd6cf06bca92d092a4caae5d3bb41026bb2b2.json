@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Fernández Fatou (farmacia). Coordenadas aprox: 36.8595, -5.6460.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8594706&mlon=-5.6459733",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d447d5ddd623e0aed0b6f6756e4cd6cf06bca92d092a4caae5d3bb41026bb2b2"
+}

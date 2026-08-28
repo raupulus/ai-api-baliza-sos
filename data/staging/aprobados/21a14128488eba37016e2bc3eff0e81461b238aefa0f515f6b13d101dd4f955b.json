@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Inglesito (playa). Coordenadas aprox: 36.8263, -6.4055.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8262919&mlon=-6.4054832",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "21a14128488eba37016e2bc3eff0e81461b238aefa0f515f6b13d101dd4f955b"
+}

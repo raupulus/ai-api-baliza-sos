@@ -1,0 +1,15 @@
+{
+  "texto": "Embalse de Guadalcacín (Obra Hidráulica) en San José del Valle. WGS84: 36.667889, -5.785981.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d5b6aa66f3937dce7695af1cfab99ab337f494592fa386a0dc29aca5d0b743d6"
+}

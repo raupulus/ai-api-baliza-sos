@@ -1,0 +1,15 @@
+{
+  "texto": "Costa de la Grajuela (Relieve Litoral / Marítimo) en Chipiona. WGS84: 36.744088, -6.429397.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cd008a99531b07408817e40ecc90ce2a71e385d5904523c8b39496c0dc8d87bb"
+}

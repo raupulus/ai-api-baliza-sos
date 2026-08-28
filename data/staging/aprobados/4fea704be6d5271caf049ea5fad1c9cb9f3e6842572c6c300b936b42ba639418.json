@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado (Curso Fluvial) en Medina Sidonia. WGS84: 36.432727, -5.813131.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4fea704be6d5271caf049ea5fad1c9cb9f3e6842572c6c300b936b42ba639418"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: JEDULA. WGS84: 36.743715, -5.922463.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4dd980ecfcb1b3f06a692d58280af4c999a2b904584fa2f7fa1c017fd5a8cf79"
+}

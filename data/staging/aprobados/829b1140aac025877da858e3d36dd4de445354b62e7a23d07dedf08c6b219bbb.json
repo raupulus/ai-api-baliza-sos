@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Paisano (Servicio/Equipamiento) en Utrera. WGS84: 37.011433, -5.831637.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "829b1140aac025877da858e3d36dd4de445354b62e7a23d07dedf08c6b219bbb"
+}

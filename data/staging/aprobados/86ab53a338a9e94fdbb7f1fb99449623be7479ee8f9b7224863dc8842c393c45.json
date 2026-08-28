@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: UNIVERSIDAD DE CADIZ (APD). WGS84: 36.529106, -6.206434.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "86ab53a338a9e94fdbb7f1fb99449623be7479ee8f9b7224863dc8842c393c45"
+}

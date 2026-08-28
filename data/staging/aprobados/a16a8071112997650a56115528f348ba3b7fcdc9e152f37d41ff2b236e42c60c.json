@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Rompidillo (playa). Coordenadas aprox: 36.6209, -6.3553.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6208626&mlon=-6.3553324",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a16a8071112997650a56115528f348ba3b7fcdc9e152f37d41ff2b236e42c60c"
+}

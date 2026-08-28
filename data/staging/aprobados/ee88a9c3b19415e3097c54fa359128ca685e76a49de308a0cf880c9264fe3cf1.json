@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Alquilón (Curso Fluvial) en San José del Valle. WGS84: 36.561295, -5.859827.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ee88a9c3b19415e3097c54fa359128ca685e76a49de308a0cf880c9264fe3cf1"
+}

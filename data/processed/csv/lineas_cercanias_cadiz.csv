@@ -1,0 +1,13 @@
+linea,recorrido,modo
+C1,Aeropuerto de Jerez                     -Cádiz,estacion_cercanias
+C1,Cádiz                                   -Aeropuerto de Jerez,estacion_cercanias
+C1,Jerez de la Frontera                    -Las Aletas,estacion_cercanias
+C1,Las Aletas                              -Jerez de la Frontera,estacion_cercanias
+C1a,Las Aletas                              -Universidad,estacion_cercanias
+C1a,Universidad                             -Las Aletas,estacion_cercanias
+T1,Alameda Solano                          -Río Arillo,parada_tranvia
+T1,Ardila                                  -Ntra. Sra. de los Remedios,parada_tranvia
+T1,Cádiz                                   -Pelagatos,parada_tranvia
+T1,Ntra. Sra. de los Remedios              -Ardila,parada_tranvia
+T1,Pelagatos                               -Cádiz,parada_tranvia
+T1,Río Arillo                              -Alameda Solano,parada_tranvia

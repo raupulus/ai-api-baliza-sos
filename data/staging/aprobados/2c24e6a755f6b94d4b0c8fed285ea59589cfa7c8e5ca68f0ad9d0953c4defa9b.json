@@ -1,0 +1,15 @@
+{
+  "texto": "Torre Gorda (Servicio/Equipamiento) en Cádiz. WGS84: 36.460823, -6.253342.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2c24e6a755f6b94d4b0c8fed285ea59589cfa7c8e5ca68f0ad9d0953c4defa9b"
+}

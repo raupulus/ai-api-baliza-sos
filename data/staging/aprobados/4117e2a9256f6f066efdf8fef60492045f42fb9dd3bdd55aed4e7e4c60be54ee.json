@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Moro (Curso Fluvial) en Zahara. WGS84: 36.847895, -5.443395.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4117e2a9256f6f066efdf8fef60492045f42fb9dd3bdd55aed4e7e4c60be54ee"
+}

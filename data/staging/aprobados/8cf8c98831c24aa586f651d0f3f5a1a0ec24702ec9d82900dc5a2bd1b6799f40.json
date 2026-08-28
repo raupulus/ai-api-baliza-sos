@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Colegial (Curso Fluvial) en San José del Valle. WGS84: 36.650548, -5.76887.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8cf8c98831c24aa586f651d0f3f5a1a0ec24702ec9d82900dc5a2bd1b6799f40"
+}

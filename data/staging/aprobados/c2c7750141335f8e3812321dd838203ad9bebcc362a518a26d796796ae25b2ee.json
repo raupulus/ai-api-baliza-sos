@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Pelayo V (Algeciras). WGS84: 36.083754, -5.497088.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c2c7750141335f8e3812321dd838203ad9bebcc362a518a26d796796ae25b2ee"
+}

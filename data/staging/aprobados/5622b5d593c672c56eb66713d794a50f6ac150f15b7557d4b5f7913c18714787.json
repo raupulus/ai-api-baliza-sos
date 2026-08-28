@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Venta Pololo (Chiclana de la Frontera). WGS84: 36.435422, -6.124686.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5622b5d593c672c56eb66713d794a50f6ac150f15b7557d4b5f7913c18714787"
+}

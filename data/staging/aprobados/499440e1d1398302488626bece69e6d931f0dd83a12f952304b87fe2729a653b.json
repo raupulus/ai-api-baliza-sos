@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Puerto de los Lobos (Curso Fluvial) en Lebrija. WGS84: 36.899457, -6.034252.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "499440e1d1398302488626bece69e6d931f0dd83a12f952304b87fe2729a653b"
+}

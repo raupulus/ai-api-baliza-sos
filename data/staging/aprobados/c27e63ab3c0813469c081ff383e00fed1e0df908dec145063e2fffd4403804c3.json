@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Mónica García Salas (farmacia) en Genalguacil. Coordenadas aprox: 36.5445, -5.2358.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5445341&mlon=-5.2358284",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c27e63ab3c0813469c081ff383e00fed1e0df908dec145063e2fffd4403804c3"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Jaral (Curso Fluvial) en Pruna. WGS84: 37.04006, -5.216102.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a7b63e953c8e81e88661e42968721c00b1ea9c93cde2a28a3aabf115ced7a9dc"
+}

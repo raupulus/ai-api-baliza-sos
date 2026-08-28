@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Galindo (farmacia) en Ronda. Coordenadas aprox: 36.7515, -5.1703.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7515389&mlon=-5.1703142",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e80da513510eb49b7ccdefe2130086a593cc3861d237f0fe8766c7b3072ff9ab"
+}

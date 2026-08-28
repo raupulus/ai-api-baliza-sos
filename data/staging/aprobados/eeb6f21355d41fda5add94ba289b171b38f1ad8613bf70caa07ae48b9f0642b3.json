@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Puerto de Santa María Sur (centro de salud). Coordenadas aprox: 36.5983, -6.2355.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5983486&mlon=-6.2355109",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eeb6f21355d41fda5add94ba289b171b38f1ad8613bf70caa07ae48b9f0642b3"
+}

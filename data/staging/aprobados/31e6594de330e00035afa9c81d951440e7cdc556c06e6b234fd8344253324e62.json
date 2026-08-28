@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Recentón (Curso Fluvial) en Genalguacil. WGS84: 36.519246, -5.251778.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "31e6594de330e00035afa9c81d951440e7cdc556c06e6b234fd8344253324e62"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Higuereta (Curso Fluvial) en Villaluenga del Rosario. WGS84: 36.664924, -5.382592.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "62fd7394f764d66cb09f6d8b472fbc149180c4ebbe3cc222dc0ea2b4f65889b2"
+}

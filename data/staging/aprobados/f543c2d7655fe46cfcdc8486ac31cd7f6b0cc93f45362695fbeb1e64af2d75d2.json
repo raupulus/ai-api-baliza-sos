@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de Pasacruces (Curso Fluvial) en Los Barrios. WGS84: 36.227557, -5.678461.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f543c2d7655fe46cfcdc8486ac31cd7f6b0cc93f45362695fbeb1e64af2d75d2"
+}

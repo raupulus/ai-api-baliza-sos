@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: ESTADIO (APD). WGS84: 36.503092, -6.272134.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a164ddf566df7d7a40f0a1b90f179b4caa3e79340ec37d2a0c8177858e39e6e6"
+}

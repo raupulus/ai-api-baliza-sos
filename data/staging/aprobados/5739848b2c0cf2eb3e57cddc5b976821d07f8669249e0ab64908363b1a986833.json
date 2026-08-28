@@ -1,0 +1,15 @@
+{
+  "texto": "Canal de San José (Obra Hidráulica) en Vejer de la Frontera. WGS84: 36.249027, -5.872487.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5739848b2c0cf2eb3e57cddc5b976821d07f8669249e0ab64908363b1a986833"
+}

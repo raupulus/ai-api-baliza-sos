@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Montoro (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.34567, -5.614118.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c0f04e0e6b1d82d7c2dee6b4cc231842ce0e2f04e0d0148b692b6867f7cbcfe"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Ventorrillo Dolores (Servicio/Equipamiento) en Cádiz. WGS84: 36.46017, -6.23343.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "61e7e3d85af66012d555c91052539afc90ee864ed3a3c8e9c1ba2197f53a1b46"
+}

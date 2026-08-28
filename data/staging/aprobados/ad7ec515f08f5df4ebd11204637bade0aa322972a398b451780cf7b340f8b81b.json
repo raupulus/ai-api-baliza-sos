@@ -1,0 +1,15 @@
+{
+  "texto": "# Soporte vital básico pediátrico (SVBP)\n\n## Secuencia para intervinientes capacitados\n1. Confirma que el entorno es seguro.\n2. Valora la reactividad con estimulación verbal y táctil (no estímulos dolorosos).\n3. Llama al SEM (o haz que alguien llame) usando manos libres.\n4. Abre la vía aérea (maniobra frente-mentón) y evalúa respiración y signos de vida durante no más de 10 segundos.\n5. Realiza 5 ventilaciones de rescate iniciales.\n6. Continúa con compresiones torácicas: relación 15:2 si estás capacitado en SVBP; si no, usa 30:2.\n\n## Vía aérea y ventilaciones\n- **Lactante**: cabeza en posición neutra, levanta el mentón con dos dedos sin presionar tejidos blandos.\n- **Niño mayor**: inclina más la cabeza. **Adolescente**: extensión completa como en adultos.\n- Insufla de forma constante durante ~1 segundo, lo justo para que el tórax se eleve.\n- Si el tórax no se eleva, retira solo obstrucciones visibles (nunca barrido a ciegas) y corrige la posición de la cabeza.\n\n## Compresiones torácicas\n- Sobre la mitad inferior del esternón en todos los grupos de edad.\n- **Lactante**: técnica de dos pulgares con las manos rodeando el tórax.\n- **Niño > 1 año**: una o dos manos.\n- Frecuencia 100-120 por minuto; comprime al menos un tercio del diámetro del tórax (en adolescentes 5-6 cm, nunca más de 6 cm).\n- Libera toda la presión entre compresiones.\n\n## DEA en pediatría\n- Activa el modo pediátrico en niños < 25 kg (~8 años); si no hay modo pediátrico, usa el estándar.\n- **Lactantes y < 25 kg**: parches en posición anteroposterior (anterior en el centro del tórax, posterior entre las escápulas).\n- **> 25 kg y adolescentes**: posición anterolateral o anteroposterior.\n- No toques al paciente mientras el DEA analiza; reanuda compresiones tras la descarga.\n\n## Si el niño respira con normalidad\n- Mantén la vía aérea abierta o colócalo en posición lateral de seguridad (si no hay traumatismo) y vigila la respiración al menos cada minuto.",
+  "fuente": "European Resuscitation Council — Guías ERC 2025 (Resumen Ejecutivo ES)",
+  "fuente_url": null,
+  "fecha": "2026-08-28",
+  "categoria": "primeros_auxilios",
+  "subcategoria": "soporte_vital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ad7ec515f08f5df4ebd11204637bade0aa322972a398b451780cf7b340f8b81b"
+}

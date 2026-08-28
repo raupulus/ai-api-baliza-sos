@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Limas (Curso Fluvial) en Gaucín. WGS84: 36.499388, -5.303136.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d1ef819f499ee7ce9541e78bf3f27d5500217bd3d0277207debde6b92397afd5"
+}

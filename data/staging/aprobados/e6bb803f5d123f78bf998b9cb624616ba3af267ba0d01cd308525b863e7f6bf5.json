@@ -1,0 +1,15 @@
+{
+  "texto": "Depuradora Aguas del Huesna (Obra Hidráulica) en Lebrija. WGS84: 36.940816, -6.076349.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e6bb803f5d123f78bf998b9cb624616ba3af267ba0d01cd308525b863e7f6bf5"
+}

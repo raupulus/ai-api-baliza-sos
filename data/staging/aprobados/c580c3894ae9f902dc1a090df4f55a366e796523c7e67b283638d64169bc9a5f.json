@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Félix Suárez Bárcena (farmacia). Coordenadas aprox: 36.1757, -5.4372.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1756907&mlon=-5.4372151",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c580c3894ae9f902dc1a090df4f55a366e796523c7e67b283638d64169bc9a5f"
+}

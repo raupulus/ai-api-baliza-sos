@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cuartel Militar (Algeciras). WGS84: 36.150173, -5.454623.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2143539d532c1c84b9a81833225499ff731b606fad3e3dce8703ea9f1c311072"
+}

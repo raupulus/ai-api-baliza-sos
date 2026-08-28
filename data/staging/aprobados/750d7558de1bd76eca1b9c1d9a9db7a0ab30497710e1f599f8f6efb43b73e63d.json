@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Chorrito (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.552156, -5.782585.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "750d7558de1bd76eca1b9c1d9a9db7a0ab30497710e1f599f8f6efb43b73e63d"
+}

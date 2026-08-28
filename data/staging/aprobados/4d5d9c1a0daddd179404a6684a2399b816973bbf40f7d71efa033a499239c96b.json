@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Puercos (Curso Fluvial) en Espera. WGS84: 36.864977, -5.817817.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4d5d9c1a0daddd179404a6684a2399b816973bbf40f7d71efa033a499239c96b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Polvitos (Curso Fluvial) en Estepona. WGS84: 36.446705, -5.185665.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "35267cc48b57fea06795ee90dc0f43a564d799310f9d2166014109b6818b44bb"
+}

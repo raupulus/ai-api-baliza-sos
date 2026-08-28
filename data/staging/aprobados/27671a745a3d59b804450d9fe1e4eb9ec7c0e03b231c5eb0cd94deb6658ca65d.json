@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Cagancha (Curso Fluvial) en Tarifa. WGS84: 36.156759, -5.623404.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "27671a745a3d59b804450d9fe1e4eb9ec7c0e03b231c5eb0cd94deb6658ca65d"
+}

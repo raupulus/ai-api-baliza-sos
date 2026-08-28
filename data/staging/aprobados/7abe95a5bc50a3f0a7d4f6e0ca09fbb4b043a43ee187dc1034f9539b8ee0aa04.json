@@ -1,0 +1,15 @@
+{
+  "texto": "Canuto de la Bruja (Curso Fluvial) en Los Barrios. WGS84: 36.277381, -5.626957.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7abe95a5bc50a3f0a7d4f6e0ca09fbb4b043a43ee187dc1034f9539b8ee0aa04"
+}

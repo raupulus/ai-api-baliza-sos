@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente de Correa (agua potable). Coordenadas aprox: 36.1076, -5.4865.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1075915&mlon=-5.4864757",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d8bceb97153051971ea88045b33a8037ab27e4c4a9c995b141c43703b0cad88d"
+}

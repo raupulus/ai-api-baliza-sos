@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Hondo (Curso Fluvial) en Espera. WGS84: 36.873358, -5.778469.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a7dda0ff75754884a22943a39b1053106bb1429c144565b4433d0afb13946934"
+}

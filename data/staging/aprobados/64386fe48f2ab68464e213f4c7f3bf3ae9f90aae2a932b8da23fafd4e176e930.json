@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Montabes (farmacia). Coordenadas aprox: 36.4144, -6.1464.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4143769&mlon=-6.1463551",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "64386fe48f2ab68464e213f4c7f3bf3ae9f90aae2a932b8da23fafd4e176e930"
+}

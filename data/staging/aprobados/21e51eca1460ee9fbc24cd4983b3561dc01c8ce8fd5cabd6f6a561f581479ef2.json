@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Holgado Carrero (farmacia). Coordenadas aprox: 36.9221, -5.5430.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9220976&mlon=-5.5430127",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "21e51eca1460ee9fbc24cd4983b3561dc01c8ce8fd5cabd6f6a561f581479ef2"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Arcaría (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.626889, -5.544839.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e3bba08f7a20cb41da4d1fb40a7f30439aa178ca875cab73c13bc01dcd55727d"
+}

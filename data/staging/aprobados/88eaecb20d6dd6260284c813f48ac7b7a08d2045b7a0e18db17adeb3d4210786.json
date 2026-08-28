@@ -1,0 +1,15 @@
+{
+  "texto": "Ensenada del Tolmo (Relieve Litoral / Marítimo) en Algeciras. WGS84: 36.053307, -5.487171.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "88eaecb20d6dd6260284c813f48ac7b7a08d2045b7a0e18db17adeb3d4210786"
+}

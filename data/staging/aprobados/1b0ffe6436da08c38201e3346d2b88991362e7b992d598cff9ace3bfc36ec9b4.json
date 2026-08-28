@@ -1,0 +1,15 @@
+{
+  "texto": "Turdus merula Linnaeus, 1758 (Turdus merula Linnaeus, 1758). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2490719",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1b0ffe6436da08c38201e3346d2b88991362e7b992d598cff9ace3bfc36ec9b4"
+}

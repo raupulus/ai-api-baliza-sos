@@ -1,0 +1,15 @@
+{
+  "texto": "El Carmen de San Miguel (Masa de Agua) en Puerto Real. WGS84: 36.490658, -6.169774.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e703f453a7ded881d6a03175ec7805de23496dc467fcccb9c1ad082e9ac9a5fd"
+}

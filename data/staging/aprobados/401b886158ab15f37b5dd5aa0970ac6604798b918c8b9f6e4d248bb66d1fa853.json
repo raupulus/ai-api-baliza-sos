@@ -1,0 +1,15 @@
+{
+  "texto": "Venta de Santo Domingo (Servicio/Equipamiento) en Benalauría. WGS84: 36.596678, -5.271933.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "401b886158ab15f37b5dd5aa0970ac6604798b918c8b9f6e4d248bb66d1fa853"
+}

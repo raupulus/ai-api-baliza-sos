@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Bovedilla (Curso Fluvial) en Benalauría. WGS84: 36.604841, -5.308336.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ed31e82a4cfbf9e4337206772b9a3e354b7d27b58842c04c5d19952b98acee08"
+}

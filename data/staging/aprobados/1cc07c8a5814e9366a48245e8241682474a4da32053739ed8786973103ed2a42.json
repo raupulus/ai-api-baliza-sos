@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Mesto (Curso Fluvial) en Puerto Serrano. WGS84: 36.961092, -5.502196.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1cc07c8a5814e9366a48245e8241682474a4da32053739ed8786973103ed2a42"
+}

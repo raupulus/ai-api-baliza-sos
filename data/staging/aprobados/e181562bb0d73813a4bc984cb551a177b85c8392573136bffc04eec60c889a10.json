@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Venta (Curso Fluvial) en Utrera. WGS84: 36.977642, -5.716883.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e181562bb0d73813a4bc984cb551a177b85c8392573136bffc04eec60c889a10"
+}

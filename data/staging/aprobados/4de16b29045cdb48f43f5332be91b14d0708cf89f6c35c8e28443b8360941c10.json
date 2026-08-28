@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Carmen (playa). Coordenadas aprox: 36.1836, -5.9166.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1836171&mlon=-5.9165513",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4de16b29045cdb48f43f5332be91b14d0708cf89f6c35c8e28443b8360941c10"
+}

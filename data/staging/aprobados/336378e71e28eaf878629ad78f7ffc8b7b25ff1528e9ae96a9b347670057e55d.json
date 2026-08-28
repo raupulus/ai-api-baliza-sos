@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Castilla (playa). Coordenadas aprox: 36.9442, -6.4837.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9441568&mlon=-6.4836743",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "336378e71e28eaf878629ad78f7ffc8b7b25ff1528e9ae96a9b347670057e55d"
+}

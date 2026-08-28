@@ -1,0 +1,15 @@
+{
+  "texto": "Río Tavizna (Curso Fluvial) en El Bosque. WGS84: 36.715744, -5.519386.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1f8cef415471ef7f9fa7888d9b361ae252d8e96d572a63a223667fa5a743171"
+}

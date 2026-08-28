@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Horcajo (Curso Fluvial) en Jubrique. WGS84: 36.58828, -5.217981.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "651b20892130aab19ae58a245b147bc1c6f99e87bc40e46cc04433bd76da582a"
+}

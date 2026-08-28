@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Azúcar (Curso Fluvial) en Medina Sidonia. WGS84: 36.483214, -5.909411.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fd70dc1f754f7653f91efdfea342904d5eeccd90ed39a36a75cd9fb2c6dfdc46"
+}

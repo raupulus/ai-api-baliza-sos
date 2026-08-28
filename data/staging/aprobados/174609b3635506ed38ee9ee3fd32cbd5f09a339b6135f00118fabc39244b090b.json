@@ -1,0 +1,15 @@
+{
+  "texto": "Stein Wasserspender (agua potable). Coordenadas aprox: 36.3626, -6.1715.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3626039&mlon=-6.1714726",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "174609b3635506ed38ee9ee3fd32cbd5f09a339b6135f00118fabc39244b090b"
+}

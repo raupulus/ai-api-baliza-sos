@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente de Las Niñas (agua potable). Coordenadas aprox: 36.1128, -5.4961.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.112843&mlon=-5.496138",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "786183f8d84dfe027781bf7c7fa7a7a3def3768c5946c9475d0a392e2bb4f887"
+}

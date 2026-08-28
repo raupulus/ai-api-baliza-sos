@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Juan Batanero (hospital) en San Roque. Coordenadas aprox: 36.2133, -5.3823.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2133114&mlon=-5.3823433",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cb06291fe2e9c77ff670aab7f68d71d4e18301c237000bf5351ba06b4e8cdbc0"
+}

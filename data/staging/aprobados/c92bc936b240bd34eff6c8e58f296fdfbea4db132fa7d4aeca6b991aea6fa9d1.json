@@ -1,0 +1,15 @@
+{
+  "texto": "Venta los Álamos (Servicio/Equipamiento) en El Puerto de Santa María. WGS84: 36.627689, -6.164246.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c92bc936b240bd34eff6c8e58f296fdfbea4db132fa7d4aeca6b991aea6fa9d1"
+}

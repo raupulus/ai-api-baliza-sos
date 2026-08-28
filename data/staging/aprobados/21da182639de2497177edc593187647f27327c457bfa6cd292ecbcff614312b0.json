@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud de Villamartín (hospital) en Villamartín. Coordenadas aprox: 36.8590, -5.6471.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.859048&mlon=-5.6471475",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "21da182639de2497177edc593187647f27327c457bfa6cd292ecbcff614312b0"
+}

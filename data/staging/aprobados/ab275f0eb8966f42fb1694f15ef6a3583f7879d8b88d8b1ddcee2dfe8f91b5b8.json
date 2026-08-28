@@ -1,0 +1,15 @@
+{
+  "texto": "Cala del Quinto (Relieve Litoral / Marítimo) en Conil de la Frontera. WGS84: 36.292808, -6.11572.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ab275f0eb8966f42fb1694f15ef6a3583f7879d8b88d8b1ddcee2dfe8f91b5b8"
+}

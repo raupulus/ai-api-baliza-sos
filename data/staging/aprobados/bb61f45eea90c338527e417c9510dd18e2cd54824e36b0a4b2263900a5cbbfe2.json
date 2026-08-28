@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Padron (playa). Coordenadas aprox: 36.4372, -5.1035.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4371734&mlon=-5.1035312",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bb61f45eea90c338527e417c9510dd18e2cd54824e36b0a4b2263900a5cbbfe2"
+}

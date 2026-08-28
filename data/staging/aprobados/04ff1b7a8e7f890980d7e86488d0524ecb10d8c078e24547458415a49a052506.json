@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Higueroba (Curso Fluvial) en Zahara. WGS84: 36.825839, -5.374366.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "04ff1b7a8e7f890980d7e86488d0524ecb10d8c078e24547458415a49a052506"
+}

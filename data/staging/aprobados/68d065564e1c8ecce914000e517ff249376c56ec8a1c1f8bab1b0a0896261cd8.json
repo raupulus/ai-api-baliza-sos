@@ -1,0 +1,15 @@
+{
+  "texto": "CENTRO DE SALUD DR. GONZALO PEREZ FABRA (centro de salud). Coordenadas aprox: 36.5210, -5.8639.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5210419&mlon=-5.8639249",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "68d065564e1c8ecce914000e517ff249376c56ec8a1c1f8bab1b0a0896261cd8"
+}

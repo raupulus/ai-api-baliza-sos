@@ -1,0 +1,15 @@
+{
+  "texto": "La Marisma (Relieve Litoral / Marítimo) en Vejer de la Frontera. WGS84: 36.238199, -5.945813.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6a7200f7aebaf66e8c6496487be2c24b0324089735c329e460228ba7f9c8fb59"
+}

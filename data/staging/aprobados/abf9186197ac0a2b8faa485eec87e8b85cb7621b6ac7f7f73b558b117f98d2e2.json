@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Conegil (Curso Fluvial) en Faraján. WGS84: 36.610776, -5.194246.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "abf9186197ac0a2b8faa485eec87e8b85cb7621b6ac7f7f73b558b117f98d2e2"
+}

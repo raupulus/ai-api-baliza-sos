@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Nuestra Señora de los Remedios (Chiclana de la Frontera). WGS84: 36.420398, -6.144747.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3d98e0b5fe137254af166f9b3052ae17d514a7d1b9a6329022e4fb0b52bf3b0d"
+}

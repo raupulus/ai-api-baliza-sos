@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Abejera (Curso Fluvial) en Benalauría. WGS84: 36.567991, -5.33883.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "100d4bc82b8545a1e14a92363dfd5150e585f9b0a6244c23b6e3b49852031c76"
+}

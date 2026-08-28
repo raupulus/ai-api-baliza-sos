@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Del Puerto-Edif. Trocadero (Cádiz). WGS84: 36.53021, -6.290919.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "14ac4639aa791d50ddfb8b1245646819f715aafaf0390d91d1ca130f1746abdc"
+}

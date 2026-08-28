@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Molineta (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.819231, -5.998521.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0f21f659066b0930b09d66d5a2cbb34fa3f04c84882428df723407b94239fe67"
+}

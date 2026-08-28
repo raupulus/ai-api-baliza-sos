@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cuatro Caminos V (Jerez de la Frontera). WGS84: 36.677576, -6.144948.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d3155e410f0a75392fd736692cc3ce2b5769d1a4e876760eaf0fe7cdcfe1b5c6"
+}

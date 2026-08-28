@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Torre Alháquime (Cádiz). Código INE 11036. Coordenadas WGS84 (centroide): 36.910538, -5.231474.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2faea3f7ee530889398087ed827dc27e391cff333af83ea202963a6ac2a40202"
+}

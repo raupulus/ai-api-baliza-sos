@@ -1,0 +1,15 @@
+{
+  "texto": "Embalse del Barbate (Obra Hidráulica) en Alcalá de los Gazules. WGS84: 36.382085, -5.674323.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "35ffe99b6884c70a32ae33628605386c3d127bdd36bc9052947690a26f8d49f6"
+}

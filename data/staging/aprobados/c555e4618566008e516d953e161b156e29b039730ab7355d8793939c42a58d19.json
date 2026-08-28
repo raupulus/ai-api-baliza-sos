@@ -1,0 +1,15 @@
+{
+  "texto": "Venta del Carmen (Servicio/Equipamiento) en Los Barrios. WGS84: 36.182439, -5.446679.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c555e4618566008e516d953e161b156e29b039730ab7355d8793939c42a58d19"
+}

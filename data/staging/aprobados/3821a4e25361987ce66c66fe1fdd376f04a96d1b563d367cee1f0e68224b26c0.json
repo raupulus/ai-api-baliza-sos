@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Central (farmacia). Coordenadas aprox: 36.5318, -6.2963.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5318141&mlon=-6.2963262",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3821a4e25361987ce66c66fe1fdd376f04a96d1b563d367cee1f0e68224b26c0"
+}

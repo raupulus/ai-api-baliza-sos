@@ -1,0 +1,15 @@
+{
+  "texto": "Pilar de Cartajima (agua potable). Coordenadas aprox: 36.7102, -5.1679.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7101923&mlon=-5.16792",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d9bdfdf3c300f765ac1c6bbb6f2823a706a82619d6a85b04fe17b3e56be85e1a"
+}

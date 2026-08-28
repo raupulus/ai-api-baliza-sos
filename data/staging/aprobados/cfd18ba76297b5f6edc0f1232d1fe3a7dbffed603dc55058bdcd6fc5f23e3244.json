@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Juan Pérez (Curso Fluvial) en Los Barrios. WGS84: 36.26508, -5.533458.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cfd18ba76297b5f6edc0f1232d1fe3a7dbffed603dc55058bdcd6fc5f23e3244"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Complejo Deportivo (Cádiz). WGS84: 36.49696, -6.271749.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9009e4e0a5d588abc8febb0dab7781b2abcd57a085cfbc700c52301d9056095b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente del Juncal (agua potable). Coordenadas aprox: 36.7150, -5.2378.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7149706&mlon=-5.2377543",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b727b3165d4ce7541b717cabae82566256980add639f9f9e08940fa4eeb13d9"
+}

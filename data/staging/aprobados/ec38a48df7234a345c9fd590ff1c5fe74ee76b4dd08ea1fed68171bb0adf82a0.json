@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Granja (Curso Fluvial) en Algodonales. WGS84: 36.864798, -5.480824.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ec38a48df7234a345c9fd590ff1c5fe74ee76b4dd08ea1fed68171bb0adf82a0"
+}

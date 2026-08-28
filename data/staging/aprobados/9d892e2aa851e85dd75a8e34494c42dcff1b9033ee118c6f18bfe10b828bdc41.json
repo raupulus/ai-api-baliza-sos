@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Urb. Cortijo Grande (Los Barrios). WGS84: 36.178758, -5.483264.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d892e2aa851e85dd75a8e34494c42dcff1b9033ee118c6f18bfe10b828bdc41"
+}

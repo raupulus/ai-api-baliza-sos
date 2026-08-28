@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Villalonga (Curso Fluvial) en Pruna. WGS84: 36.957797, -5.217878.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "487fa3c63b0a6cef3860bb2092bc6ffd2e7f32edf6cbd2c47837423c6734debd"
+}

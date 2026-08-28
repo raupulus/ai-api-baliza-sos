@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia La Jara (farmacia). Coordenadas aprox: 36.7731, -6.3710.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.773119&mlon=-6.3709548",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8790a9f9bda24fc2800f1823fe79f52db173f424bc98e39cb996a711a9ed5a2a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital Doctor López Cano (hospital). Coordenadas aprox: 36.5020, -6.2735.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5019728&mlon=-6.2734749",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d6f0d0e66f7ddb706273f02b1e507c8363194f2c753634db68616ae70501538f"
+}

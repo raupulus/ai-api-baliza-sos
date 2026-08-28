@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Soleras (Curso Fluvial) en Espera. WGS84: 36.857803, -5.778329.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "418b4e0555eed2023e33ea06e08e35eee06286106ed44d88a9c4bc2d0aeb79de"
+}

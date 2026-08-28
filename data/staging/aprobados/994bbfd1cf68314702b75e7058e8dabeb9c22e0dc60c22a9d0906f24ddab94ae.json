@@ -1,0 +1,15 @@
+{
+  "texto": "Bda. Cepsa (agua potable). Coordenadas aprox: 36.1846, -5.3843.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1845802&mlon=-5.3842503",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "994bbfd1cf68314702b75e7058e8dabeb9c22e0dc60c22a9d0906f24ddab94ae"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Peginas (playa). Coordenadas aprox: 36.6547, -6.3984.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6547169&mlon=-6.3983868",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "73d50e3fbd39c5b6e13cc0c304eb0f91713cffb0348de37b9786b2e4d270c68a"
+}

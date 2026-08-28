@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Las Presas Sentido Los Barrios. WGS84: 36.178023, -5.475328.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a01bc36c83cde7e22d9e4ee56263aa0cef2514f8554ccaf150cb0b0c2da5b26e"
+}

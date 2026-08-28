@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cruce Taraguillas (San Roque). WGS84: 36.203836, -5.422344.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cd272cf658b0722b1496d9ad0abb8a1c4346de4e5b9aa423fcd8b0371e598cd5"
+}

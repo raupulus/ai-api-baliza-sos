@@ -1,0 +1,15 @@
+{
+  "texto": "Parque Ciudad Deportiva (Servicio/Equipamiento) en La Línea de la Concepción. WGS84: 36.157837, -5.341749.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1db3370f254e1fe15c983703667d30869a4eaacdcaeb05a84380f5f6a8099624"
+}

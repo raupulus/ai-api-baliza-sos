@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Miranda López (farmacia). Coordenadas aprox: 36.6596, -6.1020.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6595642&mlon=-6.1020455",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "630c4077389cc8c8ee3460bc615806ef537207cc1e16666db5aee95dbecb35bf"
+}

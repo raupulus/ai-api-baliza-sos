@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación Fc Puerto Real. WGS84: 36.530555, -6.185302.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d1ca674d1c454a9269a18b6d511fb376b3946643eb74d991af91b80390b0ffda"
+}

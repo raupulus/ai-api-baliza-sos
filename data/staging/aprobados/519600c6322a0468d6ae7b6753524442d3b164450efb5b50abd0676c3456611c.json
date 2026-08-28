@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Finca Villanueva Y Rosal V (Puerto Real). WGS84: 36.495915, -6.130379.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "519600c6322a0468d6ae7b6753524442d3b164450efb5b50abd0676c3456611c"
+}

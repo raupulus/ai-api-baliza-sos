@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia ag avecilla-gallo (farmacia) en San Fernando. Coordenadas aprox: 36.4580, -6.1989.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.458032&mlon=-6.1989054",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "92b0ce844e208215272a8f6944107365b7fe185d5a3247e260b34b47909ac457"
+}

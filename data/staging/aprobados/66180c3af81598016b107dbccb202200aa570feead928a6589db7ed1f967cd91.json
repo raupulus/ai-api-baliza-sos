@@ -1,0 +1,15 @@
+{
+  "texto": "Salinas la Tapa (Masa de Agua) en El Puerto de Santa María. WGS84: 36.59622, -6.216749.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "66180c3af81598016b107dbccb202200aa570feead928a6589db7ed1f967cd91"
+}

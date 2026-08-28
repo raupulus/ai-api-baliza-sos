@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente Baelo Claudia (agua potable). Coordenadas aprox: 36.0900, -5.7718.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0900313&mlon=-5.7717731",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b24a68e8b776f966a0dbffb652c7f8ccab5aa3fa7a2e5bcaa4756470f252f8d6"
+}

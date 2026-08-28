@@ -1,0 +1,15 @@
+{
+  "texto": "Dunas (Relieve Litoral / Marítimo) en Almonte. WGS84: 36.814091, -6.394851.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a2decad7efda55e8bb60c3ff5f14e2c0099ca230276b329f7e2a8eda768e88a9"
+}

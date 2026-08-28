@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Chorrillo (Relieve Litoral / Marítimo) en Rota. WGS84: 36.625433, -6.346575.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d8986334026e163d9fea6306044681e0c783e030672bfb198ad023971f1bdeba"
+}

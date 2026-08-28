@@ -1,0 +1,15 @@
+{
+  "texto": "Caño del Peral (Curso Fluvial) en Almonte. WGS84: 36.968583, -6.418887.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "561b1e3b73a7296e19ee10d8fecd1115e441efa7ff55e6363e3b804f6a8373e6"
+}

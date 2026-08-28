@@ -1,0 +1,15 @@
+{
+  "texto": "La Libertad (farmacia). Coordenadas aprox: 36.4244, -6.1400.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4244145&mlon=-6.1399869",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3a8e7ea89e776ac91bd541401e4eca0d504b530b314cbcba70865a6bc3f5ce8a"
+}

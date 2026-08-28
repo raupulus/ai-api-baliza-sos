@@ -1,0 +1,15 @@
+{
+  "texto": "Isabel Gómez Cuadrado (farmacia) en San Fernando. Coordenadas aprox: 36.4638, -6.1987.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4637846&mlon=-6.1986944",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "454a6d9ac5cecaf2d9234ef7cc1f06ade403851c89931d0ff3fdbcdcdf893d33"
+}

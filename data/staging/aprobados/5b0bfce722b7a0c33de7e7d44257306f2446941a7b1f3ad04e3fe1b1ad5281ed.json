@@ -1,0 +1,15 @@
+{
+  "texto": "Bahía de Estepona (Relieve Litoral / Marítimo) en Estepona. WGS84: 36.411528, -5.174817.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5b0bfce722b7a0c33de7e7d44257306f2446941a7b1f3ad04e3fe1b1ad5281ed"
+}

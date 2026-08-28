@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: VALDELAGRANA (APD). WGS84: 36.584683, -6.216061.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7e40a704c8ee2920cea31e6edbcc367b3037f838ffbb5b588ed2aa0000980016"
+}

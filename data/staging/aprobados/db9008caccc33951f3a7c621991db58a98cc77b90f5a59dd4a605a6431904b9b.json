@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Lara (farmacia). Coordenadas aprox: 36.1913, -5.9203.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1913377&mlon=-5.9203109",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "db9008caccc33951f3a7c621991db58a98cc77b90f5a59dd4a605a6431904b9b"
+}

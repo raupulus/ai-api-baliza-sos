@@ -1,0 +1,15 @@
+{
+  "texto": "Las Vetas (Relieve Litoral / Marítimo) en Benalup-Casas Viejas. WGS84: 36.351509, -5.79408.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "82521dd15852c169eecb7be1c5e1b18f71b918979f0c9c5dc55ddbd586035ca3"
+}

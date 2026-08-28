@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Frenazo (Servicio/Equipamiento) en Utrera. WGS84: 36.97186, -5.77855.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3e49902ca88aec99965e93c8207e094417f57c1a3664b3cbe6f5f2cd73bda5d6"
+}

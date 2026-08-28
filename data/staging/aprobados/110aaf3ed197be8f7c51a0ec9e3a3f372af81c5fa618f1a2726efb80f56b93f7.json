@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Reinoso (Curso Fluvial) en Cortes de la Frontera. WGS84: 36.510415, -5.534239.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "110aaf3ed197be8f7c51a0ec9e3a3f372af81c5fa618f1a2726efb80f56b93f7"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Recolerra (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.440998, -5.755724.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7911b1273ac7165e4aa3748cb75d4ff009479aa7a4042e8f3dc966a584174747"
+}

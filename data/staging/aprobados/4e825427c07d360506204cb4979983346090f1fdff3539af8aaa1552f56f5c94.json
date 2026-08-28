@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Mar 119 (farmacia). Coordenadas aprox: 36.1882, -5.9230.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1881551&mlon=-5.9229894",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4e825427c07d360506204cb4979983346090f1fdff3539af8aaa1552f56f5c94"
+}

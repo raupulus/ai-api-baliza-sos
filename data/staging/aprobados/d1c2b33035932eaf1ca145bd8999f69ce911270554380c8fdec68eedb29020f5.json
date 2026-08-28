@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Santo Entierro (San Fernando). WGS84: 36.455907, -6.209616.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d1c2b33035932eaf1ca145bd8999f69ce911270554380c8fdec68eedb29020f5"
+}

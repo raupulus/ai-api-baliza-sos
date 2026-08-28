@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Cueva (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.417288, -6.100851.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "522e0e0a69ba4a56f932b68f3a7eebcd8e396f85aedeee1717f2314e3fd01c59"
+}

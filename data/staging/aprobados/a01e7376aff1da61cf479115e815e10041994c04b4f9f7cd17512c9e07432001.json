@@ -1,0 +1,15 @@
+{
+  "texto": "Playa Cala Sardina (Relieve Litoral / Marítimo) en San Roque. WGS84: 36.306959, -5.258894.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a01e7376aff1da61cf479115e815e10041994c04b4f9f7cd17512c9e07432001"
+}

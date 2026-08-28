@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación De Autobuses Jerez (Jerez de la Frontera). WGS84: 36.679414, -6.126668.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8b8c30b121bf3a0b53be083ff97cb4673bad5ed45a733501bb4f8cfbc1e1f26b"
+}

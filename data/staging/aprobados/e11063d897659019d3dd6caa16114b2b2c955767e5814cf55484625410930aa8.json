@@ -1,0 +1,15 @@
+{
+  "texto": "Lagunas de las Pajas (Masa de Agua) en Almonte. WGS84: 36.979334, -6.463388.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e11063d897659019d3dd6caa16114b2b2c955767e5814cf55484625410930aa8"
+}

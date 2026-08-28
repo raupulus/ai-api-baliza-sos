@@ -1,0 +1,15 @@
+{
+  "texto": "Cabo de Gracia (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.08822, -5.813089.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "839999d1f43e5e3ad8e9292761416c91d6767f83e6322e54b3581f78efc27a1d"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Guerrero Zieza (farmacia). Coordenadas aprox: 36.5100, -6.2788.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5099881&mlon=-6.2788433",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cca174d88a28d67c180f9bca0c38c079a03ce81b28a7e8b133bf761398bae6d6"
+}

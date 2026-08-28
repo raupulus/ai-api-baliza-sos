@@ -1,0 +1,15 @@
+{
+  "texto": "Podólogo (centro de salud). Coordenadas aprox: 36.4641, -6.1991.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4641467&mlon=-6.1991447",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2629fd64d331f0ae6a159f3ab4ac188b0c4ee5c59c85cf1025cc1e6722244ef7"
+}

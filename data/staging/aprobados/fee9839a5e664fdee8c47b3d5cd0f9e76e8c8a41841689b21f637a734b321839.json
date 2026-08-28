@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Reyes Católicos (Chiclana de la Frontera). WGS84: 36.414412, -6.14319.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_tranvia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fee9839a5e664fdee8c47b3d5cd0f9e76e8c8a41841689b21f637a734b321839"
+}

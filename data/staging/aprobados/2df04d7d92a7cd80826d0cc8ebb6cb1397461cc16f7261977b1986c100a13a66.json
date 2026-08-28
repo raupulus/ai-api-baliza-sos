@@ -1,0 +1,15 @@
+{
+  "texto": "Venta el Faisán (Servicio/Equipamiento) en Medina Sidonia. WGS84: 36.330866, -5.868351.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2df04d7d92a7cd80826d0cc8ebb6cb1397461cc16f7261977b1986c100a13a66"
+}

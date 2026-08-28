@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Morales (Curso Fluvial) en Tarifa. WGS84: 36.080269, -5.699125.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2216731540059ad1fe4fcd691a569a5b8508882d2e4652761408f73ac9f0023e"
+}

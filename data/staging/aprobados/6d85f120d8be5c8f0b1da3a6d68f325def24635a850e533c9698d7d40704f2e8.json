@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de salud Ronda Norte (centro de salud). Coordenadas aprox: 36.7456, -5.1597.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7455664&mlon=-5.1597228",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6d85f120d8be5c8f0b1da3a6d68f325def24635a850e533c9698d7d40704f2e8"
+}

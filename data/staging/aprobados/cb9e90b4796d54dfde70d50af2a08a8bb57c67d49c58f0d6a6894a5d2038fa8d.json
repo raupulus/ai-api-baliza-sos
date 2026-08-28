@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Paula Mate (farmacia). Coordenadas aprox: 36.3423, -5.8108.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3423457&mlon=-5.8107595",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cb9e90b4796d54dfde70d50af2a08a8bb57c67d49c58f0d6a6894a5d2038fa8d"
+}

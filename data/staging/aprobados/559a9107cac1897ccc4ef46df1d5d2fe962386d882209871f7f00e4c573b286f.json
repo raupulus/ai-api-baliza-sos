@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Campamento La Guita V (San Roque). WGS84: 36.172208, -5.371728.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "559a9107cac1897ccc4ef46df1d5d2fe962386d882209871f7f00e4c573b286f"
+}

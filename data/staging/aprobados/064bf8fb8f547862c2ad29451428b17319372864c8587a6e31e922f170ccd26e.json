@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Victoria (playa). Coordenadas aprox: 36.5062, -6.2791.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5062292&mlon=-6.2791048",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "064bf8fb8f547862c2ad29451428b17319372864c8587a6e31e922f170ccd26e"
+}

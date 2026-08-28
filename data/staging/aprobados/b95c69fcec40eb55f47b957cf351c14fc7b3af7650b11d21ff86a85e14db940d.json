@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Gatera (Curso Fluvial) en Villamartín. WGS84: 36.897432, -5.623602.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b95c69fcec40eb55f47b957cf351c14fc7b3af7650b11d21ff86a85e14db940d"
+}

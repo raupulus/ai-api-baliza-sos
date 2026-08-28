@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Los Corrales (playa). Coordenadas aprox: 36.6313, -6.3888.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6313428&mlon=-6.3888229",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3717eebb97992d7d9d4b6a772145bdab637b09853bc48c05ac8dea53a519e372"
+}

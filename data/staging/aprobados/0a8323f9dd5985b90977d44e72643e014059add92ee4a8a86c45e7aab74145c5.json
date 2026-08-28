@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Jarandilla (Servicio/Equipamiento) en Castellar de la Frontera. WGS84: 36.310892, -5.449473.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0a8323f9dd5985b90977d44e72643e014059add92ee4a8a86c45e7aab74145c5"
+}

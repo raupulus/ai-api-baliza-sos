@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Vicaría (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.360139, -5.425692.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6884ee46f0a08ed0a41a3aa3a481613a986be3f67e041c1ec2177cca6308ed70"
+}

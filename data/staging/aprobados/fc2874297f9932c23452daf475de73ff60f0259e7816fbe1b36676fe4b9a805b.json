@@ -1,0 +1,15 @@
+{
+  "texto": "Caño de Capita (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.829764, -6.131617.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc2874297f9932c23452daf475de73ff60f0259e7816fbe1b36676fe4b9a805b"
+}

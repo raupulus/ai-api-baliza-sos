@@ -1,0 +1,15 @@
+{
+  "texto": "Avenida (farmacia). Coordenadas aprox: 36.0156, -5.6057.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0155615&mlon=-5.605669",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8673c9b1645525940157494db1936ae5d364e1441c1891d51afebb6a6ff043b0"
+}

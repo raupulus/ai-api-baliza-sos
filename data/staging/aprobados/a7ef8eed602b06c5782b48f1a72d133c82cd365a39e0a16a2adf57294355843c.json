@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Infierno (Curso Fluvial) en Casares. WGS84: 36.44879, -5.211335.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a7ef8eed602b06c5782b48f1a72d133c82cd365a39e0a16a2adf57294355843c"
+}

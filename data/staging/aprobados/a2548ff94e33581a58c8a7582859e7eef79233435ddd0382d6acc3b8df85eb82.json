@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia González Arroyo (farmacia). Coordenadas aprox: 36.8511, -5.6946.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8511414&mlon=-5.6946465",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a2548ff94e33581a58c8a7582859e7eef79233435ddd0382d6acc3b8df85eb82"
+}

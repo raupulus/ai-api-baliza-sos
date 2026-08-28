@@ -1,0 +1,15 @@
+{
+  "texto": "Santuario Nuestra Señora de la Luz (Servicio/Equipamiento) en Tarifa. WGS84: 36.081238, -5.625153.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cb3ded54215eb7529bbe63fc6feb9333e5b818e1b73a2dc03dd4c2dfd4616780"
+}

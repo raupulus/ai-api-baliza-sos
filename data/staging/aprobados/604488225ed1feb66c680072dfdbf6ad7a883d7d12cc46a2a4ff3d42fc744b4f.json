@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Miraflores V (San Roque). WGS84: 36.205656, -5.413344.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "604488225ed1feb66c680072dfdbf6ad7a883d7d12cc46a2a4ff3d42fc744b4f"
+}

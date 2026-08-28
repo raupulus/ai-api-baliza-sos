@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Sánchez Mejía (farmacia). Coordenadas aprox: 36.6234, -6.3630.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6234327&mlon=-6.3630321",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7292fa51bda3cb20eec5428cbd0997772a38a6b30a0e7fc60f7d9f982a3b9aed"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Río Monardilla (Curso Fluvial) en Jubrique. WGS84: 36.563556, -5.238171.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1f515340d370c1bfee9f6c7e2972ce2643ed71b672e05b62a585272cb21af24"
+}

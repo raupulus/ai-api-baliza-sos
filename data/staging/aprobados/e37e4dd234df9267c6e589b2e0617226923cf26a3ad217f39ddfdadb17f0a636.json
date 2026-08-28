@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Sanguino (Curso Fluvial) en Pruna. WGS84: 36.955589, -5.243877.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e37e4dd234df9267c6e589b2e0617226923cf26a3ad217f39ddfdadb17f0a636"
+}

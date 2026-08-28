@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Zahúrda (Curso Fluvial) en Chiclana de la Frontera. WGS84: 36.38387, -6.03642.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7581f76ecd9ccb33c0d10e8f9224193236e3ccd9531aab23740bd9f8a8c672e2"
+}

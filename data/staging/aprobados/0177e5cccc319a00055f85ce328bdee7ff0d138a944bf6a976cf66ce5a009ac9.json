@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio del Membrillo (Relieve Litoral / Marítimo) en Almonte. WGS84: 36.886647, -6.378746.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0177e5cccc319a00055f85ce328bdee7ff0d138a944bf6a976cf66ce5a009ac9"
+}

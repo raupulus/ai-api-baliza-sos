@@ -1,0 +1,15 @@
+{
+  "texto": "Venta la Inesperada (Servicio/Equipamiento) en Puerto Real. WGS84: 36.468137, -6.181119.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b306c0c7c71ec5f21cbac6760f6378d8f361031eceda2ff16ad027557c3cc51b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "farmacia (farmacia) en Espera. Coordenadas aprox: 36.8719, -5.8063.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8718893&mlon=-5.8062598",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "56ae22bc98eedfdf8b05be6daaea5ea41299eefbcee0e6e7fcfa7dfc69c2ccd1"
+}

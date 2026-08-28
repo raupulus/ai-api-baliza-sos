@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Azicar (Curso Fluvial) en Tarifa. WGS84: 36.203685, -5.70565.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e8f2e3776983f47d7520ec1128205d601799082e997a61c7527080917f4199dc"
+}

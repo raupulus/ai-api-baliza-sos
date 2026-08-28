@@ -1,0 +1,15 @@
+{
+  "texto": "Manantial (Curso Fluvial) en Algodonales. WGS84: 36.934476, -5.408908.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ef813d9f9c204c2568c1799e778041e49d08a3e2d3f8e6f8bb4d19e4b851864f"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Camp Bay (playa). Coordenadas aprox: 36.1196, -5.3515.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1195914&mlon=-5.3514588",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "977501eb0801d57e3ef586ce957c74c38305bc00798a91eac4fc42a1b92167b3"
+}

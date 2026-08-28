@@ -1,0 +1,15 @@
+{
+  "texto": "Pico de Barro (Relieve Litoral / Marítimo) en Rota. WGS84: 36.624368, -6.350807.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "74bebe4d4afe0da8b6d7a4369033299d27e227582f7007b60f40ed52f23a384c"
+}

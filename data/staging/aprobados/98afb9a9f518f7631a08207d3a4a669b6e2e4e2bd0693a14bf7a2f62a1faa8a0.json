@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de las Hileras (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.066882, -5.739485.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "98afb9a9f518f7631a08207d3a4a669b6e2e4e2bd0693a14bf7a2f62a1faa8a0"
+}

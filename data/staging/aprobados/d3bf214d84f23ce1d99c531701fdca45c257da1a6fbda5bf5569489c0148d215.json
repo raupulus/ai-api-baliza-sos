@@ -1,0 +1,15 @@
+{
+  "texto": "Cementerio Municipal de San José (Servicio/Equipamiento) en La Línea de la Concepción. WGS84: 36.182653, -5.348594.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d3bf214d84f23ce1d99c531701fdca45c257da1a6fbda5bf5569489c0148d215"
+}

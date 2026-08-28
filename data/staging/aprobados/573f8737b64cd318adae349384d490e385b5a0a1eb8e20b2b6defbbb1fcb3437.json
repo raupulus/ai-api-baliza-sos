@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Mondo (Curso Fluvial) en Conil de la Frontera. WGS84: 36.272474, -6.064094.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "573f8737b64cd318adae349384d490e385b5a0a1eb8e20b2b6defbbb1fcb3437"
+}

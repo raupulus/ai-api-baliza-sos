@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Látigo (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.673286, -5.931539.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5c222fbf834e994169e4ef604d17dfe92ce781104c67d6cf513474854adaa4c4"
+}

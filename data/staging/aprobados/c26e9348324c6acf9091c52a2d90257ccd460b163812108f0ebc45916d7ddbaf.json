@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Villanueva (Curso Fluvial) en Medina Sidonia. WGS84: 36.387564, -5.92311.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c26e9348324c6acf9091c52a2d90257ccd460b163812108f0ebc45916d7ddbaf"
+}

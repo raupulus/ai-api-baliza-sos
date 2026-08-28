@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Benajamuz (Curso Fluvial) en Algatocín. WGS84: 36.579248, -5.257925.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3fa6a37acbf1248af353c24039c2dd8d6cbed1f0bef66149c00d76aea02fceb7"
+}

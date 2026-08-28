@@ -1,0 +1,15 @@
+{
+  "texto": "Morillo Andújar (farmacia). Coordenadas aprox: 36.2524, -5.9689.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2523886&mlon=-5.9689122",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "99f365a0c4b8cbc38e2b4af2fc013c2ed659368a4be13ee44fecca6172a62e77"
+}

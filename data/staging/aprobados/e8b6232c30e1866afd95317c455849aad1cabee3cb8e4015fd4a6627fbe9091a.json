@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Urdiales (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.248976, -6.028096.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e8b6232c30e1866afd95317c455849aad1cabee3cb8e4015fd4a6627fbe9091a"
+}

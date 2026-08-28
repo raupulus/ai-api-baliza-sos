@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación Fc-Bahía Sur (San Fernando). WGS84: 36.469242, -6.206721.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5e88bdb28b56b390252657c91c9aaf77cc9d1e6b3d3138d0c7312e225302d558"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Marín Niebla (farmacia) en Montellano. Coordenadas aprox: 36.9956, -5.5730.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9956317&mlon=-5.5730154",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c099fa1f07700b26cc2763dbab8643d1eb26939d1f03357e3db4356148317927"
+}

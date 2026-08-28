@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo la Casa (Curso Fluvial) en Jimena de la Frontera. WGS84: 36.400623, -5.551269.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ba4c7779cbe00190153daa1283e97bd3ef138724b777aafd096a0d2a80a8b9e3"
+}

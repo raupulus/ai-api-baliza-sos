@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Cuerpo de Hombre (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.702853, -5.963932.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3405262c4c73085795685f502ffc830e6d1cb6b00695c8b853e4c58ab6c17826"
+}

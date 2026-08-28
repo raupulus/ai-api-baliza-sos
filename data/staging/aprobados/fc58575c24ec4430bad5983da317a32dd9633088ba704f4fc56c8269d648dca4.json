@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Casa del Mar (centro de salud). Coordenadas aprox: 36.5910, -6.2296.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5910398&mlon=-6.2295661",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fc58575c24ec4430bad5983da317a32dd9633088ba704f4fc56c8269d648dca4"
+}

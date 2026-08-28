@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia San Mateo Cádiz (farmacia). Coordenadas aprox: 36.5117, -6.2741.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5116728&mlon=-6.2741",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "87ac31d03031e98485f1cf45f1ada590e37c3ca83afea8cfd93d278cc2f5ad81"
+}

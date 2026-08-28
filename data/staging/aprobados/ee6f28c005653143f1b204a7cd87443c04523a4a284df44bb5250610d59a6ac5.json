@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de los Gallegos (Curso Fluvial) en San Roque. WGS84: 36.194886, -5.374428.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ee6f28c005653143f1b204a7cd87443c04523a4a284df44bb5250610d59a6ac5"
+}

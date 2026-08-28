@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Costilla (playa). Coordenadas aprox: 36.6187, -6.3645.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6187013&mlon=-6.3645371",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d7346492b7f068e7226664649f6e43834283257334c3733f0bc0e8efd9e9062"
+}

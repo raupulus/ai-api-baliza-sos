@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Pocito Blanco V (Conil de la Frontera). WGS84: 36.285625, -6.080686.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "75aeb30d9246bbc2880f3be6959f59e3c7790d98bd8232a0e62a9b4bd59545ed"
+}

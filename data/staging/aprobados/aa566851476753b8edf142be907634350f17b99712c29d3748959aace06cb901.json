@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Infierno (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.294899, -5.488459.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aa566851476753b8edf142be907634350f17b99712c29d3748959aace06cb901"
+}

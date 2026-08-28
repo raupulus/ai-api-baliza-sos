@@ -1,0 +1,15 @@
+{
+  "texto": "Playa Príncipe Alfonso (playa). Coordenadas aprox: 36.1694, -5.3706.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1693934&mlon=-5.3705942",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f605ef93759a154ec0f603123fb87611dace8e4fc45bcd8ec7cd99313226c68e"
+}

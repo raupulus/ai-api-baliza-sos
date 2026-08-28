@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: GAUCIN. WGS84: 36.540239, -5.386887.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cf2187694bdc0ac66a0c196e1e97cb9adb14ba9863650e75894b8f80ecffb64f"
+}

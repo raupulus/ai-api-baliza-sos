@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Manuel De Falla V (San Fernando). WGS84: 36.457479, -6.19901.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b53ab1ebfaaecf66726e6b475d1be7334ce3ec72cd8d656ec0fb7c1fc8b04760"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Punta Paloma (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.058605, -5.711519.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a995bc31af90caca9054bd4e74c6d19ec541d5059f59dd003eac1d5065da09f9"
+}

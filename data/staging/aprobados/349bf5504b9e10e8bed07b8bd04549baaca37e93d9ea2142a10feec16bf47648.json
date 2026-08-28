@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Tablellina (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.713861, -5.822899.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "349bf5504b9e10e8bed07b8bd04549baaca37e93d9ea2142a10feec16bf47648"
+}

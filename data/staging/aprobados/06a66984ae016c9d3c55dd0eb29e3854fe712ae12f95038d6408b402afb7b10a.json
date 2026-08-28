@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Caleta (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.532182, -6.307582.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "06a66984ae016c9d3c55dd0eb29e3854fe712ae12f95038d6408b402afb7b10a"
+}

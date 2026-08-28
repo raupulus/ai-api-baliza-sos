@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Santa Luisa (Servicio/Equipamiento) en Lebrija. WGS84: 36.902761, -5.985622.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7444f6bbe3fddc07f2e09889832475f977009d1842141b8c2e080f9728212463"
+}

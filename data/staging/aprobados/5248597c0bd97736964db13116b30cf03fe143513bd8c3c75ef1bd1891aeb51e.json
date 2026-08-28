@@ -1,0 +1,15 @@
+{
+  "texto": "Marisma de las Conejeras (Obra Hidráulica) en Jerez de la Frontera. WGS84: 36.79859, -6.146348.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5248597c0bd97736964db13116b30cf03fe143513bd8c3c75ef1bd1891aeb51e"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Cañada de la Cólera (Curso Fluvial) en San Martín del Tesorillo. WGS84: 36.353032, -5.359731.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4af7aa29c1ae2d516e2f22d0491935c6e01a796a34b06d7fe8e9581a3cb2c4d4"
+}

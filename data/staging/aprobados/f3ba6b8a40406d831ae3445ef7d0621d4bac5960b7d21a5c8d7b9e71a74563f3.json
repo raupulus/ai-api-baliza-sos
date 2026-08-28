@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Estudillo (Servicio/Equipamiento) en Benalup-Casas Viejas. WGS84: 36.304345, -5.717359.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f3ba6b8a40406d831ae3445ef7d0621d4bac5960b7d21a5c8d7b9e71a74563f3"
+}

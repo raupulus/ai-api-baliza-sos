@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Cruce El Toril V (San Roque). WGS84: 36.207583, -5.386498.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b8a76e3790f07ed1fbd2868e150ace8fc9794b3f4d0ec75ebe03060a00515d11"
+}

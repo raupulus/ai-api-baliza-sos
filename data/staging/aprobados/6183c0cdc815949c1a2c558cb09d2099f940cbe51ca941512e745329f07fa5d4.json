@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: JIMERA DE LIBAR. WGS84: 36.660701, -5.281295.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6183c0cdc815949c1a2c558cb09d2099f940cbe51ca941512e745329f07fa5d4"
+}

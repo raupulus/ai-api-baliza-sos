@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Cabañas (Curso Fluvial) en San José del Valle. WGS84: 36.602395, -5.844868.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "768b5e3fe34ebbe987ad02936682d9389be4a5fea3b967fe7628d9c8b49903e4"
+}

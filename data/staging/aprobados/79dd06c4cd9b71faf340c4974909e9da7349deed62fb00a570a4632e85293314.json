@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Silla (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.776383, -5.949356.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "79dd06c4cd9b71faf340c4974909e9da7349deed62fb00a570a4632e85293314"
+}

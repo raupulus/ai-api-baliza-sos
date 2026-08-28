@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Tahivilla (farmacia) en Tahivilla. Coordenadas aprox: 36.1844, -5.7569.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1843579&mlon=-5.756878",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "71c401d4f2bdce271ee48b14954d939f737bb3a294e32143760d941bc32c9b2b"
+}

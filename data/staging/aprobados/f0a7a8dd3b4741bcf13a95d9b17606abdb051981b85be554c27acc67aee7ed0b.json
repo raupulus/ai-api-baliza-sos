@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Estación San Bernardo (Algeciras). WGS84: 36.125921, -5.447542.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f0a7a8dd3b4741bcf13a95d9b17606abdb051981b85be554c27acc67aee7ed0b"
+}

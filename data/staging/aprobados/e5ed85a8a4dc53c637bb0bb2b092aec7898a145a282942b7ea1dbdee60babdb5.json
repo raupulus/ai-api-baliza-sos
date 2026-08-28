@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Central Sabinillas (farmacia) en San Luis de Sabinillas. Coordenadas aprox: 36.3668, -5.2271.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3668414&mlon=-5.227055",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e5ed85a8a4dc53c637bb0bb2b092aec7898a145a282942b7ea1dbdee60babdb5"
+}

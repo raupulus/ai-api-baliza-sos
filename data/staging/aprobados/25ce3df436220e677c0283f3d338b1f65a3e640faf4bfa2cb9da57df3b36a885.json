@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Garganta de la Loba (Curso Fluvial) en Tarifa. WGS84: 36.125474, -5.804878.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "25ce3df436220e677c0283f3d338b1f65a3e640faf4bfa2cb9da57df3b36a885"
+}

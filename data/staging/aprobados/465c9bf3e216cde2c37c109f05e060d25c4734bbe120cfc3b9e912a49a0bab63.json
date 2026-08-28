@@ -1,0 +1,15 @@
+{
+  "texto": "Garceta (Garza) Bueyera (Bubulcus ibis (Linnaeus, 1758)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2480830",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "465c9bf3e216cde2c37c109f05e060d25c4734bbe120cfc3b9e912a49a0bab63"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Los Gallos (farmacia). Coordenadas aprox: 36.3960, -6.1734.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3960165&mlon=-6.1733593",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9ea7bbe6dfd9b2baa2a4ee90fd1e619d1629319364452026232389cd0eb0d30a"
+}

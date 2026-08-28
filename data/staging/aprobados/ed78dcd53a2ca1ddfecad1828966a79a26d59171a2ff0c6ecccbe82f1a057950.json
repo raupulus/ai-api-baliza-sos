@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia/Botiquín José Manuel Medina González (farmacia) en Ronda. Coordenadas aprox: 36.8243, -5.1348.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.8243212&mlon=-5.1347987",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ed78dcd53a2ca1ddfecad1828966a79a26d59171a2ff0c6ecccbe82f1a057950"
+}

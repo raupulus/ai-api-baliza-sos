@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Paraíso (Curso Fluvial) en Las Cabezas de San Juan. WGS84: 37.002436, -5.914404.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3b8135918ee7e4c9a85d44e1eef81ee004f375217aa484d3e748f7355d8385cd"
+}

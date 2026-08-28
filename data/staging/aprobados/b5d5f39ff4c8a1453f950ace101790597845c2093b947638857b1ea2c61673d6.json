@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado de Puerto Real (Curso Fluvial) en Puerto Real. WGS84: 36.549235, -6.022231.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b5d5f39ff4c8a1453f950ace101790597845c2093b947638857b1ea2c61673d6"
+}

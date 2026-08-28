@@ -1,0 +1,15 @@
+{
+  "texto": "Espigón (Relieve Litoral / Marítimo) en Chipiona. WGS84: 36.748316, -6.429384.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aca4280d4dd456fbd47bd90ca66dd9910b5d8ee40cfda84bf25bf5af2ad85c70"
+}

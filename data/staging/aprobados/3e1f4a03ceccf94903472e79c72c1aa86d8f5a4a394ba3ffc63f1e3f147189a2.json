@@ -1,0 +1,15 @@
+{
+  "texto": "Cementerio de San Martín del Tesorillo (Servicio/Equipamiento) en San Martín del Tesorillo. WGS84: 36.346899, -5.330673.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3e1f4a03ceccf94903472e79c72c1aa86d8f5a4a394ba3ffc63f1e3f147189a2"
+}

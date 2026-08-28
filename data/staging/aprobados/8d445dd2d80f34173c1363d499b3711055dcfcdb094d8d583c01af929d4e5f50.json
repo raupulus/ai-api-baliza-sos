@@ -1,0 +1,15 @@
+{
+  "texto": "Santa Teresa la Nueva (Masa de Agua) en Chiclana de la Frontera. WGS84: 36.43291, -6.162998.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8d445dd2d80f34173c1363d499b3711055dcfcdb094d8d583c01af929d4e5f50"
+}

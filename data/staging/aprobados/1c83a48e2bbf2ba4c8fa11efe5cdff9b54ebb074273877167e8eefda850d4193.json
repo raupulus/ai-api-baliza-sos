@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Cebatillas (Curso Fluvial) en Utrera. WGS84: 36.964324, -5.733197.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c83a48e2bbf2ba4c8fa11efe5cdff9b54ebb074273877167e8eefda850d4193"
+}

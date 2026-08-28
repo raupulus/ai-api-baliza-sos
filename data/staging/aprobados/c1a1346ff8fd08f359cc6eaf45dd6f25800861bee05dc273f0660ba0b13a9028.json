@@ -1,0 +1,15 @@
+{
+  "texto": "Faro de la Isla de Tarifa (faro). Coordenadas aprox: 36.0012, -5.6096.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0011571&mlon=-5.6095789",
+  "fecha": "2026-08-28",
+  "categoria": "orientacion",
+  "subcategoria": "faro",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1a1346ff8fd08f359cc6eaf45dd6f25800861bee05dc273f0660ba0b13a9028"
+}

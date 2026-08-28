@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna de Santa Olalla (Masa de Agua) en Almonte. WGS84: 36.977878, -6.477706.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "08fdecb29baec95c738e5b4ff5e811c5d2f4e172508b08aadaca82ecc2d05dc4"
+}

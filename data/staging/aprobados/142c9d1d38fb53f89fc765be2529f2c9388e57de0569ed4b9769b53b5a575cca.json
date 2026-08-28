@@ -1,0 +1,15 @@
+{
+  "texto": "Río Barbate (Curso Fluvial) en Barbate. WGS84: 36.187605, -5.914456.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "142c9d1d38fb53f89fc765be2529f2c9388e57de0569ed4b9769b53b5a575cca"
+}

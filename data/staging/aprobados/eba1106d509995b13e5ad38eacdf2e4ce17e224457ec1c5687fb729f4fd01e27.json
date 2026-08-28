@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia El Santuario (farmacia) en Chipiona. Coordenadas aprox: 36.7298, -6.4365.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.729771&mlon=-6.436503",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eba1106d509995b13e5ad38eacdf2e4ce17e224457ec1c5687fb729f4fd01e27"
+}

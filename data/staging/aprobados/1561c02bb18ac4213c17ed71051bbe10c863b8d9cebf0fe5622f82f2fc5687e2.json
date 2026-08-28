@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Loreto Puntales (centro de salud) en Cádiz. Coordenadas aprox: 36.5060, -6.2704.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.505971&mlon=-6.2703779",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1561c02bb18ac4213c17ed71051bbe10c863b8d9cebf0fe5622f82f2fc5687e2"
+}

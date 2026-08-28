@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital de Jerez (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.699077, -6.149462.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6fbdb405a9b425a2df983ab6035104a0eb21c74d28b636d42a5f12f196f39b78"
+}

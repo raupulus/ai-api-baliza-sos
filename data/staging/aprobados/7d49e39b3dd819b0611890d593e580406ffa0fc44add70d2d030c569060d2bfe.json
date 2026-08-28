@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio de Vetas Altas (Relieve Litoral / Marítimo) en Aznalcázar. WGS84: 36.976164, -6.311607.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7d49e39b3dd819b0611890d593e580406ffa0fc44add70d2d030c569060d2bfe"
+}

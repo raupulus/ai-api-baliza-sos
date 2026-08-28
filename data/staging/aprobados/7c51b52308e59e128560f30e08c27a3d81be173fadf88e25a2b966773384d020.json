@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Parra (Curso Fluvial) en Tarifa. WGS84: 36.122924, -5.724134.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7c51b52308e59e128560f30e08c27a3d81be173fadf88e25a2b966773384d020"
+}

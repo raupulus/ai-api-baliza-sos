@@ -1,0 +1,15 @@
+{
+  "texto": "Veta Larga (Relieve Litoral / Marítimo) en Hinojos. WGS84: 36.993189, -6.392931.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3611065880edbeff16b7775837e98ddace0857a14da063180a72043e8ed29aa9"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Atajate de Molinilla (Curso Fluvial) en Jimera de Líbar. WGS84: 36.645005, -5.282079.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8aa15475b59fa5c1eb1d331853c5bc471eaea257aa057beb35d6b3faaa598083"
+}

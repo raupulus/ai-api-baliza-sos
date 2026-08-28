@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Torreguadiaro V (San Roque). WGS84: 36.300231, -5.270436.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cd9a5a0f71e8f6e8f8c4b51d07c4233e7e20cc01e5e14c02db09afb2d1bbd756"
+}

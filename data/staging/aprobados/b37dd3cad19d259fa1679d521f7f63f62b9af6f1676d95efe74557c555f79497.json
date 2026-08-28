@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Canchón de Concho (Curso Fluvial) en Barbate. WGS84: 36.16375, -5.874667.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b37dd3cad19d259fa1679d521f7f63f62b9af6f1676d95efe74557c555f79497"
+}

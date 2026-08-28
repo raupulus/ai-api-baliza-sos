@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Rompidillo (Relieve Litoral / Marítimo) en Rota. WGS84: 36.62041, -6.356597.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2b3cdd2f664777c3b9b79417d0b32af1c8a0ebc69489590701570d98a5706ab7"
+}

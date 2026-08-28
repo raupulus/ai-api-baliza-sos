@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta del Acebuchal (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.469997, -5.656391.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7e2e631edbe4c2c7748b47e13055491527aa35a62811311a349b2f087930c03d"
+}

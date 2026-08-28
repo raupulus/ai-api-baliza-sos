@@ -1,0 +1,15 @@
+{
+  "texto": "Pozo Valverde (Obra Hidráulica) en Chiclana de la Frontera. WGS84: 36.393424, -6.070313.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "abe75db1f1caca9fb01fea9e938ff22c54e9405f15483c436599993e6767dd01"
+}

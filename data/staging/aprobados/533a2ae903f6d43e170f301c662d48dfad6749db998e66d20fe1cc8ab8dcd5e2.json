@@ -1,0 +1,15 @@
+{
+  "texto": "Laguna de Torrox (Masa de Agua) en Jerez de la Frontera. WGS84: 36.662776, -6.142673.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "533a2ae903f6d43e170f301c662d48dfad6749db998e66d20fe1cc8ab8dcd5e2"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Negro (Curso Fluvial) en Manilva. WGS84: 36.32984, -5.251274.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9020bd773dc418cb432326601a4b3bfe50bd4437da0944fbb92c6c90c436aa3b"
+}

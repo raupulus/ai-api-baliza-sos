@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Internamiento de Menores la Marchenilla (Servicio/Equipamiento) en Algeciras. WGS84: 36.092571, -5.477133.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3fdeffd500ac9f5f61ed360f394a8c3c106e0dd52c027284e3261edb58a6fd1c"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Zahora (Relieve Litoral / Marítimo) en Barbate. WGS84: 36.197666, -6.047229.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "885d3b37557e2c4300699a749d44dd7214a38f6b029da95a2e0e8eebe65d59a8"
+}

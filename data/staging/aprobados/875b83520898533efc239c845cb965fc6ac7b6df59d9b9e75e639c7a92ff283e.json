@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Ganado (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.784741, -5.950535.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "875b83520898533efc239c845cb965fc6ac7b6df59d9b9e75e639c7a92ff283e"
+}

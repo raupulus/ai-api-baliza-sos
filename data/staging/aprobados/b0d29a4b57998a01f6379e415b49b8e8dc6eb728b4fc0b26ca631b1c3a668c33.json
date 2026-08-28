@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Navahermoso (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.274309, -5.500956.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b0d29a4b57998a01f6379e415b49b8e8dc6eb728b4fc0b26ca631b1c3a668c33"
+}

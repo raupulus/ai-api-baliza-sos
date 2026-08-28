@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Breña del Agua (Curso Fluvial) en Grazalema. WGS84: 36.775835, -5.455757.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "96bb9a26c6769cb0bb7545133a6f6f8944898fa0464f10593b972a39bd3b4800"
+}

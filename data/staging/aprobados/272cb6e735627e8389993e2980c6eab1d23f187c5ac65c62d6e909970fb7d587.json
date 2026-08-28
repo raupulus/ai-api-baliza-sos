@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Arenillas (Curso Fluvial) en Algámitas. WGS84: 37.027745, -5.160888.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "272cb6e735627e8389993e2980c6eab1d23f187c5ac65c62d6e909970fb7d587"
+}

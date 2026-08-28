@@ -1,0 +1,15 @@
+{
+  "texto": "Trafalgar Pharmacy (farmacia). Coordenadas aprox: 36.1432, -5.3533.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1432435&mlon=-5.3532901",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "70296bf828fd4e9a38d5413aeda2adfa76c1512562b6c842671d4512e5b2ae0a"
+}

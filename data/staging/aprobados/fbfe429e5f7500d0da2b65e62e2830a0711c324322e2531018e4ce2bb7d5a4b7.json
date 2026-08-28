@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de las Acedías (Curso Fluvial) en Casares. WGS84: 36.452128, -5.231851.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fbfe429e5f7500d0da2b65e62e2830a0711c324322e2531018e4ce2bb7d5a4b7"
+}

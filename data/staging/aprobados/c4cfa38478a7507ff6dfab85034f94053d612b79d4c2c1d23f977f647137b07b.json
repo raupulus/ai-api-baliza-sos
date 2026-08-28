@@ -1,0 +1,15 @@
+{
+  "texto": "Caño de las Astillas (Curso Fluvial) en San Fernando. WGS84: 36.491849, -6.185507.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c4cfa38478a7507ff6dfab85034f94053d612b79d4c2c1d23f977f647137b07b"
+}

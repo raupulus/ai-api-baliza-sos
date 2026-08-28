@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia La Plaza (farmacia) en Chiclana de la Frontera. Coordenadas aprox: 36.4203, -6.1505.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4202584&mlon=-6.150534",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "250728b14ffdae4f16e1550f449ec6964ac042a2097d1482251e59269bb87496"
+}

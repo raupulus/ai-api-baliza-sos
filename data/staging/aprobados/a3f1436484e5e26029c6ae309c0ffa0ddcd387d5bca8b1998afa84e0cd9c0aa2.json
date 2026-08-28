@@ -1,0 +1,15 @@
+{
+  "texto": "Convento María de Dios (Servicio/Equipamiento) en Sanlúcar de Barrameda. WGS84: 36.777559, -6.355225.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a3f1436484e5e26029c6ae309c0ffa0ddcd387d5bca8b1998afa84e0cd9c0aa2"
+}

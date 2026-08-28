@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Mora (Curso Fluvial) en San Roque. WGS84: 36.288365, -5.307657.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9165c68feba4b7221f3fdda677e8732e64c8f23ca79d8130881b0bfcc05caa91"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo las Campanillas (Curso Fluvial) en Tarifa. WGS84: 36.185957, -5.734656.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3097ba451daa4849d2b09c0e92b36ba3a93807d1dd8af2b1b8c25d5cfaf19c84"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Pandura (Curso Fluvial) en Algodonales. WGS84: 36.866225, -5.387642.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "019df72922e59e5fbb01cb2cf80a9b96f4902b6909b924cb76cf6fe414150107"
+}

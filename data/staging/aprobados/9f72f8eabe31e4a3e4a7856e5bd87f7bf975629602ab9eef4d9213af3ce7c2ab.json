@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Pilar Tabuyo (farmacia) en Júzcar. Coordenadas aprox: 36.6237, -5.1700.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6237194&mlon=-5.1699633",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9f72f8eabe31e4a3e4a7856e5bd87f7bf975629602ab9eef4d9213af3ce7c2ab"
+}

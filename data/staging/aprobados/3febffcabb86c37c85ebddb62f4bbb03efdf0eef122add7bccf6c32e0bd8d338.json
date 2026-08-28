@@ -1,0 +1,15 @@
+{
+  "texto": "Consultorio de Campamento (centro de salud) en Campamento. Coordenadas aprox: 36.1780, -5.3790.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1780236&mlon=-5.3789759",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3febffcabb86c37c85ebddb62f4bbb03efdf0eef122add7bccf6c32e0bd8d338"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: SAN ROQUE-LA LINEA. WGS84: 36.213532, -5.432137.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "e9e95b5015b1307b44cbafdef9f415cb46f8763ad07eceeaa303a70ad7258d79"
+}

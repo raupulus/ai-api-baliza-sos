@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Chaina (Curso Fluvial) en Casares. WGS84: 36.422364, -5.299042.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "79bf223cc305fd1330d1e0c655be3bcdffe9a8ad5dd6f137726e49b86b286e8c"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Camping Chullera 3 (Servicio/Equipamiento) en Manilva. WGS84: 36.347635, -5.23519.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a92a9d8c49dce6423869a099b1611a7fff9536a43cd9be97e2d9502e76f3027d"
+}

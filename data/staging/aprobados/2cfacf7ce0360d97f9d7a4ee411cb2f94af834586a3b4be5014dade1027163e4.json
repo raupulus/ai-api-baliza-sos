@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Muela (Curso Fluvial) en Olvera. WGS84: 36.943141, -5.387782.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2cfacf7ce0360d97f9d7a4ee411cb2f94af834586a3b4be5014dade1027163e4"
+}

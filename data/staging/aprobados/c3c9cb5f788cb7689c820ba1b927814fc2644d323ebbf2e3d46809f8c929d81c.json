@@ -1,0 +1,15 @@
+{
+  "texto": "Sacramento (Masa de Agua) en Chiclana de la Frontera. WGS84: 36.43597, -6.158308.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c3c9cb5f788cb7689c820ba1b927814fc2644d323ebbf2e3d46809f8c929d81c"
+}

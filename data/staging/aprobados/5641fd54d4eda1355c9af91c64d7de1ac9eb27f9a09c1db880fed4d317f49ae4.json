@@ -1,0 +1,15 @@
+{
+  "texto": "Iglesia del Antiguo Monasterio de San José del Cuervo (Servicio/Equipamiento) en Medina Sidonia. WGS84: 36.279771, -5.663789.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5641fd54d4eda1355c9af91c64d7de1ac9eb27f9a09c1db880fed4d317f49ae4"
+}

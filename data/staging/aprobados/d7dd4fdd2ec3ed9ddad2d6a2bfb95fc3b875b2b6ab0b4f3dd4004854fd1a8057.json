@@ -1,0 +1,15 @@
+{
+  "texto": "Marisma (Relieve Litoral / Marítimo) en El Puerto de Santa María. WGS84: 36.65367, -6.20912.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d7dd4fdd2ec3ed9ddad2d6a2bfb95fc3b875b2b6ab0b4f3dd4004854fd1a8057"
+}

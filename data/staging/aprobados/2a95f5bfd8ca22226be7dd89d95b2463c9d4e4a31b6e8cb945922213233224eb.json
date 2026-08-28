@@ -1,0 +1,15 @@
+{
+  "texto": "Clínica Beiman (centro de salud). Coordenadas aprox: 36.9895, -5.9388.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.9895126&mlon=-5.938821",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2a95f5bfd8ca22226be7dd89d95b2463c9d4e4a31b6e8cb945922213233224eb"
+}

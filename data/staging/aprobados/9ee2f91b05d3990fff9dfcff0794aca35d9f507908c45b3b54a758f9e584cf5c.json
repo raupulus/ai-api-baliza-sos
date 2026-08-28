@@ -1,0 +1,15 @@
+{
+  "texto": "Estadio (farmacia). Coordenadas aprox: 36.5044, -6.2741.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5043515&mlon=-6.2741042",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9ee2f91b05d3990fff9dfcff0794aca35d9f507908c45b3b54a758f9e584cf5c"
+}

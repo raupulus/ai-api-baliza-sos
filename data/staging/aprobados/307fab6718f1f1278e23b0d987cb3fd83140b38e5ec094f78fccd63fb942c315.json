@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Colmenar (Curso Fluvial) en Cortes de la Frontera. WGS84: 36.539517, -5.389579.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "307fab6718f1f1278e23b0d987cb3fd83140b38e5ec094f78fccd63fb942c315"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Clinica Militar (centro de salud) en San Fernando. Coordenadas aprox: 36.4794, -6.1944.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4793663&mlon=-6.1943981",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5703f789da80e187becdadbb2854e57eab7c17fadef720dd1b8320f1da643513"
+}

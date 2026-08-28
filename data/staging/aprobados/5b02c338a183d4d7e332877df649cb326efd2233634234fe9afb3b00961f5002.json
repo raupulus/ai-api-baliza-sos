@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Acebuchosa (Curso Fluvial) en Prado del Rey. WGS84: 36.789894, -5.516875.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5b02c338a183d4d7e332877df649cb326efd2233634234fe9afb3b00961f5002"
+}

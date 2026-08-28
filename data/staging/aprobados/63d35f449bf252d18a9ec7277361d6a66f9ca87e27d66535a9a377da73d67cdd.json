@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud La Laguna (centro de salud). Coordenadas aprox: 36.5050, -6.2742.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5049562&mlon=-6.2742432",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "63d35f449bf252d18a9ec7277361d6a66f9ca87e27d66535a9a377da73d67cdd"
+}

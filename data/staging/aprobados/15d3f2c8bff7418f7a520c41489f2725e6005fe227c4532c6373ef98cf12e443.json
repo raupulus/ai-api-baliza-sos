@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Mariquita (Servicio/Equipamiento) en Prado del Rey. WGS84: 36.749601, -5.573088.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "15d3f2c8bff7418f7a520c41489f2725e6005fe227c4532c6373ef98cf12e443"
+}

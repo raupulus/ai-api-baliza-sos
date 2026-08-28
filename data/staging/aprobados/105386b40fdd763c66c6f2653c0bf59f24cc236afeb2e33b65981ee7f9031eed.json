@@ -1,0 +1,15 @@
+{
+  "texto": "Centro de Salud Barbate (centro de salud) en Barbate. Coordenadas aprox: 36.1883, -5.9234.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1882719&mlon=-5.9234332",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "105386b40fdd763c66c6f2653c0bf59f24cc236afeb2e33b65981ee7f9031eed"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/parada: Universidad de Cádiz (Puerto Real). WGS84: 36.529251, -6.206169.",
+  "fuente": "Renfe Viajeros (GTFS Cercanías)",
+  "fuente_url": "https://data.renfe.com/es/dataset/horarios-cercanias",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "estacion_cercanias",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "691b16b605b414594132dda12ab916b298883cf665463fbd261650011d26d091"
+}

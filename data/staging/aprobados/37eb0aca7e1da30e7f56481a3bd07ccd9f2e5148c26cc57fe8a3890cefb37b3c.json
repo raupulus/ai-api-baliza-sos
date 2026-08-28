@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Negro (Curso Fluvial) en Ronda. WGS84: 36.720563, -5.139415.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "37eb0aca7e1da30e7f56481a3bd07ccd9f2e5148c26cc57fe8a3890cefb37b3c"
+}

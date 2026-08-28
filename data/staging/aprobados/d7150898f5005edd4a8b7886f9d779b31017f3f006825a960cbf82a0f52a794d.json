@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Novo Sancti Petri (farmacia). Coordenadas aprox: 36.3520, -6.1646.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3520455&mlon=-6.1646251",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d7150898f5005edd4a8b7886f9d779b31017f3f006825a960cbf82a0f52a794d"
+}

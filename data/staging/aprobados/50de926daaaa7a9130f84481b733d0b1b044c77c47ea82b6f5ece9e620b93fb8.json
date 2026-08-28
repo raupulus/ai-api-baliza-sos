@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cuadrejón (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.781609, -6.016726.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "50de926daaaa7a9130f84481b733d0b1b044c77c47ea82b6f5ece9e620b93fb8"
+}

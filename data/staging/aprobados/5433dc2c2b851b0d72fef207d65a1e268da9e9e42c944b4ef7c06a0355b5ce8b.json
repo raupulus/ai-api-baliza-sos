@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Torreguadiaro (farmacia). Coordenadas aprox: 36.2991, -5.2711.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2990951&mlon=-5.2710932",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5433dc2c2b851b0d72fef207d65a1e268da9e9e42c944b4ef7c06a0355b5ce8b"
+}

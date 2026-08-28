@@ -1,0 +1,15 @@
+{
+  "texto": "Consultorio (centro de salud). Coordenadas aprox: 37.0154, -5.1491.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=37.0154413&mlon=-5.1491241",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aae82d4b36596453879d72ee699f520adf864f2c9a46a8f528e8914d11e7aee6"
+}

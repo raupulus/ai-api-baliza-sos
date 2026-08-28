@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Sanara (Curso Fluvial) en Pujerra. WGS84: 36.569719, -5.116813.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1349bef7a790dbcd1668b867322fa2ebbefb6886e420beb3985469e6c5df273b"
+}

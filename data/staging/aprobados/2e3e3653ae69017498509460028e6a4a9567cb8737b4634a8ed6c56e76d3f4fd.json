@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Moro (Curso Fluvial) en Algar. WGS84: 36.635588, -5.643213.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2e3e3653ae69017498509460028e6a4a9567cb8737b4634a8ed6c56e76d3f4fd"
+}

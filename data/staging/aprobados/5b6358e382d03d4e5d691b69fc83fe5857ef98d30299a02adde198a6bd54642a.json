@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Monte (Curso Fluvial) en Tarifa. WGS84: 36.170615, -5.816512.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5b6358e382d03d4e5d691b69fc83fe5857ef98d30299a02adde198a6bd54642a"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Venta Paquete V (Puerto Real). WGS84: 36.496326, -6.139463.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "071495b8714a205fd8ca2b8b2552055b1c1e4bdfd40c91efba5b2e99c8531621"
+}

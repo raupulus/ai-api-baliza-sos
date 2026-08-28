@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de San Fernando (Cádiz). Código INE 11031. Coordenadas WGS84 (centroide): 36.38314, -6.215482.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5734b44cf3c6daf49dcec099380450140e41163e6b34fe73b2416b930db5f8cd"
+}

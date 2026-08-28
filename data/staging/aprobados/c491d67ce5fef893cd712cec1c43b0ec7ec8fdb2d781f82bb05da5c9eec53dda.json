@@ -1,0 +1,15 @@
+{
+  "texto": "Caño del Caserón (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.543291, -6.222775.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c491d67ce5fef893cd712cec1c43b0ec7ec8fdb2d781f82bb05da5c9eec53dda"
+}

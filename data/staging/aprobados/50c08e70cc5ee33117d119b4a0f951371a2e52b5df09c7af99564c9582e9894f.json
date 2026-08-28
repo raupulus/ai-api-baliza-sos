@@ -1,0 +1,15 @@
+{
+  "texto": "Playa del Angel (playa). Coordenadas aprox: 36.4280, -5.1277.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4280402&mlon=-5.1277304",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "50c08e70cc5ee33117d119b4a0f951371a2e52b5df09c7af99564c9582e9894f"
+}

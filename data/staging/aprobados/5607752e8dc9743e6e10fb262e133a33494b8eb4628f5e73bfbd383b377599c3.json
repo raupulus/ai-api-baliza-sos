@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Monarda (Curso Fluvial) en Jubrique. WGS84: 36.562887, -5.192784.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "5607752e8dc9743e6e10fb262e133a33494b8eb4628f5e73bfbd383b377599c3"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Infierno (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.489383, -5.666535.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "25c576fc386567752012d7df83f763d302f623dcb2f355b288f93d824476eeac"
+}

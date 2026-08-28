@@ -1,0 +1,15 @@
+{
+  "texto": "Granja Escuela la Parra (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.751007, -6.076862.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b4818be8b065922f7db15ef6ac050318280ae12c0dcaf381bcfc9eade31f3f54"
+}

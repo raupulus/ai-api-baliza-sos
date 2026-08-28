@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Garza (Curso Fluvial) en Algeciras. WGS84: 36.129143, -5.520046.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8c6b40f9890f62eefc9ea12020c3029b0083374ad31787800a07ef8925bb1078"
+}

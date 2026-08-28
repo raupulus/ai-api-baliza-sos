@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Aljarán (Curso Fluvial) en Genalguacil. WGS84: 36.51775, -5.257797.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2f25a9e58148653df5d585c4a8195bc6bd4a09ec4884e4f071441fea6404d485"
+}

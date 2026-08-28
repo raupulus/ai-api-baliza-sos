@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Alvarez (farmacia). Coordenadas aprox: 36.2534, -5.9666.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2533552&mlon=-5.9666421",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b335037fbd35fef5655610b81da3ffc724408050660e16e3fbb51dad860f1187"
+}

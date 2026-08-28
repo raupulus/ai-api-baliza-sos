@@ -1,0 +1,15 @@
+{
+  "texto": "Puerta Jerez (farmacia) en Tarifa. Coordenadas aprox: 36.0141, -5.6041.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.0140912&mlon=-5.6041204",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2fe9f745e66552a51779ba152cdcb37fabc8524732df97962ed8ba2acf377b93"
+}

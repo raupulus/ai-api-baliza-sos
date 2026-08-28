@@ -1,0 +1,15 @@
+{
+  "texto": "Veta de los Ansares (Relieve Litoral / Marítimo) en Hinojos. WGS84: 36.996666, -6.388021.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "06cd5a08c2dbe448faa2f6e9260e3f64b80f2bd63e083a1e78755b387e250a26"
+}

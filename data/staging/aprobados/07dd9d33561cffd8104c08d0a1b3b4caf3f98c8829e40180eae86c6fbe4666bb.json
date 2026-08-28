@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Moro (Curso Fluvial) en El Bosque. WGS84: 36.784758, -5.494613.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "07dd9d33561cffd8104c08d0a1b3b4caf3f98c8829e40180eae86c6fbe4666bb"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Rodríguez Peñalver (farmacia). Coordenadas aprox: 36.7867, -6.3521.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7867138&mlon=-6.3521495",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4ad404531e5e24d3a61ccbbc5e07a4e539e6a0a15021b36c7d94fb38f3c8e177"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Polideportivo Municipal (Servicio/Equipamiento) en Arcos de la Frontera. WGS84: 36.762174, -5.81075.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "75f8dd011cc1bf5b42fa3c9a5253a3a4541f23d8d7312d5b828cdf960689b840"
+}

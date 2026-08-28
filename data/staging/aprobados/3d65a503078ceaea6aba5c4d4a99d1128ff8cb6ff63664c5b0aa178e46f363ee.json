@@ -1,0 +1,15 @@
+{
+  "texto": "Venta Antonio (Servicio/Equipamiento) en Jerez de la Frontera. WGS84: 36.687855, -6.197627.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3d65a503078ceaea6aba5c4d4a99d1128ff8cb6ff63664c5b0aa178e46f363ee"
+}

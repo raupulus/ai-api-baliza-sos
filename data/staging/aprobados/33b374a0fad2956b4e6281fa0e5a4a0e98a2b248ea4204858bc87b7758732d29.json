@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Viñas (Curso Fluvial) en Tarifa. WGS84: 36.035457, -5.544036.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "33b374a0fad2956b4e6281fa0e5a4a0e98a2b248ea4204858bc87b7758732d29"
+}

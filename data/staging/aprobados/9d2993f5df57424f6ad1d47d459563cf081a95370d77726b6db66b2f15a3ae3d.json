@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia y Óptica Marina (farmacia). Coordenadas aprox: 36.5188, -6.2823.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5187917&mlon=-6.282259",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "9d2993f5df57424f6ad1d47d459563cf081a95370d77726b6db66b2f15a3ae3d"
+}

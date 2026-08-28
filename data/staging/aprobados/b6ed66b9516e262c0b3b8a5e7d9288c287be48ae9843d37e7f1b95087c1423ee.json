@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Cancho del Torero (Curso Fluvial) en Los Barrios. WGS84: 36.22855, -5.665103.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "b6ed66b9516e262c0b3b8a5e7d9288c287be48ae9843d37e7f1b95087c1423ee"
+}

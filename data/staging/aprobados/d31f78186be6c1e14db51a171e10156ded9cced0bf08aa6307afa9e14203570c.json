@@ -1,0 +1,15 @@
+{
+  "texto": "Fuente de la Puentezuela (agua potable). Coordenadas aprox: 36.7586, -5.3689.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.7586058&mlon=-5.3689406",
+  "fecha": "2026-08-28",
+  "categoria": "supervivencia",
+  "subcategoria": "agua potable",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d31f78186be6c1e14db51a171e10156ded9cced0bf08aa6307afa9e14203570c"
+}

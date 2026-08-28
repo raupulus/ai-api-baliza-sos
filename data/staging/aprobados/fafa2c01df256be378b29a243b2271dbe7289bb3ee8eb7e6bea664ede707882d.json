@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Inmaculada Rivas (farmacia). Coordenadas aprox: 36.1390, -5.4564.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1389697&mlon=-5.4564044",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fafa2c01df256be378b29a243b2271dbe7289bb3ee8eb7e6bea664ede707882d"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Garceta Común (Egretta garzetta (Linnaeus, 1766)). Presente en la provincia de Cádiz. Grupo: Aves.",
+  "fuente": "GBIF",
+  "fuente_url": "https://www.gbif.org/species/2480876",
+  "fecha": "2026-08-28",
+  "categoria": "fauna",
+  "subcategoria": "especie",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "039d17f4b15a846410241545d8ad6e0983c4dd0ee4da2fed77c21fa06e40d87d"
+}

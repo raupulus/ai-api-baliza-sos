@@ -1,0 +1,15 @@
+{
+  "texto": "El Matadero (Servicio/Equipamiento) en Barbate. WGS84: 36.194671, -5.913256.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "abe4a87375aac8bbed838973bebb3c33f69af3d029e3c56480944c4af8ac37e2"
+}

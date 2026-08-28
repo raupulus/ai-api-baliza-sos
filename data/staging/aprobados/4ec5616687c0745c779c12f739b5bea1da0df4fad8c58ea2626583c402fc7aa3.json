@@ -1,0 +1,15 @@
+{
+  "texto": "San José y San Enrique (Masa de Agua) en Chiclana de la Frontera. WGS84: 36.444108, -6.163078.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4ec5616687c0745c779c12f739b5bea1da0df4fad8c58ea2626583c402fc7aa3"
+}

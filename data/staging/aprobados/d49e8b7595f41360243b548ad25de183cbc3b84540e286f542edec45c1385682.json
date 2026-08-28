@@ -1,0 +1,15 @@
+{
+  "texto": "Río del Valle (Curso Fluvial) en Tarifa. WGS84: 36.068485, -5.690667.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d49e8b7595f41360243b548ad25de183cbc3b84540e286f542edec45c1385682"
+}

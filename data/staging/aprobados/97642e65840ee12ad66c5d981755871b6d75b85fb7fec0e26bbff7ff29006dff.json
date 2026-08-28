@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Cañaveral (Curso Fluvial) en Montellano. WGS84: 37.023885, -5.547188.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "97642e65840ee12ad66c5d981755871b6d75b85fb7fec0e26bbff7ff29006dff"
+}

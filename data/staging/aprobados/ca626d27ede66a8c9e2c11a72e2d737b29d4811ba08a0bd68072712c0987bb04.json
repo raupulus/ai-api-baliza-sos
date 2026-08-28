@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Mármol (Curso Fluvial) en El Saucejo. WGS84: 37.040005, -5.123327.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "ca626d27ede66a8c9e2c11a72e2d737b29d4811ba08a0bd68072712c0987bb04"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Valdevaqueros (Relieve Litoral / Marítimo) en Tarifa. WGS84: 36.064603, -5.684805.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f514cc0914ef8eda35ce2d76e78387f713abe8ed8ccdeb54d696325d9df17630"
+}

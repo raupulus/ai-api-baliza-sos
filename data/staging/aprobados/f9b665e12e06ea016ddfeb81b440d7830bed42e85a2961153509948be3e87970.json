@@ -1,0 +1,15 @@
+{
+  "texto": "Hospiten (centro de salud) en Algeciras. Coordenadas aprox: 36.1354, -5.4482.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1354372&mlon=-5.4481859",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f9b665e12e06ea016ddfeb81b440d7830bed42e85a2961153509948be3e87970"
+}

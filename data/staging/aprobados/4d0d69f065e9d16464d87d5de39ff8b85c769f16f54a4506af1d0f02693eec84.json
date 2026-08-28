@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Espantaperros (Curso Fluvial) en Utrera. WGS84: 37.017422, -5.686655.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4d0d69f065e9d16464d87d5de39ff8b85c769f16f54a4506af1d0f02693eec84"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Ugc Cine Cité (Los Barrios). WGS84: 36.190331, -5.431908.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "bfe6d8e14b491953c7deeb9545a1534e318da6e14e506c321035d1b26f6e8b31"
+}

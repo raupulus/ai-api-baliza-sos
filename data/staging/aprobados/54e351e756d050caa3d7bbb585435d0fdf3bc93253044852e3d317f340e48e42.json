@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Miguel Pérez Gonzàlez (farmacia) en Manilva. Coordenadas aprox: 36.3774, -5.2501.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3774061&mlon=-5.2501315",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "54e351e756d050caa3d7bbb585435d0fdf3bc93253044852e3d317f340e48e42"
+}

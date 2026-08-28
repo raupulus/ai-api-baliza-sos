@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo del Candio (Curso Fluvial) en Manilva. WGS84: 36.35843, -5.285325.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c3a70773b57e2aa4e1a6f4074a20d8ee1b1eed976f1677965db20344e6eaa4c4"
+}

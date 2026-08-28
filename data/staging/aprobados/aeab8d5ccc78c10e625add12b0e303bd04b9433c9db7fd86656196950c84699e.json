@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Quejigos (Curso Fluvial) en Pujerra. WGS84: 36.598816, -5.153927.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aeab8d5ccc78c10e625add12b0e303bd04b9433c9db7fd86656196950c84699e"
+}

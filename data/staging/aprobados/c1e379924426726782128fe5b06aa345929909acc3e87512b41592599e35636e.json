@@ -1,0 +1,15 @@
+{
+  "texto": "Punta la Clica (Relieve Litoral / Marítimo) en San Fernando. WGS84: 36.498282, -6.205769.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c1e379924426726782128fe5b06aa345929909acc3e87512b41592599e35636e"
+}

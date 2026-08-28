@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de Santibáñez (playa). Coordenadas aprox: 36.4678, -6.2564.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4678417&mlon=-6.2564453",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "999358da65ffb3e4c899888c2fb775f337839b74299183173582d73bdeaa9a4e"
+}

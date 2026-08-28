@@ -1,0 +1,15 @@
+{
+  "texto": "Cala del Pato (playa). Coordenadas aprox: 36.3026, -6.1475.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.3025832&mlon=-6.1475211",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "playa",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2a9ebbe4ab12cb00ddc3af5b0d6c0c49c32550856c1d07ee9419760f1176fa73"
+}

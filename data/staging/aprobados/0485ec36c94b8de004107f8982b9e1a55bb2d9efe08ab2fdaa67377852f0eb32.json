@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Plaza del Arenal (farmacia). Coordenadas aprox: 36.6821, -6.1379.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6820544&mlon=-6.1378571",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0485ec36c94b8de004107f8982b9e1a55bb2d9efe08ab2fdaa67377852f0eb32"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Cote (Curso Fluvial) en Montellano. WGS84: 36.976525, -5.560105.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cd2545098f7513fee43dade5b09c4be2f5d1f434feb5657179f426f9c8ff8ecd"
+}

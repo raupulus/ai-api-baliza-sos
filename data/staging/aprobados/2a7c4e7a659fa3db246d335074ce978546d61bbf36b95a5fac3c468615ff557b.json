@@ -1,0 +1,15 @@
+{
+  "texto": "Canuto del Laurel (Curso Fluvial) en Castellar de la Frontera. WGS84: 36.356047, -5.549186.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2a7c4e7a659fa3db246d335074ce978546d61bbf36b95a5fac3c468615ff557b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Vicuña (Curso Fluvial) en El Puerto de Santa María. WGS84: 36.649961, -6.215405.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "815c1d062ae0fe1ea66b3128eeda7a10bb08c585764d85e438db06a4aedefb66"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Clavel (farmacia). Coordenadas aprox: 36.1630, -5.3481.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1629629&mlon=-5.3481471",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "18542b7050714450475bc25321a7b50665cbaa6d97170716d19037e97c552f52"
+}

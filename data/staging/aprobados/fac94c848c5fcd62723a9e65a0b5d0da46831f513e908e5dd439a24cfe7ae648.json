@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Avda. Constitución 1.978-Instituto (San Fernando). WGS84: 36.452067, -6.20972.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fac94c848c5fcd62723a9e65a0b5d0da46831f513e908e5dd439a24cfe7ae648"
+}

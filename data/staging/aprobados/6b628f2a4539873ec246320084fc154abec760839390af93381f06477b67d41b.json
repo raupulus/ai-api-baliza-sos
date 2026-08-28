@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de las Tres Piedras (Relieve Litoral / Marítimo) en Chipiona. WGS84: 36.704871, -6.432212.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b628f2a4539873ec246320084fc154abec760839390af93381f06477b67d41b"
+}

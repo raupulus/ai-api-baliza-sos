@@ -1,0 +1,15 @@
+{
+  "texto": "Centro Médico Acacias (centro de salud). Coordenadas aprox: 36.5238, -6.2855.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5238118&mlon=-6.2854707",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "centro de salud",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1f126614dafb6ea5d676c06739ada8ba56b773d6e0acf25963e65dc803d1a929"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Hospital Universitario Puerta del Mar (hospital) en Cádiz. Coordenadas aprox: 36.5090, -6.2779.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.5090481&mlon=-6.2778596",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "hospital",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4b01f944fab9eddfe6f0225bb9136eedef628f4a78ad6d925db1286bfcfa916f"
+}

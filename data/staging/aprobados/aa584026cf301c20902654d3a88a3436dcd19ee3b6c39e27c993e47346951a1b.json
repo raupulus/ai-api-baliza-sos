@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo las Viñas de la Alquería (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.517284, -5.773072.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aa584026cf301c20902654d3a88a3436dcd19ee3b6c39e27c993e47346951a1b"
+}

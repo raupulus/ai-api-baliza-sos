@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: A-2078 Venta El Cepo (El Puerto de Santa María). WGS84: 36.666621, -6.246744.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "90b800e73dc8bdf5b99d5e5366f7f85eb3e3ea4b41e9205fc229f8971e3f8d9f"
+}

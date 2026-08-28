@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: RONDA. WGS84: 36.748660, -5.162156.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cc172f2f89607b34337e28b737ae7f715d01114e81290a74f89d258eece0fd57"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Teja (Curso Fluvial) en Jerez de la Frontera. WGS84: 36.683805, -5.930793.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "064bbb227a166205489af7e6e1c73e96a1ee4be2e5b45a91c45c07b760c3623b"
+}

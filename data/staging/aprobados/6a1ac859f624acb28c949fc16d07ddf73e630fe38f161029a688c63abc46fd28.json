@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Mª Carmen Gómez Carrasco (farmacia) en San Fernando. Coordenadas aprox: 36.4762, -6.1951.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.4761784&mlon=-6.1950931",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6a1ac859f624acb28c949fc16d07ddf73e630fe38f161029a688c63abc46fd28"
+}

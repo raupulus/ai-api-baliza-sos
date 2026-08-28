@@ -1,0 +1,15 @@
+{
+  "texto": "Playa de la Victoria (Relieve Litoral / Marítimo) en Cádiz. WGS84: 36.511298, -6.283698.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "eacabe2439125bcb4f75466c1ede52338a1ac72161ce92b39f0b0e164ae8dca6"
+}

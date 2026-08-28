@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Salado (Curso Fluvial) en Arcos de la Frontera. WGS84: 36.743785, -5.585816.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "8f12c4c31f0f850cb8d7e3fe041129cb6c672fe9104bd6e2e2ddc6527b85910d"
+}

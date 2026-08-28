@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Cabezas (Curso Fluvial) en Medina Sidonia. WGS84: 36.428762, -5.842856.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "3b750addc1cd3de0d86d97354baac358dbd5b5a75bc7aa0b4cf39a64bf208e7b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Lucio de Cúchares (Relieve Litoral / Marítimo) en La Puebla del Río. WGS84: 36.990398, -6.237082.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "2b913b31a210cd63e517bfe8967ab51fdc5cc7b63a3b023fc3f8ba4b83ce34e7"
+}

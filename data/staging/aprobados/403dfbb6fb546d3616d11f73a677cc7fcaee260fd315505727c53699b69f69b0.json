@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo Angostilla (Curso Fluvial) en Vejer de la Frontera. WGS84: 36.294303, -6.006441.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "403dfbb6fb546d3616d11f73a677cc7fcaee260fd315505727c53699b69f69b0"
+}

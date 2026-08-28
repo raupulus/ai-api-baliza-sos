@@ -1,0 +1,15 @@
+{
+  "texto": "Estación/instalación ferroviaria: JEREZ DE LA FRONTERA. WGS84: 36.680098, -6.126291.",
+  "fuente": "ADIF — IDEADIF (WFS INSPIRE RailwayStationNode)",
+  "fuente_url": "https://ideadif.adif.es/services/wfs",
+  "fecha": "2026-08-29",
+  "categoria": "transporte",
+  "subcategoria": "estacion_ferrocarril",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "adfbe6b6b7508d863d4b13f50f33608f06b99a22c9a5268301da274f7be6c21b"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de Monterroso (Curso Fluvial) en Estepona. WGS84: 36.442334, -5.16804.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f00dca1b4df70ffc24e3f5b26e02cbced63a69ae85b3c4246a79360bf56973d6"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia de Mata (farmacia). Coordenadas aprox: 36.2497, -5.9655.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2496547&mlon=-5.9655006",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "46dc26eafd7864dbec9d6938f0df47d953af7d6d523468c460723f15c9de8174"
+}

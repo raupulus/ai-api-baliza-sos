@@ -1,0 +1,15 @@
+{
+  "texto": "Garganta de Arnao (Curso Fluvial) en Alcalá de los Gazules. WGS84: 36.415329, -5.590958.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4e13b3439bae031d17bca4208bf81c609dfa0923835d7e10d141551faf0bb46a"
+}

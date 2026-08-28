@@ -1,0 +1,15 @@
+{
+  "texto": "Antigua Escuela de la Polvorilla (Servicio/Equipamiento) en Los Barrios. WGS84: 36.269934, -5.583717.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "fa3834b06c3abf4870c1df3d607cd28ed8138313f51b000fd2e0659805d9b257"
+}

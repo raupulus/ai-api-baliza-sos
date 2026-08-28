@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de las Yesas (Curso Fluvial) en Zahara. WGS84: 36.840935, -5.466853.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4ee1fd3ebc69fa92026c74288b348fa2e7573296bde9d2cf30cae0f26f92153d"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Cumberland Pharmacy (farmacia). Coordenadas aprox: 36.1256, -5.3529.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.1255892&mlon=-5.3528683",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "576c042fd9784ee4301483211f337af7a5ca33a1632cb2aaee6f12a036e31547"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Punto Limpio de San Benito (Servicio/Equipamiento) en Lebrija. WGS84: 36.93296, -6.062419.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f6d22ac117f1b2b263b2a749801c12e21ec9d7350b6cb800bac750e414dd2b23"
+}

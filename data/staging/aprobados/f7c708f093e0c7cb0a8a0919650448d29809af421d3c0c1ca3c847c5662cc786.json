@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia Domínguez (farmacia) en San Roque. Coordenadas aprox: 36.2106, -5.3857.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.2105737&mlon=-5.3856516",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "f7c708f093e0c7cb0a8a0919650448d29809af421d3c0c1ca3c847c5662cc786"
+}

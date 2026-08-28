@@ -1,0 +1,15 @@
+{
+  "texto": "Parada de autobús: Carretera De Jerez (Sanlúcar de Barrameda). WGS84: 36.764828, -6.342551.",
+  "fuente": "Red de Consorcios de Transporte de Andalucía (GTFS)",
+  "fuente_url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+  "fecha": "2026-08-28",
+  "categoria": "transporte",
+  "subcategoria": "parada_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "c3e6731f89e9eac160ddd9a1c7fe3e5c90d26d2e1a9fa8eebea83fbfb8c78598"
+}

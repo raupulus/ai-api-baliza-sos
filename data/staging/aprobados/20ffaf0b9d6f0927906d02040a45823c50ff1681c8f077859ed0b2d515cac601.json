@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo la Cotilla (Curso Fluvial) en Puerto Serrano. WGS84: 37.004569, -5.451713.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "20ffaf0b9d6f0927906d02040a45823c50ff1681c8f077859ed0b2d515cac601"
+}

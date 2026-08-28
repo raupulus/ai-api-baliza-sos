@@ -1,0 +1,15 @@
+{
+  "texto": "Ermita de las Montañas (Servicio/Equipamiento) en Villamartín. WGS84: 36.799272, -5.57328.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a8ab9cd47e3c7cb4fbb2c6eceb4d864a54775f24a472e33150e9a241d8c0eb00"
+}

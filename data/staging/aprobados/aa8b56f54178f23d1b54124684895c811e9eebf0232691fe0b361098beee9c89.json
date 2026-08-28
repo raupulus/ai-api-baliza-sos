@@ -1,0 +1,15 @@
+{
+  "texto": "Farmacia la Asunción 24h (farmacia). Coordenadas aprox: 36.6864, -6.1151.",
+  "fuente": "OpenStreetMap (Overpass)",
+  "fuente_url": "https://www.openstreetmap.org/?mlat=36.6864494&mlon=-6.1151342",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "farmacia",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "aa8b56f54178f23d1b54124684895c811e9eebf0232691fe0b361098beee9c89"
+}

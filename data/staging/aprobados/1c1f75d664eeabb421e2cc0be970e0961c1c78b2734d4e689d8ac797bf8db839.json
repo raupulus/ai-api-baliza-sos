@@ -1,0 +1,15 @@
+{
+  "texto": "Arroyo de la Hinojera (Curso Fluvial) en Rota. WGS84: 36.648053, -6.3002.",
+  "fuente": "IECA — Nomenclátor Geográfico de Andalucía (WFS app:Entidad)",
+  "fuente_url": "https://www.ideandalucia.es/wfs-nga/services",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "toponimo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "1c1f75d664eeabb421e2cc0be970e0961c1c78b2734d4e689d8ac797bf8db839"
+}

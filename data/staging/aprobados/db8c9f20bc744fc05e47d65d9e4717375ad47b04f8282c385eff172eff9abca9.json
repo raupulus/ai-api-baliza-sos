@@ -1,0 +1,15 @@
+{
+  "texto": "Municipio de Cádiz (Cádiz). Código INE 11012. Coordenadas WGS84 (centroide): 36.494414, -6.266194.",
+  "fuente": "DERA / IECA (WFS g13_01_TerminoMunicipal)",
+  "fuente_url": "https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs",
+  "fecha": "2026-08-28",
+  "categoria": "geografia",
+  "subcategoria": "municipio",
+  "provincia": "Cádiz",
+  "nivel_confianza": "media",
+  "licencia": "pendiente_de_verificar",
+  "peligrosa": false,
+  "validado_por": "Fuente oficial (estado/UE)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "db8c9f20bc744fc05e47d65d9e4717375ad47b04f8282c385eff172eff9abca9"
+}
