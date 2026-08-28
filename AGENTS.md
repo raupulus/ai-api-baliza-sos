@@ -51,6 +51,10 @@ Se compone de **dos servicios independientes**:
   **estrictamente obligatorio informar explícita y detalladamente al usuario**
   en la respuesta para que pueda ajustar sus clientes externos (bot de Meshtastic,
   Telegram, frontend web).
+- **Protección estricta de `data/info/valorar.md`.** `data/info/valorar.md` es el
+  cuaderno de trabajo y evaluación manual del usuario. Está **terminantemente
+  prohibido modificarlo, editarlo o sobrescribirlo** a no ser que el usuario lo
+  pida de forma totalmente explícita en su mensaje.
 
 ## 3. Guía de Navegación de Documentación para Agentes
 
@@ -82,8 +86,10 @@ acudir obligatoriamente a este directorio:
 * **`docs/rag/wikidata.md`** → Hospitales, faros y entidades territoriales de Cádiz (Wikidata SPARQL).
 * **`docs/rag/gbif.md`** → Presencia biológica georreferenciada en el BBOX provincial (GBIF).
 
-### C. Protocolo de Lectura Just-in-Time
+### C. Protocolo de Lectura Just-in-Time y Aislamiento de Datos
 Para optimizar el uso de contexto y no saturar la ventana de conversación:
+- **Aislamiento estricto de `data/` y `docs/rag/`:** Los agentes NO deben leer ni indexar proactivamente los contenidos de `docs/rag/`, `data/processed/`, `data/raw/` ni `data/info/` cuando estén realizando tareas normales de programación, refactorización, API, Docker, base de datos o tests.
+- **Acceso exclusivo bajo demanda:** Solo se abrirán archivos puntuales de esos directorios cuando la tarea del usuario sea expresamente "ingesta de datos", "procesamiento de datasets" o "revisión de fuentes RAG".
 - **No leer proactivamente archivos completos de documentación** salvo que sea estrictamente necesario para la tarea actual.
 - Utilizar `view_file` especificando rangos acotados de líneas (`StartLine` y `EndLine`) o herramientas de búsqueda puntual (`grep_search`, `find_by_name`).
 - Si solo necesitas consultar un endpoint, consulta exclusivamente `docs/info/08-contrato-api.md`. Si solo necesitas una fuente, consulta únicamente su archivo en `docs/rag/`.
@@ -99,13 +105,11 @@ Para optimizar el uso de contexto y no saturar la ventana de conversación:
 ## 5. Estructura del repositorio
 
 ```
-src/
-  common/     Config, conexión a BD, logging, modelos de datos compartidos.
-  api/        Servicio del bot (FastAPI): endpoints, pipeline RAG, memoria multi-turno, post-proceso.
-  api/rag/    Embeddings, recuperación vectorial, construcción de contexto.
-  updater/    Servicio actualizador: orquestación, normalización y staging.
-  updater/sources/  Módulos conectores por cada fuente de datos.
-  web/        Servidor y frontend de pruebas web local (chat interactivo).
+src/          Código fuente del backend (api, updater, common, web).
+data/raw/     Descargas en bruto originales (PDFs, ZIPs, dumps). Ignorado en Git.
+data/processed/ Datasets limpios (csv/) y guías narrativas (md/) listos para el RAG.
+data/info/    Laboratorio de trabajo, prompts, guías y cuaderno manual (valorar.md).
+data/staging/ Buffer temporal para validación humana de contenido sensible.
 docs/info/    Documentación técnica y decisiones de arquitectura (8 archivos).
 docs/rag/     Fichas y especificaciones de las fuentes de conocimiento del RAG.
 docs/planning/  Planificación activa y archivo histórico (archive/).

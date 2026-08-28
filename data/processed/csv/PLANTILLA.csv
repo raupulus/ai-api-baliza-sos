@@ -1,0 +1,3 @@
+id,categoria,subcategoria,titulo,contenido,fuente,fuente_url,nivel_confianza,provincia,municipio,lat,lon,fecha_verificacion
+"DIR-CAD-001","directorios","guardia_civil","Puesto Guardia Civil Barbate","Atención ciudadana y emergencias. Tel: 956430003","Guardia Civil (Oficial)","https://web.guardiacivil.es",1.0,"Cádiz","Barbate",36.1882,-5.9221,"2026-08-28"
+"GEO-MUN-001","geografia","municipio","Alcalá de los Gazules","Municipio de la comarca de La Janda (Cádiz). Coordenadas WGS84 centro: 36.4616, -5.7231. Altitud: 165 m.","IGN / IECA","https://www.ign.es",1.0,"Cádiz","Alcalá de los Gazules",36.4616,-5.7231,"2026-08-28"
