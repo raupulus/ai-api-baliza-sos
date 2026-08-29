@@ -1,65 +1,124 @@
-# Ficha de Fuente de Conocimiento: Wikidata (Grafo de Conocimiento)
+# Ficha de fuente/conector: Wikidata (grafo de conocimiento)
 
-[← Volver al Índice de Fuentes RAG](README.md)
+[← Volver al índice](README.md)
 
----
-
-## 1. Metadatos de la Fuente
-
-* **Identificador interno:** `wikidata`
-* **Categoría principal:** `geografia`
-* **Subcategorías:** `municipios`, `hospitales`, `faros`, `accidentes_geograficos`.
-* **Entidad / Organismo emisor:** Fundación Wikimedia y comunidad global de Wikidata.
-* **URL oficial o referencia documental:** https://query.wikidata.org (Endpoint SPARQL).
-* **Licencia de uso:** CC0 1.0 Universal (Dominio Público).
-* **Nivel de confianza asignado:** `media`
-* **Requiere validación humana:** No.
-* **Validador responsable:** `equipo_datos_enlazados`
-* **Fecha de creación de la ficha:** `2026-08-27`
-* **Fecha de última actualización:** `2026-08-27`
+> **Estado:** `en_validacion` — conector operativo, pero debe fijarse en CSV y contrastarse.
+> **Tipo:** conector transversal complementario. **Prioridad:** P2 (apoyo a geografía y patrimonio).
+> **Destino:** tablas estructuradas; metadatos, no narrativa.
 
 ---
 
-## 2. Descripción y Alcance
+## 1. Objetivo y límites
 
-Permite recuperar mediante consultas SPARQL estructuradas datos enciclopédicos y relacionales de entidades situadas en la provincia de Cádiz:
-- Hospitales comarcales y de especialidades con identificadores Q.
-- Faros marítimos emblemáticos (Chipiona, Trafalgar, Rota, Tarifa, San Jerónimo).
-- Alturas de cumbres y municipios limítrofes.
+Recuperar entidades y metadatos estructurados de la provincia mediante consultas SPARQL: hospitales, faros, municipios, cumbres y accidentes geográficos con identificadores Q y propiedades.
 
----
-
-## 3. Bloques Temáticos de Información a Indexar
-
-### Bloque 1: Faros de Navegación del Litoral Gaditano
-* Entidades Wikidata con `P31 = Q39715` (faro) e `is in administrative entity = Cádiz (Q81977)`.
-* Altura focal, alcance luminoso en millas náuticas y coordenadas GPS.
-
-### Bloque 2: Infraestructuras Sanitarias Mayores
-* Entidades con `P31 = Q16917` (hospital).
-* Nombre oficial, número de camas, helipuerto y ubicación.
+- **Uso:** complemento de `municipios-geografia.md`, `directorios-emergencia.md`, `historia-patrimonio.md` y `astronomia-mareas-orientacion.md`.
+- **Límite:** Wikidata es un grafo colaborativo con inconsistencias. Nunca prevalece sobre una fuente oficial para teléfonos, riesgo médico o vigencia legal. No indexar afirmaciones sin referencia (`sources`) ni extraer narrativa histórica.
 
 ---
 
-## 4. Implementación Técnica Asociada
+## 2. Registro de fuentes
 
-* **Módulo conector:** `src/updater/sources/wikidata.py`
-* **Clase conector:** `WikidataSource`
-* **Método de adquisición:** `api` (SPARQL JSON)
-* **Comando manual de actualización:**
-  ```bash
-  python3 scripts/actualizar_fuente.py --fuente wikidata
-  ```
+### `WIKIDATA-SPARQL` — Wikidata SPARQL (principal)
+
+- **Organismo / autoridad:** Fundación Wikimedia y comunidad Wikidata.
+- **URL de catálogo / portal:** https://query.wikidata.org
+- **URL de descarga / API:** `https://query.wikidata.org/sparql?query=...&format=json`
+- **Qué obtener:** entidades (hospitales, faros, municipios, cumbres) con identificadores Q y propiedades seleccionadas.
+- **Formato y adquisición:** `API` (SPARQL JSON).
+- **Fiabilidad:** `media`.
+- **Licencia:** CC0 1.0 (dominio público) para los datos estructurados.
+- **Cadencia:** dinámica; volcado puntual.
+- **Notas de estabilidad:** respetar `User-Agent` y límites del endpoint.
+
+### `IGN-CNIG` — Instituto Geográfico Nacional (contraste oficial)
+
+- **Organismo / autoridad:** IGN / CNIG.
+- **URL de catálogo:** https://centrodedescargas.cnig.es/CentroDescargas/index.jsp
+- **Qué obtener:** nomenclátor, altitudes y topónimos oficiales para contrastar entidades de Wikidata.
+- **Formato y adquisición:** `CSV/SHP/GPKG`.
+- **Fiabilidad:** `alta`.
+- **Licencia:** verificar por producto.
+- **Cadencia:** anual.
+
+### `IAPH-OPEN-DATA` — Instituto Andaluz del Patrimonio Histórico (contraste patrimonial)
+
+- **Organismo / autoridad:** IAPH.
+- **URL de catálogo:** https://www.juntadeandalucia.es/organismos/iaph/areas/documentacion-patrimonio/guia-digital.html
+- **API:** https://guiadigital.iaph.es/store/apis/info?name=open-data-iaph&provider=guiadigital&version=1.0
+- **Qué obtener:** entidades patrimoniales oficiales para contrastar faros/hitos culturales.
+- **Formato y adquisición:** `API`.
+- **Fiabilidad:** `alta` para inventario andaluz.
+- **Licencia:** verificar por separado metadatos e imágenes.
+- **Cadencia:** trimestral.
+
+### `PUERTOS-ESTADO` — Autoridad portuaria (contraste de faros)
+
+- **Organismo / autoridad:** Puertos del Estado.
+- **URL de catálogo:** https://portuscopia.puertos.es/
+- **Qué obtener:** faros y señales marítimas oficiales para contrastar alcances/alturas.
+- **Formato y adquisición:** `HTML` (verificar reutilización).
+- **Fiabilidad:** `alta`; ver condiciones de reutilización.
+- **Licencia:** `pendiente de verificar`; posible restricción.
+- **Cadencia:** anual.
+
+### `SAS-CENTROS` — Servicio Andaluz de Salud (contraste sanitario)
+
+- **Organismo / autoridad:** Servicio Andaluz de Salud.
+- **URL de catálogo:** https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/el-sas/servicios-y-centros/informacion-por-centros
+- **Qué obtener:** hospitales y centros sanitarios oficiales para contrastar las entidades sanitarias de Wikidata.
+- **Formato y adquisición:** `HTML` (identificar recurso reutilizable).
+- **Fiabilidad:** `alta`.
+- **Licencia:** `pendiente de verificar`.
+- **Cadencia:** mensual.
 
 ---
 
-## 5. Historial de Revisiones
+## 3. Bloques y mapeo
 
-| Versión | Fecha | Autor / Revisor | Descripción del Cambio |
-| :---: | :---: | :--- | :--- |
-| `1.0.0` | `2026-08-27` | `equipo_datos_enlazados` | Conector SPARQL funcional para entidades de Cádiz. |
+| Bloque destino | Fuente | Salida normalizada | Destino (`data/processed/`) | Validación |
+|---|---|---|---|---|
+| Hospitales | Wikidata + SAS | Q-ID, nombre, coordenadas, camas | `csv/hospitales_cadiz.csv` | Humana |
+| Faros | Wikidata + Puertos | nombre, coordenadas, alcance, altura | `csv/faros_cadiz.csv` | Humana |
+| Municipios | Wikidata + IGN | Q-ID, nombre, coordenadas | `csv/municipios_cadiz.csv` | Automática |
+| Cumbres | Wikidata + IGN | nombre, altitud, coordenadas | `csv/cumbres_cadiz.csv` | Humana |
 
 ---
 
-[← Volver al Índice de Fuentes RAG](README.md)
+## 4. Auditoría del conector existente
 
+`src/updater/sources/wikidata.py` (`WikidataSource`) consulta SPARQL en vivo. Su salida es heterogénea y carece de `snapshot_id`, fecha de consulta y referencia por afirmación. Debe fijarse en CSV y contrastarse antes de publicar.
+
+---
+
+## 5. Instantáneas y transformación
+
+```text
+data/raw/downloads/wikidata/<AAAA-MM-DD>/
+├── sparql/consulta_<tema>.json
+├── ign/<producto_contraste>
+├── iaph/records.<json|xml>
+├── puertos/<faro>.<html>
+└── MANIFEST.json
+```
+
+Guardar la consulta SPARQL exacta, el timestamp y la versión del resultado. Normalizar a WGS84; conservar el Q-ID como clave de trazabilidad.
+
+---
+
+## 6. Calidad, presupuesto y actualización
+
+- Validar coordenadas, IDs únicos, y que toda entidad crítica tenga fuente de contraste oficial.
+- Rechazar entidades sin referencia o con datos contradictorios sin resolver.
+- Revisión humana para hospitales, faros y cumbres.
+- Presupuesto: pocos cientos de filas; no requiere embeddings.
+- Actualización trimestral con diff y fijación en CSV.
+
+---
+
+## 7. Historial de versiones
+
+| Fecha | Estado | Autor / Revisor | Cambio |
+|---|---|---|---|
+| 2026-08-27 | `implementada` | equipo_datos_enlazados | Conector SPARQL para entidades de Cádiz. |
+| 2026-08-28 | `en_validacion` | Agente Zed | Modernizada a plantilla; añadidas fuentes de contraste y política de fijado en CSV. |

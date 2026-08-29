@@ -1,101 +1,125 @@
-# Ficha de Fuente de Conocimiento: Primeros Auxilios y Supervivencia Avanzada
+# Ficha de planificación: primeros auxilios y problemas de salud comunes
 
-[← Volver al Índice de Fuentes RAG](README.md)
+[← Volver al índice](README.md)
 
----
+> **Estado:** `en_validacion` — existe el conector heredado `primeros-auxilios-avanzado`, pero su procedencia, licencia y validación deben auditarse antes de reutilizarlo.
+> **Prioridad:** P0. **Destino:** RAG vectorial + contactos estructurados.
+> **Origen en `valorar.md`:** líneas 30-32, 40 y 80.
 
-## 1. Metadatos de la Fuente
+## 1. Objetivo y límites
 
-* **Identificador interno:** `primeros-auxilios-avanzado`
-* **Categoría principal:** `primeros_auxilios` (con bloques complementarios en `supervivencia`)
-* **Subcategorías:** `traumatismos_montana`, `inmovilizacion_tobillo`, `hemorragias`, `rcp_soporte_vital`, `atragantamiento`, `golpe_de_calor`, `hipotermia`, `pez_arana`, `carabela_portuguesa`, `vibora_hocicuda`, `desorientacion_stop`, `senales_socorro`, `potabilizacion_agua`.
-* **Entidad / Organismo emisor:** Cruz Roja Española, Sociedad Española de Medicina de Urgencias y Emergencias (SEMES), Dirección General de Protección Civil y Emergencias (Ministerio del Interior), y GREIM (Grupos de Rescate Especial de Intervención en Montaña de la Guardia Civil).
-* **URL oficial o referencia documental:**
-  - Guías Oficiales de Primeros Auxilios de Cruz Roja Española (https://www.cruzroja.es).
-  - Protocolos de Soporte Vital Básico y Triaje de SEMES (https://www.semes.org).
-  - Manual de Autoprotección y Emergencias de Protección Civil Andalucía.
-* **Licencia de uso:** CC-BY-NC-SA 4.0 (Guías Sanitarias Oficiales y Material Docente Público).
-* **Nivel de confianza asignado:** `alta`
-* **Requiere validación humana:** Sí (Validado médicamente).
-* **Validador responsable:** `equipo_sanitario_emergencias`
-* **Fecha de creación de la ficha:** `2026-08-27`
-* **Fecha de última actualización:** `2026-08-27`
+Proporcionar instrucciones breves para población general ante primeros auxilios básicos, urgencias graves, parto inminente, atragantamiento, caídas, esguinces/fracturas y síntomas comunes, con señales de alarma y escalada al 112. No diagnostica ni sustituye asistencia sanitaria.
 
----
+La traqueostomía se limita a cuidados de seguridad para una persona que **ya tiene** cánula/estoma y a pedir ayuda; nunca explicará cómo crear una vía aérea, cambiar dispositivos sin formación o practicar procedimientos invasivos. Los tratamientos farmacológicos, dosis, torniquetes, picaduras y potabilización solo se incorporarán desde una guía exacta y tras validación profesional.
 
-## 2. Descripción y Alcance
+## 2. Registro de fuentes
 
-Esta fuente proporciona el núcleo de conocimiento médico y de supervivencia para situaciones críticas en la provincia de Cádiz:
-- **Entorno de montaña (Sierra de Grazalema, Los Alcornocales):** Traumatismos por caídas, esguinces, desorientación en senderos escarpados y shock térmico (hipotermia por humedad o calor extremo).
-- **Entorno costero y litoral (Bahía de Cádiz, Costa de la Luz, Estrecho de Tarifa):** Picaduras de peces venenosos (pez araña), celentéreos (carabela portuguesa, medusas) y deshidratación o golpe de calor agravado por viento de Levante.
-- **Soporte vital inmediato:** Maniobras esenciales que cualquier persona sin formación médica puede ejecutar paso a paso (RCP, desatragantamiento de Heimlich, hemostasia y torniquetes) mientras se coordinan los servicios de emergencia del 112.
+### `ERC-2025` — Guías europeas de resucitación
 
----
+- **Organismo:** European Resuscitation Council.
+- **Portal:** https://www.erc.edu/science-research/guidelines/guidelines-2025/
+- **Resumen oficial en castellano:** https://www.erc.edu/media/vatl54cg/01_gl2025_exec-summary_es_v10.pdf?dl=0
+- **Qué obtener:** soporte vital básico ciudadano, reconocimiento de parada, uso de DEA, atragantamiento y diferencias por grupo cuando estén en el material público seleccionado.
+- **Formato:** HTML/PDF, edición 2025.
+- **Fiabilidad:** alta por sociedad científica responsable de las guías europeas.
+- **Licencia:** pendiente de verificar por documento y traducción; no asumir reutilización integral.
+- **Cadencia:** por nueva edición, corrección o actualización intermedia.
 
-## 3. Bloques Temáticos de Información a Indexar
+### `INGESA-PA` — Guía de primeros auxilios
 
-### Bloque 1: Traumatología y Caídas en Montaña
-* **Objetivo:** Pautas de rescate sin agravar posibles lesiones vertebrales o articulares.
-* **Contenido clave:**
-  - No mover a víctimas con sospecha de daño en columna o cuello salvo peligro inminente.
-  - Inmovilización de tobillos y rodillas con férulas improvisadas sin retirar la bota en marcha.
-  - Aislamiento térmico del suelo para evitar el enfriamiento rápido del accidentado.
+- **Organismo:** Instituto Nacional de Gestión Sanitaria, Ministerio de Sanidad.
+- **Documento:** https://ingesa.sanidad.gob.es/dam/jcr:bf2bfc8d-e181-4629-9650-ca8b2985393b/Guia_centros_educativos.pdf
+- **Qué obtener:** evaluación inicial, activación de emergencias y actuaciones ciudadanas aplicables; revisar público objetivo y fecha editorial.
+- **Formato:** PDF.
+- **Fiabilidad:** alta como publicación sanitaria oficial; puede requerir contraste por antigüedad.
+- **Licencia:** pendiente de verificar en el documento/aviso legal.
+- **Cadencia:** semestral para descubrir sustitución.
 
-### Bloque 2: Hemorragias Masivas y Torniquetes
-* **Objetivo:** Detención de sangrado severo antes de que ocurra shock hipovolémico.
-* **Contenido clave:**
-  - Presión directa mantenida con apósito durante mínimo 5-10 minutos.
-  - Criterio de uso de torniquete: sangrado arterial pulsátil en extremidades incontrolable por compresión.
-  - Colocación 5-7 cm por encima de la herida y anotación indeleble de la hora de aplicación.
+### `INGESA-URG` — Guía de urgencias extrahospitalarias
 
-### Bloque 3: Soporte Vital Básico (RCP y Atragantamiento)
-* **Objetivo:** Mantener la oxigenación cerebral en parada cardiorrespiratoria o asfixia.
-* **Contenido clave:**
-  - Secuencia RCP: 30 compresiones torácicas a 100-120 cpm (profundidad 5-6 cm) seguidas de 2 ventilaciones (o solo compresiones continuas).
-  - Atragantamiento: 5 golpes interescapulares firmes con el talón de la mano alternados con 5 compresiones abdominales hacia dentro y hacia arriba (Heimlich).
+- **Organismo:** INGESA.
+- **Documento:** https://ingesa.sanidad.gob.es/dam/jcr:a8b93f7a-e8dd-49d1-b643-b068f9508e18/Guia_urgencias_extrahosp.pdf
+- **Qué obtener:** señales de gravedad y contraste clínico para parto, traumatismos y urgencias; no trasladar técnicas o dosis profesionales.
+- **Formato:** PDF, documento de 2014.
+- **Fiabilidad:** alta como referencia profesional histórica, no como única guía vigente para ciudadanía.
+- **Licencia:** pendiente de verificar.
+- **Cadencia:** buscar sustitución semestralmente.
 
-### Bloque 4: Termorregulación y Climatología Extrema en Cádiz
-* **Objetivo:** Actuación ante golpes de calor por viento de Levante o frío en la sierra.
-* **Contenido clave:**
-  - Golpe de calor: sombra inmediata, compresas frescas en cuello, axilas e ingles, hidratación solo si está consciente.
-  - Hipotermia: manta térmica con la cara plateada hacia dentro, ropa seca y bebidas calientes azucaradas (nunca alcohol).
+### `CRUZROJA-PA`
 
-### Bloque 5: Toxicología por Picaduras y Mordeduras
-* **Objetivo:** Tratamiento específico según la naturaleza bioquímica de cada toxina.
-* **Contenido clave:**
-  - Pez araña: inmersión inmediata en agua caliente (40-45 °C durante 30-60 min) por ser toxina termolábil.
-  - Carabela portuguesa / Medusas: lavado exclusivo con agua marina o vinagre; no usar agua dulce ni frotar.
-  - Víbora hocicuda: inmovilización por debajo del corazón; jamás sajar, succionar ni torniquetear.
+- **Organismo:** Cruz Roja Española.
+- **Ejemplo evaluado, atragantamiento:** https://www2.cruzroja.es/es/web/ahora/-/qu-c3-a9-hacer-ante-un-atragantamiento
+- **Qué obtener:** recomendaciones públicas concretas de primeros auxilios, una página/documento por protocolo.
+- **Formato:** HTML/PDF.
+- **Fiabilidad:** alta como organización de referencia; cada protocolo debe contrastarse con ERC/Sanidad.
+- **Licencia:** pendiente de verificar por página; enlazar no implica permiso para copiar.
+- **Cadencia:** trimestral.
 
-### Bloque 6: Supervivencia, Desorientación y Señales de Socorro
-* **Objetivo:** Guiar al usuario desorientado para sobrevivir y facilitar su rescate.
-* **Contenido clave:**
-  - Protocolo S.T.O.P. (Stop, Think, Observe, Plan).
-  - Señal internacional de socorro: 6 señales acústicas/luminosas por minuto con 1 minuto de pausa.
-  - Señalización hacia helicópteros de salvamento (cuerpo en 'Y' para YES/Auxilio).
-  - Potabilización de emergencia: ebullición o 2 gotas de lejía apta para consumo por litro.
+### `SAS-CIUDADANIA` — Autocuidados y derivación
 
----
+- **Organismo:** Servicio Andaluz de Salud.
+- **Ejemplo verificado, resfriado:** https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/ciudadania/farmacia-y-prestaciones/informacion-la-ciudadania-sobre-el-uso-de-medicamentos/medicamentos-para-el-resfriado-preguntas-frecuentes
+- **Qué obtener:** fichas oficiales para fiebre, tos, resfriado, cefalea, ampollas y señales de alarma; cada tema necesita URL y fecha propias.
+- **Formato:** HTML/PDF.
+- **Fiabilidad:** alta para ciudadanía andaluza.
+- **Licencia:** pendiente de verificar por ficha.
+- **Cadencia:** trimestral.
 
-## 4. Implementación Técnica Asociada
+## 3. Bloques y mapeo
 
-* **Módulo conector:** `src/updater/sources/primeros_auxilios_avanzado.py`
-* **Clase conector:** `PrimerosAuxiliosAvanzadoSource`
-* **Método de adquisición:** `manual_validado`
-* **Comando manual de actualización:**
-  ```bash
-  python3 scripts/actualizar_fuente.py --fuente primeros-auxilios-avanzado
-  ```
+| Bloque | Fuente preferente | Salida normalizada | Subcategoría | Revisión |
+|---|---|---|---|---|
+| Evaluación inicial | ERC/INGESA | seguridad, respuesta, respiración, llamada | `evaluacion_inicial` | Sanitaria |
+| RCP/DEA | ERC | grupo, secuencia, ritmo, DEA, cese | `soporte_vital` | Sanitaria obligatoria |
+| Atragantamiento | ERC + Cruz Roja | gravedad, tos, maniobras por grupo, pérdida de conciencia | `atragantamiento` | Sanitaria obligatoria |
+| Hemorragias/trauma | INGESA + guía vigente por seleccionar | hacer, no hacer, inmovilización, alarma | `traumatismos` | Sanitaria obligatoria |
+| Parto inminente | INGESA-URG + fuente ciudadana por seleccionar | reconocer, llamar, acompañar, seguridad | `parto` | Obstetricia |
+| Traqueostomía existente | fuente clínica ciudadana por localizar | alarma, posición, ayuda, límites | `traqueostomia_cuidados` | Especialista; no invasivo |
+| Salud común | SAS | autocuidado no farmacológico, alarma, derivación | `autocuidados` | Medicina/enfermería |
+| Riesgos locales | fuentes sanitarias específicas | exposición, primeros pasos, alarma | `picaduras_mordeduras` | Sanitaria + biología |
+| Colectivos vulnerables | ERC/SAS + guía pediátrica | niño/lactante, persona mayor, embarazada, discapacidad; diferencias RCP y evacuación | `vulnerables` | Sanitaria obligatoria |
 
----
+Cada fragmento tendrá escenario, población, acciones ordenadas, prohibiciones, señales de alarma, fuente exacta, edición y aprobación. Los contactos se enlazan desde `directorios-emergencia.md`.
 
-## 5. Historial de Revisiones
+## 4. Auditoría del conector existente
 
-| Versión | Fecha | Autor / Revisor | Descripción del Cambio |
-| :---: | :---: | :--- | :--- |
-| `1.0.0` | `2026-08-27` | `equipo_sanitario_emergencias` | Corpus inicial validado: 13 fragmentos de soporte vital, traumatología, picaduras y protocolo STOP. |
+Existe `src/updater/sources/primeros_auxilios_avanzado.py`, con contenido escrito manualmente. Antes de ejecutarlo de nuevo deben corregirse en una fase de implementación separada estos bloqueos:
 
----
+- atribuye una licencia genérica `CC-BY-NC-SA 4.0` sin vincularla a documentos;
+- marca `manual_validado`, confianza alta y un equipo revisor no identificado;
+- usa la fecha de ejecución como fecha de validación;
+- mezcla medicina, especies peligrosas, montaña y potabilización;
+- contiene cifras e instrucciones sin referencia por fragmento.
 
-[← Volver al Índice de Fuentes RAG](README.md)
+Esta ficha no valida ni invalida clínicamente cada frase: exige reemplazarla o rastrearla contra las fuentes anteriores y guardar revisor real, fecha, versión y resultado.
 
+## 5. Instantáneas
+
+```text
+data/raw/downloads/primeros-auxilios/<AAAA-MM-DD>/
+├── erc-2025/<documento>.pdf
+├── ingesa/guia_primeros_auxilios.pdf
+├── ingesa/guia_urgencias_extrahospitalarias.pdf
+├── cruz-roja/<protocolo>.html
+├── sas/<autocuidado>.html
+└── MANIFEST.json
+```
+
+Extraer encabezados y listas sin resumir automáticamente dosis o secuencias críticas. Generar una tabla de trazabilidad `fragmento → páginas/secciones → revisor` antes de publicar.
+
+## 6. Calidad, presupuesto y actualización
+
+- Revisión obligatoria por profesional sanitario competente; obstetricia y traqueostomía requieren perfil específico.
+- Rechazar contenido sin versión, dirigido solo a profesionales si no puede adaptarse con seguridad, o que contradiga una guía más reciente.
+- Pruebas: adulto/niño, persona inconsciente, embarazo, anticoagulantes, fiebre con alarma, cánula existente y ausencia de cobertura.
+- Las respuestas deben caber en hasta tres mensajes de 230 bytes sin omitir llamada al 112 ni prohibiciones críticas.
+- Objetivo: 80-160 fragmentos, menos de 500 KiB; PDF originales fuera de la Pi.
+- Actualizar por versión; todo cambio en secuencia, cifra o “no hacer” bloquea publicación hasta nueva revisión.
+
+## 7. Pendientes para aprobar
+
+- [ ] Asignar profesionales sanitarios reales y registrar evidencia de revisión.
+- [ ] Localizar fuentes ciudadanas vigentes para parto y traqueostomía existente.
+- [ ] Verificar licencias de ERC, INGESA, Cruz Roja y SAS.
+- [ ] Diseñar migración segura del conector heredado sin publicar contenido no auditado.
+- [ ] Definir casos de prueba clínicos y revisión de los límites LoRa.

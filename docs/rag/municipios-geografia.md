@@ -1,79 +1,113 @@
-# Ficha de Fuente de Conocimiento: Municipios y Geografía Oficial de Cádiz
+# Ficha de planificación: municipios, núcleos y topónimos
 
-[← Volver al Índice de Fuentes RAG](README.md)
+[← Volver al índice](README.md)
 
----
+> **Estado:** `en_validacion` — existe un conector de 45 municipios, pendiente de contrastar y ampliar.
+> **Prioridad:** P1. **Destino:** tablas geoespaciales; RAG solo para descripciones con fuente.
+> **Origen en `valorar.md`:** líneas 3 y 44.
 
-## 1. Metadatos de la Fuente
+## 1. Objetivo y límites
 
-* **Identificador interno:** `municipios-cadiz`
-* **Categoría principal:** `geografia`
-* **Subcategorías:** `municipio`, `orografia_montana`, `comarcas`, `refugios`.
-* **Entidad / Organismo emisor:** Instituto Geográfico Nacional (IGN, Ministerio de Transportes y Movilidad Sostenible) e Instituto de Estadística y Cartografía de Andalucía (IECA, Junta de Andalucía).
-* **URL oficial o referencia documental:**
-  - Nomenclátor Geográfico de Andalucía (https://www.juntadeandalucia.es/institutodeestadisticaycartografia).
-  - Base Topográfica Nacional 1:25.000 (BTN25 - IGN).
-  - Federación Andaluza de Montañismo (FAM).
-* **Licencia de uso:** CC-BY 4.0 (Información Geográfica Oficial de Libre Reutilización).
-* **Nivel de confianza asignado:** `alta`
-* **Requiere validación humana:** No (Datos cartográficos oficiales contrastados).
-* **Validador responsable:** `equipo_cartografia_ign`
-* **Fecha de creación de la ficha:** `2026-08-27`
-* **Fecha de última actualización:** `2026-08-27`
+Cubrir toda la provincia configurada con municipios, entidades de población, núcleos, diseminados/pedanías y topónimos oficiales, incluyendo códigos estables y coordenadas representativas. Esta base relacionará consultas, directorios, transporte y patrimonio con el territorio correcto.
 
----
+Una coordenada de núcleo no representa todo el término municipal ni es un punto de rescate. Las comarcas o descripciones turísticas no se presentarán como divisiones administrativas oficiales si la fuente no lo indica.
 
-## 2. Descripción y Alcance
+## 2. Registro de fuentes
 
-Proporciona la cobertura espacial completa de la provincia de Cádiz con sus **45 municipios oficiales** y sus accidentes orográficos y montañosos más prominentes.
-Permite al asistente responder preguntas de geolocalización, coordenadas GPS exactas (WGS84 latitud/longitud), altitudes, comarcas y puntos clave para rescates o triangulación en caso de desorientación.
+### `IECA-NOMENCLATOR`
 
----
+- **Organismo:** Instituto de Estadística y Cartografía de Andalucía.
+- **Portal:** https://www.juntadeandalucia.es/institutodeestadisticaycartografia/dega/nomenclator-de-entidades-y-nucleos-de-poblacion-de-andalucia
+- **Qué obtener:** municipios, entidades colectivas/singulares, núcleos y diseminados, códigos, nombres y población/edición si están publicados.
+- **Formato:** descarga o consulta oficial; determinar recurso concreto durante implementación.
+- **Fiabilidad:** alta para entidades y núcleos andaluces.
+- **Licencia:** pendiente de verificar en metadatos del conjunto.
+- **Cadencia:** anual o por nueva edición.
 
-## 3. Bloques Temáticos de Información a Indexar
+### `NGA-WFS` — Nomenclátor Geográfico de Andalucía
 
-### Bloque 1: Bahía de Cádiz
-* **Municipios:** Cádiz (capital: 36.5298, -6.2924, alt. 11m), Jerez de la Frontera (36.6850, -6.1261, alt. 56m), San Fernando (36.4644, -6.1983, alt. 8m), El Puerto de Santa María (36.5997, -6.2307, alt. 15m), Chiclana de la Frontera (36.4190, -6.1460, alt. 21m), Puerto Real (36.5284, -6.1906, alt. 14m).
+- **Organismo:** IECA/Infraestructura de Datos Espaciales de Andalucía.
+- **WFS:** https://www.ideandalucia.es/wfs-nga/services?
+- **Qué obtener:** topónimos, clasificación, coordenadas/geometría y códigos disponibles; descubrir capas con `GetCapabilities`.
+- **Formato:** WFS/GML.
+- **Fiabilidad:** alta como nomenclátor geográfico oficial.
+- **Licencia:** pendiente de verificar.
+- **Cadencia:** trimestral.
 
-### Bloque 2: Costa Noroeste
-* **Municipios:** Sanlúcar de Barrameda (36.7781, -6.3515, alt. 30m, desembocadura Guadalquivir), Chipiona (36.7369, -6.4326, alt. 6m), Rota (36.6214, -6.3586, alt. 12m), Trebujena (36.8705, -6.1755, alt. 69m).
+### `DERA-LIMITES`
 
-### Bloque 3: La Janda
-* **Municipios:** Conil de la Frontera (36.2770, -6.0886, alt. 41m), Vejer de la Frontera (36.2541, -5.9620, alt. 201m), Barbate (36.1923, -5.9221, alt. 14m, Cabo de Trafalgar), Medina Sidonia (36.4572, -5.9269, alt. 337m), Benalup-Casas Viejas (36.3427, -5.8118, alt. 112m), Alcalá de los Gazules (36.4613, -5.7225, alt. 165m), Paterna de Rivera (36.5218, -5.8679, alt. 127m).
+- **Organismo:** IECA.
+- **Descargas:** https://www.juntadeandalucia.es/institutodeestadisticaycartografia/dega/datos-espaciales-de-referencia-de-andalucia-dera/descarga-de-informacion
+- **WFS de límites:** https://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs?
+- **Qué obtener:** límites provincial y municipal, códigos y edición.
+- **Formato:** GPKG/WFS.
+- **Fiabilidad:** alta.
+- **Licencia:** verificar por conjunto.
+- **Cadencia:** por edición, comprobación trimestral.
 
-### Bloque 4: Campo de Gibraltar
-* **Municipios:** Algeciras (36.1274, -5.4536, alt. 20m), La Línea de la Concepción (36.1680, -5.3486, alt. 5m), San Roque (36.2104, -5.3842, alt. 108m), Los Barrios (36.1843, -5.4920, alt. 23m), Tarifa (36.0143, -5.6044, alt. 7m - punto más meridional continental), Jimena de la Frontera (36.4336, -5.4542, alt. 203m), Castellar de la Frontera (36.3168, -5.4538, alt. 48m), San Martín del Tesorillo (36.3411, -5.3186, alt. 42m).
+### `IGN-CNIG` — Contraste nacional
 
-### Bloque 5: Sierra de Cádiz (Pueblos Blancos)
-* **Municipios:** Arcos de la Frontera (36.7483, -5.8106), Grazalema (36.7588, -5.3688, alt. 812m), Ubrique (36.6787, -5.4468), El Bosque (36.7578, -5.5066), Villamartín (36.8601, -5.6468), Olvera (36.9344, -5.2662), Zahara de la Sierra (36.8400, -5.3900), Algodonales (36.8809, -5.4055), Bornos (36.8206, -5.7444), Prado del Rey (36.7891, -5.5562), Espera (36.8724, -5.8055), Setenil de las Bodegas (36.8639, -5.1812, alt. 640m), Torre Alháquime (36.9158, -5.2346), Alcalá del Valle (36.9048, -5.1724), Benaocaz (36.7003, -5.4216), Villaluenga del Rosario (36.6974, -5.3850, alt. 858m - pueblo más alto), Algar (36.6560, -5.6568), El Gastor (36.8550, -5.3210), Puerto Serrano (36.9224, -5.5456).
+- **Organismo:** Instituto Geográfico Nacional / Centro Nacional de Información Geográfica.
+- **Centro de descargas:** https://centrodedescargas.cnig.es/CentroDescargas/index.jsp
+- **Qué obtener:** nomenclátor y cartografía nacional solo para contraste de nombres, altitud o elementos fronterizos.
+- **Formato:** CSV/SHP/GPKG según producto.
+- **Fiabilidad:** alta.
+- **Licencia:** verificar condiciones de uso del producto concreto.
+- **Cadencia:** anual.
 
-### Bloque 6: Cumbres, Puertos y Puntos Orográficos Estratégicos
-* **Pico El Torreón:** Máxima altitud de Cádiz (1648 m), Sierra del Pinar en Grazalema (36.7645, -5.4121).
-* **Pico El Aljibe:** Máxima cumbre de Los Alcornocales (1092 m, 36.4678, -5.5902).
-* **Puerto de las Palomas:** Paso de carretera a 1157 m (36.7663, -5.3789) entre Grazalema y Zahara.
-* **Puerto del Boyar:** Divisoria de aguas y mirador panorámico a 1103 m (36.7512, -5.4053).
+### `INE-POBLACION` — Población oficial por municipio
 
----
+- **Organismo:** Instituto Nacional de Estadística.
+- **Consulta:** https://www.ine.es/dynt3/inebase/es/index.htm?padre=525
+- **Qué obtener:** cifras oficiales de población por municipio/núcleo y año, para enriquecer `municipalities`/`population_entities` con dato demográfico trazable.
+- **Formato:** tablas y descargas CSV/PC-Axis.
+- **Fiabilidad:** alta para estadística oficial.
+- **Licencia:** verificar condiciones de reutilización del INE y atribución.
+- **Cadencia:** anual (padrón continuo).
 
-## 4. Implementación Técnica Asociada
+## 3. Modelo y mapeo
 
-* **Módulo conector:** `src/updater/sources/municipios_cadiz.py`
-* **Clase conector:** `MunicipiosCadizSource`
-* **Método de adquisición:** `nomenclator_oficial`
-* **Comando manual de actualización:**
-  ```bash
-  python3 scripts/actualizar_fuente.py --fuente municipios-cadiz
-  ```
+| Tabla | Campos mínimos | Fuente preferente | Regla |
+|---|---|---|---|
+| `municipalities` | código INE/IECA, nombre, provincia, geometría, edición | IECA/DERA | Deben ser 45 solo cuando `PROVINCIA=Cádiz` |
+| `population_entities` | código jerárquico, nombre, tipo, municipio, población/año | IECA | Conservar jerarquía |
+| `place_names` | id, nombre, variantes, tipo, lat/lon/geometría, fuente | NGA | No deduplicar solo por texto |
+| `administrative_boundaries` | id, nivel, geometría, CRS, vigencia | DERA | Validar topología |
+| `elevation_points` | id, nombre, altitud, referencia vertical, geometría | IGN/IECA | No mezclar altitud media y puntual |
 
----
+Las coordenadas se almacenan en WGS84 para consulta y con CRS original en metadatos. Los alias se mantienen separados del nombre oficial.
 
-## 5. Historial de Revisiones
+## 4. Auditoría del conector existente
 
-| Versión | Fecha | Autor / Revisor | Descripción del Cambio |
-| :---: | :---: | :--- | :--- |
-| `1.0.0` | `2026-08-27` | `equipo_cartografia_ign` | Incorporación exhaustiva de los 45 municipios de Cádiz con coordenadas GPS, altitud y 4 puntos orográficos principales (48 fragmentos). |
+`src/updater/sources/municipios_cadiz.py` contiene 45 municipios y cuatro puntos escritos a mano. No conserva códigos oficiales ni procedencia por coordenada, fija Cádiz en los datos y mezcla geografía con descripciones narrativas. También asigna licencia y validación no demostradas y usa la fecha de ejecución como validación.
 
----
+El conector puede servir como inventario de pruebas, pero no como fuente de verdad. Su contenido deberá compararse registro a registro y migrarse a datos estructurados parametrizados.
 
-[← Volver al Índice de Fuentes RAG](README.md)
+## 5. Instantáneas
 
+```text
+data/raw/downloads/municipios-geografia/<AAAA-MM-DD>/
+├── ieca/nomenclator.<csv|xlsx|json>
+├── nga/toponimos.gml
+├── dera/limites.<gpkg|gml>
+├── ign/<producto_contraste>
+└── MANIFEST.json
+```
+
+Filtrar por código provincial o intersección espacial, nunca por una lista hardcodeada. Guardar consulta WFS, CRS, edición y hash.
+
+## 6. Calidad, presupuesto y actualización
+
+- Validar códigos únicos, relaciones padre-hijo, 45 municipios para Cádiz, geometrías, rangos y nombres vacíos.
+- Revisar manualmente altas/bajas/cambios de entidad y discrepancias IECA/IGN.
+- Pruebas: entidad homónima, pedanía/diseminado, topónimo fronterizo, punto fuera del término y cambio de nombre.
+- Presupuesto: miles de topónimos y geometrías simplificadas, previsiblemente pocos MiB; originales fuera de la Pi.
+- Actualización anual con diff por código; cambios de límites requieren revisión y rollback.
+
+## 7. Pendientes para aprobar
+
+- [ ] Identificar descargas y capas exactas del nomenclátor IECA/NGA.
+- [ ] Verificar licencias por producto.
+- [ ] Definir vocabulario de tipos de entidad y relación con municipios.
+- [ ] Medir precisión/tamaño y tolerancia de simplificación.
+- [ ] Planificar migración del conector heredado sin perder pruebas existentes.

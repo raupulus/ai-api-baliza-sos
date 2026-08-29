@@ -79,17 +79,21 @@ Abrir **solo** el archivo relacionado con el módulo que se va a consultar o mod
 
 ### B. Especificación de Fuentes de Conocimiento del RAG (`docs/rag/`)
 Cuando se trabaje con **datos, ingesta, vectorización o ampliación de conocimiento**,
-acudir obligatoriamente a este directorio:
-* **`docs/rag/README.md`** → Metodología general, flujo de ingesta manual y registro maestro de fuentes.
-* **`docs/rag/PLANTILLA_FUENTE.md`** → Plantilla estándar que debe cumplimentarse antes de incorporar cualquier fuente nueva.
-* **`docs/rag/primeros-auxilios.md`** → Protocolos médicos y de supervivencia (Cruz Roja, SEMES, Protección Civil).
-* **`docs/rag/flora-fauna.md`** → Plantas tóxicas, setas venenosas, flora comestible y fauna peligrosa de Cádiz (REDIAM).
-* **`docs/rag/municipios-geografia.md`** → Los 45 municipios de Cádiz con coordenadas GPS WGS84 oficiales y cumbres (IGN/IECA).
-* **`docs/rag/fiestas-tradiciones.md`** → Festividades populares, carnavales, ferias y romerías (Patronato de Turismo).
-* **`docs/rag/historia-patrimonio.md`** → Hitos históricos de Cádiz: Gadir, época romana, 1812, Trafalgar (IAPH).
-* **`docs/rag/overpass-osm.md`** → Farmacias, centros sanitarios y fuentes de agua potable (OpenStreetMap).
-* **`docs/rag/wikidata.md`** → Hospitales, faros y entidades territoriales de Cádiz (Wikidata SPARQL).
-* **`docs/rag/gbif.md`** → Presencia biológica georreferenciada en el BBOX provincial (GBIF).
+acudir obligatoriamente a este directorio. `docs/rag/README.md` es el **índice maestro**
+con el registro de fichas y su estado; `docs/rag/PLANTILLA_FUENTE.md` es la plantilla
+que debe cumplimentarse antes de incorporar cualquier fuente nueva.
+
+Fichas temáticas (por dominio):
+* **`primeros-auxilios.md`** · **`toxicologia-sustancias.md`** · **`apoyo-psicosocial.md`** → Salud y emergencias médicas.
+* **`flora-fauna.md`** · **`territorio-medio-natural.md`** · **`agricultura-ganaderia.md`** → Riesgos biológicos y medio natural.
+* **`municipios-geografia.md`** · **`historia-patrimonio.md`** · **`fiestas-tradiciones.md`** → Geografía, historia y cultura.
+* **`proteccion-civil-autoproteccion.md`** · **`preparacion-supervivencia.md`** · **`clima-meteorologia.md`** → Protección civil, supervivencia y clima.
+* **`directorios-emergencia.md`** · **`radio-comunicaciones.md`** · **`astronomia-mareas-orientacion.md`** → Directorios, comunicaciones y orientación.
+* **`transporte-publico.md`** · **`legislacion-derechos.md`** → Transporte y marco legal.
+
+Fichas de conector (transversales): **`overpass-osm.md`** · **`wikidata.md`** · **`gbif.md`**.
+
+Documentos de gobierno: **`catalogo-adquisicion.md`** · **`plan-adquisicion.md`** · **`analisis-lote.md`** · **`auditoria-fuentes.md`** · **`checklist-validacion-humana.md`** · **`lecciones-adquisicion.md`**.
 
 ### C. Protocolo de Lectura Just-in-Time y Aislamiento de Datos
 Para optimizar el uso de contexto y no saturar la ventana de conversación:
@@ -154,10 +158,10 @@ Makefile      Comandos rápidos de gestión, despliegue y testing.
 
 ## 9. Estado actual
  
-**Backend Docker y Memoria Conversacional Operativos.**
+**Backend Docker y Memoria Conversacional Operativos (en la Raspberry Pi).**
 - Servicios centrales containerizados (`bot-api`, `bot-llm`, `bot-db`, `bot-web`).
 - Memoria conversacional multi-turno persistente en PostgreSQL (ventana de 20 turnos con compactación por IA y TTL de 1 hora de inactividad).
 - Prompt calibrado para triaje de emergencias y primeros auxilios sin rechazos prematuros.
-- Corpus RAG ampliado con 89 fragmentos locales de Cádiz (médico, flora/fauna, 45 municipios con coordenadas WGS84, fiestas e historia).
+- **Corpus RAG preparado en staging: 4474 fragmentos validados (0 pendientes)** en `data/staging/aprobados/`, organizados en 15 categorías (geografía 3216, supervivencia 661, transporte 449, directorios 54, orientación 28, fauna 25, primeros auxilios 17, protección civil 7, flora 6, apoyo psicosocial 5, legislación 2, toxicología 1, cultura/historia 1, clima 1, agricultura 1). **Pendiente de ingesta/vectorización en la Raspberry Pi.**
 - Script de actualización manual bajo demanda: `python3 scripts/actualizar_fuente.py`.
 

@@ -1,6 +1,6 @@
 # 06 · Estado de implementación
 
-> **Última actualización:** 2026-08-27  
+> **Última actualización:** 2026-08-28  
 > **Ámbito:** Matriz de avance de módulos y estado operativo en producción.
 
 [← Volver al Índice de Documentación Técnica](README.md)
@@ -10,6 +10,23 @@
 Resumen de lo implementado en la primera sesión de desarrollo (módulos 01–07) y
 qué falta por ejecutar en la Raspberry Pi. La planificación por módulos lleva los
 checklists marcados con la misma información.
+
+## Estado del corpus RAG — staging (2026-08-28)
+
+> El corpus **ya no son 89 fragmentos**. En `data/staging/aprobados/` hay **4474 fragmentos validados (0 pendientes)** preparados para la siguiente ingesta **en la Raspberry Pi** (la vectorización se ejecuta allí, no en local).
+
+| Categoría | Frag. | | Categoría | Frag. |
+|---|---:|---|---|---:|
+| Geografía | 3216 | | Fauna | 25 |
+| Supervivencia | 661 | | Primeros auxilios | 17 |
+| Transporte | 449 | | Protección civil | 7 |
+| Directorios | 54 | | Flora | 6 |
+| Orientación | 28 | | Apoyo psicosocial | 5 |
+
+Además: legislación 2 · toxicología 1 · cultura/historia 1 · clima 1 · agricultura 1.
+
+- **Validación:** 4473 auto-aprobados como fuente oficial (estado/UE) + 1 (procesionaria) aprobada por Biólogo Francisco Ramón Gutierrez.
+- **Gobierno:** 17 fichas temáticas + plantilla + auditoría + checklist en `docs/rag/`.
 
 ## Qué está hecho (código + verificado en sandbox)
 
@@ -53,7 +70,7 @@ Todos los hitos previstos para la Raspberry Pi 5 se han completado y validado en
 
 - [x] Ejecución de **llama.cpp** (`llama-server`) en ARM con modelo Qwen2.5-3B Q4_K_M en puerto `8869`.
 - [x] Despliegue de **PostgreSQL 17** + pgvector con migraciones `0001_init.sql` y `0002_conversaciones.sql` aplicadas.
-- [x] Ingesta y vectorización de **89 fragmentos locales de Cádiz** (primeros auxilios avanzados, flora/fauna, 45 municipios con coordenadas IGN, fiestas e historia).
+- [x] Ingesta y vectorización de **89 fragmentos locales de Cádiz** (línea base desplegada en la Pi; el corpus ampliado a 4474 fragmentos está en `data/staging/aprobados/`, ver sección anterior).
 - [x] Suite de **pruebas unitarias (51 tests)** ejecutándose dentro del contenedor API al 100% OK.
 - [x] Batería de **pruebas de integración E2E (6/6 tests)** validada en caliente contra el endpoint HTTP `http://172.18.1.121:8870`.
 - [x] Frontend Web UI de validación previa operativo en `http://172.18.1.121:8443`.
@@ -69,7 +86,7 @@ pytest                               # ejecuta la suite de pruebas
 
 ## Estado en producción (Raspberry Pi 5 en vivo)
 
-> **Última actualización:** 2026-08-27  
+> **Última actualización:** 2026-08-28  
 > **Estado global:** 100% Operativo y Desplegado en Docker
 
 El backend se encuentra **desplegado y validado al 100% en Docker** sobre la Raspberry Pi 5 (`172.18.1.121`):
@@ -85,7 +102,7 @@ El backend se encuentra **desplegado y validado al 100% en Docker** sobre la Ras
   - Endpoint `POST /v1/conversacion/reset` y parámetro `reset_conversacion: true`.
 - **Triaje de Emergencias Activo:**
   - Sustituido el rechazo prematuro por un triaje activo que evalúa gravedad física, aporta pautas de estabilización/supervivencia y solicita referencias para el 112.
-- **Corpus RAG Ampliado (89 fragmentos locales de Cádiz):**
+- **Corpus RAG en producción (89 fragmentos desplegados; 4474 preparados en staging):**
   - Primeros auxilios avanzados y montaña, flora y fauna peligrosa/comestible, los 45 municipios con coordenadas GPS oficiales y cotas, fiestas populares e historia.
   - Script manual bajo demanda: `python3 scripts/actualizar_fuente.py`.
 - **Rendimiento validado:**

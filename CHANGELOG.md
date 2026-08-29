@@ -5,6 +5,21 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/
 
 ---
 
+## [0.5.0] - 2026-08-28
+
+### Añadido
+- **Corpus RAG ampliado a 4474 fragmentos validados (0 pendientes)** en `data/staging/aprobados/`, organizados en 15 categorías: geografía 3216, supervivencia 661, transporte 449, directorios 54, orientación 28, fauna 25, primeros auxilios 17, protección civil 7, flora 6, apoyo psicosocial 5, legislación 2, toxicología 1, cultura/historia 1, clima 1 y agricultura 1. **Pendiente de ingesta/vectorización en la Raspberry Pi.**
+- **Gobierno documental del RAG (`docs/rag/`):** 17 fichas temáticas + `PLANTILLA_FUENTE.md` + catálogo maestro, plan de adquisición, análisis del lote, auditoría de fuentes, checklist de validación humana y lecciones de adquisición.
+- **Auditoría de fuentes (`scripts/auditar_urls.py`):** verificación de 103 URLs únicas, 5 fallos reales corregidos y checklist por ficha.
+- **Política de validación:** auto-aprobación de fuentes oficiales (estado/UE) y sociedades científicas; revisión humana solo para contenido sensible de fuente externa.
+
+### Modificado
+- **`docs/info/06-estado-implementacion.md`:** añadido el estado del corpus en staging (4474 fragmentos preparados).
+- **`docs/planning/dudas/rag.md`:** reducido a las dudas sin resolver (T22 Diputación, T3b REDIAM flora, B3 EUDA).
+- **`docs/rag/README.md`:** añadido el resumen global del corpus y reconciliadas las cifras por ficha.
+
+---
+
 ## [0.4.0] - 2026-08-27
 
 ### Añadido

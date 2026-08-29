@@ -1,85 +1,115 @@
-# Ficha de Fuente de Conocimiento: Fiestas y Tradiciones de la Provincia de Cádiz
+# Ficha de planificación: festivos, fiestas y tradiciones
 
-[← Volver al Índice de Fuentes RAG](README.md)
+[← Volver al índice](README.md)
 
----
+> **Estado:** `en_validacion` — existe un conector de eventos tradicionales; faltan fuentes exactas y calendario oficial anual.
+> **Prioridad:** P2. **Destino:** fechas estructuradas + RAG cultural.
+> **Origen en `valorar.md`:** línea 45.
 
-## 1. Metadatos de la Fuente
+## 1. Objetivo y límites
 
-* **Identificador interno:** `fiestas-cadiz`
-* **Categoría principal:** `cultura_historia`
-* **Subcategorías:** `carnaval`, `feria`, `carreras_caballos`, `semana_santa`, `romeria`, `festividad_popular`, `fiesta_marinera`, `corpus_christi`.
-* **Entidad / Organismo emisor:** Patronato Provincial de Turismo de la Diputación de Cádiz y Consejería de Turismo, Cultura y Deporte de la Junta de Andalucía.
-* **URL oficial o referencia documental:**
-  - Guía Oficial de Fiestas de la Provincia de Cádiz (https://www.cadizturismo.com).
-  - Catálogo General del Patrimonio Histórico Andaluz (Actividades de Interés Etnológico).
-* **Licencia de uso:** CC-BY 4.0 (Patrimonio Cultural Inmaterial y Turismo).
-* **Nivel de confianza asignado:** `alta`
-* **Requiere validación humana:** No (Fuentes oficiales institucionales y etnográficas).
-* **Validador responsable:** `equipo_cultura_turismo`
-* **Fecha de creación de la ficha:** `2026-08-27`
-* **Fecha de última actualización:** `2026-08-27`
+Mantener por separado: (1) festivos oficiales vigentes de ámbito estatal, autonómico y local; y (2) fiestas/tradiciones con fechas variables o aproximadas. Las respuestas indicarán municipio, fecha o regla de cálculo, año, fuente y estado de confirmación.
 
----
+Una fecha habitual no equivale a convocatoria oficial. No se inferirán cortes de tráfico, horarios, mareas, aforo ni celebración efectiva sin publicación anual del organizador.
 
-## 2. Descripción y Alcance
+## 2. Registro de fuentes
 
-Cubre el calendario festivo tradicional, ferias, carnavales, romerías y celebraciones populares de la provincia de Cádiz. Permite al asistente responder a preguntas de contexto cultural, afluencia masiva, gastronomía típica ligada a eventos, fechas aproximadas y localidades donde se celebran.
+### `JUNTA-FESTIVOS`
 
----
+- **Organismo:** Consejería de Empleo, Empresa y Trabajo Autónomo, Junta de Andalucía.
+- **Portal anual:** https://www.juntadeandalucia.es/organismos/empleoempresaytrabajoautonomo/areas/relaciones-laborales/calendario-fiestas.html
+- **Ejemplo BOJA 2026:** https://www.juntadeandalucia.es/boja/2025/197/28
+- **Qué obtener:** festivos autonómicos/oficiales del calendario laboral, disposición, año y correcciones posteriores.
+- **Formato:** HTML/BOJA/PDF.
+- **Fiabilidad:** alta para calendario andaluz.
+- **Licencia:** verificar aviso legal/condiciones del BOJA; conservar cita oficial.
+- **Cadencia:** anual desde su publicación y revisión mensual de correcciones hasta cerrar el año.
 
-## 3. Bloques Temáticos de Información a Indexar
+### `BOP-FESTIVOS-LOCALES`
 
-### Bloque 1: Carnaval de Cádiz (Cádiz Capital)
-* **Fecha:** Febrero o principios de marzo.
-* **Relevancia:** Fiesta de Interés Turístico Internacional.
-* **Aspectos clave:** Concurso Oficial de Agrupaciones Carnavalescas (COAC) en el Gran Teatro Falla, chirigotas ilegales y callejeras por el barrio de La Viña, plaza de las Flores y el Palillero. Erizadas, ostionadas y pestiñadas gastronómicas.
+- **Organismo:** boletines y autoridades laborales competentes; publicación provincial/local oficial.
+- **Portal:** https://www.bopcadiz.es/
+- **Qué obtener:** dos fiestas locales por municipio o la resolución/listado oficial que corresponda, incluyendo correcciones.
+- **Formato:** PDF/HTML; buscar una resolución anual consolidada antes de automatizar.
+- **Fiabilidad:** alta para fechas publicadas.
+- **Licencia:** pendiente de verificar.
+- **Cadencia:** anual y tras correcciones.
 
-### Bloque 2: Feria del Caballo de Jerez de la Frontera
-* **Fecha:** Mayo.
-* **Relevancia:** Fiesta de Interés Turístico Internacional.
-* **Aspectos clave:** Parque González Hontoria, paseo de jinetes y enganches ecuestres, casetas de acceso público libre, flamenco, sevillanas y degustación de vino fino y rebujito con tapas locales.
+### `CADIZ-TURISMO`
 
-### Bloque 3: Carreras de Caballos en las Playas de Sanlúcar de Barrameda
-* **Fecha:** Agosto (dos ciclos según las mareas vivas de bajamar).
-* **Relevancia:** Fiesta de Interés Turístico Internacional desde 1845.
-* **Aspectos clave:** Purasangres compitiendo sobre la arena húmeda de la playa de Bajo de Guía con Doñana al fondo. Apuestas infantiles y consumo de Manzanilla de Sanlúcar y langostinos.
+- **Organismo:** Patronato Provincial de Turismo, Diputación de Cádiz.
+- **Portal:** https://www.cadizturismo.com/
+- **Qué obtener:** descripción, localidad, temporada, relevancia y enlaces del organizador para fiestas tradicionales.
+- **Formato:** HTML/publicaciones.
+- **Fiabilidad:** alta como fuente institucional turística, pero una descripción no confirma fecha anual.
+- **Licencia:** pendiente de verificar por página/recurso.
+- **Cadencia:** trimestral y antes de cada temporada.
 
-### Bloque 4: Semana Santa de la Provincia de Cádiz
-* **Fecha:** Marzo o abril (según calendario lunar).
-* **Localidades destacadas:** Cádiz capital (recorridos estrechos y empinados), Jerez de la Frontera (alta imaginería) y Arcos de la Frontera. Cantes por saetas al paso de los misterios y palios.
+### `AYUNTAMIENTOS-ORGANIZADORES`
 
-### Bloque 5: Ferias Locales y del Vino
-* **Feria de la Manzanilla (Sanlúcar):** Finales de mayo / primeros de junio en la Calzada de la Duquesa.
-* **Feria de Primavera y Fiesta del Vino Fino (El Puerto de Santa María):** Mayo en el recinto de Las Banderas.
+- **Organismo:** ayuntamiento, entidad organizadora o autoridad competente de cada evento.
+- **Descubrimiento:** sedes y agendas oficiales; cada evento tendrá URL específica.
+- **Qué obtener:** fecha confirmada, ubicación, edición, cambios o cancelación.
+- **Formato:** HTML/PDF/dataset.
+- **Fiabilidad:** alta para la edición concreta.
+- **Licencia:** pendiente de verificar por origen.
+- **Cadencia:** por edición; solo conservar como vigente el año indicado.
 
-### Bloque 6: Romerías y Festividades Marineras
-* **Romería del Rocío:** Salida de hermandades gaditanas en mayo/junio embarcando en Bajo de Guía para cruzar Doñana.
-* **Noche de San Juan (23-24 de junio):** Quema de los tradicionales "Juanillos" (muñecos satíricos) y hogueras en las playas (La Caleta, Victoria, Conil, Barbate).
-* **Fiestas de la Virgen del Carmen (16 de julio):** Procesiones marineras en barcos engalanados en Barbate, Conil, Rota y Algeciras bendiciendo las aguas.
-* **Corpus Christi de Zahara de la Sierra:** Junio, Fiesta de Interés Turístico Nacional con calles cubiertas por un dosel de juncia y quejigo aromático.
+### `IAPH-ETNOLOGIA`
 
----
+- **Organismo:** Instituto Andaluz del Patrimonio Histórico.
+- **Guía Digital:** https://www.juntadeandalucia.es/organismos/iaph/areas/documentacion-patrimonio/guia-digital.html
+- **Qué obtener:** valor etnológico, denominaciones y contexto patrimonial cuando exista registro.
+- **Formato:** API/HTML.
+- **Fiabilidad:** alta para documentación patrimonial.
+- **Licencia:** verificar condiciones de metadatos/textos.
+- **Cadencia:** anual.
 
-## 4. Implementación Técnica Asociada
+## 3. Modelo y mapeo
 
-* **Módulo conector:** `src/updater/sources/fiestas_cadiz.py`
-* **Clase conector:** `FiestasCadizSource`
-* **Método de adquisición:** `manual_validado`
-* **Comando manual de actualización:**
-  ```bash
-  python3 scripts/actualizar_fuente.py --fuente fiestas-cadiz
-  ```
+| Bloque | Fuente | Campos | Destino | Vigencia |
+|---|---|---|---|---|
+| Festivo oficial | Junta/BOJA/BOP | fecha, año, ámbito, municipio, norma, corrección | Tabla | Solo año publicado |
+| Evento confirmado | organizador | evento_id, edición, inicio/fin, lugar, URL | Tabla | Edición concreta |
+| Regla variable | fuente institucional | regla, calendario asociado, precisión | Tabla + RAG | No sustituye confirmación |
+| Tradición | Turismo/IAPH | nombre, municipio, descripción, estacionalidad | RAG | Estable, revisar |
+| Declaración de interés | resolución oficial | categoría, autoridad, fecha, expediente | Tabla | Hasta cambio oficial |
 
----
+Claves: `municipality_code + event_id + edition_year`. Una fecha aproximada se almacena como intervalo/estación, no como día inventado.
 
-## 5. Historial de Revisiones
+## 4. Auditoría del conector existente
 
-| Versión | Fecha | Autor / Revisor | Descripción del Cambio |
-| :---: | :---: | :--- | :--- |
-| `1.0.0` | `2026-08-27` | `equipo_cultura_turismo` | 10 fragmentos indexados con las festividades mayores de la provincia de Cádiz. |
+`src/updater/sources/fiestas_cadiz.py` contiene diez descripciones manuales y fechas habituales. No enlaza la fuente de cada evento, declara licencia/confianza/validación no demostradas y usa la fecha de ejecución como validación. También mezcla hechos culturales con fechas anuales y afirmaciones sobre reconocimiento turístico.
 
----
+Debe auditarse evento a evento. Puede servir como lista inicial de candidatos, pero sus fechas no deben responder consultas del año actual hasta comprobar la edición oficial.
 
-[← Volver al Índice de Fuentes RAG](README.md)
+## 5. Instantáneas
 
+```text
+data/raw/downloads/fiestas-tradiciones/<AAAA-MM-DD>/
+├── junta/calendario_laboral_<AAAA>.<html|pdf>
+├── boja/disposicion_y_correcciones/
+├── bop/festivos_locales_<AAAA>.pdf
+├── turismo/<evento>.html
+├── ayuntamientos/<municipio>/<evento>.<html|pdf>
+└── MANIFEST.json
+```
+
+Relacionar cada corrección con la disposición inicial y conservar ambos documentos. No sobrescribir años anteriores.
+
+## 6. Calidad, presupuesto y actualización
+
+- Comprobar que cada municipio tenga el número esperado de festivos locales cuando la resolución anual lo permita.
+- Detectar duplicados, cambios de nombre, fechas imposibles, ediciones canceladas y fuentes de años anteriores.
+- Revisión humana para eventos; festivos se validan contra norma y correcciones.
+- Pruebas: fecha móvil, evento según marea, festivo trasladado, corrección BOJA/BOP, cancelación y consulta sin año.
+- Presupuesto: cientos de filas/año y 50-150 fragmentos culturales; tamaño mínimo, sin PDF en la Pi.
+- Actualización anual de calendarios y por edición de eventos, conservando última versión aprobada y diff.
+
+## 7. Pendientes para aprobar
+
+- [ ] Localizar la resolución oficial anual de festivos locales para los 45 municipios.
+- [ ] Verificar licencias de BOJA, BOP, Turismo e IAPH.
+- [ ] Asignar URL oficial y regla de fecha a cada evento heredado.
+- [ ] Definir cuántos años futuros/pasados conservar en la Pi.
+- [ ] Planificar migración del conector a tablas con vigencia.

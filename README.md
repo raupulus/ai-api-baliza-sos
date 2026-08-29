@@ -1,6 +1,6 @@
-# bot-ia-auxiliar
+# ai-api-baliza-sos
 
-Backend de un **asistente de emergencia y supervivencia offline** para la
+**ai-api-baliza-sos** es el backend de un **asistente de emergencia y supervivencia offline** para la
 provincia de **Cádiz (España)**, ejecutable en una **Raspberry Pi 4 (4 GB)**
 sin conexión a internet. Atiende consultas de IA (LLM pequeño local + RAG)
 provenientes de clientes externos (bots de **Telegram** y **Meshtastic/LoRa**).

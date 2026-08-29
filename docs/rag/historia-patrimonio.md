@@ -1,75 +1,114 @@
-# Ficha de Fuente de Conocimiento: Historia y Patrimonio de la Provincia de Cádiz
+# Ficha de planificación: historia y patrimonio
 
-[← Volver al Índice de Fuentes RAG](README.md)
+[← Volver al índice](README.md)
 
----
+> **Estado:** `en_validacion` — existe un conector narrativo heredado; ampliar y trazar desde fuentes oficiales.
+> **Prioridad:** P3. **Destino:** híbrido: inventario estructurado + RAG narrativo.
+> **Origen en `valorar.md`:** línea 44.
 
-## 1. Metadatos de la Fuente
+## 1. Objetivo y límites
 
-* **Identificador interno:** `historia-cadiz`
-* **Categoría principal:** `cultura_historia`
-* **Subcategorías:** `antiguedad_fenicia`, `antiguedad_romana`, `edad_media_reconquista`, `carrera_indias`, `batalla_trafalgar`, `constitucion_1812`.
-* **Entidad / Organismo emisor:** Archivo Histórico Provincial de Cádiz, Instituto Andaluz del Patrimonio Histórico (IAPH, Junta de Andalucía) y Museo de Cádiz.
-* **URL oficial o referencia documental:**
-  - Guía del Patrimonio Histórico de la Provincia de Cádiz (IAPH).
-  - Archivo Histórico Provincial de Cádiz (Junta de Andalucía).
-  - Centro de Interpretación de la Constitución de 1812 y Yacimiento Arqueológico Gadir.
-* **Licencia de uso:** CC-BY 4.0 (Patrimonio Histórico y Documental).
-* **Nivel de confianza asignado:** `alta`
-* **Requiere validación humana:** No (Fuentes historiográficas contrastadas).
-* **Validador responsable:** `equipo_historia_archivo`
-* **Fecha de creación de la ficha:** `2026-08-27`
-* **Fecha de última actualización:** `2026-08-27`
+Documentar historia municipal y lugares patrimoniales relevantes de toda la provincia configurada, con ubicación, cronología, protección, descripción y procedencia. La prioridad operativa es identificar correctamente un lugar y aportar contexto breve; no construir una enciclopedia general.
 
----
+Se distinguirán hechos documentados, dataciones aproximadas y tradiciones. No se inventarán horarios, acceso, estado de conservación ni coordenadas a partir de texto narrativo; esos datos requieren fuente y vigencia propias.
 
-## 2. Descripción y Alcance
+## 2. Registro de fuentes
 
-Cubre los grandes hitos históricos y patrimoniales que han modelado la geografía, arquitectura y cultura de la provincia de Cádiz: desde su fundación en la antigüedad hasta la época contemporánea. Permite responder consultas sobre orígenes de topónimos, batallas navales, fortalezas defensivas, murallas y efemérides constitucionales.
+### `IAPH-OPEN-DATA`
 
----
+- **Organismo:** Instituto Andaluz del Patrimonio Histórico, Junta de Andalucía.
+- **Guía Digital:** https://www.juntadeandalucia.es/organismos/iaph/areas/documentacion-patrimonio/guia-digital.html
+- **API:** https://guiadigital.iaph.es/store/apis/info?name=open-data-iaph&provider=guiadigital&version=1.0
+- **Qué obtener:** entidades patrimoniales, denominación, tipología, localización, municipio, descripción, cronología, protección, identificadores y enlaces disponibles.
+- **Formato:** API Open Data; documentar autenticación, límites y esquema antes de implementar.
+- **Fiabilidad:** alta para inventario patrimonial andaluz.
+- **Licencia:** verificar condiciones de la API y de imágenes/textos por separado; no asumir que fotografías heredan la licencia de los metadatos.
+- **Cadencia:** trimestral.
 
-## 3. Bloques Temáticos de Información a Indexar
+### `JUNTA-PATRIMONIO`
 
-### Bloque 1: Fundación Fenicia de Gadir (c. 1100 a.C.)
-* **Hitos:** Considerada la ciudad viva más antigua de Occidente, fundada hacia 1104 a.C. por fenicios de Tiro. Santuario del dios Melqart (Hércules gaditano) en el islote de Sancti Petri, yacimiento arqueológico Gadir y sarcófagos antropoides en el Museo de Cádiz.
+- **Organismo:** Consejería competente en cultura/patrimonio.
+- **Punto de descubrimiento:** Guía Digital IAPH y Catálogo General del Patrimonio Histórico Andaluz enlazado desde portales oficiales.
+- **Qué obtener:** declaraciones, categorías de protección y disposiciones oficiales cuando no estén completas en la API.
+- **Formato:** HTML/PDF/BOJA.
+- **Fiabilidad:** alta.
+- **Licencia:** pendiente de verificar por recurso.
+- **Cadencia:** trimestral.
 
-### Bloque 2: Gades Romano y Baelo Claudia
-* **Hitos:** Prosperidad bajo la familia de los Balbos. Teatro romano de Cádiz, acueducto de Tempul y factorías de salazón de pescado y salsa garum. Ciudad hispanorromana de Baelo Claudia (playa de Bolonia, Tarifa) con basílica, foro, termas y templos a la tríada capitolina.
+### `ARCHIVO-MUSEOS-OFICIALES`
 
-### Bloque 3: Al-Ándalus y la Reconquista ("de la Frontera")
-* **Hitos:** Presencia musulmana desde 711. En el siglo XIII, tras la conquista de Alfonso X el Sabio, el territorio fijó la frontera militar con el reino nazarí de Granada, originando el sobrenombre histórico "de la Frontera" en Arcos, Chiclana, Conil, Vejer y Jerez.
+- **Organismos:** Archivo Histórico Provincial, Museo de Cádiz y conjuntos arqueológicos de la Junta.
+- **Descubrimiento:** portales institucionales de la Junta; cada publicación seleccionada tendrá URL y ficha propias.
+- **Qué obtener:** contexto histórico de hitos priorizados, colecciones y cronologías, no todo el portal.
+- **Formato:** HTML/PDF.
+- **Fiabilidad:** alta dentro de su ámbito curatorial.
+- **Licencia:** pendiente de verificar por texto/imagen.
+- **Cadencia:** anual.
 
-### Bloque 4: La Carrera de Indias y Siglo de Oro Gaditano (Siglo XVIII)
-* **Hitos:** En 1717 se traslada la Casa de la Contratación y el Consulado de Indias de Sevilla a Cádiz, consolidando el monopolio del comercio con América. Época de mayor esplendor económico y cosmopolita: construcción de baluartes, murallas y más de un centenar de torres mirador (Torre Tavira).
+### `AYUNTAMIENTOS-DIPUTACION`
 
-### Bloque 5: Batalla de Trafalgar (21 de octubre de 1805)
-* **Hitos:** Combate naval entre la flota combinada hispano-francesa y la armada británica de Horatio Nelson frente al Cabo de Trafalgar (Barbate / Caños de Meca), que consolidó la hegemonía marítima británica.
+- **Organismos:** ayuntamientos y Diputación de Cádiz.
+- **Catálogo de datos:** https://datosabiertos.dipucadiz.es/ (portal de datos abiertos; endpoint CKAN en revisión)
+- **Qué obtener:** inventarios locales y metadatos de lugares no cubiertos por IAPH, solo si identifica publicador, fecha y licencia.
+- **Formato:** JSON/CSV/HTML.
+- **Fiabilidad:** alta para inventario municipal; el contenido turístico se considera complementario.
+- **Licencia:** por dataset/publicación.
+- **Cadencia:** semestral.
 
-### Bloque 6: Las Cortes de Cádiz y la Constitución de 1812 ("La Pepa")
-* **Hitos:** Asedio de las tropas napoleónicas (1810-1812) resistido por Cádiz y San Fernando (Real Isla de León). Promulgación el 19 de marzo de 1812 en el Oratorio de San Felipe Neri de la primera constitución liberal española, que consagró la soberanía nacional, división de poderes y libertad de imprenta.
+### `MCU-BIC` — Registros de protección estatal
 
----
+- **Organismo:** Ministerio de Cultura (registro de Bienes de Interés Cultural) y Consejería de Cultura de la Junta.
+- **Portal:** https://www.cultura.gob.es/
+- **Qué obtener:** declaraciones BIC, categoría de protección y disposiciones oficiales (BOE/BOJA) para contrastar la protección jurídica de los bienes.
+- **Formato:** HTML/PDF/BOE-BOJA.
+- **Fiabilidad:** alta para régimen de protección.
+- **Licencia:** pendiente de verificar por recurso.
+- **Cadencia:** trimestral y tras nuevas declaraciones.
 
-## 4. Implementación Técnica Asociada
+## 3. Mapeo
 
-* **Módulo conector:** `src/updater/sources/historia_cadiz.py`
-* **Clase conector:** `HistoriaCadizSource`
-* **Método de adquisición:** `manual_validado`
-* **Comando manual de actualización:**
-  ```bash
-  python3 scripts/actualizar_fuente.py --fuente historia-cadiz
-  ```
+| Bloque | Fuente | Campos/salida | Destino | Validación |
+|---|---|---|---|---|
+| Lugar patrimonial | IAPH | id, nombre, tipos, municipio, geometría, protección | Tabla | Esquema y coordenadas |
+| Cronología | IAPH/archivo | periodo, fecha desde/hasta, precisión, evidencia | Tabla + RAG | Historiador/documentalista |
+| Descripción | IAPH/museo | resumen fiel, elementos destacados, fuente | RAG | Cita por afirmación |
+| Hito histórico | archivo/museo | evento, fecha, lugares, protagonistas, incertidumbre | RAG | Contraste institucional |
+| Acceso práctico | gestor del lugar | dirección, acceso, horario, vigencia | Tabla separada | Caducidad corta |
 
----
+Imágenes no son necesarias para el RAG textual inicial y no se descargarán salvo licencia y caso de uso aprobados.
 
-## 5. Historial de Revisiones
+## 4. Auditoría del conector existente
 
-| Versión | Fecha | Autor / Revisor | Descripción del Cambio |
-| :---: | :---: | :--- | :--- |
-| `1.0.0` | `2026-08-27` | `equipo_historia_archivo` | 6 fragmentos estructurados con la cronología histórica principal de Cádiz. |
+`src/updater/sources/historia_cadiz.py` contiene seis resúmenes manuales sin URL por afirmación. Declara una licencia genérica, confianza alta y un equipo revisor no identificado, y fecha la supuesta validación en cada ejecución.
 
----
+Los textos pueden usarse como lista de temas a contrastar —Gadir, Gades/Baelo Claudia, frontera medieval, Carrera de Indias, Trafalgar y 1812—, no como fuente. Deben reemplazarse por fragmentos trazables y ampliarse a los municipios y lugares seleccionados.
 
-[← Volver al Índice de Fuentes RAG](README.md)
+## 5. Instantáneas
 
+```text
+data/raw/downloads/historia-patrimonio/<AAAA-MM-DD>/
+├── iaph/records.<json|xml>
+├── junta/<disposicion>.pdf
+├── archivos-museos/<publicacion>.html
+├── diputacion/<dataset>.<json|csv>
+└── MANIFEST.json
+```
+
+Filtrar por provincia/códigos/geometría configurados. Mantener HTML/API original y salida normalizada separadas, con identificadores IAPH para actualizaciones.
+
+## 6. Calidad, presupuesto y actualización
+
+- Validar IDs, municipio, coordenadas, duplicados, cronología y categoría de protección.
+- Marcar fechas aproximadas y versiones historiográficas; no convertir una tradición en hecho demostrado.
+- Revisión por historiador, arqueólogo o documentalista para el corpus narrativo.
+- Pruebas: lugar con varios nombres, yacimiento en dos municipios, fecha aproximada, ubicación no visitable y hecho controvertido.
+- Priorizar inicialmente lugares relevantes por municipio; pocos cientos de registros y fragmentos, sin imágenes ni PDF en la Pi.
+- Actualización trimestral de API y anual de narrativas, con diff y rollback.
+
+## 7. Pendientes para aprobar
+
+- [ ] Probar esquema, límites y licencia de la API IAPH.
+- [ ] Definir criterios de relevancia y cobertura mínima por municipio.
+- [ ] Seleccionar publicaciones institucionales para los seis hitos heredados.
+- [ ] Asignar revisor histórico/documental.
+- [ ] Diseñar migración del conector sin mantener afirmaciones sin cita.
