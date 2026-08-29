@@ -5,6 +5,19 @@ El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/
 
 ---
 
+## [0.6.0] - 2026-08-29
+
+### Añadido
+- **Telemetría de hardware en tiempo real vía WebSockets:** Endpoint `/ws/telemetry` en `src/web/server.py` y barra inferior fluida en `index.html` con CPU %, temperatura (°C), RAM % y Disco %.
+- **Banco jerárquico de pruebas RAG en 3 niveles:** Selector en cascada en la Web UI (Categoría ➔ Subcategoría / Tipo ➔ Caso concreto) para depuración y verificación exhaustiva de los 4.567 fragmentos.
+- **Metadatos conversacionales en `ConsultaResponse` (retrocompatibles):** Inclusión de `turnos_memoria`, `compactado` y `fragmentos_rag` en la respuesta JSON.
+- **Corpus RAG vectorizado e indexado en PostgreSQL:** 4.567 fragmentos activos en pgvector en la Raspberry Pi 5.
+
+### Corregido
+- **Calibración de límites en la Web UI:** Reemplazados los textos y contadores de 250 caracteres por medición estricta de **$\le 200$ bytes UTF-8** por mensaje mediante `TextEncoder`.
+
+---
+
 ## [0.5.0] - 2026-08-28
 
 ### Añadido

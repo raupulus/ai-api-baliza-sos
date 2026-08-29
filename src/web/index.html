@@ -6,15 +6,16 @@
   <title>Bot Emergencias Cádiz — Entorno de Pruebas</title>
   <style>
     :root {
-      --bg: #0f172a;
-      --card-bg: #1e293b;
+      --bg: #0b0f19;
+      --card-bg: #151e2e;
+      --card-inner: #0f172a;
       --text: #f8fafc;
       --text-muted: #94a3b8;
-      --border: #334155;
+      --border: #243247;
       --primary: #38bdf8;
       --primary-hover: #0284c7;
       --user-bubble: #2563eb;
-      --bot-bubble: #1e293b;
+      --bot-bubble: #151e2e;
       --warning: #f59e0b;
       --success: #10b981;
       --danger: #ef4444;
@@ -29,28 +30,30 @@
       height: 100vh;
       display: flex;
       flex-direction: column;
+      overflow: hidden;
     }
 
     /* Top Bar */
     header {
-      background: #111827;
+      background: #0d1322;
       border-bottom: 1px solid var(--border);
-      padding: 12px 20px;
+      padding: 10px 18px;
       display: flex;
       justify-content: space-between;
       align-items: center;
       flex-wrap: wrap;
       gap: 10px;
+      z-index: 10;
     }
 
     .title-group {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
     }
 
     .title-group h1 {
-      font-size: 1.15rem;
+      font-size: 1.1rem;
       font-weight: 700;
       color: var(--primary);
       display: flex;
@@ -62,8 +65,8 @@
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      font-size: 0.75rem;
-      padding: 4px 10px;
+      font-size: 0.72rem;
+      padding: 3px 8px;
       border-radius: 9999px;
       font-weight: 600;
       background: #1e293b;
@@ -73,16 +76,17 @@
     .badge.online { color: #34d399; border-color: #065f46; background: #064e3b22; }
     .badge.offline { color: #f87171; border-color: #7f1d1d; background: #7f1d1d22; }
     .badge-dot {
-      width: 8px;
-      height: 8px;
+      width: 7px;
+      height: 7px;
       border-radius: 50%;
       background: currentColor;
     }
 
     .header-actions {
       display: flex;
-      gap: 10px;
+      gap: 8px;
       align-items: center;
+      flex-wrap: wrap;
     }
 
     .token-input-group {
@@ -92,11 +96,11 @@
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 6px;
-      padding: 4px 8px;
+      padding: 3px 8px;
     }
 
     .token-input-group label {
-      font-size: 0.75rem;
+      font-size: 0.72rem;
       color: var(--text-muted);
       font-weight: 600;
     }
@@ -106,9 +110,27 @@
       border: none;
       color: var(--text);
       font-family: monospace;
-      font-size: 0.8rem;
-      width: 140px;
+      font-size: 0.78rem;
       outline: none;
+    }
+
+    .btn-action {
+      background: #1e293b;
+      border: 1px solid var(--border);
+      color: var(--primary);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.15s ease;
+    }
+    .btn-action:hover {
+      background: #273549;
+      border-color: var(--primary);
     }
 
     /* Main Container */
@@ -116,54 +138,123 @@
       flex: 1;
       display: flex;
       flex-direction: column;
-      max-width: 900px;
+      max-width: 960px;
       width: 100%;
       margin: 0 auto;
-      height: calc(100vh - 65px);
-      padding: 16px;
-      gap: 12px;
+      padding: 10px 16px 4px 16px;
+      min-height: 0;
+      gap: 8px;
+    }
+
+    /* Hierarchical Test Selector Toolbar */
+    .test-toolbar {
+      background: #111a2c;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .test-toolbar-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.75rem;
+      color: var(--primary);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .selectors-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .select-group {
+      flex: 1;
+      min-width: 160px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .select-group label {
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    select.test-select {
+      background: #090e18;
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-size: 0.78rem;
+      padding: 5px 8px;
+      border-radius: 6px;
+      outline: none;
+      cursor: pointer;
+      width: 100%;
+    }
+    select.test-select:focus {
+      border-color: var(--primary);
+    }
+
+    .test-buttons {
+      display: flex;
+      gap: 6px;
+      align-items: flex-end;
+      padding-top: 14px;
     }
 
     /* Quick Pills */
     .quick-prompts {
       display: flex;
-      gap: 8px;
+      gap: 6px;
       overflow-x: auto;
-      padding-bottom: 4px;
+      padding-bottom: 2px;
+      scrollbar-width: thin;
     }
-
     .pill {
-      background: var(--card-bg);
+      background: #141f33;
       border: 1px solid var(--border);
-      color: var(--text-muted);
-      font-size: 0.8rem;
-      padding: 6px 12px;
-      border-radius: 20px;
-      cursor: pointer;
+      color: var(--text);
+      padding: 3px 9px;
+      border-radius: 9999px;
+      font-size: 0.72rem;
       white-space: nowrap;
+      cursor: pointer;
       transition: all 0.15s ease;
+      flex-shrink: 0;
     }
     .pill:hover {
-      background: #334155;
-      color: var(--text);
+      background: #1e2e4a;
       border-color: var(--primary);
+      color: var(--primary);
     }
 
-    /* Chat Log */
+    /* Chat Area */
     #chat-log {
       flex: 1;
       overflow-y: auto;
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      gap: 12px;
       padding: 8px 4px;
     }
 
     .message-row {
       display: flex;
       flex-direction: column;
-      max-width: 82%;
+      max-width: 88%;
+      animation: fadeIn 0.15s ease;
     }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+
     .message-row.user {
       align-self: flex-end;
       align-items: flex-end;
@@ -171,23 +262,25 @@
     .message-row.bot {
       align-self: flex-start;
       align-items: flex-start;
+      width: 100%;
+      max-width: 100%;
     }
 
     .user-bubble {
       background: var(--user-bubble);
       color: #fff;
-      padding: 10px 16px;
+      padding: 8px 14px;
       border-radius: 14px 14px 2px 14px;
-      font-size: 0.95rem;
-      line-height: 1.4;
+      font-size: 0.88rem;
+      line-height: 1.45;
       word-break: break-word;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.25);
     }
 
-    /* Multi-packet Bot Messages (Meshtastic Style) */
     .bot-packet-group {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 6px;
       width: 100%;
     }
 
@@ -195,53 +288,56 @@
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-left: 4px solid var(--primary);
-      border-radius: 4px 12px 12px 4px;
-      padding: 12px 14px;
+      border-radius: 8px;
+      padding: 9px 13px;
       display: flex;
       flex-direction: column;
-      gap: 6px;
+      gap: 5px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.2);
     }
 
     .packet-header {
       display: flex;
       justify-content: space-between;
-      align-items: center;
-      font-size: 0.75rem;
+      font-size: 0.7rem;
+      font-weight: 700;
       color: var(--text-muted);
-      border-bottom: 1px solid #33415555;
-      padding-bottom: 4px;
+      letter-spacing: 0.05em;
     }
 
     .packet-body {
-      font-size: 0.92rem;
+      font-size: 0.88rem;
       line-height: 1.45;
-      color: #f1f5f9;
+      color: var(--text);
+      word-break: break-word;
     }
 
     .char-count {
       font-family: monospace;
+      font-size: 0.72rem;
+      padding: 1px 6px;
+      border-radius: 4px;
       font-weight: 600;
     }
-    .char-count.ok { color: var(--success); }
-    .char-count.warn { color: var(--warning); }
-    .char-count.err { color: var(--danger); }
+    .char-count.ok { background: #064e3b55; color: #34d399; }
+    .char-count.err { background: #7f1d1d55; color: #f87171; }
 
-    /* Metadata details */
+    /* Metadata Box */
     .meta-box {
-      margin-top: 4px;
-      font-size: 0.78rem;
+      margin-top: 2px;
+      font-size: 0.75rem;
       color: var(--text-muted);
       display: flex;
       flex-wrap: wrap;
-      gap: 12px;
-      padding: 6px 10px;
+      gap: 8px 14px;
+      padding: 7px 11px;
       background: #090e17;
       border-radius: 6px;
-      border: 1px solid #1e293b;
+      border: 1px solid #1a2538;
     }
 
     .meta-item {
-      display: flex;
+      display: inline-flex;
       align-items: center;
       gap: 4px;
     }
@@ -249,14 +345,23 @@
       color: #cbd5e1;
     }
 
+    .badge-compact {
+      font-size: 0.68rem;
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+    .badge-compact.yes { background: #064e3b66; color: #34d399; }
+    .badge-compact.no { background: #1e293b; color: #94a3b8; }
+
     /* Input Bar */
     .input-bar {
       display: flex;
-      gap: 10px;
+      gap: 8px;
       background: var(--card-bg);
       border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 6px 12px;
+      border-radius: 10px;
+      padding: 5px 10px;
       align-items: center;
     }
 
@@ -265,12 +370,12 @@
       background: transparent;
       border: none;
       color: var(--text);
-      font-size: 0.95rem;
+      font-size: 0.9rem;
       font-family: inherit;
       resize: none;
-      height: 38px;
+      height: 36px;
       outline: none;
-      padding: 8px 0;
+      padding: 7px 0;
       line-height: 1.4;
     }
 
@@ -278,25 +383,67 @@
       background: var(--primary);
       color: #0f172a;
       border: none;
-      border-radius: 8px;
-      width: 38px;
-      height: 38px;
+      border-radius: 6px;
+      width: 36px;
+      height: 36px;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       font-weight: bold;
       transition: background 0.15s ease;
     }
     .send-btn:hover { background: var(--primary-hover); color: #fff; }
-    .send-btn:disabled { background: #475569; cursor: not-allowed; }
+    .send-btn:disabled { background: #334155; color: #64748b; cursor: not-allowed; }
+
+    /* Bottom Telemetry Footer Bar */
+    footer.telemetry-bar {
+      background: #090e18;
+      border-top: 1px solid var(--border);
+      padding: 5px 18px;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      z-index: 10;
+    }
+
+    .telem-group {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .telem-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .telem-item strong {
+      color: #cbd5e1;
+      font-family: monospace;
+    }
+
+    .ws-indicator {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.7rem;
+      font-weight: 600;
+    }
+    .ws-indicator.connected { color: #34d399; }
+    .ws-indicator.disconnected { color: #f87171; }
 
     /* Loading indicator */
     .loading-pulse {
       display: inline-block;
-      width: 12px;
-      height: 12px;
+      width: 10px;
+      height: 10px;
       border: 2px solid var(--primary);
       border-top-color: transparent;
       border-radius: 50%;
@@ -313,51 +460,325 @@
       <span class="badge" id="health-badge"><span class="badge-dot"></span> Verificando...</span>
     </div>
     <div class="header-actions">
-      <div class="token-input-group" title="ID de conversación / cliente (para aislar memoria)">
+      <div class="token-input-group" title="ID de conversación / cliente (para memoria multi-turno)">
         <label for="conv-id">💬 ID:</label>
-        <input type="text" id="conv-id" placeholder="id_conversacion" style="width: 100px; font-family: monospace; font-size: 0.8rem; background: transparent; border: none; color: var(--text); outline: none;">
+        <input type="text" id="conv-id" placeholder="id_conversacion" style="width: 95px;">
       </div>
-      <button type="button" id="reset-btn" class="pill" style="background:#1e293b; border-color:#38bdf888; color:#38bdf8; font-weight:600; padding:4px 10px;" title="Resetear contexto y empezar nueva conversación">🔄 Nueva</button>
-      <div class="token-input-group" title="Token Bearer para la API (guardado automático en navegador)">
+      <button type="button" id="reset-btn" class="btn-action" title="Resetear contexto y empezar nueva conversación">🔄 Nueva</button>
+      <div class="token-input-group" title="Token Bearer para la API (guardado automático)">
         <label for="api-token">🔑 Token:</label>
-        <input type="password" id="api-token" placeholder="Cargando token..." spellcheck="false" autocomplete="off" style="width: 150px;">
-        <button type="button" id="toggle-token-btn" style="background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:0.85rem;" title="Mostrar token">👁️</button>
+        <input type="password" id="api-token" placeholder="Cargando..." spellcheck="false" autocomplete="off" style="width: 130px;">
+        <button type="button" id="toggle-token-btn" style="background:transparent; border:none; color:var(--text-muted); cursor:pointer; font-size:0.8rem;" title="Mostrar token">👁️</button>
       </div>
     </div>
   </header>
 
   <main>
-    <div class="quick-prompts">
-      <button class="pill" onclick="sendQuick('Me he caido en la montaña y no encuentro camino de vuelta, estoy desorientado')">⛰️ Caída en montaña (triaje)</button>
-      <button class="pill" onclick="sendQuick('Picadura de medusa que hago')">🪼 Picadura de medusa</button>
-      <button class="pill" onclick="sendQuick('Que hacer ante un golpe de calor?')">☀️ Golpe de calor</button>
-      <button class="pill" onclick="sendQuick('Como conseguir agua potable en la playa?')">💧 Agua en la costa</button>
-      <button class="pill" onclick="sendQuick('Cual es la capital de Francia?')">❌ Prueba anti-alucinación</button>
+    <!-- Selector Jerárquico de Pruebas RAG -->
+    <div class="test-toolbar">
+      <div class="test-toolbar-header">
+        <span>🧪 Banco de Pruebas Jerárquico del RAG (4.567 fragmentos)</span>
+      </div>
+      <div class="selectors-row">
+        <div class="select-group">
+          <label for="sel-cat">1. Categoría:</label>
+          <select id="sel-cat" class="test-select"></select>
+        </div>
+        <div class="select-group">
+          <label for="sel-tipo">2. Tipo / Subcategoría:</label>
+          <select id="sel-tipo" class="test-select"></select>
+        </div>
+        <div class="select-group" style="flex: 2; min-width: 220px;">
+          <label for="sel-test">3. Caso de Prueba Concreto:</label>
+          <select id="sel-test" class="test-select"></select>
+        </div>
+        <div class="test-buttons">
+          <button type="button" id="btn-load-test" class="btn-action" title="Copiar consulta en el campo de texto">📋 Cargar</button>
+          <button type="button" id="btn-run-test" class="btn-action" style="background: var(--primary); color: #0f172a; border-color: var(--primary);" title="Lanzar consulta inmediatamente">🚀 Ejecutar</button>
+        </div>
+      </div>
     </div>
 
+    <!-- Quick pills rápidas -->
+    <div class="quick-prompts">
+      <button class="pill" onclick="sendQuick('Me he caido en la montaña y no encuentro camino de vuelta, estoy desorientado')">⛰️ Montaña / Desorientado</button>
+      <button class="pill" onclick="sendQuick('Hombre inconsciente no respira en la calle')">❤️ RCP / Parada Cardíaca</button>
+      <button class="pill" onclick="sendQuick('Picadura de medusa en la playa que hago')">🪼 Picadura de Medusa</button>
+      <button class="pill" onclick="sendQuick('Como conseguir agua dulce en la costa?')">💧 Agua en Costa</button>
+      <button class="pill" onclick="sendQuick('Puesto de la Guardia Civil en Chiclana')">📞 Teléfono Guardia Civil</button>
+      <button class="pill" onclick="sendQuick('Horarios tren cercanias Cadiz a Jerez')">🚆 Cercanías Renfe</button>
+      <button class="pill" onclick="sendQuick('Cual es la capital de Australia?')">❌ Anti-alucinación</button>
+    </div>
+
+    <!-- Historial de Chat -->
     <div id="chat-log">
       <div class="message-row bot">
         <div class="bot-packet-group">
           <div class="packet-card">
             <div class="packet-header">
               <span>SISTEMA INICIALIZADO</span>
-              <span class="char-count ok">0/250</span>
+              <span class="char-count ok">0 / 200 bytes UTF-8</span>
             </div>
             <div class="packet-body">
-              Bienvenido al entorno de pruebas web del Bot de Emergencias. Las respuestas se emulan en paquetes de máx. 250 caracteres tal y como viajarán por RF/Meshtastic o Telegram.
+              Bienvenido al entorno de pruebas web del Bot de Emergencias. Las respuestas se emulan en paquetes de máx. 200 bytes UTF-8 tal y como viajarán por RF/Meshtastic o Telegram.
             </div>
           </div>
         </div>
       </div>
     </div>
 
+    <!-- Input Bar -->
     <div class="input-bar">
-      <textarea id="prompt-input" placeholder="Escribe tu consulta de emergencia o supervivencia..." rows="1"></textarea>
+      <textarea id="prompt-input" placeholder="Escribe tu consulta de emergencia, ubicación o primeros auxilios..." rows="1"></textarea>
       <button id="send-btn" class="send-btn" title="Enviar consulta">➤</button>
     </div>
   </main>
 
+  <!-- Barra de Telemetría Inferior (WebSockets) -->
+  <footer class="telemetry-bar">
+    <div class="telem-group">
+      <span class="telem-item">🖥️ CPU: <strong id="telem-cpu">--%</strong> <span id="telem-temp" style="color:var(--text-muted);">(--°C)</span></span>
+      <span class="telem-item">🧠 RAM: <strong id="telem-ram">-- MB</strong> (<span id="telem-ram-pct">--%</span>)</span>
+      <span class="telem-item">💾 Disco: <strong id="telem-disk">-- GB</strong> (<span id="telem-disk-pct">--%</span>)</span>
+    </div>
+    <div class="ws-indicator disconnected" id="ws-indicator">
+      <span class="badge-dot"></span> <span id="ws-status-text">WS Conectando...</span>
+    </div>
+  </footer>
+
   <script>
+    // --- 1. BANCO JERÁRQUICO DE PRUEBAS RAG ---
+    const BANCO_PRUEBAS = {
+      "primeros_auxilios": {
+        "nombre": "🩺 Primeros Auxilios",
+        "tipos": {
+          "soporte_vital": {
+            "nombre": "Soporte Vital / RCP",
+            "casos": [
+              { "titulo": "Hombre inconsciente no respira (RCP)", "query": "Hay un hombre inconsciente y no respira, que hago" },
+              { "titulo": "Uso de Desfibrilador (DEA)", "query": "Como usar un desfibrilador DEA en un adulto" },
+              { "titulo": "Soporte vital básico pediátrico", "query": "Un niño no respira como hacer RCP pediatrico" }
+            ]
+          },
+          "atragantamiento": {
+            "nombre": "Atragantamiento (OVACE)",
+            "casos": [
+              { "titulo": "Atragantamiento severo adulto (Heimlich)", "query": "Un adulto se esta atragantando y no puede hablar ni toser" },
+              { "titulo": "Atragantamiento en lactante/bebé", "query": "Un bebe se ha atragantado con un objeto que hago" }
+            ]
+          },
+          "picaduras_mordeduras": {
+            "nombre": "Picaduras y Mordeduras",
+            "casos": [
+              { "titulo": "Picadura de pez araña en la playa", "query": "He pisado un pez araña en la orilla del mar me arde el pie" },
+              { "titulo": "Picadura de medusa", "query": "Me ha picado una medusa en la playa que me pongo" },
+              { "titulo": "Mordedura de serpiente víbora", "query": "Me ha mordido una serpiente en el monte que no debo hacer" }
+            ]
+          },
+          "traumatismos_hemorragias": {
+            "nombre": "Traumatismos y Hemorragias",
+            "casos": [
+              { "titulo": "Corte profundo con sangrado activo", "query": "Tengo un corte profundo en el antebrazo y sangra mucho" },
+              { "titulo": "Posible fractura de pierna", "query": "Me he caido y tengo la pierna deformada con mucho dolor" },
+              { "titulo": "Persona desmayada que respira (PLS)", "query": "Una persona se ha desmayado respira pero no reacciona" }
+            ]
+          },
+          "quemaduras": {
+            "nombre": "Quemaduras",
+            "casos": [
+              { "titulo": "Quemadura con agua hirviendo", "query": "Me he quemado la mano con agua hirviendo y sale ampolla" }
+            ]
+          }
+        }
+      },
+      "supervivencia": {
+        "nombre": "🛡️ Supervivencia y Refugio",
+        "tipos": {
+          "agua_fuego": {
+            "nombre": "Agua y Fuego",
+            "casos": [
+              { "titulo": "Obtener agua potable en costa/playa", "query": "Como conseguir y potabilizar agua en la costa sin equipo" },
+              { "titulo": "Hacer fuego con chispero en mojado", "query": "Como encender fuego con pedernal si la madera esta humeda" }
+            ]
+          },
+          "rescate_senales": {
+            "nombre": "Señales de Rescate",
+            "casos": [
+              { "titulo": "Señales al helicóptero de rescate", "query": "Cuales son las señales con el cuerpo para el helicoptero de rescate" },
+              { "titulo": "Señales acusticas de socorro", "query": "Cual es la señal internacional de socorro en montaña con silbato" }
+            ]
+          },
+          "orientacion": {
+            "nombre": "Orientación Natural",
+            "casos": [
+              { "titulo": "Orientarse de noche con estrellas", "query": "Como orientarse de noche buscando el norte con la estrella polar" },
+              { "titulo": "Orientarse de día con un palo y sol", "query": "Metodo de la sombra de un palo para encontrar el norte" }
+            ]
+          }
+        }
+      },
+      "geografia": {
+        "nombre": "📍 Geografía y Municipios",
+        "tipos": {
+          "municipios": {
+            "nombre": "Poblaciones y Accesos",
+            "casos": [
+              { "titulo": "Ubicación de Villaluenga del Rosario", "query": "Donde esta Villaluenga del Rosario y que altitud tiene" },
+              { "titulo": "Municipio de Grazalema", "query": "Informacion geografica y situacion de Grazalema en Cadiz" },
+              { "titulo": "Tarifa y límites", "query": "Donde se encuentra el termino municipal de Tarifa" }
+            ]
+          },
+          "parajes_senderos": {
+            "nombre": "Parajes y Montaña",
+            "casos": [
+              { "titulo": "Sendero del Pinsapar", "query": "Donde esta el sendero del Pinsapar de Grazalema" },
+              { "titulo": "Playa de Bolonia", "query": "Donde esta la playa de Bolonia y como se accede" }
+            ]
+          }
+        }
+      },
+      "transporte": {
+        "nombre": "🚆 Transporte Público",
+        "tipos": {
+          "cercanias": {
+            "nombre": "Renfe Cercanías",
+            "casos": [
+              { "titulo": "Paradas línea C-1 Cercanías", "query": "Que estaciones recorre la linea C-1 de Cercanias de Cadiz" },
+              { "titulo": "Tren de Jerez a Cádiz", "query": "Hay tren de cercanias entre Jerez de la Frontera y Cadiz" }
+            ]
+          },
+          "autobuses": {
+            "nombre": "Autobuses Consorcio",
+            "casos": [
+              { "titulo": "Línea M-010 Bahía de Cádiz", "query": "Que recorrido hace la linea de autobus M-010 en Cadiz" },
+              { "titulo": "Autobús Cádiz - Puerto Real", "query": "Que lineas de autobus conectan Cadiz con Puerto Real" }
+            ]
+          },
+          "estaciones": {
+            "nombre": "Estaciones de Tren",
+            "casos": [
+              { "titulo": "Estación de San Fernando Bahía Sur", "query": "Donde esta la estacion de tren de San Fernando Bahia Sur" },
+              { "titulo": "Estación de Puerto Real", "query": "Donde se ubica la estacion de ferrocarril de Puerto Real" }
+            ]
+          }
+        }
+      },
+      "directorios": {
+        "nombre": "📞 Directorios y Cuarteles",
+        "tipos": {
+          "guardia_civil": {
+            "nombre": "Puestos Guardia Civil",
+            "casos": [
+              { "titulo": "Puesto Guardia Civil de Chiclana", "query": "Telefono y direccion del puesto de la Guardia Civil de Chiclana" },
+              { "titulo": "Puesto Guardia Civil de Chipiona", "query": "Telefono de la Guardia Civil en Chipiona" },
+              { "titulo": "Puesto Guardia Civil de El Bosque", "query": "Telefono del cuartel de la Guardia Civil en El Bosque" }
+            ]
+          },
+          "emergencias_tlf": {
+            "nombre": "Teléfonos Únicos",
+            "casos": [
+              { "titulo": "Diferencia 112 y 061", "query": "Para que sirve el 112 y cuando llamar al 061" },
+              { "titulo": "Teléfono 016 violencia", "query": "Cual es el telefono de atencion 016 y como funciona" }
+            ]
+          }
+        }
+      },
+      "proteccion_civil": {
+        "nombre": "🚨 Protección Civil",
+        "tipos": {
+          "incendios": {
+            "nombre": "Incendios Forestales",
+            "casos": [
+              { "titulo": "Cercado por fuego en el monte", "query": "Que hacer si un incendio forestal me corta el camino en la sierra" }
+            ]
+          },
+          "inundaciones": {
+            "nombre": "Inundaciones y Riadas",
+            "casos": [
+              { "titulo": "Coche atrapado por riada", "query": "Que hacer si el agua sube y atrapa mi coche en una crecida" }
+            ]
+          },
+          "sismos": {
+            "nombre": "Terremotos",
+            "casos": [
+              { "titulo": "Conducta durante un terremoto", "query": "Que hacer dentro de una casa durante un terremoto" }
+            ]
+          }
+        }
+      },
+      "toxicologia": {
+        "nombre": "☣️ Toxicología y Venenos",
+        "tipos": {
+          "biotoxinas": {
+            "nombre": "Biotoxinas Marinas",
+            "casos": [
+              { "titulo": "Marea roja y moluscos", "query": "Riesgo de comer coquinas o mejillones recogidos en marea roja" }
+            ]
+          },
+          "quimicos": {
+            "nombre": "Químicos Domésticos",
+            "casos": [
+              { "titulo": "Ingestión de lejía o cáustico", "query": "Un niño ha bebido lejia que debo hacer provocar el vomito" }
+            ]
+          }
+        }
+      },
+      "apoyo_psicosocial": {
+        "nombre": "🧠 Apoyo Psicosocial",
+        "tipos": {
+          "crisis": {
+            "nombre": "Intervención en Crisis",
+            "casos": [
+              { "titulo": "Ataque de pánico en catástrofe", "query": "Como tranquilizar a una persona con ataque de panico tras un accidente" },
+              { "titulo": "Cuidado emocional infantil", "query": "Como atender emocionalmente a un niño tras una evacuacion" }
+            ]
+          }
+        }
+      },
+      "clima": {
+        "nombre": "🌦️ Clima y Meteorología",
+        "tipos": {
+          "calor": {
+            "nombre": "Calor Extremo",
+            "casos": [
+              { "titulo": "Prevención ola de calor", "query": "Cuales son las medidas principales ante una ola de calor extremo" },
+              { "titulo": "Golpe de calor síntomas", "query": "Sintomas de golpe de calor y que hacer" }
+            ]
+          }
+        }
+      },
+      "fauna": {
+        "nombre": "🐾 Fauna y Especies",
+        "tipos": {
+          "procesionaria": {
+            "nombre": "Procesionaria del Pino",
+            "casos": [
+              { "titulo": "Contacto con procesionaria", "query": "Que hacer si un perro o persona toca orugas de procesionaria" }
+            ]
+          }
+        }
+      },
+      "anti_alucinacion": {
+        "nombre": "❌ Pruebas Fuera de Dominio",
+        "tipos": {
+          "fuera_dominio": {
+            "nombre": "Filtro Fuera de Ámbito",
+            "casos": [
+              { "titulo": "Pregunta de geografía mundial", "query": "Cual es la capital de Australia" },
+              { "titulo": "Receta de cocina", "query": "Como hacer una tarta de chocolate paso a paso" }
+            ]
+          }
+        }
+      }
+    };
+
+    // Elementos del DOM
+    const selCat = document.getElementById('sel-cat');
+    const selTipo = document.getElementById('sel-tipo');
+    const selTest = document.getElementById('sel-test');
+    const btnLoadTest = document.getElementById('btn-load-test');
+    const btnRunTest = document.getElementById('btn-run-test');
+
     const chatLog = document.getElementById('chat-log');
     const promptInput = document.getElementById('prompt-input');
     const sendBtn = document.getElementById('send-btn');
@@ -366,7 +787,92 @@
     const convInput = document.getElementById('conv-id');
     const resetBtn = document.getElementById('reset-btn');
 
-    // Gestión del ID de conversación (persistente en localStorage)
+    // Elementos Telemetría
+    const telemCpu = document.getElementById('telem-cpu');
+    const telemTemp = document.getElementById('telem-temp');
+    const telemRam = document.getElementById('telem-ram');
+    const telemRamPct = document.getElementById('telem-ram-pct');
+    const telemDisk = document.getElementById('telem-disk');
+    const telemDiskPct = document.getElementById('telem-disk-pct');
+    const wsIndicator = document.getElementById('ws-indicator');
+    const wsStatusText = document.getElementById('ws-status-text');
+
+    // --- 2. GESTIÓN DE SELECTORES JERÁRQUICOS ---
+    function initTestSelectors() {
+      selCat.innerHTML = '';
+      for (const [catKey, catObj] of Object.entries(BANCO_PRUEBAS)) {
+        const opt = document.createElement('option');
+        opt.value = catKey;
+        opt.textContent = catObj.nombre;
+        selCat.appendChild(opt);
+      }
+      updateTipos();
+    }
+
+    function updateTipos() {
+      const catKey = selCat.value;
+      selTipo.innerHTML = '';
+      const catObj = BANCO_PRUEBAS[catKey];
+      if (!catObj) return;
+
+      for (const [tipoKey, tipoObj] of Object.entries(catObj.tipos)) {
+        const opt = document.createElement('option');
+        opt.value = tipoKey;
+        opt.textContent = tipoObj.nombre;
+        selTipo.appendChild(opt);
+      }
+      updateCasos();
+    }
+
+    function updateCasos() {
+      const catKey = selCat.value;
+      const tipoKey = selTipo.value;
+      selTest.innerHTML = '';
+      const catObj = BANCO_PRUEBAS[catKey];
+      if (!catObj || !catObj.tipos[tipoKey]) return;
+
+      const casos = catObj.tipos[tipoKey].casos || [];
+      casos.forEach((c, idx) => {
+        const opt = document.createElement('option');
+        opt.value = idx;
+        opt.textContent = c.titulo;
+        selTest.appendChild(opt);
+      });
+    }
+
+    function getSelectedQuery() {
+      const catKey = selCat.value;
+      const tipoKey = selTipo.value;
+      const casoIdx = parseInt(selTest.value, 10);
+      const catObj = BANCO_PRUEBAS[catKey];
+      if (catObj && catObj.tipos[tipoKey] && catObj.tipos[tipoKey].casos[casoIdx]) {
+        return catObj.tipos[tipoKey].casos[casoIdx].query;
+      }
+      return '';
+    }
+
+    selCat.addEventListener('change', updateTipos);
+    selTipo.addEventListener('change', updateCasos);
+
+    btnLoadTest.addEventListener('click', () => {
+      const q = getSelectedQuery();
+      if (q) {
+        promptInput.value = q;
+        promptInput.focus();
+      }
+    });
+
+    btnRunTest.addEventListener('click', () => {
+      const q = getSelectedQuery();
+      if (q) {
+        promptInput.value = q;
+        handleSubmit();
+      }
+    });
+
+    initTestSelectors();
+
+    // --- 3. GESTIÓN DE ID Y CONVERSACIÓN ---
     let currentConvId = localStorage.getItem('bot_conv_id') || ('web-' + Math.random().toString(36).substring(2, 8));
     convInput.value = currentConvId;
     localStorage.setItem('bot_conv_id', currentConvId);
@@ -388,7 +894,6 @@
         });
       } catch (e) {}
 
-      // Generar nuevo ID para el nuevo hilo
       currentConvId = 'web-' + Math.random().toString(36).substring(2, 8);
       convInput.value = currentConvId;
       localStorage.setItem('bot_conv_id', currentConvId);
@@ -404,7 +909,7 @@
         </div>`;
     });
 
-    // Cargar token: si existe en localStorage se usa, si no, se consulta al servidor
+    // --- 4. TOKEN Y AUTH ---
     const savedToken = localStorage.getItem('bot_api_token') || '';
     if (savedToken) {
       tokenInput.value = savedToken;
@@ -420,7 +925,6 @@
         .catch(() => {});
     }
 
-    // Guardado inmediato en localStorage mientras se teclea
     tokenInput.addEventListener('input', () => {
       localStorage.setItem('bot_api_token', tokenInput.value.trim());
     });
@@ -435,7 +939,7 @@
       });
     }
 
-    // Auto-ajuste de altura textarea y Enter para enviar
+    // --- 5. ENVIAR CONSULTAS ---
     promptInput.addEventListener('keydown', (e) => {
       if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
@@ -450,7 +954,6 @@
       handleSubmit();
     }
 
-    // Health check periódico
     async function checkHealth() {
       try {
         const res = await fetch('/api/health');
@@ -480,10 +983,7 @@
       promptInput.disabled = true;
       sendBtn.disabled = true;
 
-      // Renderizar mensaje del usuario
       appendUserMessage(query);
-
-      // Renderizar estado de carga
       const loadingEl = appendLoading();
       chatLog.scrollTop = chatLog.scrollHeight;
 
@@ -553,6 +1053,8 @@
       return row;
     }
 
+    const utf8Encoder = new TextEncoder();
+
     function appendBotResponse(data, elapsedClient) {
       const row = document.createElement('div');
       row.className = 'message-row bot';
@@ -562,37 +1064,49 @@
 
       let packetsHtml = '';
       messages.forEach((msg, idx) => {
-        const chars = msg.length;
-        const charClass = chars <= 250 ? 'ok' : 'err';
+        const byteLen = utf8Encoder.encode(msg).length;
+        const byteClass = byteLen <= 200 ? 'ok' : 'err';
 
         packetsHtml += `
           <div class="packet-card">
             <div class="packet-header">
               <span>PAQUETE [${idx + 1}/${totalPackets}]</span>
-              <span class="char-count ${charClass}">${chars} / 250 caracteres</span>
+              <span class="char-count ${byteClass}">${byteLen} / 200 bytes UTF-8</span>
             </div>
             <div class="packet-body">${escapeHtml(msg)}</div>
           </div>`;
       });
 
-      // Metadatos RAG y latencia
+      // Metadatos RAG, Memoria y Latencia
       const cat = data.categoria ? escapeHtml(data.categoria) : 'General / Fuera de dominio';
       const conf = (data.confianza * 100).toFixed(1) + '%';
       const model = data.modelo || 'LLM';
       const msServer = data.tiempo_ms || 0;
+      const turnos = data.turnos_memoria !== undefined && data.turnos_memoria !== null ? data.turnos_memoria : 1;
+      const compactado = data.compactado ? '<span class="badge-compact yes">Sí (resumido por IA)</span>' : '<span class="badge-compact no">No</span>';
+      const fragsCount = data.fragmentos_rag !== undefined && data.fragmentos_rag !== null ? data.fragmentos_rag : (data.fuentes ? data.fuentes.length : 0);
 
       let fuentesText = 'Ninguna';
       if (data.fuentes && data.fuentes.length > 0) {
         fuentesText = data.fuentes.map(f => escapeHtml(f.titulo || 'Fuente')).join(', ');
       }
 
+      let avisoHtml = '';
+      if (data.aviso) {
+        avisoHtml = `<span class="meta-item" style="color: var(--warning);">⚠️ <strong>Aviso legal:</strong> ${escapeHtml(data.aviso)}</span>`;
+      }
+
       const metaHtml = `
         <div class="meta-box">
           <span class="meta-item">📁 <strong>Categoría:</strong> ${cat}</span>
           <span class="meta-item">🎯 <strong>Confianza RAG:</strong> ${conf}</span>
+          <span class="meta-item">📑 <strong>Fragmentos RAG:</strong> ${fragsCount}</span>
+          <span class="meta-item">💾 <strong>Memoria:</strong> ${turnos} turno(s) activos</span>
+          <span class="meta-item">🗜️ <strong>Compactado:</strong> ${compactado}</span>
           <span class="meta-item">⏱️ <strong>Latencia:</strong> ${msServer} ms (servidor) · ${elapsedClient} ms (total)</span>
           <span class="meta-item">🧠 <strong>Modelo:</strong> ${model}</span>
           <span class="meta-item" style="width: 100%;">📚 <strong>Fuentes:</strong> ${fuentesText}</span>
+          ${avisoHtml}
         </div>`;
 
       row.innerHTML = `<div class="bot-packet-group">${packetsHtml}${metaHtml}</div>`;
@@ -622,6 +1136,84 @@
         .replace(/"/g, "&quot;")
         .replace(/'/g, "&#039;");
     }
+
+    // --- 6. WEBSOCKET DE TELEMETRÍA EN TIEMPO REAL ---
+    let telemWs = null;
+    let telemFallbackInterval = null;
+
+    function updateTelemUI(data) {
+      if (!data) return;
+      if (data.cpu_percent !== undefined) telemCpu.textContent = `${data.cpu_percent}%`;
+      if (data.temp_c !== undefined && data.temp_c !== null) {
+        telemTemp.textContent = `(${data.temp_c}°C)`;
+      } else {
+        telemTemp.textContent = '';
+      }
+      if (data.ram_used_mb !== undefined) {
+        const totalMb = data.ram_total_mb || 0;
+        telemRam.textContent = `${data.ram_used_mb} / ${totalMb} MB`;
+        telemRamPct.textContent = `${data.ram_percent || 0}%`;
+      }
+      if (data.disk_used_gb !== undefined) {
+        telemDisk.textContent = `${data.disk_used_gb} / ${data.disk_total_gb || 0} GB`;
+        telemDiskPct.textContent = `${data.disk_percent || 0}%`;
+      }
+    }
+
+    function connectTelemetryWebSocket() {
+      const protocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+      const wsUrl = `${protocol}//${location.host}/ws/telemetry`;
+
+      try {
+        telemWs = new WebSocket(wsUrl);
+
+        telemWs.onopen = () => {
+          wsIndicator.className = 'ws-indicator connected';
+          wsStatusText.textContent = 'WS En vivo';
+          if (telemFallbackInterval) {
+            clearInterval(telemFallbackInterval);
+            telemFallbackInterval = null;
+          }
+        };
+
+        telemWs.onmessage = (event) => {
+          try {
+            const data = JSON.parse(event.data);
+            updateTelemUI(data);
+          } catch (e) {}
+        };
+
+        telemWs.onclose = () => {
+          wsIndicator.className = 'ws-indicator disconnected';
+          wsStatusText.textContent = 'WS Reconectando...';
+          startFallbackPolling();
+          setTimeout(connectTelemetryWebSocket, 3000);
+        };
+
+        telemWs.onerror = () => {
+          telemWs.close();
+        };
+
+      } catch (err) {
+        startFallbackPolling();
+        setTimeout(connectTelemetryWebSocket, 5000);
+      }
+    }
+
+    function startFallbackPolling() {
+      if (telemFallbackInterval) return;
+      telemFallbackInterval = setInterval(async () => {
+        try {
+          const res = await fetch('/api/telemetry');
+          if (res.ok) {
+            const data = await res.json();
+            updateTelemUI(data);
+          }
+        } catch (e) {}
+      }, 3000);
+    }
+
+    connectTelemetryWebSocket();
   </script>
 </body>
 </html>

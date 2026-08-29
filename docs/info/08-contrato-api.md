@@ -137,6 +137,9 @@ Procesa una pregunta o situación de emergencia en lenguaje natural, recupera el
 | `modelo` | `string` | Nombre del modelo LLM que generó la respuesta (ej. `"qwen2.5-3b-instruct-q4_k_m"`). |
 | `tiempo_ms` | `integer` | Latencia total de inferencia en el servidor en milisegundos. |
 | `truncado` | `boolean` | `true` si la respuesta del LLM tuvo que ser recortada para respetar el límite de 3 mensajes de 200 bytes UTF-8. |
+| `turnos_memoria` | `integer \| null` | Número de turnos conversacionales activos conservados en la memoria para este cliente. |
+| `compactado` | `boolean \| null` | `true` si en este turno se ejecutó una compactación / resumen con IA del historial previo. |
+| `fragmentos_rag` | `integer \| null` | Número de fragmentos documentales relevantes recuperados de la base vectorial `pgvector`. |
 
 ---
 

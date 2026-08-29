@@ -49,6 +49,9 @@ class ConsultaResponse(BaseModel):
     modelo: str | None = None
     tiempo_ms: int = 0
     truncado: bool = False
+    turnos_memoria: int | None = None
+    compactado: bool | None = None
+    fragmentos_rag: int | None = None
 
 
 class ErrorResponse(BaseModel):

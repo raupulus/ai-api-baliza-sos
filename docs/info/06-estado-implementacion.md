@@ -1,27 +1,27 @@
 # 06 · Estado de implementación
 
-> **Última actualización:** 2026-08-28  
+> **Última actualización:** 2026-08-29  
 > **Ámbito:** Matriz de avance de módulos y estado operativo en producción.
 
 [← Volver al Índice de Documentación Técnica](README.md)
 
 ---
 
-Resumen de lo implementado en la primera sesión de desarrollo (módulos 01–07) y
-qué falta por ejecutar en la Raspberry Pi. La planificación por módulos lleva los
-checklists marcados con la misma información.
+## Estado del corpus RAG — Indexado en Producción (2026-08-29)
 
-## Estado del corpus RAG — staging (2026-08-28)
-
-> El corpus **ya no son 89 fragmentos**. En `data/staging/aprobados/` hay **4474 fragmentos validados (0 pendientes)** preparados para la siguiente ingesta **en la Raspberry Pi** (la vectorización se ejecuta allí, no en local).
+> El corpus cuenta con **4.567 fragmentos vectorizados e indexados en PostgreSQL (`pgvector`)** en la Raspberry Pi 5.
+> La Web UI cuenta con **telemetría en tiempo real por WebSockets (`/ws/telemetry`)**, selectores jerárquicos de prueba en 3 niveles y límite calibrado a 200 bytes UTF-8.
 
 | Categoría | Frag. | | Categoría | Frag. |
 |---|---:|---|---|---:|
-| Geografía | 3216 | | Fauna | 25 |
-| Supervivencia | 661 | | Primeros auxilios | 17 |
-| Transporte | 449 | | Protección civil | 7 |
-| Directorios | 54 | | Flora | 6 |
-| Orientación | 28 | | Apoyo psicosocial | 5 |
+| Geografía | 3264 | | Fauna | 31 |
+| Supervivencia | 665 | | Orientación | 29 |
+| Transporte | 449 | | Primeros auxilios | 28 |
+| Directorios | 54 | | Cultura / Historia | 17 |
+| Flora | 13 | | Protección civil | 7 |
+| Apoyo psicosocial | 5 | | Legislación | 2 |
+| Agricultura | 1 | | Toxicología | 1 |
+| Clima | 1 | | **TOTAL** | **4.567** |
 
 Además: legislación 2 · toxicología 1 · cultura/historia 1 · clima 1 · agricultura 1.
 

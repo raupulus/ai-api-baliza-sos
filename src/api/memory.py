@@ -127,12 +127,14 @@ class ConversationMemoryManager:
         respuesta_asistente: str,
         metadatos: dict[str, Any] | None = None,
         llm: Any = None,
-    ) -> None:
+    ) -> dict[str, Any]:
         """Guarda un nuevo turno (usuario y respuesta) y aplica compactación si procede."""
         if not id_conversacion:
-            return
+            return {"turnos": 0, "compactado": False}
 
         cliente = cliente_id or id_conversacion
+        compactado = False
+        turnos_activos = 1
 
         try:
             with cursor() as cur:
@@ -185,9 +187,21 @@ class ConversationMemoryManager:
 
                 if total_mensajes > limite_mensajes and llm is not None:
                     self._compactar_historial(cur, id_conversacion, llm)
+                    compactado = True
+
+                # Conteo final de turnos activos (mensajes // 2)
+                cur.execute(
+                    "SELECT COUNT(*) FROM mensajes_conversacion WHERE conversacion_id = %s;",
+                    (id_conversacion,),
+                )
+                total_actual = cur.fetchone()[0]
+                turnos_activos = (total_actual + 1) // 2
+
+            return {"turnos": turnos_activos, "compactado": compactado}
 
         except Exception as exc:
             _log.error("Error guardando turno en conversación %s: %s", id_conversacion, exc)
+            return {"turnos": 0, "compactado": False}
 
     def _compactar_historial(self, cur: Any, id_conversacion: str, llm: Any) -> None:
         """Compacta con IA los turnos antiguos que exceden el límite reciente."""

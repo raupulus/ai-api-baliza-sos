@@ -85,6 +85,8 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
     tiempo_ms = int((time.monotonic() - inicio) * 1000)
 
     # 7. Persistir turno en base de datos y compactar con IA si excede límite
+    turnos_memoria = len(historial) // 2 + 1 if historial else 1
+    compactado = False
     if conv_id:
         metadatos = {
             "tiempo_ms": tiempo_ms,
@@ -93,7 +95,7 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
             "fuentes": [f.get("titulo") for f in contexto.fuentes],
             "aviso": formateada.aviso,
         }
-        conversation_memory.guardar_turno(
+        res_mem = conversation_memory.guardar_turno(
             id_conversacion=conv_id,
             cliente_id=cliente_id,
             consulta_usuario=req.consulta,
@@ -101,6 +103,9 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
             metadatos=metadatos,
             llm=llm,
         )
+        if res_mem:
+            turnos_memoria = res_mem.get("turnos", turnos_memoria)
+            compactado = res_mem.get("compactado", False)
 
     return ConsultaResponse(
         ok=True,
@@ -112,6 +117,9 @@ def _procesar_sync(req: ConsultaRequest, llm: LLMClient) -> ConsultaResponse:
         modelo=_nombre_modelo(),
         tiempo_ms=tiempo_ms,
         truncado=formateada.truncado,
+        turnos_memoria=turnos_memoria,
+        compactado=compactado,
+        fragmentos_rag=len(recuperados),
     )
 
 

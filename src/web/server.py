@@ -7,13 +7,16 @@ en navegadores locales.
 
 from __future__ import annotations
 
+import asyncio
 import os
+import shutil
+import time
 from pathlib import Path
 from typing import Any
 
 import httpx
 import uvicorn
-from fastapi import FastAPI, Request, Response
+from fastapi import FastAPI, Request, Response, WebSocket, WebSocketDisconnect
 from fastapi.responses import FileResponse, HTMLResponse
 
 API_BASE_URL = os.environ.get("API_BASE_URL", "http://api:8870").rstrip("/")
@@ -24,6 +27,126 @@ WEB_HOST = os.environ.get("WEB_HOST", "0.0.0.0")
 INDEX_FILE = Path(__file__).resolve().parent / "index.html"
 
 app = FastAPI(title="Bot Emergencias Cádiz - Web UI")
+
+_last_cpu_times: tuple[float, float] | None = None
+
+
+def _get_cpu_usage() -> float:
+    global _last_cpu_times
+    try:
+        stat_path = Path("/proc/stat")
+        if stat_path.exists():
+            with open(stat_path, "r", encoding="utf-8") as fp:
+                line = fp.readline()
+            parts = [float(x) for x in line.strip().split()[1:8]]
+            idle = parts[3] + (parts[4] if len(parts) > 4 else 0)
+            total = sum(parts)
+            if _last_cpu_times is not None:
+                last_idle, last_total = _last_cpu_times
+                diff_idle = idle - last_idle
+                diff_total = total - last_total
+                _last_cpu_times = (idle, total)
+                if diff_total > 0:
+                    return max(0.0, min(100.0, round((1.0 - (diff_idle / diff_total)) * 100, 1)))
+            _last_cpu_times = (idle, total)
+    except Exception:
+        pass
+
+    try:
+        load1, _, _ = os.getloadavg()
+        cpu_count = os.cpu_count() or 1
+        return round(min(100.0, (load1 / cpu_count) * 100), 1)
+    except Exception:
+        return 0.0
+
+
+def _get_temp() -> float | None:
+    for tz in (
+        "/sys/class/thermal/thermal_zone0/temp",
+        "/sys/devices/virtual/thermal/thermal_zone0/temp",
+    ):
+        p = Path(tz)
+        if p.exists():
+            try:
+                val = float(p.read_text().strip())
+                return round(val / 1000.0 if val > 100 else val, 1)
+            except Exception:
+                pass
+    return None
+
+
+def _get_mem_info() -> dict[str, Any]:
+    try:
+        mem_path = Path("/proc/meminfo")
+        if mem_path.exists():
+            mem: dict[str, float] = {}
+            with open(mem_path, "r", encoding="utf-8") as fp:
+                for line in fp:
+                    parts = line.split(":")
+                    if len(parts) == 2:
+                        k = parts[0].strip()
+                        v = parts[1].strip().split()[0]
+                        mem[k] = float(v)
+            total_kb = mem.get("MemTotal", 0)
+            avail_kb = mem.get("MemAvailable", mem.get("MemFree", 0))
+            used_kb = total_kb - avail_kb
+            if total_kb > 0:
+                pct = round((used_kb / total_kb) * 100, 1)
+                return {
+                    "total_mb": round(total_kb / 1024, 0),
+                    "used_mb": round(used_kb / 1024, 0),
+                    "percent": pct,
+                }
+    except Exception:
+        pass
+    return {"total_mb": 0, "used_mb": 0, "percent": 0.0}
+
+
+def get_system_telemetry() -> dict[str, Any]:
+    cpu_pct = _get_cpu_usage()
+    temp_c = _get_temp()
+    mem = _get_mem_info()
+
+    try:
+        du = shutil.disk_usage("/")
+        disk_total_gb = round(du.total / (1024**3), 1)
+        disk_used_gb = round(du.used / (1024**3), 1)
+        disk_pct = round((du.used / du.total) * 100, 1) if du.total > 0 else 0.0
+    except Exception:
+        disk_total_gb = 0.0
+        disk_used_gb = 0.0
+        disk_pct = 0.0
+
+    return {
+        "timestamp": int(time.time()),
+        "cpu_percent": cpu_pct,
+        "temp_c": temp_c,
+        "ram_total_mb": mem["total_mb"],
+        "ram_used_mb": mem["used_mb"],
+        "ram_percent": mem["percent"],
+        "disk_total_gb": disk_total_gb,
+        "disk_used_gb": disk_used_gb,
+        "disk_percent": disk_pct,
+    }
+
+
+@app.get("/api/telemetry")
+async def api_telemetry() -> dict[str, Any]:
+    """Devuelve una captura instantánea de la telemetría del sistema."""
+    return get_system_telemetry()
+
+
+@app.websocket("/ws/telemetry")
+async def ws_telemetry(websocket: WebSocket) -> None:
+    """Canal WebSocket para streaming en tiempo real de telemetría del hardware."""
+    await websocket.accept()
+    try:
+        while True:
+            data = get_system_telemetry()
+            await websocket.send_json(data)
+            await asyncio.sleep(2.0)
+    except (WebSocketDisconnect, Exception):
+        pass
 
 
 @app.get("/", response_class=HTMLResponse)

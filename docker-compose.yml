@@ -145,6 +145,8 @@ services:
     command: ["uvicorn", "web.server:app", "--host", "0.0.0.0", "--port", "8443"]
     ports:
       - "${WEB_PORT:-8443}:8443"
+    volumes:
+      - ./src:/app/src:ro
     healthcheck:
       test: ["CMD-SHELL", "curl -f http://localhost:8443/api/health || exit 1"]
       interval: 15s
