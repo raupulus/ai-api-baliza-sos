@@ -1,0 +1,15 @@
+{
+  "texto": "Línea de autobús M-020 (Cádiz - Chiclana de la Frontera directo): Conecta la Plaza de España de Cádiz con la Estación de Autobuses de Chiclana por la autovía CA-33 de forma directa y frecuente.",
+  "fuente": "Consorcio de Transportes Bahía de Cádiz",
+  "fuente_url": "https://siu.cmtbc.es/",
+  "categoria": "transporte",
+  "subcategoria": "lineas_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4b673729beb8e18cb98a0105e38252ec0887863392c7476c18edd581543cfa29",
+  "fecha": "2026-08-29"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Línea de autobús M-010 (Cádiz - San Fernando Norte por Cortadura): Autobús metropolitano del Consorcio Bahía de Cádiz. Recorrido directo entre la Plaza de España / Terminal de Cádiz y San Fernando pasando por Cortadura, CA-33 y centro urbano de San Fernando.",
+  "fuente": "Consorcio de Transportes Bahía de Cádiz",
+  "fuente_url": "https://siu.cmtbc.es/",
+  "categoria": "transporte",
+  "subcategoria": "lineas_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "022ea359572fed4722db164ae4fc0ef22dac83479a9beb0063d75f1c9b333892",
+  "fecha": "2026-08-29"
+}

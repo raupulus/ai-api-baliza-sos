@@ -1,0 +1,15 @@
+{
+  "texto": "Líneas marítimas de Catamarán Bahía de Cádiz: Línea B-042 (Cádiz Muelle Reina Victoria a Terminal Marítima de El Puerto de Santa María) y Línea B-065 (Cádiz a Terminal Marítima de Rota). Servicio de navegación regular para pasajeros.",
+  "fuente": "Consorcio de Transportes Bahía de Cádiz",
+  "fuente_url": "https://siu.cmtbc.es/",
+  "categoria": "transporte",
+  "subcategoria": "catamaran",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "075510d4071c74aa8e2ac65ed542a362aac6d92f258c4208d76306552f156aad",
+  "fecha": "2026-08-29"
+}

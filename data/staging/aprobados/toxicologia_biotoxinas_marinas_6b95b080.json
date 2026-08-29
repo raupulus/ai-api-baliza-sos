@@ -1,0 +1,15 @@
+{
+  "texto": "Marea roja y consumo de moluscos en la costa de Cádiz: Peligro grave por biotoxinas marinas (toxina paralizante PSP o diarreica DSP). Comer coquinas, almejas o mejillones recogidos en zonas cerradas por marea roja produce vómitos, parálisis muscular o fallo respiratorio. La cocción NO elimina la toxina. Respetar siempre las prohibiciones sanitarias de marisqueo.",
+  "fuente": "Consejería de Salud y Consumo — Junta de Andalucía",
+  "fuente_url": "https://www.juntadeandalucia.es",
+  "categoria": "toxicologia",
+  "subcategoria": "biotoxinas_marinas",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública sanitaria oficial",
+  "peligrosa": true,
+  "validado_por": "Auto-aprobado (autoridad sanitaria oficial)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6b95b080ac51b19af1d1803d5763fdc60c44179770d9c5e902065100a8932b22",
+  "fecha": "2026-08-29"
+}

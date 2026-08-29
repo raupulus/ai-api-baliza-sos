@@ -1,0 +1,15 @@
+{
+  "texto": "Ingestión de lejía, álcalis o productos cáusticos: NUNCA provocar el vómito (quema el esófago al subir). NO dar leche ni vinagre. No dar nada de beber si la persona está inconsciente o aturdida. Mantener la calma, conservar el envase del producto y llamar de inmediato al 112 o al Instituto Nacional de Toxicología: 915 620 420.",
+  "fuente": "Instituto Nacional de Toxicología y Ciencias Forenses",
+  "fuente_url": "https://www.mjusticia.gob.es",
+  "categoria": "toxicologia",
+  "subcategoria": "causticos_domesticos",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información toxicológica oficial",
+  "peligrosa": true,
+  "validado_por": "Auto-aprobado (directorio oficial toxicología)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "73750a3dec9b906c3568571b6a7c1aa9417dfbd01084bf8f8774eec867bdc96b",
+  "fecha": "2026-08-29"
+}

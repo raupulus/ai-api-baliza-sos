@@ -1,0 +1,15 @@
+{
+  "texto": "Línea de autobús M-030 (Cádiz - Puerto Real por Hospital): Conecta Cádiz capital con Puerto Real, pasando por Río San Pedro, el Campus Universitario de Puerto Real y el Hospital Universitario de Puerto Real.",
+  "fuente": "Consorcio de Transportes Bahía de Cádiz",
+  "fuente_url": "https://siu.cmtbc.es/",
+  "categoria": "transporte",
+  "subcategoria": "lineas_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "0b1020a4a54e1676421ad3cd695d8a39e8b079e85670b97b09f99094d88768f2",
+  "fecha": "2026-08-29"
+}

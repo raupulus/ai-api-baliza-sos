@@ -88,9 +88,9 @@ services:
       EMBEDDING_DIM: ${EMBEDDING_DIM:-384}
       EMBEDDING_QUERY_PREFIX: ${EMBEDDING_QUERY_PREFIX:-}
       EMBEDDING_PASSAGE_PREFIX: ${EMBEDDING_PASSAGE_PREFIX:-}
-      RAG_TOP_K: ${RAG_TOP_K:-4}
-      RAG_MIN_SCORE: ${RAG_MIN_SCORE:-0.42}
-      RAG_MAX_CONTEXT_CHARS: ${RAG_MAX_CONTEXT_CHARS:-1800}
+      RAG_TOP_K: ${RAG_TOP_K:-5}
+      RAG_MIN_SCORE: ${RAG_MIN_SCORE:-0.38}
+      RAG_MAX_CONTEXT_CHARS: ${RAG_MAX_CONTEXT_CHARS:-2000}
       PROVINCIA: ${PROVINCIA:-Cádiz}
       PROVINCIA_SLUG: ${PROVINCIA_SLUG:-cadiz}
       PAIS: ${PAIS:-España}
@@ -117,6 +117,7 @@ services:
       - ./src:/app/src:ro
       - ./scripts:/app/scripts:ro
       - ./tests:/app/tests:ro
+      - ./env.example.py:/app/env.example.py:ro
     healthcheck:
       test: ["CMD-SHELL", "curl -f http://localhost:8870/health || exit 1"]
       interval: 15s
@@ -147,6 +148,7 @@ services:
       - "${WEB_PORT:-8443}:8443"
     volumes:
       - ./src:/app/src:ro
+      - ./env.example.py:/app/env.example.py:ro
     healthcheck:
       test: ["CMD-SHELL", "curl -f http://localhost:8443/api/health || exit 1"]
       interval: 15s

@@ -1,0 +1,15 @@
+{
+  "texto": "Línea de autobús M-040 y M-041 (Cádiz - El Puerto de Santa María): Conecta Cádiz con la Plaza de Toros y Estación de Tren de El Puerto de Santa María por el Puente de la Constitución de 1812 o por Puerto Real.",
+  "fuente": "Consorcio de Transportes Bahía de Cádiz",
+  "fuente_url": "https://siu.cmtbc.es/",
+  "categoria": "transporte",
+  "subcategoria": "lineas_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "a4e7ccf517038c07d24a76e4919ae8650a0fbd4b9646b34421c81a32b122a94d",
+  "fecha": "2026-08-29"
+}

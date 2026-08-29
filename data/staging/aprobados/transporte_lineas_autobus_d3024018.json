@@ -1,0 +1,15 @@
+{
+  "texto": "Línea de autobús M-011 (Cádiz - San Fernando Sur por Hospital San Carlos): Autobús metropolitano del Consorcio Bahía de Cádiz. Conecta Cádiz con San Fernando por León Herrero y la zona sur, prestando servicio directo al Hospital de San Carlos.",
+  "fuente": "Consorcio de Transportes Bahía de Cádiz",
+  "fuente_url": "https://siu.cmtbc.es/",
+  "categoria": "transporte",
+  "subcategoria": "lineas_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "d30240189b62ab2d3f15139e2b8cb69bdb964e8edcd39881dea83e96ad9298c3",
+  "fecha": "2026-08-29"
+}

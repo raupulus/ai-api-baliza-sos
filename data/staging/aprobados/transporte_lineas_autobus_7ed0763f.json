@@ -1,0 +1,15 @@
+{
+  "texto": "Línea de autobús M-050 y M-060 (Cádiz - Rota / Chipiona): Conecta Cádiz con Rota y Chipiona recorriendo la costa noroeste de la Bahía y El Puerto de Santa María.",
+  "fuente": "Consorcio de Transportes Bahía de Cádiz",
+  "fuente_url": "https://siu.cmtbc.es/",
+  "categoria": "transporte",
+  "subcategoria": "lineas_autobus",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "7ed0763f500841ee81f07f0fd6170d6c13d034c8f7ed76163f8986df71558a1d",
+  "fecha": "2026-08-29"
+}

@@ -1,0 +1,15 @@
+{
+  "texto": "Línea C-1 de Cercanías Renfe Cádiz (Recorrido y Estaciones): Conecta Cádiz capital con Jerez de la Frontera y el Aeropuerto. Estaciones en orden: Cádiz, San Severiano, Segunda Aguada, Estadio, Cortadura, San Fernando-Bahía Sur, San Fernando Centro, Puerto Real, Las Aletas, Valdelagrana, El Puerto de Santa María, Jerez de la Frontera y Aeropuerto de Jerez.",
+  "fuente": "Renfe Cercanías — Red de Cercanías de Cádiz",
+  "fuente_url": "https://www.renfe.com/es/es/cercanias/cercanias-cadiz",
+  "categoria": "transporte",
+  "subcategoria": "cercanias_renfe",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Información pública oficial de transporte",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (fuente oficial transporte)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "6cd6795599329b4b5b10b7bd11b31dcf721365daad4eb85917e5c52ddf5d4065",
+  "fecha": "2026-08-29"
+}

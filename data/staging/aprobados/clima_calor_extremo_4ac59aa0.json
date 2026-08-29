@@ -1,0 +1,15 @@
+{
+  "texto": "Ola de calor y prevención de golpe de calor en Cádiz: Beber agua abundante sin esperar a tener sed, evitar la exposición solar en horas centrales (12h a 18h), permanecer en lugares frescos y no dejar a nadie en vehículos cerrados. Síntomas de golpe de calor: piel caliente y seca, mareo, confusión o pérdida de consciencia. Medida urgente: llevar a la sombra, aplicar paños fríos y llamar al 112.",
+  "fuente": "Plan de Prevención de Altas Temperaturas — Junta de Andalucía",
+  "fuente_url": "https://www.juntadeandalucia.es",
+  "categoria": "clima",
+  "subcategoria": "calor_extremo",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Plan oficial de salud pública",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (plan oficial salud)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "4ac59aa0dd012f71358e1e5237a681e471b34c764ee2602e79ca4c358e5f12b3",
+  "fecha": "2026-08-29"
+}

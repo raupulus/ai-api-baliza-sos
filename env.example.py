@@ -72,11 +72,11 @@ EMBEDDING_PASSAGE_PREFIX = os.environ.get("EMBEDDING_PASSAGE_PREFIX", "")
 # ---------------------------------------------------------------------------
 # 4. RECUPERACIÓN RAG
 # ---------------------------------------------------------------------------
-RAG_TOP_K = int(os.environ.get("RAG_TOP_K", "4"))
+RAG_TOP_K = int(os.environ.get("RAG_TOP_K", "5"))
 # Umbral mínimo de similitud coseno para considerar útil un fragmento.
-# Fragmentos por debajo se descartan. 0.42 es un valor equilibrado para MiniLM en lenguaje natural.
-RAG_MIN_SCORE = float(os.environ.get("RAG_MIN_SCORE", "0.42"))  # umbral similitud
-RAG_MAX_CONTEXT_CHARS = int(os.environ.get("RAG_MAX_CONTEXT_CHARS", "1800"))
+# Fragmentos por debajo se descartan. 0.38 es el valor calibrado para MiniLM-L12 en español.
+RAG_MIN_SCORE = float(os.environ.get("RAG_MIN_SCORE", "0.38"))  # umbral similitud
+RAG_MAX_CONTEXT_CHARS = int(os.environ.get("RAG_MAX_CONTEXT_CHARS", "2000"))
 
 # ---------------------------------------------------------------------------
 # 5. BASE DE DATOS (PostgreSQL + pgvector, en el directorio de trabajo)
