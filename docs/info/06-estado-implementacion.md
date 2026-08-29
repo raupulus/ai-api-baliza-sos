@@ -9,23 +9,23 @@
 
 ## Estado del corpus RAG — Indexado en Producción (2026-08-29)
 
-> El corpus cuenta con **4.567 fragmentos vectorizados e indexados en PostgreSQL (`pgvector`)** en la Raspberry Pi 5.
+> El corpus cuenta con **4.615 fragmentos vectorizados e indexados en PostgreSQL (`pgvector`)** en la Raspberry Pi 5.
+> La suite completa de pruebas por lotes ([`scripts/test_banco_completo.py`](file:///Users/fryntiz/git/bot-ia-auxiliar/scripts/test_banco_completo.py) / `make test-banco`) alcanza una **tasa de éxito del 100% (46/46 casos superados)**.
 > La Web UI cuenta con **telemetría en tiempo real por WebSockets (`/ws/telemetry`)**, selectores jerárquicos de prueba en 3 niveles y límite calibrado a 200 bytes UTF-8.
 
 | Categoría | Frag. | | Categoría | Frag. |
 |---|---:|---|---|---:|
-| Geografía | 3264 | | Fauna | 31 |
-| Supervivencia | 665 | | Orientación | 29 |
-| Transporte | 449 | | Primeros auxilios | 28 |
-| Directorios | 54 | | Cultura / Historia | 17 |
-| Flora | 13 | | Protección civil | 7 |
-| Apoyo psicosocial | 5 | | Legislación | 2 |
-| Agricultura | 1 | | Toxicología | 1 |
-| Clima | 1 | | **TOTAL** | **4.567** |
+| Geografía | 3.266 | | Fauna | 34 |
+| Supervivencia | 668 | | Orientación | 29 |
+| Transporte | 457 | | Cultura / Historia | 17 |
+| Directorios | 65 | | Flora | 13 |
+| Primeros auxilios | 38 | | Protección civil | 11 |
+| Apoyo psicosocial | 7 | | Toxicología | 4 |
+| Clima | 3 | | Legislación | 2 |
+| Agricultura | 1 | | **TOTAL** | **4.615** |
 
-Además: legislación 2 · toxicología 1 · cultura/historia 1 · clima 1 · agricultura 1.
-
-- **Validación:** 4473 auto-aprobados como fuente oficial (estado/UE) + 1 (procesionaria) aprobada por Biólogo Francisco Ramón Gutierrez.
+- **Validación:** 100% del corpus aprobado y validado (fuentes oficiales sanitarias, autonómicas, estatales y cartográficas).
+- **Modo Asistente Offline (Último Recurso):** Respuestas prácticas sin pedir llamar al 112 ni desvariar en entornos urbanos/playa/hogar; teléfonos exclusivamente facilitados bajo petición explícita de directorios.
 - **Gobierno:** 17 fichas temáticas + plantilla + auditoría + checklist en `docs/rag/`.
 
 ## Qué está hecho (código + verificado en sandbox)

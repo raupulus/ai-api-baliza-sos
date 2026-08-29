@@ -54,3 +54,7 @@ htmlcov/
 *.sql.gz
 *.dump
 .junie
+
+# --- Histórico local de planificación (no trackeado) ---
+docs/planning/archived/
+
