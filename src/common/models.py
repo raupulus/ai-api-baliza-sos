@@ -22,6 +22,14 @@ class Categoria(str, Enum):
     ORIENTACION = "orientacion"
     CLIMA = "clima"
     CULTURA_HISTORIA = "cultura_historia"
+    TOXICOLOGIA = "toxicologia"
+    APOYO_PSICOSOCIAL = "apoyo_psicosocial"
+    PROTECCION_CIVIL = "proteccion_civil"
+    LEGISLACION = "legislacion"
+    DIRECTORIOS = "directorios"
+    TRANSPORTE = "transporte"
+    RADIO = "radio"
+    AGRICULTURA = "agricultura"
 
 
 class NivelConfianza(str, Enum):
@@ -31,9 +39,19 @@ class NivelConfianza(str, Enum):
 
 
 # Categorías cuyo contenido es sensible y SIEMPRE requiere validación humana
-# antes de indexarse (ver módulo 05/07).
+# antes de indexarse (ver docs/rag/checklist-validacion-humana.md §3).
+# Ampliado respecto a la versión inicial, que solo cubría primeros_auxilios.
 CATEGORIAS_SENSIBLES: frozenset[Categoria] = frozenset(
-    {Categoria.PRIMEROS_AUXILIOS}
+    {
+        Categoria.PRIMEROS_AUXILIOS,
+        Categoria.TOXICOLOGIA,
+        Categoria.APOYO_PSICOSOCIAL,
+        Categoria.PROTECCION_CIVIL,
+        Categoria.LEGISLACION,
+        Categoria.DIRECTORIOS,
+        Categoria.RADIO,
+        Categoria.AGRICULTURA,
+    }
 )
 
 
