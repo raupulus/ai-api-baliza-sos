@@ -45,6 +45,9 @@ check: ## Ejecuta validaciones locales de sintaxis y linters
 e2e: ## Lanza la suite de pruebas de integración E2E en vivo
 	python3 scripts/test_e2e.py --url $(API_URL) --token $(TOKEN)
 
+test-banco: ## Ejecuta el banco completo de pruebas RAG (todas las categorías de la intranet)
+	python3 scripts/test_banco_completo.py --url $(API_URL) --token $(TOKEN) --output data/logs/eval_report_banco.md
+
 rag-list: ## Lista todas las fuentes de conocimiento del RAG y su estado
 	ssh $(PI_HOST) "cd $(PI_DIR) && docker compose exec api python3 scripts/actualizar_fuente.py --list"
 
