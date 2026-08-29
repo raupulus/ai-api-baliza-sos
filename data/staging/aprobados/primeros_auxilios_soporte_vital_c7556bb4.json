@@ -1,5 +1,5 @@
 {
-  "texto": "Parada cardiorrespiratoria en adultos (RCP básica): Si una persona está inconsciente y no respira con normalidad (o no responde), asume parada cardiaca. Llama al 112 de inmediato en manos libres. Inicia compresiones torácicas en el centro del pecho a un ritmo de 100-120 por minuto (5-6 cm de profundidad). Mantén 30 compresiones seguidas de 2 ventilaciones (o compresiones continuas si no estás entrenado). Solicita y coloca un desfibrilador (DEA) tan pronto como esté disponible.",
+  "texto": "Parada cardiorrespiratoria en adultos (RCP básica): Si una persona está inconsciente y no respira con normalidad (o no responde), asume parada cardiaca. Inicia compresiones torácicas en el centro del pecho a un ritmo de 100-120 por minuto (5-6 cm de profundidad). Mantén 30 compresiones seguidas de 2 ventilaciones (o compresiones continuas si no estás entrenado). Solicita y coloca un desfibrilador (DEA) tan pronto como esté disponible.",
   "fuente": "European Resuscitation Council (ERC 2025)",
   "fuente_url": "https://www.erc.edu",
   "categoria": "primeros_auxilios",
@@ -10,6 +10,6 @@
   "peligrosa": false,
   "validado_por": "Auto-aprobado (guía ERC)",
   "validado_fecha": "2026-08-29",
-  "hash_contenido": "c7556bb456d5e4da636eec78b7231d790997ddf8d5cb1eb90bbf054f81d79e6a",
+  "hash_contenido": "160ea1e7a648b4a2afb751589492d1614c749775055032fb79a00fd6b5e62f4c",
   "fecha": "2026-08-29"
 }

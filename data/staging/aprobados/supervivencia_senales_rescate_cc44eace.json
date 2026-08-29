@@ -1,0 +1,15 @@
+{
+  "texto": "Señal internacional de socorro en montaña con silbato: Emitir 6 pitidos largos y espaciados durante un minuto, pausar un minuto en completo silencio para escuchar, y volver a repetir 6 pitidos por minuto de forma regular. La señal de respuesta de los rescatadores es de 3 pitidos por minuto.",
+  "fuente": "Guardia Civil — Servicio de Montaña",
+  "fuente_url": "https://www.guardiacivil.es",
+  "categoria": "supervivencia",
+  "subcategoria": "senales_rescate",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Guía oficial rescate montaña",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (guía rescate)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "cc44eace7fcb9dc46202914e986dfbb543427c2f147460282d9f82750ee1eb7a",
+  "fecha": "2026-08-29"
+}

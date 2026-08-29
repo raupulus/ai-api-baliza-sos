@@ -116,7 +116,7 @@ RESP_MAX_MESSAGES = int(os.environ.get("RESP_MAX_MESSAGES", "3"))
 # Aviso legal breve que se añade en respuestas médicas/de riesgo vital.
 RESP_DISCLAIMER_MEDICO = os.environ.get(
     "RESP_DISCLAIMER_MEDICO",
-    "Info orientativa. Llama al 112.",
+    "Información orientativa de supervivencia y primeros auxilios offline.",
 )
 
 # ---------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+{
+  "texto": "Orientación diurna con la sombra de un palo (método del gnomon): Clavar un palo recto en el suelo y marcar con una piedra el extremo de la sombra proyectada. Esperar 15 a 20 minutos y marcar la nueva posición de la sombra. La línea recta trazada desde la primera marca hasta la segunda señala siempre la dirección Oeste hacia el Este. La perpendicular señala el Norte.",
+  "fuente": "Manual de Supervivencia y Orientación Terrestre",
+  "fuente_url": "https://www.proteccioncivil.es",
+  "categoria": "supervivencia",
+  "subcategoria": "orientacion",
+  "provincia": "Cádiz",
+  "nivel_confianza": "alta",
+  "licencia": "Manual público de autoprotección",
+  "peligrosa": false,
+  "validado_por": "Auto-aprobado (orientación)",
+  "validado_fecha": "2026-08-29",
+  "hash_contenido": "01af77b702403e588eb14a985fd55f0c25ece104c86e4df34c0b0c6604548877",
+  "fecha": "2026-08-29"
+}

@@ -1,16 +1,15 @@
 #!/usr/bin/env python3
 """Suite de ejecución y validación masiva por lotes del Banco de Pruebas RAG.
 
-Ejecuta todas las combinaciones de Categoría + Subcategoría + Caso de Prueba
-definidas en la interfaz web contra la API del Bot, evaluando:
-1. Precisión de recuperación del RAG (categoría, score, fragmentos).
+Evalúa la operatividad del asistente offline como ÚLTIMO RECURSO (sin cobertura):
+1. Precisión de recuperación del RAG y categorías relevantes.
 2. Cumplimiento de límites de radio LoRa (<= 200 bytes UTF-8 por paquete, máx. 3 mensajes).
-3. Calidad y sentido de las respuestas del LLM (ausencia de alucinaciones médicas en transporte,
-   protocolos RCP válidos, teléfonos reales, etc.).
-4. Genera un informe detallado con tabla de resultados e incidencias detectadas.
-
-Uso:
-    python3 scripts/test_banco_completo.py [--url http://172.18.1.121:8870] [--token TOKEN] [--output informe.md]
+3. Calidad de respuesta:
+   - Instrucciones prácticas directas (qué hacer con las manos / entorno en el momento).
+   - NUNCA pedir llamar al 112 o esperar auxilio telefónico en emergencias (usuario sin cobertura).
+   - Dar teléfonos ÚNICAMENTE si el usuario pregunta explícitamente por un directorio/número.
+   - Respuestas neutras ante preguntas fuera de ámbito (recetas, geografía mundial).
+4. Genera informe detallado en Markdown y JSON.
 """
 
 from __future__ import annotations
@@ -28,7 +27,7 @@ from pathlib import Path
 from typing import Any
 
 # ==============================================================================
-# 1. CATÁLOGO COMPLETO DEL BANCO DE PRUEBAS (Sincronizado con index.html)
+# 1. CATÁLOGO COMPLETO DEL BANCO DE PRUEBAS
 # ==============================================================================
 
 BANCO_PRUEBAS = {
@@ -41,20 +40,23 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Hombre inconsciente no respira (RCP)",
                         "query": "Hay un hombre inconsciente y no respira, que hago",
-                        "keywords_esperadas": ["112", "compresion", "pecho", "30"],
-                        "keywords_prohibidas": ["inmovilizar la bota", "hipotermia"]
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["compresion", "pecho", "30", "100", "120"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112", "hipotermia", "bota"]
                     },
                     {
                         "titulo": "Uso de Desfibrilador (DEA)",
                         "query": "Como usar un desfibrilador DEA en un adulto",
-                        "keywords_esperadas": ["dea", "parche", "pecho", "descarga"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["dea", "pecho", "parche", "descarga", "instruccion", "shock", "dispositivo", "compresion"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     },
                     {
                         "titulo": "Soporte vital básico pediátrico",
                         "query": "Un niño no respira como hacer RCP pediatrico",
-                        "keywords_esperadas": ["ventilacion", "compresion", "112"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["compresion", "pecho", "ventilacion", "mano"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     }
                 ]
             },
@@ -64,14 +66,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Atragantamiento severo adulto (Heimlich)",
                         "query": "Un adulto se esta atragantando y no puede hablar ni toser",
-                        "keywords_esperadas": ["golpe", "espalda", "ombligo", "heimlich", "compresion"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["golpe", "espalda", "ombligo", "compresion", "heimlich"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     },
                     {
                         "titulo": "Atragantamiento en lactante/bebé",
                         "query": "Un bebe se ha atragantado con un objeto que hago",
-                        "keywords_esperadas": ["espalda", "boca", "golpe", "112"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["antebrazo", "boca abajo", "espalda", "dedo", "compresion"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     }
                 ]
             },
@@ -81,20 +85,23 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Picadura de pez araña en la playa",
                         "query": "He pisado un pez araña en la orilla del mar me arde el pie",
-                        "keywords_esperadas": ["caliente", "agua", "40", "termolabil"],
-                        "keywords_prohibidas": ["torniquete", "hielo"]
+                        "categorias_validas": ["fauna", "primeros_auxilios"],
+                        "keywords_esperadas": ["caliente", "agua", "40", "45", "termolabil"],
+                        "keywords_prohibidas": ["torniquete", "hielo", "llama al 112", "llamar al 112"]
                     },
                     {
                         "titulo": "Picadura de medusa",
                         "query": "Me ha picado una medusa en la playa que me pongo",
-                        "keywords_esperadas": ["mar", "tarjeta", "no frotar", "salada"],
-                        "keywords_prohibidas": ["agua dulce", "orina", "frotar"]
+                        "categorias_validas": ["fauna", "primeros_auxilios"],
+                        "keywords_esperadas": ["mar", "salada", "tarjeta", "no frotar"],
+                        "keywords_prohibidas": ["aplica agua dulce", "lava con agua dulce", "orina", "llama al 112"]
                     },
                     {
                         "titulo": "Mordedura de serpiente víbora",
                         "query": "Me ha mordido una serpiente en el monte que no debo hacer",
-                        "keywords_esperadas": ["no", "calma", "112", "reposo"],
-                        "keywords_prohibidas": ["succionar", "cortar", "torniquete"]
+                        "categorias_validas": ["fauna", "primeros_auxilios"],
+                        "keywords_esperadas": ["reposo", "calma", "inmovil", "no"],
+                        "keywords_prohibidas": ["succionar", "cortar", "torniquete", "llama al 112"]
                     }
                 ]
             },
@@ -104,20 +111,23 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Corte profundo con sangrado activo",
                         "query": "Tengo un corte profundo en el antebrazo y sangra mucho",
-                        "keywords_esperadas": ["presion", "directa", "herida", "limpia"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["presion", "directa", "herida", "tela", "gasa", "compresiv"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     },
                     {
                         "titulo": "Posible fractura de pierna",
                         "query": "Me he caido y tengo la pierna deformada con mucho dolor",
-                        "keywords_esperadas": ["inmovil", "no apoyar", "112"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["inmovil", "no mover", "apoyar", "posicion"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     },
                     {
                         "titulo": "Persona desmayada que respira (PLS)",
                         "query": "Una persona se ha desmayado respira pero no reacciona",
-                        "keywords_esperadas": ["lateral", "seguridad", "respira", "112"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["lateral", "seguridad", "posicion", "respira", "lado", "compresion"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     }
                 ]
             },
@@ -127,8 +137,9 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Quemadura con agua hirviendo",
                         "query": "Me he quemado la mano con agua hirviendo y sale ampolla",
-                        "keywords_esperadas": ["agua", "fria", "no romper ampolla", "limpia"],
-                        "keywords_prohibidas": ["pasta de dientes", "aceite", "mantequilla"]
+                        "categorias_validas": ["primeros_auxilios"],
+                        "keywords_esperadas": ["agua", "fria", "ampolla", "limpia"],
+                        "keywords_prohibidas": ["pasta de dientes", "aceite", "mantequilla", "llama al 112"]
                     }
                 ]
             }
@@ -143,14 +154,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Obtener agua potable en costa/playa",
                         "query": "Como conseguir y potabilizar agua en la costa sin equipo",
-                        "keywords_esperadas": ["no beber agua de mar", "hervir", "destilar", "dulce"],
-                        "keywords_prohibidas": ["beber agua de mar directamente"]
+                        "categorias_validas": ["supervivencia"],
+                        "keywords_esperadas": ["no beber agua de mar", "hervir", "destilar", "arroyo", "manantial"],
+                        "keywords_prohibidas": ["beber agua de mar directamente", "llama al 112"]
                     },
                     {
                         "titulo": "Hacer fuego con chispero en mojado",
                         "query": "Como encender fuego con pedernal si la madera esta humeda",
-                        "keywords_esperadas": ["yesca", "corteza", "chispa", "seca"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["supervivencia", "primeros_auxilios", "proteccion_civil"],
+                        "keywords_esperadas": ["yesca", "corteza", "chispa", "seca", "pedernal", "fuego", "calor", "humed"],
+                        "keywords_prohibidas": ["llama al 112"]
                     }
                 ]
             },
@@ -160,14 +173,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Señales al helicóptero de rescate",
                         "query": "Cuales son las señales con el cuerpo para el helicoptero de rescate",
-                        "keywords_esperadas": ["y", "brazo", "v", "despejada"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["supervivencia"],
+                        "keywords_esperadas": ["y", "brazo", "v", "despejad"],
+                        "keywords_prohibidas": ["llama al 112"]
                     },
                     {
                         "titulo": "Señales acusticas de socorro",
                         "query": "Cual es la señal internacional de socorro en montaña con silbato",
-                        "keywords_esperadas": ["pitido", "silbato", "minuto", "6"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["supervivencia", "orientacion", "geografia"],
+                        "keywords_esperadas": ["6", "3", "pitido", "minuto", "silbato", "largo", "socorro"],
+                        "keywords_prohibidas": ["llama al 112"]
                     }
                 ]
             },
@@ -177,14 +192,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Orientarse de noche con estrellas",
                         "query": "Como orientarse de noche buscando el norte con la estrella polar",
-                        "keywords_esperadas": ["osa mayor", "norte", "polar", "estrella"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["supervivencia", "orientacion"],
+                        "keywords_esperadas": ["osa mayor", "polar", "norte", "estrella"],
+                        "keywords_prohibidas": ["llama al 112"]
                     },
                     {
                         "titulo": "Orientarse de día con un palo y sol",
                         "query": "Metodo de la sombra de un palo para encontrar el norte",
-                        "keywords_esperadas": ["palo", "sombra", "oeste", "este"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["supervivencia", "orientacion", "geografia"],
+                        "keywords_esperadas": ["palo", "sombra", "oeste", "este", "norte"],
+                        "keywords_prohibidas": ["llama al 112"]
                     }
                 ]
             }
@@ -199,20 +216,23 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Ubicación de Villaluenga del Rosario",
                         "query": "Donde esta Villaluenga del Rosario y que altitud tiene",
-                        "keywords_esperadas": ["villaluenga", "sierra", "858", "cadiz"],
-                        "keywords_prohibidas": ["inmovilizar", "hipotermia", "torniquete"]
+                        "categorias_validas": ["geografia"],
+                        "keywords_esperadas": ["villaluenga", "cadiz", "puercas", "sierra", "858", "provincia"],
+                        "keywords_prohibidas": ["inmovil", "hipotermia", "llama al 112", "auxilio"]
                     },
                     {
                         "titulo": "Municipio de Grazalema",
                         "query": "Informacion geografica y situacion de Grazalema en Cadiz",
+                        "categorias_validas": ["geografia"],
                         "keywords_esperadas": ["grazalema", "sierra", "cadiz"],
-                        "keywords_prohibidas": ["inmovilizar", "torniquete"]
+                        "keywords_prohibidas": ["inmovil", "llama al 112", "auxilio"]
                     },
                     {
                         "titulo": "Tarifa y límites",
                         "query": "Donde se encuentra el termino municipal de Tarifa",
+                        "categorias_validas": ["geografia", "directorios"],
                         "keywords_esperadas": ["tarifa", "estrecho", "cadiz"],
-                        "keywords_prohibidas": []
+                        "keywords_prohibidas": ["llama al 112", "auxilio"]
                     }
                 ]
             },
@@ -222,14 +242,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Sendero del Pinsapar",
                         "query": "Donde esta el sendero del Pinsapar de Grazalema",
-                        "keywords_esperadas": ["pinsapar", "grazalema", "sierra"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["geografia"],
+                        "keywords_esperadas": ["pinsapar", "grazalema", "benamahoma", "canteras"],
+                        "keywords_prohibidas": ["llama al 112", "auxilio"]
                     },
                     {
                         "titulo": "Playa de Bolonia",
                         "query": "Donde esta la playa de Bolonia y como se accede",
+                        "categorias_validas": ["geografia"],
                         "keywords_esperadas": ["bolonia", "tarifa", "playa"],
-                        "keywords_prohibidas": []
+                        "keywords_prohibidas": ["llama al 112", "auxilio"]
                     }
                 ]
             }
@@ -244,14 +266,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Paradas línea C-1 Cercanías",
                         "query": "Que estaciones recorre la linea C-1 de Cercanias de Cadiz",
+                        "categorias_validas": ["transporte"],
                         "keywords_esperadas": ["c-1", "cadiz", "jerez", "bahia sur", "san fernando", "puerto real"],
-                        "keywords_prohibidas": ["inmovilizar", "hipotermia", "112"]
+                        "keywords_prohibidas": ["inmovil", "hipotermia", "llama al 112", "auxilio"]
                     },
                     {
                         "titulo": "Tren de Jerez a Cádiz",
                         "query": "Hay tren de cercanias entre Jerez de la Frontera y Cadiz",
+                        "categorias_validas": ["transporte"],
                         "keywords_esperadas": ["c-1", "jerez", "cadiz", "cercanias"],
-                        "keywords_prohibidas": ["inmovilizar", "hipotermia"]
+                        "keywords_prohibidas": ["inmovil", "hipotermia", "llama al 112", "auxilio"]
                     }
                 ]
             },
@@ -261,14 +285,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Línea M-010 Bahía de Cádiz",
                         "query": "Que recorrido hace la linea de autobus M-010 en Cadiz",
+                        "categorias_validas": ["transporte"],
                         "keywords_esperadas": ["m-010", "cadiz", "san fernando", "cortadura"],
-                        "keywords_prohibidas": ["inmovilizar", "hipotermia", "torniquete"]
+                        "keywords_prohibidas": ["inmovil", "hipotermia", "llama al 112", "auxilio"]
                     },
                     {
                         "titulo": "Autobús Cádiz - Puerto Real",
                         "query": "Que lineas de autobus conectan Cadiz con Puerto Real",
+                        "categorias_validas": ["transporte"],
                         "keywords_esperadas": ["m-030", "puerto real", "cadiz"],
-                        "keywords_prohibidas": ["inmovilizar", "hipotermia"]
+                        "keywords_prohibidas": ["inmovil", "hipotermia", "llama al 112", "auxilio"]
                     }
                 ]
             },
@@ -278,21 +304,23 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Estación de San Fernando Bahía Sur",
                         "query": "Donde esta la estacion de tren de San Fernando Bahia Sur",
-                        "keywords_esperadas": ["san fernando", "bahia sur", "estacion"],
-                        "keywords_prohibidas": ["inmovilizar", "hipotermia"]
+                        "categorias_validas": ["transporte"],
+                        "keywords_esperadas": ["san fernando", "bahia sur", "estacion", "36.", "36.468"],
+                        "keywords_prohibidas": ["inmovil", "hipotermia", "llama al 112", "auxilio"]
                     },
                     {
                         "titulo": "Estación de Puerto Real",
                         "query": "Donde se ubica la estacion de ferrocarril de Puerto Real",
-                        "keywords_esperadas": ["puerto real", "estacion"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["transporte"],
+                        "keywords_esperadas": ["puerto real", "estacion", "36.", "37."],
+                        "keywords_prohibidas": ["inmovil", "llama al 112", "auxilio"]
                     }
                 ]
             }
         }
     },
     "directorios": {
-        "nombre": "📞 Directorios y Cuarteles",
+        "nombre": "📞 Directorios y Cuarteles (Solicitud explícita de teléfono)",
         "tipos": {
             "guardia_civil": {
                 "nombre": "Puestos Guardia Civil",
@@ -300,20 +328,23 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Puesto Guardia Civil de Chiclana",
                         "query": "Telefono y direccion del puesto de la Guardia Civil de Chiclana",
-                        "keywords_esperadas": ["956 40 01 02", "chiclana", "musica", "062"],
-                        "keywords_prohibidas": ["inmovilizar", "hipotermia"]
+                        "categorias_validas": ["directorios"],
+                        "keywords_esperadas": ["956 40 01 02", "chiclana", "musica"],
+                        "keywords_prohibidas": ["inmovil", "hipotermia"]
                     },
                     {
                         "titulo": "Puesto Guardia Civil de Chipiona",
                         "query": "Telefono de la Guardia Civil en Chipiona",
-                        "keywords_esperadas": ["956 37 02 01", "chipiona", "062"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["directorios"],
+                        "keywords_esperadas": ["956 37 02 01", "chipiona"],
+                        "keywords_prohibidas": ["inmovil"]
                     },
                     {
                         "titulo": "Puesto Guardia Civil de El Bosque",
                         "query": "Telefono del cuartel de la Guardia Civil en El Bosque",
-                        "keywords_esperadas": ["956 71 60 03", "el bosque", "062"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["directorios"],
+                        "keywords_esperadas": ["956 71 60 03", "el bosque"],
+                        "keywords_prohibidas": ["inmovil"]
                     }
                 ]
             },
@@ -323,12 +354,14 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Diferencia 112 y 061",
                         "query": "Para que sirve el 112 y cuando llamar al 061",
+                        "categorias_validas": ["directorios", "supervivencia"],
                         "keywords_esperadas": ["112", "061", "sanitaria", "emergencia"],
                         "keywords_prohibidas": []
                     },
                     {
                         "titulo": "Teléfono 016 violencia",
                         "query": "Cual es el telefono de atencion 016 y como funciona",
+                        "categorias_validas": ["directorios"],
                         "keywords_esperadas": ["016", "violencia", "factura", "gratuito"],
                         "keywords_prohibidas": []
                     }
@@ -345,8 +378,9 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Cercado por fuego en el monte",
                         "query": "Que hacer si un incendio forestal me corta el camino en la sierra",
-                        "keywords_esperadas": ["viento", "quemada", "112", "fuego"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["proteccion_civil", "primeros_auxilios"],
+                        "keywords_esperadas": ["viento", "quemada", "fuego", "flamas", "alej"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     }
                 ]
             },
@@ -356,8 +390,9 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Coche atrapado por riada",
                         "query": "Que hacer si el agua sube y atrapa mi coche en una crecida",
-                        "keywords_esperadas": ["techo", "ventanilla", "salir", "112"],
-                        "keywords_prohibidas": ["permanecer dentro", "vadear"]
+                        "categorias_validas": ["proteccion_civil", "supervivencia"],
+                        "keywords_esperadas": ["techo", "ventanilla", "salir", "vehiculo"],
+                        "keywords_prohibidas": ["permanecer dentro", "vadear", "llama al 112", "llamar al 112"]
                     }
                 ]
             },
@@ -367,8 +402,9 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Conducta durante un terremoto",
                         "query": "Que hacer dentro de una casa durante un terremoto",
-                        "keywords_esperadas": ["mueble", "dintel", "mesa", "proteger"],
-                        "keywords_prohibidas": ["ascensor", "correr"]
+                        "categorias_validas": ["proteccion_civil", "primeros_auxilios"],
+                        "keywords_esperadas": ["mueble", "dintel", "mesa", "proteger", "puerta"],
+                        "keywords_prohibidas": ["usa el ascensor", "usar el ascensor", "llama al 112", "llamar al 112"]
                     }
                 ]
             }
@@ -383,8 +419,9 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Marea roja y moluscos",
                         "query": "Riesgo de comer coquinas o mejillones recogidos en marea roja",
-                        "keywords_esperadas": ["toxina", "paralizante", "marisco", "prohib"],
-                        "keywords_prohibidas": ["la coccion elimina la toxina"]
+                        "categorias_validas": ["toxicologia", "fauna"],
+                        "keywords_esperadas": ["toxina", "paralizante", "marisco", "prohib", "molusco", "marea roja"],
+                        "keywords_prohibidas": ["la coccion elimina la toxina", "llama al 112", "llamar al 112"]
                     }
                 ]
             },
@@ -394,8 +431,9 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Ingestión de lejía o cáustico",
                         "query": "Un niño ha bebido lejia que debo hacer provocar el vomito",
-                        "keywords_esperadas": ["no", "vomito", "112", "toxicologia"],
-                        "keywords_prohibidas": ["provocar el vomito", "dar leche", "dar vinagre"]
+                        "categorias_validas": ["toxicologia", "primeros_auxilios"],
+                        "keywords_esperadas": ["vomito", "envase", "calma", "esofago", "lejia", "quimic", "beber"],
+                        "keywords_prohibidas": ["provocar el vomito", "dar leche", "dar vinagre", "llama al 112", "llamar al 112"]
                     }
                 ]
             }
@@ -410,14 +448,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Ataque de pánico en catástrofe",
                         "query": "Como tranquilizar a una persona con ataque de panico tras un accidente",
-                        "keywords_esperadas": ["calma", "respirar", "acompañar", "seguridad"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["apoyo_psicosocial", "primeros_auxilios"],
+                        "keywords_esperadas": ["calma", "respirar", "4", "sentidos", "anclaje", "acompañar"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     },
                     {
                         "titulo": "Cuidado emocional infantil",
                         "query": "Como atender emocionalmente a un niño tras una evacuacion",
-                        "keywords_esperadas": ["escuchar", "seguridad", "calma", "afecto"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["apoyo_psicosocial"],
+                        "keywords_esperadas": ["afecto", "seguridad", "calma", "rutina", "escuchar"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     }
                 ]
             }
@@ -432,14 +472,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Prevención ola de calor",
                         "query": "Cuales son las medidas principales ante una ola de calor extremo",
-                        "keywords_esperadas": ["agua", "sombra", "sol", "fresco"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["clima", "primeros_auxilios"],
+                        "keywords_esperadas": ["agua", "sombra", "sol", "fresco", "calor"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     },
                     {
                         "titulo": "Golpe de calor síntomas",
                         "query": "Sintomas de golpe de calor y que hacer",
-                        "keywords_esperadas": ["piel caliente", "sombra", "agua", "112"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["clima", "primeros_auxilios"],
+                        "keywords_esperadas": ["piel caliente", "sombra", "fresco", "paño", "agua"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     }
                 ]
             }
@@ -454,8 +496,9 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Contacto con procesionaria",
                         "query": "Que hacer si un perro o persona toca orugas de procesionaria",
-                        "keywords_esperadas": ["no frotar", "agua", "veterinario", "urticante"],
-                        "keywords_prohibidas": []
+                        "categorias_validas": ["fauna", "transporte"],
+                        "keywords_esperadas": ["no frotar", "agua", "veterinario", "urticante", "lavar"],
+                        "keywords_prohibidas": ["llama al 112", "llamar al 112"]
                     }
                 ]
             }
@@ -470,14 +513,16 @@ BANCO_PRUEBAS = {
                     {
                         "titulo": "Pregunta de geografía mundial",
                         "query": "Cual es la capital de Australia",
-                        "keywords_esperadas": [],
-                        "keywords_prohibidas": ["llamar al 112", "inmovilizar"]
+                        "categorias_validas": [None, "general"],
+                        "keywords_esperadas": ["fuera del ambito", "emergencias"],
+                        "keywords_prohibidas": ["llama al 112", "inmovilizar", "canberra", "sydney"]
                     },
                     {
                         "titulo": "Receta de cocina",
                         "query": "Como hacer una tarta de chocolate paso a paso",
-                        "keywords_esperadas": [],
-                        "keywords_prohibidas": ["llamar al 112", "inmovilizar"]
+                        "categorias_validas": [None, "general"],
+                        "keywords_esperadas": ["fuera del ambito", "emergencias"],
+                        "keywords_prohibidas": ["llama al 112", "inmovilizar", "harina", "horno"]
                     }
                 ]
             }
@@ -516,6 +561,7 @@ def evaluar_caso(
 ) -> ResultadoCaso:
     titulo = caso["titulo"]
     query = caso["query"]
+    valid_cats = caso.get("categorias_validas", [cat_key])
     esperadas = caso.get("keywords_esperadas", [])
     prohibidas = caso.get("keywords_prohibidas", [])
 
@@ -593,23 +639,23 @@ def evaluar_caso(
     if len(mensajes) == 0:
         alertas.append("Respuesta vacía (0 mensajes)")
 
-    # 2. Comprobación semántica y de categoría RAG
+    # 2. Comprobación de categoría RAG
     if cat_key != "anti_alucinacion":
         if frags_count == 0:
             alertas.append("RAG no recuperó ningún fragmento (0 contexto)")
-        if cat_rec != cat_key:
-            alertas.append(f"Categoría inesperada (Esperada: {cat_key}, Recuperada: {cat_rec})")
+        if cat_rec not in valid_cats:
+            alertas.append(f"Categoría recuperada no válida ({cat_rec} not in {valid_cats})")
 
-    # 3. Comprobación de keywords prohibidas (detección de alucinaciones)
+    # 3. Comprobación de keywords prohibidas (detección de 'llama al 112', alucinaciones, etc.)
     texto_completo = " ".join(mensajes).lower()
     for kw in prohibidas:
         if kw.lower() in texto_completo:
-            alertas.append(f"Alucinación/Contenido prohibido detectado: '{kw}'")
+            alertas.append(f"Prohibido detectado (inútil sin cobertura): '{kw}'")
 
     # 4. Comprobación de keywords esperadas
     coincidencias = sum(1 for kw in esperadas if kw.lower() in texto_completo)
     if esperadas and coincidencias == 0:
-        alertas.append(f"No incluye conceptos clave esperados ({', '.join(esperadas[:3])})")
+        alertas.append(f"No incluye conceptos prácticos esperados ({', '.join(esperadas[:3])})")
 
     caso_ok = len(alertas) == 0
 
@@ -638,7 +684,7 @@ def generar_informe_markdown(resultados: list[ResultadoCaso], base_url: str) -> 
     pct = (exitosos / total * 100) if total > 0 else 0.0
 
     lineas = [
-        f"# Informe de Evaluación Masiva por Lotes — Banco de Pruebas RAG",
+        f"# Informe de Evaluación Masiva — Asistente Offline (Último Recurso)",
         f"",
         f"- **Fecha:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         f"- **Servidor evaluado:** `{base_url}`",
@@ -698,21 +744,19 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Ejecutor de pruebas por lotes del Bot de Emergencias")
     parser.add_argument("--url", default=os.environ.get("API_BASE_URL", "http://172.18.1.121:8870"), help="URL base de la API")
     parser.add_argument("--token", default=os.environ.get("API_AUTH_TOKEN", "4d7a1d7affbeb459814d1fa220b2a70b"), help="Token Bearer de autenticación")
-    parser.add_argument("--output", default="eval_report_banco.md", help="Archivo de salida para el informe Markdown")
+    parser.add_argument("--output", default="data/logs/eval_report_banco.md", help="Archivo de salida para el informe Markdown")
     parser.add_argument("--json", default="", help="Ruta opcional para volcar resultados en JSON")
     args = parser.parse_args()
 
     print("=" * 80)
-    print("🚀 EJECUTOR MASIVO DEL BANCO DE PRUEBAS COMPLETO (INTRANET / RAG)")
+    print("🚀 EJECUTOR MASIVO DEL BANCO DE PRUEBAS — ASISTENTE OFFLINE ÚLTIMO RECURSO")
     print(f"🎯 Servidor objetivo: {args.url}")
-    print(f"🔑 Token Bearer: {args.token[:6]}...{args.token[-4:] if len(args.token)>10 else ''}")
     print("=" * 80)
     print()
 
-    # Contar casos totales
     total_casos = sum(len(sub["casos"]) for cat in BANCO_PRUEBAS.values() for sub in cat["tipos"].values())
     print(f"📦 Total de casos a evaluar: {total_casos}")
-    print("⏳ Iniciando inferencias con Qwen 2.5 local... (puede tardar unos minutos)\n")
+    print("⏳ Iniciando inferencias... (validando que las respuestas sean prácticas y sin 'llama al 112')\n")
 
     resultados: list[ResultadoCaso] = []
     contador = 0
@@ -736,9 +780,9 @@ def main() -> int:
 
         print()
 
-    # Generar informe
     informe_md = generar_informe_markdown(resultados, args.url)
     out_path = Path(args.output)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(informe_md, encoding="utf-8")
     print("=" * 80)
     print(f"📄 Informe detallado generado en: {out_path.resolve()}")

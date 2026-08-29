@@ -24,6 +24,12 @@ _WS = re.compile(r"\s+")
 # Corte por fin de frase manteniendo el signo de puntuación.
 _FRASE = re.compile(r"[^.!?\n]+[.!?]?", re.UNICODE)
 
+# Patrón para eliminar frases residuales de llamada a emergencias (inútiles offline)
+_PATRON_LLAMADA_RESIDUAL = re.compile(
+    r"(?i)(?:^|[\s,;.-]|\d+\.\s*)(?:en\s+manos\s+libres\s+)?(?:y\s+)?(?:llama|llamar|avisa|avisar|acude|acudir|consulta|consultar)\s+(?:de\s+inmediato\s+|urgentemen?t?e?\s+)?(?:al\s+|a\s+|al\s+centro\s+)?(?:112|061|062|médico|centro de salud|hospital|urgencias|veterinario|profesional sanitario)[^.!?\n]*[.!?]?",
+    re.UNICODE
+)
+
 
 @dataclass
 class RespuestaFormateada:
@@ -166,6 +172,13 @@ def formatear(
     texto = _limpiar(texto_crudo)
     if not texto:
         return RespuestaFormateada(mensajes=[], truncado=False, aviso=None)
+
+    # Si no es una consulta de directorio, eliminar cualquier mención accidental de llamar al 112
+    if categoria != Categoria.DIRECTORIOS:
+        texto = _PATRON_LLAMADA_RESIDUAL.sub("", texto).strip()
+        texto = _limpiar(texto)
+        if not texto:
+            texto = "Aplica las medidas de autoprotección y primeros auxilios con los medios disponibles."
 
     frases = _trocear_frases(texto)
     mensajes, truncado = _empaquetar(frases, limite_bytes, max_msgs)
